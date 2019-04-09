@@ -37,7 +37,10 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding:    $spacing-unit 0;
+    background: $base03;
+    color:      $base0;
+    a { color: $base1; font-weight: bold; }
 }
 
 .footer-heading {
@@ -147,6 +150,9 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    .cc-license {
+        font-size: smaller;
+    }
 }
 
 .post-title {

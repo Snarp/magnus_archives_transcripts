@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<header class="post-header">
+	<h1 class="post-title" itemprop="name headline"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+	<div>
+		<span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+	</div>
+	<div>
+		<span class="post-links post-meta">
+			<a class="acast-link" href="{{ page.acast_url }}">Listen on ACast</a>
+			{% if page.official %}
+			  | <i>Source:</i> <a class="source-link" href="{{ page.official }}">Official Transcript</a>
+			{% elsif page.unofficial %}
+				| <i>Source:</i> <a class="source-link" href="{{ page.unofficial }}">Unofficial Transcript</a>
+			{% endif %}
+		</span>
+	</div>
+
+	<div class="post-nav">
+		<div class="previous">
+			{% if page.previous.url %}
+			<a href="{{ site.baseurl }}{{ page.previous.url }}">
+				<span>← Previous Episode</span>
+				{{ page.previous.title }}
+			</a>
+			{% endif %}
+		</div>
+		<div class="next">
+			{% if page.next.url %}
+			<a href="{{ site.baseurl }}{{ page.next.url }}">
+				<span>Next Episode →</span>
+				{{ page.next.title }}
+			</a>
+			{% endif %}
+		</div>
+	</div>
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="entry-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+</article>
+
+<div class="post-nav">
+	<div class="previous">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{ page.previous.url }}">
+			<span>← Previous Episode</span>
+			{{ page.previous.title }}
+		</a>
+		{% endif %}
+	</div>
+
+	<div class="next">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{ page.next.url }}">
+			<span>Next Episode →</span>
+			{{ page.next.title }}
+		</a>
+		{% endif %}
+	</div>
+</div>

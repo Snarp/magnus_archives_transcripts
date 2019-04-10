@@ -48,11 +48,9 @@ ul, ol, dl, figure,
  * Articles
  */
 article {
-    background: $background-color;
-    // background: #faf9f5;
-    // box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+    background:    $background-color;
     margin-bottom: $spacing-unit;
-    padding: 3em 3em 1em;
+    padding:       3em 3em 1em;
 
     @include media-query($on-palm) {
         padding: 1em 1em 0.3em;

@@ -4,12 +4,7 @@
 
 		<div class="footer-col-wrapper">
 			<div class="footer-col footer-col-1">
-				<ul class="contact-list">
-					<li>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-				</ul>
-				<div class="cc-license">
-					<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The Magnus Archives (and, thus, these transcripts) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-				</div>
+				<p>{{ site.description }}</p>
 			</div>
 
 			<div class="footer-col footer-col-2">
@@ -35,7 +30,13 @@
 			</div>
 
 			<div class="footer-col footer-col-3">
-				<p>{{ site.description }}</p>
+				<p class="cc-license">
+					<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The Magnus Archives (and, thus, these transcripts) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+				</p>
+
+				<p>
+					Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+				</p>
 			</div>
 		</div>
 

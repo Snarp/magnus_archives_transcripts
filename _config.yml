@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Magnus Archives Transcripts Archive (Unofficial)
+title: The Magnus Archives Transcripts Archive Archive Aaaaa (Extremely Unofficial)
 email: admin@sarahpin.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Magnus Archives transcripts in slightly-more-readable format. Mostly converted versions of the official transcripts; those that aren't contain links to the source.
+  TMA transcripts in slightly-more-readable format. Mostly converted versions of the official transcripts; the rest have links to the source/transcriber.
 
 permalink: /:categories/:title:output_ext
 

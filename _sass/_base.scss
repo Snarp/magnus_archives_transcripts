@@ -73,14 +73,13 @@ article {
 
         h4 { // Speaker Label
             font-size:   1rem; 
-            margin-top:  1.2rem; 
+            margin-top:  $spacing-unit; 
             text-align:  center; 
             font-weight: bold; 
             color:       $base01; 
         }
         h5 { // Caption Label
             font-size:   1rem; 
-            // font-style:  italic; 
             color:       $grey-color; 
         }
     }
@@ -94,7 +93,7 @@ article {
     > div {
         color:      $grey-color;
         font-size:  $base-font-size;
-        font-style: italic;
+        // font-style: italic;
         margin:     1.0rem auto;
 
         @include media-query($on-palm) {

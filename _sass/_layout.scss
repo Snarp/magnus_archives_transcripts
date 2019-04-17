@@ -129,6 +129,10 @@
     color: $grey-color-light;
 }
 
+.post-date { 
+    font-style: italic; 
+}
+
 .post-links {
     a { color: $title-color; }
 }

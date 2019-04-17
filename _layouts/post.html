@@ -5,7 +5,7 @@ layout: default
 <header class="post-header">
 	<h1 class="post-title" itemprop="name headline"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
 	<div>
-		<span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+		<span class="post-meta post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
 	</div>
 	<div>
 		<span class="post-links post-meta">
@@ -15,6 +15,7 @@ layout: default
 			{% elsif page.unofficial %}
 				| <i>Source:</i> <a class="source-link" href="{{ page.unofficial }}">Unofficial Transcript</a>
 			{% endif %}
+			| <a class="markdown-link" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Raw Markdown</a>
 		</span>
 	</div>
 

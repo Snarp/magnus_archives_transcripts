@@ -259,6 +259,7 @@
         font-size:   44px;
         text-align:  center;
 
+
         @include media-query($on-laptop) {
             font-size: 36px;
         }

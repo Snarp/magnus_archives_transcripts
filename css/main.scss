@@ -41,14 +41,17 @@ $font-family-monospace:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mo
 $font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
 
 // Our variables
-$base-font-family: $font-family-serif;
-$base-font-size:   17px;
-$base-font-weight: 400;
-$base-line-height: 2;
+
+$base-font-family:   $font-family-serif;
+$base-font-size:     18px;
+$base-font-weight:   400;
+$base-line-height:   30px;
+$spacing-unit:       $base-line-height;
+// $base-line-height:   2;
+// $spacing-unit:       30px;
+$base-content-width: 612px;
 
 $small-font-size:  $base-font-size * 0.875;
-
-$spacing-unit:     30px;
 
 $brand-color:      $base00; 
 $background-color: $base3; 

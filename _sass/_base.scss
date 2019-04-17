@@ -4,13 +4,14 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, 
 dl, dd, ol, ul, figure {
-    margin: 0;
+    margin:  0;
     padding: 0;
 }
 
 hr { 
-    margin:       2.4rem auto; 
-    border:       1px solid $grey-color-light;
+    margin: 2.4rem auto; 
+    border: 1px solid $grey-color-light;
+    width:  66%;
 }
 
 
@@ -18,16 +19,23 @@ hr {
 /**
  * Basic styling
  */
+html {
+    font-family: $base-font-family;
+    font-size:   $base-font-size; 
+    line-height: $base-line-height;
+    font-weight: $base-font-weight;
+}
+
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
+    // font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    color:       $text-color;
     background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust:      100%;
     -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
+    -moz-font-feature-settings:    "kern" 1;
+    -o-font-feature-settings:      "kern" 1;
+    font-feature-settings:         "kern" 1;
+    font-kerning:                  normal;
 }
 
 
@@ -61,12 +69,14 @@ article {
             font-size: 80%;
         }
 
+        max-width: $base-content-width;
+
         h4 { // Speaker Label
             font-size:   1rem; 
             margin-top:  1.2rem; 
             text-align:  center; 
             font-weight: bold; 
-            color:  $base01; 
+            color:       $base01; 
         }
         h5 { // Caption Label
             font-size:   1rem; 
@@ -79,13 +89,13 @@ article {
 .post-header {
     border-bottom: 1px solid $grey-color-light;
     margin-bottom: 2rem;
-    text-align: center;
+    text-align:    center;
 
     > div {
-        color: $grey-color;
-        font-size: $base-font-size;
+        color:      $grey-color;
+        font-size:  $base-font-size;
         font-style: italic;
-        margin: 1.0rem auto;
+        margin:     1.0rem auto;
 
         @include media-query($on-palm) {
             font-size: $small-font-size;
@@ -96,9 +106,9 @@ article {
 .post-list {
     .post-header {
         &:before {
-            background: #eae9e6;
+            background:   #eae9e6;
             border-color: #faf9f5;
-            box-shadow: 0 0 0 4px #eae9e6;
+            box-shadow:   0 0 0 4px #eae9e6;
         }
     }
 }
@@ -109,7 +119,7 @@ article {
  * Images
  */
 img {
-    max-width: 100%;
+    max-width:      100%;
     vertical-align: middle;
 }
 
@@ -121,7 +131,7 @@ img {
 figure {
     background: #fff;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.025);
-    padding: 0.5em;
+    padding:    0.5em;
 }
 
 figure > img {
@@ -129,12 +139,12 @@ figure > img {
 }
 
 figcaption {
-    color: $grey-color;
-    font-size: 16px;
-    font-style: italic;
+    color:       $grey-color;
+    font-size:   16px;
+    font-style:  italic;
     line-height: 1.2;
-    margin: 1em 0.5em 0.5em;
-    text-align: center;
+    margin:      1em 0.5em 0.5em;
+    text-align:  center;
 }
 
 
@@ -173,7 +183,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: darken($brand-color, 10%);
+        color:           darken($brand-color, 10%);
         text-decoration: none;
     }
 }
@@ -184,10 +194,10 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    color:          $grey-color;
+    border-left:    4px solid $grey-color-light;
+    padding-left:   $spacing-unit / 2;
+    font-size:      18px;
     letter-spacing: -1px;
     // font-style: italic;
 
@@ -203,9 +213,9 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
+    font-size:        15px;
+    border:           1px solid $grey-color-light;
+    border-radius:    3px;
     background-color: #eef;
 }
 
@@ -214,13 +224,13 @@ code {
 }
 
 pre {
-    padding: 8px 12px;
+    padding:    8px 12px;
     overflow-x: auto;
 
     > code {
-        border: 0;
+        border:        0;
         padding-right: 0;
-        padding-left: 0;
+        padding-left:  0;
     }
 }
 
@@ -232,17 +242,17 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
+    margin-right:  auto;
+    margin-left:   auto;
     padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-left:  $spacing-unit;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-left:  $spacing-unit / 2;
     }
 }
 

@@ -162,6 +162,8 @@
     letter-spacing: -1px;
     line-height:    1;
 
+    a { color: $brand-color; }
+
     @include media-query($on-laptop) {
         font-size: 36px;
     }

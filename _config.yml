@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Magnus Archives Transcripts Archive Archive A (Extremely Unofficial)
-email: admin@sarahpin.com
+email: snarp@snarp.work
 description: > # this means to ignore newlines until "baseurl:"
   TMA transcripts in slightly-more-readable format. Mostly converted versions of the official transcripts; the rest have links to the source/transcriber.
 

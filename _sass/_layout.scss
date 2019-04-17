@@ -3,7 +3,7 @@
  */
 .site-header {
     background:    $base03;
-    border-top:    5px solid $title-color;
+    border-top:    5px solid $accent-color;
     border-bottom: 1px solid $grey-color-light;
     min-height:    60px;
     text-align:    center;
@@ -18,14 +18,13 @@
 }
 
 .site-title {
-    font-family:   "Playfair Display", $font-family-serif;
-    font-size:     24px;
-    line-height:   34px;
-    font-weight:   300;
+    font-family:   $font-family-monospace;
+    font-size:     23px;
+    line-height:   37px;
+    font-weight:   bold;
     margin-bottom: 0;
 
-    &,
-    &:visited {
+    &, &:visited {
         color: $title-color;
     }
 }
@@ -60,7 +59,7 @@
 
 .footer-col-wrapper {
     font-size:   15px;
-    color:       $grey-color;
+    color:       $muted-text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -71,20 +70,11 @@
     padding-left:  $spacing-unit / 2;
 }
 
-.footer-col-1 {
+.footer-col-1, 
+.footer-col-2  {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
 }
-
-.footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-}
-
-// .footer-col-3 {
-//     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-//     width:         calc(35% - (#{$spacing-unit} / 2));
-// }
 
 @include media-query($on-laptop) {
     .footer-col-1,
@@ -92,11 +82,6 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
-
-    // .footer-col-3 {
-    //     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    //     width:         calc(100% - (#{$spacing-unit} / 2));
-    // }
 }
 
 @include media-query($on-palm) {
@@ -134,7 +119,7 @@
 }
 
 .post-links {
-    a { color: $title-color; }
+    a { color: $accent-color; }
 }
 
 .post-link {
@@ -160,7 +145,7 @@
 }
 
 .post-title {
-    color:          $grey-color;
+    color:          $muted-text-color;
     font-family:    "Playfair Display", $font-family-serif;
     font-size:      36px;
     letter-spacing: -1px;
@@ -175,7 +160,7 @@
 
 .post-tags {
     .post-tag {
-        color: $title-color; 
+        color: $accent-color; 
     }
 }
 
@@ -208,22 +193,22 @@
 }
 
 .post-nav {
-    // display: block;
     display:         flex;
     justify-content: space-between;
     padding:         0 2em;
 
     .next,
     .previous {
-        // float:  left;
         margin: 1rem 0;
         width:  50%;
     }
     .next {
-        text-align: right;
+        text-align:   right;
+        margin-left:  0.4rem;
     }
     .previous {
-        text-align: left;
+        text-align:   left;
+        margin-right: 0.4rem;
     }
 
     @include media-query($on-palm) {
@@ -232,7 +217,7 @@
         .next,
         .previous {
             text-align: center;
-            width: 100%;
+            width:      100%;
         }
     }
 
@@ -247,7 +232,7 @@
     }
 
     a {
-        color:      $grey-color;
+        color:      $muted-text-color;
         font-style: italic;
     }
 }
@@ -265,10 +250,50 @@
         font-size:   44px;
         text-align:  center;
 
-
         @include media-query($on-laptop) {
             font-size: 36px;
         }
+    }
+
+    ul {
+        list-style: none; 
+
+        li {
+            display:         flex;
+            justify-content: space-between;
+            flex-wrap:       wrap; 
+            font-family:     $font-family-monospace;
+            padding:         0.4rem 0.8rem;
+            div {
+                display: inline-block;
+            }
+        }
+        li:nth-child(odd){ 
+            background: $base2;
+        }
+    }
+
+    .ep-left {
+        flex-grow: 2;
+    }
+    .ep-right, .ep-center {
+        text-align: right;
+    }
+    .ep-number {
+        color:        $brand-color; 
+        margin-right: 0.8rem;
+    }
+    .ep-title {
+        color:        $accent-color;
+        font-weight:  bold;
+        margin-right: 0.8rem;
+    }
+    .ep-status {
+        color:        $warning-text-color; 
+        margin-right: 0.8rem;
+    }
+    .ep-date {
+        color:        $grey-color-light; 
     }
 
     table {
@@ -283,24 +308,9 @@
         background: $base2;
     }
     td {
-        padding:     0.5rem 1rem;
+        padding:     0.4rem 0.8rem;
         text-align:  center;
         font-family: $font-family-monospace; 
-    }
-
-    .ep-number {
-        a { color: $brand-color; }
-    }
-    .ep-title {
-        a { color: $title-color; }
-        font-weight: bold;
-        text-align:  left;
-    }
-    .ep-status {
-        a { color: $warning-color; }
-    }
-    .ep-date {
-        a { color: $grey-color-light; }
     }
 }
 

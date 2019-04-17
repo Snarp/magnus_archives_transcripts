@@ -45,7 +45,7 @@ $font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georg
 $base-font-family:   $font-family-serif;
 $base-font-size:     18px;
 $base-font-weight:   400;
-$base-line-height:   30px;
+$base-line-height:   $base-font-size * 1.618;
 $spacing-unit:       $base-line-height;
 // $base-line-height:   2;
 // $spacing-unit:       30px;
@@ -53,16 +53,18 @@ $base-content-width: 612px;
 
 $small-font-size:  $base-font-size * 0.875;
 
-$brand-color:      $base00; 
-$background-color: $base3; 
-$text-color:       $base00; 
-$title-color:      $green; 
-$accent-color:     $title-color;
-$warning-color:    $orange; 
+$grey-color:         $base0; 
+$grey-color-light:   $base1; 
+$grey-color-dark:    $base00; 
 
-$grey-color:       $base0; 
-$grey-color-light: $base1; 
-$grey-color-dark:  $base00; 
+$brand-color:        $base00; 
+$background-color:   $base3; 
+$text-color:         $base00; 
+$accent-color:       $green;
+$title-color:        $green; 
+$warning-text-color: $orange; 
+$muted-text-color:   $base0;
+$highlight-bg-color: $base2;
 
 // Width of the content area
 $content-width:    800px;

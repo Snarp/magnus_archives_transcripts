@@ -8,12 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-hr { 
-    margin: 2.4rem auto; 
-    border: 1px solid $grey-color-light;
-    width:  66%;
-}
-
 
 
 /**
@@ -27,9 +21,8 @@ html {
 }
 
 body {
-    // font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color:       $text-color;
-    background-color: $background-color;
+    color:                         $text-color;
+    background-color:              $background-color;
     -webkit-text-size-adjust:      100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings:    "kern" 1;
@@ -66,7 +59,7 @@ article {
 
     > .entry-content {
         @include media-query($on-palm) {
-            font-size: 80%;
+            font-size: 0.8rem;
         }
 
         max-width: $base-content-width;
@@ -77,10 +70,17 @@ article {
             text-align:  center; 
             font-weight: bold; 
             color:       $base01; 
+            @include media-query($on-palm) {
+                font-size: 0.8rem;
+            }
         }
         h5 { // Caption Label
             font-size:   1rem; 
-            color:       $grey-color; 
+            color:       $muted-text-color; 
+            font-style:  italic;
+            @include media-query($on-palm) {
+                font-size: 0.8rem;
+            }
         }
     }
 }
@@ -91,9 +91,8 @@ article {
     text-align:    center;
 
     > div {
-        color:      $grey-color;
+        color:      $muted-text-color;
         font-size:  $base-font-size;
-        // font-style: italic;
         margin:     1.0rem auto;
 
         @include media-query($on-palm) {
@@ -102,14 +101,14 @@ article {
     }
 }
 
-.post-list {
-    .post-header {
-        &:before {
-            background:   #eae9e6;
-            border-color: #faf9f5;
-            box-shadow:   0 0 0 4px #eae9e6;
-        }
-    }
+
+/**
+ * Divider
+ */
+hr { 
+    margin: 2.4rem auto; 
+    border: 1px solid $grey-color-light;
+    width:  66%;
 }
 
 
@@ -138,7 +137,7 @@ figure > img {
 }
 
 figcaption {
-    color:       $grey-color;
+    color:       $muted-text-color;
     font-size:   16px;
     font-style:  italic;
     line-height: 1.2;
@@ -193,12 +192,14 @@ a {
  * Blockquotes
  */
 blockquote {
-    color:          $grey-color;
-    border-left:    4px solid $grey-color-light;
-    padding-left:   $spacing-unit / 2;
-    font-size:      18px;
-    letter-spacing: -1px;
-    // font-style: italic;
+    background-color: $highlight-bg-color;
+    border-left:      4px solid $grey-color-light;
+    padding:          $spacing-unit / 2;
+    font-size:        1rem;
+
+    @include media-query($on-palm) {
+        font-size: 0.8rem;
+    }
 
     > :last-child {
         margin-bottom: 0;

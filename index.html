@@ -4,26 +4,25 @@ layout: default
 
 <div class="table-of-contents">
 
-  <table>
-    <thead><tr>
-      <th>Episode</th>
-      <th>Title</th>
-      <th>Status</th>
-      <th>Date</th>
-    </tr></thead>
-    <tbody>
-    {% for post in site.posts reversed %}
-    
-      <tr>
-        <td class='ep-number'><a href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a></td>
-        <td class='ep-title'><a href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a></td>
-        <td class='ep-status'>{% if post.unfinished %}
-          <a href="{{ post.url | prepend: site.baseurl }}">UNFINISHED</a>
-        {% endif %}</td>
-        <td class='ep-date'><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
-      </tr>
-    {% endfor %}
-    </tbody>
-  </table>
+  <ul>
+  {% for post in site.posts reversed %}
+    <li>
+      <div class='ep-left'>
+        <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+        <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+      </div>
+
+      {% if post.unfinished %}
+      <div class='ep-center'>
+        <a class='ep-status' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+      </div>
+      {% endif %}
+
+      <div class='ep-right'>
+        <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
 
 </div>

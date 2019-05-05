@@ -10,12 +10,12 @@ layout: default
 	<div>
 		<span class="post-links post-meta">
 			<a class="acast-link" href="{{ page.acast_url }}">Listen on ACast</a>
+			| <a class="markdown-link" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>View Markdown</a>
 			{% if page.official %}
 			  | <i>Source:</i> <a class="source-link" href="{{ page.official }}">Official Transcript</a>
 			{% elsif page.unofficial %}
 				| <i>Source:</i> <a class="source-link" href="{{ page.unofficial }}">Unofficial Transcript</a>
 			{% endif %}
-			| <a class="markdown-link" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Raw Markdown</a>
 		</span>
 	</div>
 

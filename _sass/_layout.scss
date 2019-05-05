@@ -289,8 +289,13 @@
         margin-right: 0.8rem;
     }
     .ep-status {
-        color:        $warning-text-color; 
         margin-right: 0.8rem;
+    }
+    .ep-status-incomplete {
+        color:        $warning-text-color; 
+    }
+    .ep-status-unofficial {
+        color:        $text-color; 
     }
     .ep-date {
         color:        $grey-color-light; 

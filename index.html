@@ -14,7 +14,11 @@ layout: default
 
       {% if post.unfinished %}
       <div class='ep-center'>
-        <a class='ep-status' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+        <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+      </div>
+      {% elsif post.unofficial %}
+      <div class='ep-center'>
+        <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
       </div>
       {% endif %}
 

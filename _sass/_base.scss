@@ -86,21 +86,6 @@ article {
     }
 }
 
-.post-header {
-    border-bottom: 1px solid $grey-color-light;
-    margin-bottom: 2rem;
-    text-align:    center;
-
-    > div {
-        color:      $muted-text-color;
-        font-size:  $base-font-size;
-        margin:     1.0rem auto;
-
-        @include media-query($on-palm) {
-            font-size: $small-font-size;
-        }
-    }
-}
 
 
 /**

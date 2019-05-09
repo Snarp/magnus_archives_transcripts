@@ -110,86 +110,45 @@
     list-style: none;
 }
 
-.post-meta {
-    color: $grey-color-light;
-}
-
-.post-date { 
-    font-style: italic; 
-}
-
-.post-links {
-    a { color: $accent-color; }
-}
-
-.post-link {
-    display: block;
-    font-family: "Playfair Display", $font-family-serif;
-    font-size: 44px;
-
-    @include media-query($on-palm) {
-        font-size: 1.1em;
-    }
-}
-
 
 
 /**
  * Posts
  */
 .post-header {
+    border-bottom: 1px solid $grey-color-light;
     margin-bottom: $spacing-unit;
-    .cc-license {
-        font-size: smaller;
-    }
-}
-
-.post-title {
-    color:          $muted-text-color;
-    font-family:    "Playfair Display", $font-family-serif;
-    font-size:      36px;
-    letter-spacing: -1px;
-    line-height:    1;
-
-    a { color: $brand-color; }
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
-}
-
-.post-tags {
-    .post-tag {
-        color: $accent-color; 
-    }
-}
-
-.post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
+    text-align:    center;
+    > div {
+        color:      $muted-text-color;
+        font-size:  $base-font-size;
+        margin:     1.0rem auto;
+        @include media-query($on-palm) {
+            font-size: $small-font-size;
         }
     }
-
-    h3 {
-        font-size: 26px;
-
+    .post-title {
+        color:          $muted-text-color;
+        font-family:    $font-family-serif;
+        font-size:      1.6rem;
+        a { color: $brand-color; }
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 36px;
         }
     }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+    .post-links {
+        a            { color: $accent-color; }
+        a.acast-link { font-weight: bold;    }
     }
+    .post-date { 
+        font-style: italic; 
+    }
+    // .post-tag {
+    //     color: $accent-color; 
+    // }
+}
+.post-meta {
+    color: $grey-color-light;
 }
 
 .post-nav {
@@ -234,6 +193,28 @@
     a {
         color:      $muted-text-color;
         font-style: italic;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+    h2 {
+        font-size: 32px;
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+    h3 {
+        font-size: 26px;
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+    h4 {
+        font-size: 20px;
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
     }
 }
 

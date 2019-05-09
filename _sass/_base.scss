@@ -75,9 +75,10 @@ article {
             }
         }
         h5 { // Caption Label
-            font-size:   1rem; 
-            color:       $muted-text-color; 
-            font-style:  italic;
+            font-size:      1rem; 
+            color:          $muted-text-color; 
+            font-style:     italic;
+            text-transform: uppercase;
             @include media-query($on-palm) {
                 font-size: 0.8rem;
             }

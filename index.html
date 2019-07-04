@@ -5,7 +5,7 @@ layout: default
 <div class="table-of-contents">
 
   <ul>
-  {% for post in site.posts reversed %}
+  {% for post in site.posts %}
     <li>
       <div class='ep-left'>
         <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 

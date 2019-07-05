@@ -5,19 +5,30 @@
 		<div class="footer-col-wrapper">
 			<div class="footer-col footer-col-1">
 				<p>{{ site.description }}</p>
+
+				<p>
+					<a href="feed.xml">
+						<span class="icon icon--feed">{% include icon-feed.svg %}</span> RSS Feed
+					</a>
+				</p>
+
+				<p>
+					<a href="https://github.com/Snarp/magnus_archives_transcripts">
+						<span class="icon icon--github">{% include icon-github.svg %}</span>
+						<span class="username">Snarp/magnus_archives_transcripts</span>
+					</a>
+				</p>
+
+				<p>
+					<a href="mailto:{{ site.email }}"><span class="icon icon--email">{% include icon-email.svg %}</span> {{ site.email }}</a>
+				</p>
 			</div>
 
 			<div class="footer-col footer-col-2">
 				<p class="cc-license">
-					<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The Magnus Archives (and, thus, these transcripts) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-				</p>
+					{% include icon-cc-license.html %}<br />
 
-				<p>
-					Github: <a href="https://github.com/Snarp/magnus_archives_transcripts">Snarp/magnus_archives_transcripts</a>
-				</p>
-
-				<p>
-					Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+					The Magnus Archives (and, thus, these transcripts) is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 				</p>
 			</div>
 		</div>

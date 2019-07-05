@@ -22,3 +22,5 @@ permalink: /:categories/:title:output_ext
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: false

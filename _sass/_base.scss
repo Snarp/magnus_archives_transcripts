@@ -262,15 +262,12 @@ pre {
  * Icons
  */
 .icon {
-
     > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
+        display:        inline-block;
+        width:          16px;
+        height:         16px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+        margin-right:   0.2em;
+        // path { fill: currentColor; }
     }
 }

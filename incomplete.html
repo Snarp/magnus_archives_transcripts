@@ -1,0 +1,49 @@
+---
+layout: page_default
+title: Incomplete Transcripts
+incomplete:
+- number: '045'
+  title: Blood Bag
+- number: '049'
+  title: The Butcher's Window
+- number: '051'
+  title:  High Pressure
+- number: '052'
+  title: Exceptional Risk
+- number: '053'
+  title: Crusader
+- number: '054'
+  title: Still Life
+- number: '056'
+  title: Children of the Night
+- number: '057'
+  title: Personal Space
+- number: '058'
+  title:  Trail Rations
+- number: '060'
+  title: The Observer Effect
+- number: '061'
+  title: Hard Shoulder
+- number: '063'
+  title: The End of the Tunnel
+- number: '064'
+  title: Burial Rites
+- number: '066'
+  title: Held In Customs
+- number: '119'
+  title: Stranger And Stranger
+- number: '120'
+  title: Eye Contact
+---
+
+<h2 class="page-title"><a href="/incomplete.html">{{page.title}}</a></h2>
+
+<div class="table-of-contents">
+  <ul>
+    {% for episode in page.incomplete %}
+    <li>
+      <div class="ep-left"><a class="ep-title" href="episode/{{episode.number}}.html">{{episode.number}} {{episode.title}}</a></div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

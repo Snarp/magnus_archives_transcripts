@@ -39,7 +39,11 @@
     padding:    $spacing-unit 0;
     background: $base03;
     color:      $base0;
-    a { color: $base1; font-weight: bold; }
+    a { 
+        font-weight: bold; 
+        color:       $base1; 
+        &:hover { color: $base2; }
+    }
 }
 
 .footer-heading {

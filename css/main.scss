@@ -19,14 +19,14 @@ $font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
 
 // Solarized Variables
 
-$base03:  #002b36;
+$base03:  #002b36; // darkest
 $base02:  #073642;
 $base01:  #586e75;
 $base00:  #657b83;
 $base0:   #839496;
 $base1:   #93a1a1;
 $base2:   #eee8d5;
-$base3:   #fdf6e3;
+$base3:   #fdf6e3; // lightest
 $yellow:  #b58900;
 $orange:  #cb4b16;
 $red:     #dc322f;

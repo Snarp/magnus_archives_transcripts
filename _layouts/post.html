@@ -3,35 +3,68 @@ layout: default
 ---
 
 <header class="post-header">
-	<h1 class="post-title" itemprop="name headline"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-	<div class="post-date post-meta">
-		{{ page.date | date: "%B %-d, %Y" }}
-	</div>
-	<div class="post-links post-meta">
-	</div>
-	<div class="post-links post-meta">
-		<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>
+	<div class="wrapper">
+		<div class="post-nav">
+			<div class="previous">
+				{% if page.previous.url %}
+				<a href="{{ site.baseurl }}{{ page.previous.url }}">
+					<span>← Previous Episode</span>
+					{{ page.previous.title }}
+				</a>
+				{% endif %}
+			</div>
+			<div class="next">
+				{% if page.next.url %}
+				<a href="{{ site.baseurl }}{{ page.next.url }}">
+					<span>Next Episode →</span>
+					{{ page.next.title }}
+				</a>
+				{% endif %}
+			</div>
+		</div><!-- div.post-nav -->
+		
+		<h1 class="post-title" itemprop="name headline"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+		<div class="post-date post-meta">
+			{{ page.date | date: "%B %-d, %Y" }}
+		</div>
+		<div class="post-links post-meta">
+			<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>
 
-		{% if page.official or page.unofficial %}
-			{% if page.official %}
-			<br />Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
-			{% elsif page.unofficial %}
-			<br />Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
+			{% if page.official or page.unofficial %}
+				{% if page.official %}
+				<br />Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
+				{% elsif page.unofficial %}
+				<br />Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
+				{% endif %}
 			{% endif %}
-		{% endif %}
 
-		<br />Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
-		{% if page.google_doc %}
-			| <a class="source-link source-google-doc" target="_blank" href="{{ page.google_doc }}">Google Doc</a> 
-		{% endif %}
-		{% if page.pdf %}
-			| <a class="source-link source-pdf" target="_blank" href="{{ page.pdf }}">PDF</a> 
-		{% endif %}
-		{% if page.accessible_pdf %}
-			| <a class="source-link source-pdf-accessible" target="_blank" href="{{ page.accessible_pdf }}">PDF (Accessible)</a> 
-		{% endif %}
-	</div>
+			<br />Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
+			{% if page.google_doc %}
+				| <a class="source-link source-google-doc" target="_blank" href="{{ page.google_doc }}">Google Doc</a> 
+			{% endif %}
+			{% if page.pdf %}
+				| <a class="source-link source-pdf" target="_blank" href="{{ page.pdf }}">PDF</a> 
+			{% endif %}
+			{% if page.accessible_pdf %}
+				| <a class="source-link source-pdf-accessible" target="_blank" href="{{ page.accessible_pdf }}">PDF (Accessible)</a> 
+			{% endif %}
+		</div>
 
+		{% if page.unfinished %}<div class='post-warnings'>
+			<em>This transcript is incomplete.</em>
+		</div>{% endif %}
+	</div><!-- div.wrapper -->
+</header><!-- header.post-header -->
+
+<div class="wrapper">
+	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+		<div class="entry-content" itemprop="articleBody">
+			{{ content }}
+		</div>
+	</article>
+</div>
+
+<div class="wrapper">
 	<div class="post-nav">
 		<div class="previous">
 			{% if page.previous.url %}
@@ -41,6 +74,7 @@ layout: default
 			</a>
 			{% endif %}
 		</div>
+
 		<div class="next">
 			{% if page.next.url %}
 			<a href="{{ site.baseurl }}{{ page.next.url }}">
@@ -49,31 +83,5 @@ layout: default
 			</a>
 			{% endif %}
 		</div>
-	</div>
-</header>
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="entry-content" itemprop="articleBody">
-		{{ content }}
-	</div>
-</article>
-
-<div class="post-nav">
-	<div class="previous">
-		{% if page.previous.url %}
-		<a href="{{ site.baseurl }}{{ page.previous.url }}">
-			<span>← Previous Episode</span>
-			{{ page.previous.title }}
-		</a>
-		{% endif %}
-	</div>
-
-	<div class="next">
-		{% if page.next.url %}
-		<a href="{{ site.baseurl }}{{ page.next.url }}">
-			<span>Next Episode →</span>
-			{{ page.next.title }}
-		</a>
-		{% endif %}
 	</div>
 </div>

@@ -39,9 +39,13 @@
     padding:    $spacing-unit 0;
     background: $base03;
     color:      $base0;
+    font-size:  0.8rem;
+    @include media-query($on-palm) {
+        font-size: 0.8rem;
+    }
     a { 
-        font-weight: bold; 
-        color:       $base1; 
+        font-weight:     bold; 
+        color:           $base1; 
         &:hover { color: $base2; }
     }
 }
@@ -51,19 +55,7 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-
-    .username {
-        font-size: 80%;
-    }
-}
-
 .footer-col-wrapper {
-    font-size:   15px;
-    color:       $muted-text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -102,75 +94,87 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding:   $spacing-unit 0; 
+    font-size: $base-font-size; 
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+    }
 }
+%page-title {
+    font-family:   $font-family-serif;
+    font-size:     1.6rem;
+    a { color: $brand-color; }
+    @include media-query($on-palm) {
+        font-size: 1.2rem;
+    }
+}
+.page-title { @extend %page-title; }
 
 
 
 /**
  * Posts
  */
+
+.post {
+    margin: $spacing-unit 0;
+}
+
 .post-header {
-    border-bottom: 1px solid $grey-color-light;
-    margin-bottom: $spacing-unit;
-    text-align:    center;
-    > div {
-        color:      $muted-text-color;
-        font-size:  $base-font-size;
-        margin:     1.0rem auto;
+    text-align:     center;
+    color:          $grey-color;
+    background:     $highlight-bg-color;
+    padding:        $spacing-unit 0;
+    margin:         0 0 $spacing-unit;
         @include media-query($on-palm) {
             font-size: $small-font-size;
         }
-    }
     .post-title {
-        color:          $muted-text-color;
-        font-family:    $font-family-serif;
-        font-size:      1.6rem;
-        a { color: $brand-color; }
-        @include media-query($on-laptop) {
-            font-size: 36px;
-        }
+        @extend %page-title;
+        // font-family:    $font-family-serif;
+        // font-size:      1.6rem;
+        // a { color: $brand-color; }
+        // @include media-query($on-palm) {
+        //     font-size: 1.2rem;
+        // }
     }
-    .post-links {
-        a.acast-link { font-weight: bold; }
+    .post-meta {
+        font-size:  $base-font-size;
+        margin:     1.0rem auto;
     }
     .post-date { 
         font-style: italic; 
     }
-}
-.post-meta {
-    color: $grey-color-light;
+    .post-links {
+        a.acast-link { font-weight: bold; }
+    }
+    .post-warnings {
+        color: $warning-text-color;
+    }
 }
 
 .post-nav {
     display:         flex;
     justify-content: space-between;
-    padding:         0 2em;
-
-    .next,
-    .previous {
-        margin: 1rem 0;
+    margin-bottom:   $spacing-unit;
+    .next, .previous {
+        margin: 0 0 1rem;
         width:  50%;
     }
     .next {
-        text-align:   right;
-        margin-left:  0.4rem;
+        text-align: right; margin-left:  0.4rem;
     }
     .previous {
-        text-align:   left;
-        margin-right: 0.4rem;
+        text-align: left;  margin-right: 0.4rem;
     }
 
     @include media-query($on-palm) {
         padding: initial;
-
-        .next,
-        .previous {
+        .next, .previous {
             text-align: center;
             width:      100%;
         }
     }
-
     span {
         color:          $brand-color;
         display:        block;
@@ -180,10 +184,10 @@
         letter-spacing: 1px;
         text-transform: uppercase;
     }
-
     a {
-        color:      $muted-text-color;
         font-style: italic;
+        color:      $muted-text-color;
+        &:hover     { color: darken($muted-text-color, 10%); }
     }
 }
 
@@ -215,30 +219,19 @@
  * Table of Contents
  */
 .table-of-contents {
-    h1 {
-        color:       $brand-color;
-        display:     block;
-        font-family: "Playfair Display", $font-family-serif;
-        font-size:   44px;
-        text-align:  center;
-
-        @include media-query($on-laptop) {
-            font-size: 36px;
-        }
-    }
+    margin: $spacing-unit 0;
+    > .wrapper { padding: 0; }
 
     ul {
         list-style: none; 
-
+        margin:     0;
         li {
             display:         flex;
             justify-content: space-between;
             flex-wrap:       wrap; 
             font-family:     $font-family-monospace;
-            padding:         0.4rem 0.8rem;
-            div {
-                display: inline-block;
-            }
+            padding:         0.4rem 0.6rem;
+            div { display:   inline-block; }
         }
         li:nth-child(odd){ 
             background: $base2;
@@ -253,17 +246,16 @@
     }
     .ep-number {
         color:        $brand-color; 
-        margin-right: 0.8rem;
     }
     .ep-title {
         color:        $accent-color;
         font-weight:  bold;
-        margin-right: 0.8rem;
+        margin-right: 0.4rem;
         &:hover       { color: darken($accent-color, 10%); }
     }
 
     .ep-status {
-        margin-right: 0.8rem;
+        margin-right: 0.4rem;
     }
     .ep-status-incomplete {
         color:        $warning-text-color; 
@@ -274,30 +266,12 @@
     .ep-date {
         color:        $grey-color-light; 
     }
-
-    table {
-        width:           100%; 
-        border:          none;
-        border-collapse: collapse;
-    }
-    thead {
-        display: none;
-    }
-    tr:nth-child(odd){ 
-        background: $base2;
-    }
-    td {
-        padding:     0.4rem 0.8rem;
-        text-align:  center;
-        font-family: $font-family-monospace; 
-    }
 }
 
 .source-index {
-    margin-top: 2em;
-    .ep-transcriber { margin-top: 1em; }
+    margin: $spacing-unit 0;
+    .ep-transcriber { margin:      $spacing-unit 0 $spacing-unit/2; }
     .ep-source      { font-weight: bold; }
-
     .ep-title { 
         color: $grey-color-light; 
         &:hover { color: $grey-color; }

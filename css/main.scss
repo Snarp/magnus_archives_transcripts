@@ -4,7 +4,6 @@
 @charset "utf-8";
 
 
-
 // Font variables
 $font-name:           libretto-icons;
 $font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
@@ -47,30 +46,28 @@ $base-font-size:     18px;
 $base-font-weight:   400;
 $base-line-height:   $base-font-size * 1.618;
 $spacing-unit:       $base-line-height;
-$base-content-width: 612px;
 
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:    0.8rem;
 
 $grey-color:         $base0; 
 $grey-color-light:   $base1; 
 $grey-color-dark:    $base00; 
 
-$brand-color:        $base00; 
 $background-color:   $base3; 
-$text-color:         $base00; 
+$brand-color:        $grey-color-dark; 
+$text-color:         $grey-color-dark; 
 $accent-color:       $green;
 $title-color:        $green; 
 $warning-text-color: $orange; 
-$muted-text-color:   $base0;
+$muted-text-color:   $grey-color-light;
 $highlight-bg-color: $base2;
 
 // Width of the content area
-$content-width:    800px;
+// $content-width:      800px;
+$content-width:      calc(620px + (#{$spacing-unit}*2));
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
+$on-palm:            600px;
+$on-laptop:          800px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

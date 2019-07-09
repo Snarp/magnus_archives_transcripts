@@ -51,7 +51,6 @@ ul, ol, dl, figure,
 article {
     background:    $background-color;
     margin-bottom: $spacing-unit;
-    padding:       3em 3em 1em;
 
     @include media-query($on-palm) {
         padding: 1em 1em 0.3em;
@@ -59,10 +58,8 @@ article {
 
     > .entry-content {
         @include media-query($on-palm) {
-            font-size: 0.8rem;
+            font-size: $small-font-size;
         }
-
-        max-width: $base-content-width;
 
         h4 { // Speaker Label
             font-size:   1rem; 
@@ -71,16 +68,15 @@ article {
             font-weight: bold; 
             color:       $base01; 
             @include media-query($on-palm) {
-                font-size: 0.8rem;
+                font-size: $small-font-size;
             }
         }
         h5 { // Caption Label
             font-size:      1rem; 
             color:          $muted-text-color; 
-            // font-style:     italic;
             text-transform: uppercase;
             @include media-query($on-palm) {
-                font-size: 0.8rem;
+                font-size: $small-font-size;
             }
         }
     }
@@ -184,7 +180,7 @@ blockquote {
     font-size:        1rem;
 
     @include media-query($on-palm) {
-        font-size: 0.8rem;
+        font-size: $small-font-size;
     }
 
     > :last-child {

@@ -1,0 +1,18 @@
+<div class="post-nav">
+  <div class="previous">
+    {% if page.previous.url %}
+    <a href="{{ site.baseurl }}{{ page.previous.url }}">
+      <span>← Episode {{ page.previous.episode_number }}</span>
+      {{ page.previous.episode_title }}
+    </a>
+    {% endif %}
+  </div>
+  <div class="next">
+    {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{ page.next.url }}">
+      <span>Episode {{ page.next.episode_number }} →</span>
+      {{ page.next.episode_title }}
+    </a>
+    {% endif %}
+  </div>
+</div><!-- div.post-nav -->

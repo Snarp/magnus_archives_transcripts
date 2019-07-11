@@ -4,31 +4,22 @@ layout: default
 
 <header class="post-header">
 	<div class="wrapper">
-		<div class="post-nav">
-			<div class="previous">
-				{% if page.previous.url %}
-				<a href="{{ site.baseurl }}{{ page.previous.url }}">
-					<span>← Previous Episode</span>
-					{{ page.previous.title }}
-				</a>
-				{% endif %}
-			</div>
-			<div class="next">
-				{% if page.next.url %}
-				<a href="{{ site.baseurl }}{{ page.next.url }}">
-					<span>Next Episode →</span>
-					{{ page.next.title }}
-				</a>
-				{% endif %}
-			</div>
-		</div><!-- div.post-nav -->
+		{% include post-nav.html %}
 		
-		<h1 class="post-title" itemprop="name headline"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+		<div class="post-subtitle">
+			<div class="post-episode-number">MAG{{page.episode_number}}</div> 
+			<div class="divider"> - </div> 
+			<div class="post-case-number">#{{page.case_number}}</div>
+		</div>
+		<h1 class="post-title" itemprop="name headline">
+			<a href="{{ page.url | prepend: site.baseurl }}">{{page.episode_title}}</a>
+		</h1>
 		<div class="post-date post-meta">
 			{{ page.date | date: "%B %-d, %Y" }}
 		</div>
+
 		<div class="post-links post-meta">
-			<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>
+			<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
 
 			{% if page.official or page.unofficial %}
 				{% if page.official %}
@@ -64,24 +55,8 @@ layout: default
 	</article>
 </div>
 
-<div class="wrapper">
-	<div class="post-nav">
-		<div class="previous">
-			{% if page.previous.url %}
-			<a href="{{ site.baseurl }}{{ page.previous.url }}">
-				<span>← Previous Episode</span>
-				{{ page.previous.title }}
-			</a>
-			{% endif %}
-		</div>
-
-		<div class="next">
-			{% if page.next.url %}
-			<a href="{{ site.baseurl }}{{ page.next.url }}">
-				<span>Next Episode →</span>
-				{{ page.next.title }}
-			</a>
-			{% endif %}
-		</div>
+<footer class="post-footer">
+	<div class="wrapper">
+		{% include post-nav.html %}
 	</div>
-</div>
+</footer>

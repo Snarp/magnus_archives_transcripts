@@ -9,7 +9,7 @@ recorder:        []
 voiced:          []
 episode_title:   TITLE
 episode_number:  '000'
-case_number:     0000000
+case_number:     '0000000'
 statement_date:  
 recording_date:  
 event_date:      

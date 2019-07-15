@@ -13,15 +13,18 @@ layout: default
         <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
       </div>
 
-      {% if post.unfinished %}
+      {%- if post.unfinished %}
+
       <div class='ep-center'>
         <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
       </div>
-      {% elsif post.unofficial %}
+      {%- elsif post.unofficial %}
+
       <div class='ep-center'>
         <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
       </div>
-      {% endif %}
+      {%- else -%}
+      {%- endif %}
 
       <div class='ep-right'>
         <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>

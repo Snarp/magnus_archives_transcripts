@@ -11,13 +11,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#943526">
-	<meta name="description" content="
-{%- if page.excerpt -%}
-	{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-{%- else -%}
-	{{ site.description }}
-{%- endif -%}
-">
+	<meta name="description" content="{{ site.description | escape }}">
 	<meta property="og:title" content="{{ page_title | escape }}">
 
 	<title>{{ page_title | escape }}</title>

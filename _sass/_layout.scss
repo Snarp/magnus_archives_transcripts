@@ -162,27 +162,43 @@
 .post-footer {
     color:          $grey-color;
     background:     $highlight-bg-color;
-    padding:        $spacing-unit 0 0 0;
+    padding:        $spacing-unit 0;
     margin:         $spacing-unit 0 0 0;
 }
 
 .post-nav {
+    margin:          0;
     display:         flex;
     justify-content: space-between;
-    margin:          0;
+
     .previous, .next {
         margin: 0;
         width:  50%;
     }
     .previous {
-        text-align: left;  margin-right: 0.4rem; margin-bottom: 0.5rem;
+        text-align: left;  margin-right: 0.4rem;
     }
     .next {
         text-align: right; margin-left:  0.4rem;
     }
 
     @include media-query($on-palm) {
-        padding: initial;
+        padding:  initial;
+
+        a:nth-child(even) { 
+            margin-bottom: 0.5rem;
+        }
+        .next, .previous {
+            text-align: center;
+            width:      100%;
+        }
+    }
+    @include media-query($on-laptop) {
+        padding:  initial;
+
+        a:nth-child(even) { 
+            margin-bottom: 0.5rem;
+        }
         .next, .previous {
             text-align: center;
             width:      100%;

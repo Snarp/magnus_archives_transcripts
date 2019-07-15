@@ -1,8 +1,5 @@
 ---
-layout: page_default
-title: Transcript Sources
-sources:
-- name: Anonymous
+- name: 'Anonymous'
   episodes:
   - number: '048'
     title: Lost in the Crowd
@@ -73,7 +70,7 @@ sources:
   - number: '137'
     title: Nemesis
     url: https://snarp.tumblr.com/
-- name: tmatranscripts.tumblr.com
+- name: 'tmatranscripts.tumblr.com'
   url: https://tmatranscripts.tumblr.com/
   episodes:
   - number: '118'
@@ -139,7 +136,7 @@ sources:
   - number: '144'
     title: Decoded
     url: https://tmatranscripts.tumblr.com/post/186212766836/mag144-decrypted-case-0090310pdf
-- name: YouTube Closed Captions (Auto-Generated)
+- name: 'YouTube Closed Captions (Auto-Generated)'
   episodes:
   - number: '051'
     title: High Pressure
@@ -177,31 +174,3 @@ sources:
   - number: '119'
     title: Stranger And Stranger
     url: https://www.youtube.com/watch?v=FYA_7TV_65w
----
-
-<h2 class="page-title"><a href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</a></h2>
-
-<p>Any transcripts on this site not listed below were sourced from <a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">the Rusty Quill's official transcript archive</a>. (Unless I let this page get out-of-date; please <a href="mailto:{{site.email}}">let me know</a> if something looks wrong!)</p>
-
-<div class="table-of-contents source-index">
-{% for source in site.data.sources %}
-  <h3 class="ep-transcriber">
-  {%- if source.url -%}
-    <a target="_blank" href="{{source.url}}">{{source.name}}</a>:
-  {%- else -%}
-    {{source.name}}:
-  {%- endif -%}
-  </h3>
-
-  <ul>
-  {%- for episode in source.episodes %}
-    <li>
-      <div class="ep-left"><a class="ep-title" href="episode/{{episode.number}}.html">{{episode.number}} {{episode.title}}</a></div>
-    {%- if episode.url %}
-      <div class="ep-right"><a class="ep-source" target="_blank" href="{{episode.url}}">Source</a></div>
-    {%- endif %}
-    </li>
-  {%- endfor %}
-  </ul>
-{%- endfor %}
-</div>

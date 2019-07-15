@@ -1,0 +1,49 @@
+---
+layout: null
+---
+{
+    "version": "https://jsonfeed.org/version/1",
+    "language": "{{site.language}}",
+    "title": {{site.title | jsonify}},
+    "description": {{site.description | jsonify}},
+    "home_page_url": "{{site.url | prepend: site.baseurl}}",
+    "feed_url": "{{'/feed.json' | prepend: site.baseurl | prepend: site.url}}",
+    "author": {
+        "name": "{{site.author}}",
+        "url": "{{site.url | prepend: site.baseurl}}"
+    },
+    "items": [
+        {%- for post in site.posts limit:40 %}
+        {
+            "title": {{post.title | jsonify}},
+            "date_published": "{{post.date | date_to_xmlschema}}",
+            "id": "{{post.id}}",
+            "url": "{{post.url | prepend: site.baseurl | prepend: site.url}}",
+            {%- if forloop.first %}
+            // podcast audio source:
+            {%- endif %}
+            "external_url": "{{post.acast_url}}", 
+            "content_html": {{post.content | jsonify}},
+            "tags": {{post.tags | jsonify | join: '","'}},
+            "meta": { 
+            {%- if forloop.first %} // transcript text sources{% endif %} 
+                {%- if post.official %}
+                "transcript_source_author": "Official Transcript Archive",
+                "transcript_source_url": "https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM"
+                {%- elsif post.unofficial %}
+                "transcript_source_author": {{post.unofficial_name | jsonify}},
+                "transcript_source_url": {{post.unofficial | jsonify}}
+                {%- endif %}
+                {%- if post.google_doc -%},
+                "google_doc_url": {{post.google_doc | jsonify}}
+                {%- endif %}
+                {%- if post.pdf -%},
+                "pdf_url": {{post.pdf | jsonify}}
+                {%- endif %}
+                {%- if post.accessible_pdf -%},
+                "accessible_pdf_url": {{post.accessible_pdf | jsonify}}
+                {%- endif %}
+            }
+        }{% unless forloop.last == true %},{% endunless %} {% endfor %}
+    ]
+}

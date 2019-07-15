@@ -15,8 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 title: The Magnus Archives Transcripts Archive Archive A (Extremely Unofficial)
 email: snarp@snarp.work
-description: > # this means to ignore newlines until "baseurl:"
-  TMA transcripts in slightly-more-readable format. Mostly converted versions of the official transcripts; the rest have links to the source/transcriber.
+author: snarp
+# description: > # this means to ignore newlines until "baseurl:"
+description: TMA transcripts in slightly-more-readable format. Mostly converted versions of the official transcripts; the rest have links to the source/transcriber.
+language: en-us
+
+# # If you're hosting your site at a Project repository on GitHub pages
+# # (http://yourusername.github.io/repository-name)
+# # and NOT your User repository (http://yourusername.github.io)
+# # then add in the baseurl here, like this: "/repository-name"
+# baseurl: "/magnus_archives_transcripts"
 
 permalink: /:categories/:title:output_ext
 

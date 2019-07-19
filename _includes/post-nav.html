@@ -1,7 +1,7 @@
 <div class="post-nav">
   <div class="previous">
     {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.base_url }}">
+    <a href="{{ page.previous.url | prepend: site.base_url | prepend: site.url }}">
       <span>← MAG{{ page.previous.episode_number }}</span>
       {{ page.previous.episode_title }}
     </a>
@@ -9,7 +9,7 @@
   </div>
   <div class="next">
     {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.base_url }}">
+    <a href="{{ page.next.url | prepend: site.base_url | prepend: site.url }}">
       <span>MAG{{ page.next.episode_number }} →</span>
       {{ page.next.episode_title }}
     </a>

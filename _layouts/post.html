@@ -4,11 +4,11 @@ layout: default
 
 <header class="post-header">
 	<div class="wrapper">
-		
+
 		<div class="post-nav">
 		  <div class="previous">
 		    {% if page.previous.url %}
-		    <a href="{{ page.previous.url | prepend: site.baseurl }}">
+		    <a href="{{ site.baseurl }}{{ page.previous.url }}">
 		      <span>← MAG{{ page.previous.episode_number }}</span>
 		      {{ page.previous.episode_title }}
 		    </a>
@@ -16,7 +16,7 @@ layout: default
 		  </div>
 		  <div class="next">
 		    {% if page.next.url %}
-		    <a href="{{ page.next.url | prepend: site.baseurl }}">
+		    <a href="{{ site.baseurl }}{{ page.next.url }}">
 		      <span>MAG{{ page.next.episode_number }} →</span>
 		      {{ page.next.episode_title }}
 		    </a>

@@ -13,7 +13,7 @@ case_number:     '0000000'
 statement_date:  
 recording_date:  
 event_date:      
-summary:         
+summary:         ""
 acast_url:       
 pdf:             
 accessible_pdf:  

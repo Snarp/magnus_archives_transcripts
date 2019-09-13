@@ -1,33 +1,37 @@
 ---
 - number: '049'
-  title: The Butcher's Window
+  title: "The Butcher's Window"
 - number: '051'
-  title:  High Pressure
+  title:  "High Pressure"
 - number: '052'
-  title: Exceptional Risk
+  title: "Exceptional Risk"
 - number: '053'
-  title: Crusader
+  title: "Crusader"
 - number: '054'
-  title: Still Life
+  title: "Still Life"
 - number: '056'
-  title: Children of the Night
+  title: "Children of the Night"
 - number: '057'
-  title: Personal Space
+  title: "Personal Space"
 - number: '058'
-  title:  Trail Rations
+  title:  "Trail Rations"
 - number: '060'
-  title: The Observer Effect
+  title: "The Observer Effect"
 - number: '064'
-  title: Burial Rites
+  title: "Burial Rites"
 - number: '066'
-  title: Held In Customs
+  title: "Held In Customs"
 - number: '119'
-  title: Stranger And Stranger
+  title: "Stranger And Stranger"
 - number: '148'
-  title: Extended Surveillance
+  title: "Extended Surveillance"
 - number: '149'
-  title: Concrete Jungle
+  title: "Concrete Jungle"
 - number: '150'
-  title: Cul-de-Sac
+  title: "Cul-de-Sac"
 - number: '151'
-  title: Big Picture
+  title: "Big Picture"
+- number: '152'
+  title: "A Gravedigger's Envy"
+- number: '153'
+  title: "Love Bombing"

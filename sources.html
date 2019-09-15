@@ -11,9 +11,9 @@ title: Transcript Sources
 {% for source in site.data.sources %}
   <h3 class="ep-transcriber">
   {%- if source.url -%}
-    <a target="_blank" href="{{source.url}}">{{source.name}}</a>:
+    <a target="_blank" href="{{source.url}}" name="{{source.name}}">{{source.name}}</a>:
   {%- else -%}
-    {{source.name}}:
+    <a name="{{source.name}}">{{source.name}}</a>:
   {%- endif -%}
   </h3>
 

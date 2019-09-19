@@ -1,6 +1,4 @@
 ---
-- number: '051'
-  title:  "High Pressure"
 - number: '053'
   title: "Crusader"
 - number: '058'
@@ -8,12 +6,3 @@
 - number: '119'
   title: "Stranger And Stranger"
 - number: '149'
-  title: "Concrete Jungle"
-- number: '150'
-  title: "Cul-de-Sac"
-- number: '151'
-  title: "Big Picture"
-- number: '152'
-  title: "A Gravedigger's Envy"
-- number: '153'
-  title: "Love Bombing"

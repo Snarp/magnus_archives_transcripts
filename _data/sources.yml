@@ -16,6 +16,9 @@
   - number: '052'
     title: "Exceptional Risk"
     url: "https://docs.google.com/document/d/1AZAjU9X8aT2saX5zA8jSNlt0-0_3dLBvV6kPurvyj9g/edit?usp=sharing"
+  - number: '053'
+    title: "Crusader"
+    url: "https://docs.google.com/document/d/1l10aGYpdS8N4nQ2JgKy-1XaKEGltpKXqZND22xLH55s/edit?usp=sharing"
   - number: '054'
     title: "Still Life"
     url: "https://docs.google.com/document/d/1sA6TNwrEUuVkVmfTw_ijqC1jE0nipxXxfPWAflxK0Ow/edit?usp=sharing"
@@ -25,6 +28,9 @@
   - number: '057'
     title: "Personal Space"
     url: https://docs.google.com/document/d/1hT2ceVz5QIKcCKSe6HBczgpma6U2upsaLhrTPutNsis/edit?usp=sharing
+  - number: '058'
+    title:  "Trail Rations"
+    url: "https://docs.google.com/document/d/12jLUawePqnKBCUzz6lYEBVqYt-Og-DxbrkaSgxaGUZw/edit?usp=sharing"
   - number: '060'
     title: "The Observer Effect"
     url: "https://docs.google.com/document/d/1cM95nT_61C0_c_0YdO-4icwfR5jZ7QqEWEHBthJKTqM/edit?usp=sharing"
@@ -34,6 +40,9 @@
   - number: '066'
     title: "Held in Customs"
     url: "https://docs.google.com/document/d/17liqmFnVkHG85cfpaxxQfm2E_xHi-Hl4Ryo28SF4aSw/edit?usp=sharing"
+  - number: '119'
+    title: "Stranger And Stranger"
+    url: "https://docs.google.com/document/d/1a2SWu5RmIE9D2ugIhHHHglfGiLFyKAjgO6C8MPb2hug/edit?usp=sharing"
   - number: '149'
     title: "Concrete Jungle"
     url: "https://docs.google.com/document/d/1Lf_yzIzAc0hBJ_gPqBF7PWtn3AoxHUJbzYsy3O_LcOU/edit"
@@ -49,15 +58,6 @@
   - number: '153'
     title: "Love Bombing"
     url: "https://docs.google.com/document/d/1KS4pNW69L392h_CBOXfKAo4XIVt1NRjqilBcRUKPUaY/edit"
-  - number: '053'
-    title: "Crusader"
-    url: "https://docs.google.com/document/d/1l10aGYpdS8N4nQ2JgKy-1XaKEGltpKXqZND22xLH55s/edit?usp=sharing"
-  - number: '058'
-    title:  "Trail Rations"
-    url: "https://docs.google.com/document/d/12jLUawePqnKBCUzz6lYEBVqYt-Og-DxbrkaSgxaGUZw/edit?usp=sharing"
-  - number: '119'
-    title: "Stranger And Stranger"
-    url: "https://docs.google.com/document/d/1a2SWu5RmIE9D2ugIhHHHglfGiLFyKAjgO6C8MPb2hug/edit?usp=sharing"
 - name: snarp
   url: https://snarp.tumblr.com/
   episodes:

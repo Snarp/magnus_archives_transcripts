@@ -1,44 +1,26 @@
 <footer class="site-footer">
-
 	<div class="wrapper">
-
 		<div class="footer-col-wrapper">
 			<div class="footer-col footer-col-1">
 				<p>{{ site.description }}</p>
-
-				<p><a href="{{ site.baseurl }}/incomplete.html">List of Incomplete Transcripts</a></p>
-
-				<p>
-					<a href="{{ site.baseurl }}/feed.xml">
-						<span class="icon icon--feed">{% include icon-feed.svg %}</span> RSS Feed
-					</a>
-				</p>
-
-				<p>
-					<a href="https://github.com/Snarp/magnus_archives_transcripts">
-						<span class="icon icon--github">{% include icon-github.svg %}</span>
-						<span class="username">Snarp/magnus_archives_transcripts</span>
-					</a>
-				</p>
-
-				<p>
-					<a href="mailto:{{ site.email }}"><span class="icon icon--email">{% include icon-email.svg %}</span> {{ site.email }}</a>
-				</p>
-			</div>
-
-			<div class="footer-col footer-col-2">
-				<p><a href="{{ site.baseurl }}/sources.html"><span class="icon icon--eye">{% include icon-eye.svg %}</span> View Unofficial Transcript Source Index</a></p>
-
-				<p><a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM" target="_blank"><span class="icon icon--link">{% include icon-link.svg %}</span> The Rusty Quill Official Transcript Archive</a></p>
-
 				<p class="cc-license">
-					{% include icon-cc-license.html %}<br />
-
+					<br />{% include icon-cc-license.html %}<br />
 					The Magnus Archives (and, thus, these transcripts) is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 				</p>
 			</div>
+			<div class="footer-col footer-col-2">
+				<p><a href="{{ site.baseurl }}/sources.html"><span class="icon icon--eye">{% include icon-eye.svg %}</span> View Unofficial Transcript Source Index</a></p>
+
+				<p><a href="{{ site.baseurl }}/incomplete.html"><span class="icon icon--eye">{% include icon-eye-closed.svg %}</span> View List of Incomplete Transcripts</a></p>
+
+				<p><a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM" target="_blank"><span class="icon icon--link">{% include icon-link.svg %}</span> The Rusty Quill Official Transcript Archive</a></p>
+
+				<p><a href="{{ site.baseurl }}/feed.xml"><span class="icon icon--feed">{% include icon-feed.svg %}</span> RSS Feed</a></p>
+
+				<p><a href="https://github.com/Snarp/magnus_archives_transcripts"><span class="icon icon--github">{% include icon-github.svg %}</span> <span class="username">Snarp/magnus_archives_transcripts</span></a></p>
+
+				<p><a href="mailto:{{ site.email }}"><span class="icon icon--email">{% include icon-email.svg %}</span> {{ site.email }}</a></p>
+			</div>
 		</div>
-
 	</div>
-
 </footer>

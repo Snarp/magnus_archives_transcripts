@@ -14,6 +14,7 @@ statement_date:
 recording_date:  
 event_date:      
 summary:         ""
+content_flags:   []
 acast_url:       
 pdf:             
 accessible_pdf:  
@@ -22,5 +23,6 @@ official:
 unofficial:      
 unofficial_name: 
 unfinished:      true
+wiki_url:        
 ---
 

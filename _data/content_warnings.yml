@@ -1,0 +1,1199 @@
+---
+'000':
+  :title: Season 1 Trailer
+'001':
+  :title: Angler Fish
+  :flags:
+  - abduction
+  - unsettling strangers/people being uncanny
+  - alcohol
+  - smoking
+'002':
+  :title: Do Not Open
+  :flags:
+  - altered mental states
+  - drug mention
+  - undead
+  - sleep disorders
+'003':
+  :title: Across the Street
+  :flags:
+  - stalking
+  - being watched
+  - imposters
+  - unreality
+  - paranoia-inducing
+  - head injury
+  - surveillance
+  - identity theft
+'004':
+  :title: Page Turner
+  :flags:
+  - lightning
+  - electrocution
+  - heights
+  - vertigo
+  - body horror (skin mutilation)
+  - human remains
+  - animal bones
+  - injury (twisted ankle, scars)
+  - book burning
+  - food mention
+'005':
+  :title: Thrown Away
+  :flags:
+  - dolls
+  - teeth
+  - unsanitary
+  - body horror
+  - privacy invasion
+  - mental instability
+  - vomiting
+  - mild car accident
+  - mild alcohol mention
+'006':
+  :title: Squirm
+  :flags:
+  - sexual content (non-explicit)
+  - mild drug mention
+  - insects (worms)
+  - gore
+  - body horror
+  - scratching
+  - worm infestations in human bodies
+  - things under skin
+  - physical violence
+  - paranoia
+'007':
+  :title: The Piper
+  :flags:
+  - war
+  - battle
+  - injuries
+  - blood
+  - gun violence
+  - knife violence
+  - bomb violence
+  - psychological trauma
+'008':
+  :title: Burned Out
+  :flags:
+  - injuries (burns)
+  - immolation
+  - arachnophobia
+  - gore
+  - schizophrenia mention
+  - graphic suicide
+'009':
+  :title: A Father's Love
+  :flags:
+  - child harm
+  - religious violence
+  - serial killer
+  - gore
+  - cults
+  - being chased
+  - darkness
+'010':
+  :title: Vampire Killer
+  :flags:
+  - physical violence
+  - child death
+  - child harm
+  - immolation
+  - drugs
+  - alcohol
+  - substance abuse
+  - gore
+  - cancer
+  - domestic abuse
+  - knife violence
+'011':
+  :title: Dreamer
+  :flags:
+  - death (foreseeing death)
+  - unreality
+  - mental instability
+  - sleep disorders
+  - body horror
+  - suicide
+  - heart disease
+'012':
+  :title: First Aid
+  :flags:
+  - immolation
+  - burn injuries
+  - medical setting
+  - knife violence
+'013':
+  :title: Alone
+  :flags:
+  - isolation
+  - death of a loved one
+  - car crashes
+'014':
+  :title: Piecemeal
+  :flags:
+  - self-harm
+  - body horror
+  - gore
+  - cannibalism
+'015':
+  :title: Lost John's Cave
+  :flags:
+  - claustrophobia
+  - drowning
+  - death of a sibling
+  - unhealthy family dynamics
+  - caves
+'016':
+  :title: Arachnophobia
+  :flags:
+  - insects
+  - spiders
+  - death
+  - suffocation
+'017':
+  :title: The Boneturner's Tale
+  :flags:
+  - body horror
+  - domestic abuse
+  - bone removal
+'018':
+  :title: The Man Upstairs
+  :flags:
+  - unsanitary
+  - strangers
+  - meat
+'019':
+  :title: Confession I
+  :flags:
+  - religious violence
+  - cannibalism
+  - possession
+  - hallucinations
+  - loss of faith
+'020':
+  :title: Desecrated Host II
+  :flags:
+  - religious violence
+  - cannibalism
+  - possession
+  - hallucinations
+'021':
+  :title: Freefall
+  :flags:
+  - agoraphobia
+  - acrophobia
+  - falling
+  - death of one's adult child
+  - mild jumpscare [[end of episode]]
+'022':
+  :title: Colony
+  :flags:
+  - being trapped
+  - parasites
+  - insects (worms)
+  - trypophobia
+  - scratching
+'023':
+  :title: Schwartzwald
+  :flags:
+  - claustrophobia
+'024':
+  :title: Strange Music
+  :flags:
+  - physical violence
+  - dolls
+  - clowns
+  - mild gore
+  - unhealthy romantic relationships
+'025':
+  :title: Growing Dark
+  :flags:
+  - cults
+  - darkness
+'026':
+  :title: A Distortion
+  :flags:
+  - physical violence
+  - insects
+  - worms
+  - body horror
+  - trypophobia
+'027':
+  :title: A Sturdy Lock
+  :flags:
+  - home invasion
+  - paranoia-inducing
+'028':
+  :title: Skintight
+  :flags:
+  - skinning
+  - physical violence
+  - people being uncanny
+'029':
+  :title: Cheating Death
+  :flags:
+  - war
+  - gore
+  - self-harm
+  - body horror
+  - existential horror
+'030':
+  :title: Killing Floor
+  :flags:
+  - animal harm
+  - animal death
+  - self-harm
+  - physical violence
+  - gore
+  - unreality
+  - people being slaughtered like animals
+'031':
+  :title: First Hunt
+  :flags:
+  - gun violence
+  - being chased
+'032':
+  :title: Hive
+  :flags:
+  - insects
+  - worms
+  - ants
+  - hornets
+  - mild gore
+  - body horror
+  - trypophobia
+  - dermatillomania
+  - altered mental state
+  - mental instability
+  - unreality
+'033':
+  :title: Boatswain's Call
+  :flags:
+  - isolation
+  - being trapped
+'034':
+  :title: Anatomy Class
+  :flags:
+  - body horror
+  - blood
+  - gore
+  - uncanny
+  - unreality
+'035':
+  :title: Old Passages
+  :flags:
+  - claustrophobia
+  - darkness
+'036':
+  :title: Taken Ill
+  :flags:
+  - elder abuse
+  - elder neglect
+  - disease
+  - body horror
+  - unsanitary
+  - physical violence
+  - death
+  - insects
+  - flies
+'037':
+  :title: Burnt Offering
+  :flags:
+  - immolation
+  - spousal death
+  - self-harm
+'038':
+  :title: Lost and Found
+  :flags:
+  - spouse death
+  - unreality
+  - gaslighting
+  - paranoia-inducing
+'039':
+  :title: Infestation
+  :flags:
+  - parasites
+  - gore
+  - physical violence
+  - body horror
+  - trypophobia
+  - uncanny
+  - jumpscare
+'040':
+  :title: Human Remains
+  :flags:
+  - parasites
+  - gore
+  - physical violence
+  - body horror
+  - trypophobia
+'40.1':
+  :title: Season 2 Trailer
+'041':
+  :title: Too Deep
+  :flags:
+  - drowning
+  - claustrophobia
+'042':
+  :title: Grifter's Bone
+  :flags:
+  - physical violence
+  - gore
+  - self-harm
+  - suicide
+  - altered mental state
+  - injury (ear trauma)
+'043':
+  :title: Section 31
+  :flags:
+  - immolation
+  - self harm
+'044':
+  :title: Tightrope
+  :flags:
+  - physical violence
+  - body horror
+  - unreality
+'045':
+  :title: Blood Bag
+  :flags:
+  - Unsanitary
+  - insects (mosquitos)
+  - illnesses
+  - blood
+  - death by bugs
+'046':
+  :title: Literary Heights
+  :flags:
+  - Lightning
+  - death
+  - acrophobia
+'047':
+  :title: The New Door
+  :flags:
+  - Surreal
+  - abduction
+  - self-harm
+  - physical violence
+  - unreality
+'048':
+  :title: Lost in the Crowd
+  :flags:
+  - Agoraphobia
+  - abduction
+  - isolation
+  - people being uncanny
+'049':
+  :title: The Butcher's Window
+  :flags:
+  - Body horror
+  - torture
+  - bone removal
+  - death and dying
+'050':
+  :title: Foundations
+  :flags:
+  - Surreal
+'051':
+  :title: High Pressure
+  :flags:
+  - Deep-sea exploration
+  - suffocation
+  - surreal
+  - drowning
+'052':
+  :title: Exceptional Risk
+  :flags:
+  - Prison
+  - serial killer mention
+  - darkness
+  - violence
+  - death
+'053':
+  :title: Crusader
+  :flags:
+  - War
+  - body horror
+  - corpses
+  - eye horror
+'054':
+  :title: Still Life
+  :flags:
+  - Unsanitary
+  - dead animals
+  - taxidermy
+  - people being uncanny
+  - things that shouldn't be moving start moving
+'055':
+  :title: Pest Control
+  :flags:
+  - Unsanitary
+  - insects (ants)
+'056':
+  :title: Children of the Night
+  :flags:
+  - Death
+  - violence
+  - drug use
+  - poverty
+  - insects (spiders)
+  - body horror
+  - jumpscare [[TIMESTAMP NEEDED]]
+'057':
+  :title: Personal Space
+  :flags:
+  - Isolation
+  - space exploration
+  - darkness
+  - paranoia
+  - starvation
+  - suicide
+'058':
+  :title: Trail Rations
+  :flags:
+  - Cannibalism
+  - spousal death
+  - knife violence
+  - freezing to death
+  - people being uncanny
+'059':
+  :title: Recluse
+  :flags:
+  - Past child abuse
+  - insects (spiders)
+  - mind control
+  - cannibalism
+  - death
+  - fire
+'060':
+  :title: Observer Effect
+  :flags:
+  - Paranoia
+  - being watched
+'061':
+  :title: Hard Shoulder
+  :flags:
+  - Altered mental states
+  - darkness
+  - people being uncanny
+'062':
+  :title: First Edition
+  :flags:
+  - Murder
+  - skinning
+  - mind control
+'063':
+  :title: The End of the Tunnel
+  :flags:
+  - Darkness
+  - decapitation
+  - paranoia-inducing
+  - things you can't see hunting you
+  - invisible danger
+'064':
+  :title: Burial Rites
+  :flags:
+  - Body horror
+  - things that should be dead coming to life
+'065':
+  :title: Binary
+  :flags:
+  - Transhumanism
+  - self-harm
+  - mutilation
+  - body horror
+  - eating nonfood items
+  - existential horror
+'066':
+  :title: Held in Customs
+  :flags:
+  - Claustrophobia
+  - drug mention
+  - darkness
+  - being trapped
+'067':
+  :title: Burning Desire
+  :flags:
+  - Fire
+  - mutilation
+'068':
+  :title: The Tale of a Field Hospital
+  :flags:
+  - Disease
+  - war
+  - open wounds
+  - unsanitary
+  - illness
+'069':
+  :title: Thought for the Day
+  :flags:
+  - Insects (spiders) vomiting
+  - medical experimentation
+  - body horror
+  - altered mental states
+  - strangulation
+  - self-harm
+  - gore
+  - ableism
+  - physical violence
+'070':
+  :title: Book of the Dead
+  :flags:
+  - Wounds
+  - gore
+  - physical violence
+  - body horror
+  - murder
+  - immolation
+  - death
+  - paranoia-inducing
+'071':
+  :title: Underground
+  :flags:
+  - Claustrophobia
+  - body horror
+'072':
+  :title: Takeaway
+  :flags:
+  - Cannibalism
+  - physical violence
+  - mutilation
+  - restraints
+  - serial killer
+'073':
+  :title: Police Lights
+  :flags:
+  - Gun violence
+  - physical violence
+  - wounds
+  - murder
+  - police
+'074':
+  :title: Fatigue
+  :flags:
+  - Surreal
+  - teeth
+  - slowly worsening mental state
+  - sleep disorder
+'075':
+  :title: A Long Way Down
+  :flags:
+  - Acrophobia
+  - injuries (broken arm)
+'076':
+  :title: The Smell of Blood
+  :flags:
+  - Physical violence
+  - gore
+  - torture
+  - imposters
+'077':
+  :title: The Kind Mother
+  :flags:
+  - Imposters
+  - emotional abuse from a parent
+  - people being replaced and only you notice
+  - paranoia
+'078':
+  :title: Distant Cousin
+  :flags:
+  - Imposters
+'079':
+  :title: Hide and Seek
+  :flags:
+  - Imposters
+  - being chased
+  - jumpscare [[TIMESTAMP NEEDED]]
+'080':
+  :title: The Librarian
+  :flags:
+  - Physical violence
+  - murder
+'80.1':
+  :title: Season 3 Trailer
+'081':
+  :title: A Guest For Mr. Spider
+  :flags:
+  - Gore
+  - physical violence
+  - arachnophobia
+'082':
+  :title: The Eyewitnesses
+  :flags:
+  - Physical violence
+  - murder
+  - gaslighting?
+'083':
+  :title: Drawing A Blank
+  :flags:
+  - Dolls
+  - body horror (skin)
+  - physical violence
+  - murder
+'084':
+  :title: Possessive
+  :flags:
+  - Unsanitary
+  - imposters
+'085':
+  :title: Upon the Stair
+  :flags:
+  - Parent death
+  - unreality
+'086':
+  :title: Tucked In
+  :flags:
+  - Body horror
+  - gore
+  - unsanitary
+  - darkness
+'087':
+  :title: The Uncanny Valley
+  :flags:
+  - Body horror
+  - gore
+  - unsanitary
+  - injuries (burns)
+'088':
+  :title: Dig
+  :flags:
+  - Altered mental states
+'089':
+  :title: Twice as Bright
+  :flags:
+  - Immolation
+  - injuries (burns)
+  - body horror
+  - self-harm
+'090':
+  :title: Body Builder
+  :flags:
+  - Body horror
+  - body dysmorphia
+  - bad self image
+'091':
+  :title: The Coming Storm
+  :flags:
+  - Nausea
+  - physical violence
+'092':
+  :title: Nothing Beside Remains
+  :flags:
+  - Manipulation
+'093':
+  :title: Contaminant
+  :flags:
+  - Parasites
+  - unsanitary
+'094':
+  :title: Dead Woman Walking
+  :flags:
+  - Altered mental states
+'095':
+  :title: Absent Without Leave
+  :flags:
+  - Death
+  - body horror
+  - gun violence
+  - physical violence
+  - war
+'096':
+  :title: Return to Sender
+  :flags:
+  - Body horror?
+'097':
+  :title: We All Ignore the Pit
+  :flags:
+  - Abduction
+  - altered mental states
+'098':
+  :title: Light's Out
+  :flags:
+  - Self-harm
+  - blindness
+'099':
+  :title: Dust to Dust
+  :flags:
+  - Suffocation
+  - live burial
+'100':
+  :title: I Guess You Had To Be There
+  :flags:
+  - Spiders
+  - mental instability
+  - isolation
+'100.1':
+  :title: Deadlands Part 1
+  :flags:
+  - Gun violence
+  - gambling
+  - explosive violence
+'100.2':
+  :title: Deadlands Part 2
+  :flags:
+  - Murder
+  - gun violence
+  - skinning
+  - posession
+  - blunt object violence
+  - body horror
+'100.3':
+  :title: Lucid
+  :flags:
+  - Altered reality
+  - sleep disorders
+  - body horror
+'100.4':
+  :title: Paint
+  :flags:
+  - Cursed objects
+  - hospital suspense
+  - guilt
+'100.5':
+  :title: Assistants Round Table
+  :flags:
+  - Spoilers! Gruesome horror prop discussion**quoted directly from post
+'101':
+  :title: Another Twist
+  :flags:
+  - Clowns
+  - body horror (skinning
+  - distortion)
+'102':
+  :title: Nesting Instinct
+  :flags:
+  - Attempted murder
+  - depression
+  - insects (beetles)
+  - body horror
+  - unsanitary
+  - mind control
+'103':
+  :title: Cruelty Free
+  :flags:
+  - Animal death
+  - animal cannibalism
+  - language
+'104':
+  :title: Sneak Preview
+  :flags:
+  - clowns
+  - body horror (skinning)
+  - physical violence
+'105':
+  :title: Total War
+  :flags:
+  - Warfare
+  - drowning
+  - cannibalism
+  - undead
+'106':
+  :title: A Matter Of Perspective
+  :flags:
+  - Isolation
+  - body horror (bleeding ears)
+  - deep space
+  - discussion of death
+  - emotional abuse/manipulation
+'107':
+  :title: Third Degree
+  :flags:
+  - Being followed
+  - buried alive
+  - death
+  - seizure disorder
+  - burning alive
+  - heart attack
+  - kidnapping
+  - gun violence
+  - axe violence
+'108':
+  :title: Monologue
+  :flags:
+  - Masks
+  - being followed
+  - surreal
+'109':
+  :title: Nightfall
+  :flags:
+  - Kidnapping
+  - cancer
+  - body horror
+  - knife violence
+  - strangulation
+  - blood
+  - sadism
+'110':
+  :title: Creature Feature
+  :flags:
+  - Insects (spiders)
+  - mentions of transphobia (no misgendering)
+  - body horror
+  - abuse in the workplace
+'111':
+  :title: Family Business
+  :flags:
+  - Child abuse
+  - cults
+  - body horror (skinning)
+  - spousal abuse
+  - undead
+'112':
+  :title: Thrill of the Chase
+  :flags:
+  - Knife violence
+  - direct violence
+  - blood
+  - body horror
+  - sadism
+'113':
+  :title: Breathing Room
+  :flags:
+  - Suffocation
+  - death
+  - blood
+  - poisoning
+  - undead
+  - sharp object violence
+'114':
+  :title: Cracked Foundation
+  :flags:
+  - Insects (spiders)
+  - mental instability
+  - language
+  - body horror
+'115':
+  :title: Taking Stock
+  :flags:
+  - Blood
+  - cannibalism
+  - self-harm
+  - death
+'116':
+  :title: The Show Must Go On
+  :flags:
+  - Blood
+  - automatons (mannequins)
+  - eye horror
+  - knife violence
+  - general violence
+  - body horror
+  - mental instability
+  - death and dying
+'117':
+  :title: Testament
+  :flags:
+  - Gun violence
+  - explosive violence
+  - spiders
+  - body horror
+  - death and dying
+'118':
+  :title: The Masquerade
+  :flags:
+  - Fire/burning
+  - emotional manipulation/cruelty
+  - non-consensual mind reading
+  - clowns
+  - mannequins
+  - body horror
+'119':
+  :title: Stranger and Stranger
+  :flags:
+  - Clowns
+  - mannequins
+  - emotional manipulation
+  - altered mental state
+  - death
+  - injury (getting axed)
+'120':
+  :title: Eye Contact
+  :flags:
+  - Surreal
+  - 'altered mental state (coma)----REFERENCES THE FOLLOWING EPISODES:MAG 13: AloneMAG
+    28: SkintightMAG 34: Anatomy ClassMAG 47: The New DoorMAG 55: Pest ControlMAG
+    61: Hard Shoulder MAG 65: BinaryMAG 71: UndergroundMAG 73: Police LightsMAG 76:
+    The Smell of Blood MAG 88: DigMAG 89: Twice as BrightMAG 94: Dead Woman WalkingMAG
+    109: NightfallMAG 117: Testament'
+'120.1':
+  :title: Season 4 Trailer
+'121':
+  :title: Far Away
+  :flags:
+  - Mortality
+  - undead
+  - violent death (reported)
+  - tendrils
+  - constriction
+'122':
+  :title: Zombie
+  :flags:
+  - Paranoia
+  - psychological zombies
+  - mild ableism
+'123':
+  :title: Web Development
+  :flags:
+  - Injury (surgery scars)
+  - arachnophobia
+  - eye horror
+'124':
+  :title: Left Hanging
+  :flags:
+  - Heights (cable car rides)
+  - acrophobia
+  - cancer
+  - death
+'125':
+  :title: Civilian Casualties
+  :flags:
+  - Body horror
+  - blood
+  - being chased
+  - death
+  - self-harm
+  - mutilation
+'126':
+  :title: Sculptor's Tool
+  :flags:
+  - Uncanny
+  - body horror
+  - people you know being replaced
+'127':
+  :title: Remains to be Seen
+  :flags:
+  - Death
+  - alcohol use
+  - food mention
+  - corpses
+'128':
+  :title: Heavy Goods
+  :flags:
+  - Impaling
+  - death of a loved one
+  - human remains
+  - alcoholism
+  - self harm
+  - suicide
+  - building fire
+'129':
+  :title: Submerged
+  :flags:
+  - Drowning
+  - natural disaster (flood)
+  - isolation
+  - grief
+  - emotional trauma
+  - human remains
+'130':
+  :title: Meat
+  :flags:
+  - Body horror
+  - dismembered human remains
+  - dismembered animal remains
+  - emotional trauma
+  - death and dying
+  - sleep disorders
+'131':
+  :title: Flesh
+  :flags:
+  - Self-harm
+  - body horror
+  - dismemberment
+  - emotional trauma
+  - knife violence
+  - removal of bones
+'132':
+  :title: Entombed
+  :flags:
+  - Claustrophobia
+  - emotional trauma
+  - suffocation
+  - crushing
+  - dissociation
+'133':
+  :title: Dead Horse
+  :flags:
+  - Body horror
+  - gun violence
+  - time distortion
+  - spatial disorientation
+  - emotional trauma
+  - death and dying
+'134':
+  :title: Time of Revelation
+  :flags:
+  - Human extinction
+'135':
+  :title: Dark Matter
+  :flags:
+  - Darkness
+  - kidnapping and imprisonment
+  - cults
+  - manipulation
+'136':
+  :title: The Puppeteer
+  :flags:
+  - Degenerative illness
+  - puppets
+  - manipulation
+  - mental illness
+  - body horror
+'137':
+  :title: Nemesis
+  :flags:
+  - War
+  - torture experiences
+  - extreme violence
+  - POW experiences
+'138':
+  :title: Architecture of Fear
+  :flags:
+  - Paranoia
+  - being watched
+  - body horror
+  - eye horror
+  - death
+'139':
+  :title: Chosen
+  :flags:
+  - Extreme violence
+  - body horror
+  - ritual acts and trauma
+  - burning alive
+  - assisted suicide
+'140':
+  :title: The Movement of the Heavens
+  :flags:
+  - Murder
+  - darkness
+  - ritual acts
+'141':
+  :title: Doomed Voyage
+  :flags:
+  - Coercion
+  - explosions
+'142':
+  :title: Scrutiny
+  :flags:
+  - Claustrophobia
+  - coercion
+  - stalking
+'143':
+  :title: Heart of Darkness
+  :flags:
+  - Gunshots
+  - human sacrifice
+  - coercion
+  - cults
+'144':
+  :title: Decrypted
+  :flags:
+  - Conspiracy theories
+'145':
+  :title: Infectious Doubts
+  :flags:
+  - Elder abuse
+  - supernatural torture
+  - cults
+'146':
+  :title: Threshold
+  :flags:
+  - Adverse mental health discussion
+  - hallucinations
+'147':
+  :title: Weaver
+  :flags:
+  - Arachnophobia
+  - discussion of the existence of free will
+  - deliberately confusing statement
+'148':
+  :title: Extended Surveillance
+  :flags:
+  - Eye trauma
+  - physical violence
+'149':
+  :title: Concrete Jungle
+  :flags:
+  - Environmental disaster
+  - minor body horror
+  - getting lost
+'150':
+  :title: Cul-De-Sac
+  :flags:
+  - Death
+  - blood
+  - isolation
+  - surreal
+  - human remains
+  - self-harm
+'151':
+  :title: Big Picture
+  :flags:
+  - "--"
+'152':
+  :title: A Gravedigger's Envy
+  :flags:
+  - Unreliable narrator
+  - buried alive
+  - death/suicide contemplation
+  - injury
+'153':
+  :title: Love Bombing
+  :flags:
+  - Cults
+  - emotional manipulation
+  - body horror
+  - unsanitary
+'154':
+  :title: Bloody Mary
+  :flags:
+  - Death (stabbing)
+  - domestic/spousal abuse
+  - injury
+  - self mutilation
+'155':
+  :title: Cost of Living
+  :flags:
+  - Self harm
+  - infanticide
+  - murder
+  - near-death experience
+  - eye gouging
+'156':
+  :title: Reflection
+  :flags:
+  - Cannibalism
+  - fairground accidents
+  - warped body image
+  - eating disorder-like thought pattern
+'157':
+  :title: Rotten Core
+  :flags:
+  - Epidemic / mass infection
+  - extreme body horror
+  - emotional trauma
+  - physical threats
+  - isolation
+'158':
+  :title: Panopticon
+  :flags:
+  - Loud noises (including rock grinding) / static
+  - violence (gun / monstrous)
+  - extended gunfire
+  - isolation
+  - murder / death / loss
+'159':
+  :title: The Last
+  :flags:
+  - Emotional manipulation
+  - sensory abuse (static)
+  - isolation
+  - depression
+  - unhealthy family dynamic
+  - abusive parents
+  - disappearance
+  - jumpscare [23:05]

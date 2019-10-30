@@ -1,9 +1,18 @@
 <header class="site-header">
 
 	<div class="wrapper">
-
 		<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
 	</div>
 
+  <div class="site-header-linkbar">
+  {% for link in site.data.links %}
+    {%- if link.local -%}
+    <span><a href="{{site.baseurl}}/{{link.path}}">{{link.shortname}}</a></span>
+    {%- else -%}
+    <span><a href="{{link.path}}">{{link.shortname}}</a></span>
+    {%- endif -%}
+  {% endfor %}
+  </div>
+
 </header>
+

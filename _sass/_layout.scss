@@ -24,8 +24,28 @@
     font-weight:   bold;
     margin-bottom: 0;
 
-    &, &:visited {
-        color: $title-color;
+    &,&:visited { color: $title-color; }
+}
+
+.site-header-linkbar {
+    list-style-type:  none;
+    display:          flex;
+    flex-wrap:        wrap; 
+    justify-content:  center;
+    margin:           0 auto;
+    padding:          0;
+    background-color: $highlight-bg-color;
+    span { 
+        display:      inline-flex; 
+        margin:       0 1.0em;
+        padding:      0;
+        font-family:  $font-family-monospace;
+        font-size:    0.8rem;
+        font-weight:  bold;
+        a { 
+            color:   $brand-color; 
+            &:hover { color: $accent-color; }
+        }
     }
 }
 

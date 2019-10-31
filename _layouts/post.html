@@ -41,6 +41,12 @@ layout: default
 			{% endif %}
 		</div>
 
+		{% if page.content_flagss %}
+		<div class="post-links post-meta post-flags">
+			{%- for flag in page.content_flags %}*<b>{{ flag }}</b> {% endfor -%}
+		</div>
+		{% endif %}
+
 		{% if page.unfinished %}<div class='post-warnings'>
 			<em>This transcript is incomplete.</em>
 		</div>{% endif %}

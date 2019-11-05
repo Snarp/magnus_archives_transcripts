@@ -12,7 +12,7 @@
   path:      https://docs.google.com/document/d/1KLuJa1AaT8m5rzBOvvtzeEWT9piQ715bss4hkbLBXmA/edit
 - name:      Official Transcript Archive
   shortname: Official Transcripts
-  url:       https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM
+  path:      "https://drive.google.com/open?id=0BzWtYJgwf5A9NU1Vd0pMTG9HcmM"
 - name:      "Snarp/magnus_archives_transcripts"
   shortname: GitHub
   path:      https://github.com/Snarp/magnus_archives_transcripts

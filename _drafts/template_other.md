@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG000 - #0000000 - TITLE"
 date:            2000-01-01 12:00:00 -0400
-categories:      episode
+categories:      other
 tags:            []
 statement_of:    []
 recorder:        []

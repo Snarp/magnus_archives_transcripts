@@ -126,6 +126,9 @@
 - name: 'tmatranscripts.tumblr.com'
   url: https://tmatranscripts.tumblr.com/
   episodes:
+  # - number: '0.4'
+  #   title: "Season 4 Trailer"
+  #   url: "https://drive.google.com/open?id=1RfpMzGCdoW1mrv30jWpCf3w63QV2N5yhysO5E70MC5o"
   - number: '118'
     title: "The Masquerade"
     url: "https://tmatranscripts.tumblr.com/post/182633017311/mag118themasquerade-1pdf"
@@ -207,3 +210,282 @@
   - number: '160'
     title: "The Eye Opens"
     url: "https://tmatranscripts.tumblr.com/post/188732857886/mag160-the-eye-opens-case-0181810pdf"
+- name: 'Official'
+  url: 'https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM'
+  episodes:
+  # - number: '000'
+  #   title: Trailers
+  #   url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/view?usp=drivesdk
+  # - number: QA2
+  #   title: Season 2 Q & A
+  #   url: https://drive.google.com/file/d/0BwU6M4sYgbYddXhPSmdxR2pnUFE/view?usp=drivesdk
+  - number: '001'
+    title: Anglerfish
+    url: https://drive.google.com/file/d/0B9_duj3FayX3SXRnV3FjdlNWZlE/view?usp=drivesdk
+  - number: '002'
+    title: Do Not Open
+    url: https://drive.google.com/file/d/0B9_duj3FayX3LWpxbDZNTzJ6bVU/view?usp=drivesdk
+  - number: '003'
+    title: Across the Street
+    url: https://drive.google.com/file/d/0B9_duj3FayX3Y2FPM3J5OTBjMjQ/view?usp=drivesdk
+  - number: '004'
+    title: Pageturner
+    url: https://drive.google.com/file/d/0B9_duj3FayX3ZzE4QjdYR1JjMGc/view?usp=drivesdk
+  - number: '005'
+    title: Thrown Away
+    url: https://drive.google.com/file/d/0B9_duj3FayX3QlEtdXN5amtqaVU/view?usp=drivesdk
+  - number: '006'
+    title: Squirm
+    url: https://drive.google.com/file/d/0B9_duj3FayX3bVZjZ0s1a1pFWUk/view?usp=drivesdk
+  - number: '007'
+    title: The Piper
+    url: https://drive.google.com/file/d/0B9_duj3FayX3N0VOOFl1dHBUWjg/view?usp=drivesdk
+  - number: '008'
+    title: Burned Out
+    url: https://drive.google.com/file/d/0B9_duj3FayX3WVJoNTBKOG5EU00/view?usp=drivesdk
+  - number: '009'
+    title: A Father's Love
+    url: https://drive.google.com/file/d/0B9_duj3FayX3Q01Mb0FaSDZsWjQ/view?usp=drivesdk
+  - number: '010'
+    title: Vampire Killer
+    url: https://drive.google.com/file/d/0B9_duj3FayX3TG81c2xUcmUwbEE/view?usp=drivesdk
+  - number: '011'
+    title: Dreamer
+    url: https://drive.google.com/file/d/0B9_duj3FayX3ZVdxQ0RuT212ejg/view?usp=drivesdk
+  - number: '012'
+    title: First Aid
+    url: https://drive.google.com/file/d/0B9_duj3FayX3S1M0amVmLXEtUnc/view?usp=drivesdk
+  - number: '013'
+    title: Alone
+    url: https://drive.google.com/file/d/178LW3C5TvBdOmRcLsw7q0EGcsPZPMYgn/view?usp=drivesdk
+  - number: '014'
+    title: Piecemeal
+    url: https://drive.google.com/file/d/0B9_duj3FayX3TDdEcUlaMjJSenc/view?usp=drivesdk
+  - number: '015'
+    title: Lost John's Cave
+    url: https://drive.google.com/file/d/0B9_duj3FayX3NjRDUFd4V3daZUE/view?usp=drivesdk
+  - number: '016'
+    title: Arachnophobia
+    url: https://drive.google.com/file/d/0B9_duj3FayX3SThIU0hGRFJYSTA/view?usp=drivesdk
+  - number: '017'
+    title: The Boneturner's Tale
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdUFRFemZfRUtpbnM/view?usp=drivesdk
+  - number: '018'
+    title: The Man Upstairs
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYda0MzbzRSenJzY2s/view?usp=drivesdk
+  - number: '019'
+    title: Confession
+    url: https://drive.google.com/file/d/18QGEHewYS6jFKFgd91me1XVtsddGVJfY/view?usp=drivesdk
+  - number: '020'
+    title: Desecrated Host
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdaE9QcFRzVnRmdHM/view?usp=drivesdk
+  - number: '021'
+    title: Freefall
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdYmpZeFhOUzNKRzA/view?usp=drivesdk
+  - number: '022'
+    title: Colony
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdaXl0Yl9Nc0F2aWs/view?usp=drivesdk
+  - number: '023'
+    title: Schwarzwald
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdc25SQ2syZEE1dFk/view?usp=drivesdk
+  - number: '024'
+    title: Strange Music
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdZGtpT2sxWThmWk0/view?usp=drivesdk
+  - number: '025'
+    title: Growing Dark
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdRzBQbm95eXl2RWM/view?usp=drivesdk
+  - number: '026'
+    title: A Distortion
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdZFI3a2p2Zk1QWUU/view?usp=drivesdk
+  - number: '027'
+    title: A Sturdy Lock
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdMVlOVk1NSWhXN0k/view?usp=drivesdk
+  - number: '028'
+    title: Skintight
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdX29xQXJ3aU5fVVE/view?usp=drivesdk
+  - number: '029'
+    title: Cheating Death
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdb3JQQVQ5ZEgzOTA/view?usp=drivesdk
+  - number: '030'
+    title: Killing Floor
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdRXMtc0ZPNXJMZTQ/view?usp=drivesdk
+  - number: '031'
+    title: First Hunt
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdc1lsanBrazZxTlU/view?usp=drivesdk
+  - number: '032'
+    title: Hive
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdVzN2NWlTbFRNLVk/view?usp=drivesdk
+  - number: '033'
+    title: Boatswain's Call
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdSjVDX1BIRnVmeWM/view?usp=drivesdk
+  - number: '034'
+    title: Anatomy Class
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdWFBNbGVYMjR1Tms/view?usp=drivesdk
+  - number: '035'
+    title: Old Passages
+    url: https://drive.google.com/file/d/1OBGlAeWWsws0BVbIgTnGWVf9sNBvX3o5/view?usp=drivesdk
+  - number: '036'
+    title: Taken Ill
+    url: https://drive.google.com/file/d/1GQ0z6zMESFLK0FGj-V1lHozMfpMVfxqP/view?usp=drivesdk
+  - number: '037'
+    title: Burnt Offering
+    url: https://drive.google.com/file/d/16EUQdruBtQAJBTU7H8tnvFGaqtWiNP7R/view?usp=drivesdk
+  - number: '038'
+    title: Lost and Found
+    url: https://drive.google.com/file/d/1ODvQExhvSD9BEoJts4XJeFLbQx5J_fau/view?usp=drivesdk
+  - number: '039'
+    title: Infestation
+    url: https://drive.google.com/file/d/1_qkgGqarpvhFukN_BlaFWuA-diZ4U9FB/view?usp=drivesdk
+  - number: '040'
+    title: Human Remains
+    url: https://drive.google.com/file/d/1_bd3trQmWtvaYJ8TvWxhPiw1VLmNq-tp/view?usp=drivesdk
+  - number: '041'
+    title: Too Deep
+    url: https://drive.google.com/file/d/1d6FCsAeeKxIlsidEFZ65-vHh832L0fq0/view?usp=drivesdk
+  - number: '042'
+    title: Grifter's Bone
+    url: https://drive.google.com/file/d/1bz87E3i4Ajzm04koHi6NNBNoZ1xb4SbF/view?usp=drivesdk
+  - number: '043'
+    title: Section 31
+    url: https://drive.google.com/open?id=1WiYhk-CmlonZgrPTu4dIAAO7AQcCBm2o
+  - number: '044'
+    title: Tightrope
+    url: https://drive.google.com/open?id=1EXLWor7dRltvE61_fj1ucK9_042koQKG
+  - number: '045'
+    title: Blood Bag
+    url: https://drive.google.com/open?id=1JBpZ3HjQrP4xBYryhAzVQas_iSTt7WaZ
+  - number: '068'
+    title: The Tale of a Field Hospital
+    url: https://drive.google.com/file/d/0B9_duj3FayX3QzVGWThFNl9OU0U/view?usp=drivesdk
+  - number: '069'
+    title: Thought for the Day
+    url: https://drive.google.com/file/d/0B9_duj3FayX3QVB6WmU0UUE3dWs/view?usp=drivesdk
+  - number: '070'
+    title: Book of the Dead
+    url: https://drive.google.com/file/d/0B9_duj3FayX3SkNsVS1rTnBQdDQ/view?usp=drivesdk
+  - number: '071'
+    title: Underground
+    url: https://drive.google.com/file/d/0B9_duj3FayX3TTdwTHNXT3JfN1k/view?usp=drivesdk
+  - number: '072'
+    title: Takeaway
+    url: https://drive.google.com/file/d/0B9_duj3FayX3bE9TdHhEMlhBalE/view?usp=drivesdk
+  - number: '073'
+    title: Police Lights
+    url: https://drive.google.com/file/d/0B9_duj3FayX3MU85UGRqUE42T0E/view?usp=drivesdk
+  - number: '074'
+    title: Fatigue
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdT3g1R3J4VTk2Zkk/view?usp=drivesdk
+  - number: '075'
+    title: A Long Way Down
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdSm10a0NpT1ctUms/view?usp=drivesdk
+  - number: '076'
+    title: The Smell of Blood
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdNzl0Y3BWLWhzZEk/view?usp=drivesdk
+  - number: '077'
+    title: The Kind Mother
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdVWdGaWVvY0RybVk/view?usp=drivesdk
+  - number: '078'
+    title: Distant Cousin
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdbzl1U0o5SkZDbmM/view?usp=drivesdk
+  - number: '079'
+    title: Hide and Seek
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdRHlOS2pGZnh0RFE/view?usp=drivesdk
+  - number: '080'
+    title: The Librarian
+    url: https://drive.google.com/file/d/0BwU6M4sYgbYdOUhKdjFwLTRfY2M/view?usp=drivesdk
+  - number: '081'
+    title: A Guest for Mr. Spider
+    url: https://drive.google.com/file/d/1cnWcoyP3bva5yPduBsEJzzJ-pXeYDsVW/view?usp=drivesdk
+  - number: '082'
+    title: The Eyewitnesses
+    url: https://drive.google.com/file/d/12Mu6ME7DdBxkqzomt9IAhHhhSipvDVru/view?usp=drivesdk
+  - number: '083'
+    title: Drawing a Blank
+    url: https://drive.google.com/file/d/1t037FEMfL8sOsidp7UKuhW9AToSXmrJK/view?usp=drivesdk
+  - number: '084'
+    title: Possessive
+    url: https://drive.google.com/file/d/1VxdBrF5bbxpqsw0uQlnfRpAkg961ubAD/view?usp=drivesdk
+  - number: '085'
+    title: Upon the Stair
+    url: https://drive.google.com/file/d/1rTCKzo3RiMKYRofhZ3fD4b01sJsx83AR/view?usp=drivesdk
+  - number: '086'
+    title: Tucked In
+    url: https://drive.google.com/file/d/1Lja8B-mhgynhy91d0HC7kYQ05SPU-bIF/view?usp=drivesdk
+  - number: '087'
+    title: The Uncanny Valley
+    url: https://drive.google.com/file/d/1vVzQ1IbBB_bpQNpGrGEfyLdKTwZqNy-O/view?usp=drivesdk
+  - number: '088'
+    title: Dig
+    url: https://drive.google.com/file/d/1R8MzvPI7hJM2ymbYm_I5NYnCDAjG5SY6/view?usp=drivesdk
+  - number: '089'
+    title: Twice as Bright
+    url: https://drive.google.com/file/d/19PjB4uCRiXLlPZB3Mcd_7okRMkv8dw-p/view?usp=drivesdk
+  - number: '090'
+    title: Body Builder
+    url: https://drive.google.com/file/d/1GSWaZ2PEPaD7yGbAk-6mPT_6wInIHnpD/view?usp=drivesdk
+  - number: '091'
+    title: The Coming Storm
+    url: https://drive.google.com/file/d/15lxjYCTUekOARGFjtw6G2DXvFmOPDY4h/view?usp=drivesdk
+  - number: '092'
+    title: Nothing Beside Remains
+    url: https://drive.google.com/file/d/10iptQ5GNA0kfZHpTsnSB5xM2J4k3ZGQg/view?usp=drivesdk
+  - number: '093'
+    title: Contaminant
+    url: https://drive.google.com/file/d/1s8g-88kXDV2NTfDIavpapPxdaLTNoG6b/view?usp=drivesdk
+  - number: '094'
+    title: Dead Woman Walking
+    url: https://drive.google.com/file/d/1HBVIM5h-QRpUffv1PcoW-3KgsoNP3iSq/view?usp=drivesdk
+  - number: '095'
+    title: Absent Without Leave
+    url: https://drive.google.com/file/d/171E-XlBm2WTotUXC3ru3notkACSBTdj2/view?usp=drivesdk
+  - number: '096'
+    title: Return to Sender
+    url: https://drive.google.com/file/d/1FHFHqsIZh9devyBC2VMSnFUExu19wvro/view?usp=drivesdk
+  - number: '097'
+    title: We All Ignore the Pit
+    url: https://drive.google.com/file/d/1jOwVPdsmWUmOFeoFZrf1DoZ012HD4USM/view?usp=drivesdk
+  - number: '098'
+    title: Lights Out
+    url: https://drive.google.com/file/d/1C6qv1skZSKwWCz-VOzM8v3CVsaq5ySJj/view?usp=drivesdk
+  - number: '099'
+    title: Dust to Dust
+    url: https://drive.google.com/file/d/14OxDE0EWzqScaZXBU_mkGufExzW2Fcm_/view?usp=drivesdk
+  - number: '100'
+    title: I Guess You Had To Be There
+    url: https://drive.google.com/file/d/1JWysCq7XvkpVrNwmEuBFwy_ExF-czIgj/view?usp=drivesdk
+  - number: '101'
+    title: Another Twist
+    url: https://drive.google.com/file/d/1apy6HMdSWF9sDyaJkaSx0uvWA1OM9ivY/view?usp=drivesdk
+  - number: '102'
+    title: Nesting Instinct
+    url: https://drive.google.com/file/d/1YH2DpOVXUI_kFCPz9sg3WVkmpFpBYSfJ/view?usp=drivesdk
+  - number: '103'
+    title: Cruelty Free
+    url: https://drive.google.com/file/d/1K14fsTADPUzTfIlMOdGzyXSl-L9emNjC/view?usp=drivesdk
+  - number: '104'
+    title: Sneak Preview
+    url: https://drive.google.com/file/d/1MNt9wev2LlyShNM9xbYe75M0b7XtBJlL/view?usp=drivesdk
+  - number: '105'
+    title: Total War
+    url: https://drive.google.com/file/d/1tSzqnGLjmtLduh51bWi_p5Q67xXwmLt0/view?usp=drivesdk
+  - number: '111'
+    title: Family Business
+    url: https://drive.google.com/file/d/1P-zkqtdSpPXWL1ESdj-8aBsUddRQIYkP/view?usp=drivesdk
+  - number: '112'
+    title: Thrill of the Chase
+    url: https://drive.google.com/file/d/14BZZ89exwkM4p-GW3GPpDoHiCk8DJynt/view?usp=drivesdk
+  - number: '113'
+    title: Breathing Room
+    url: https://drive.google.com/file/d/1gC2Q-akY_jRwrzG1MJaaUIjTNt-ACA0u/view?usp=drivesdk
+  - number: '114'
+    title: Cracked Foundation
+    url: https://drive.google.com/file/d/1ZqovsWRHYBmeiy-L4E5njyoQ9vb15jrC/view?usp=drivesdk
+  - number: '115'
+    title: Taking Stock
+    url: https://drive.google.com/file/d/13Qx9gTgpNERLvA9HYl5V-MHp9VZkPdHk/view?usp=drivesdk
+  - number: '131'
+    title: Flesh
+    url: https://drive.google.com/file/d/1645hpUgQ073mUp2qTBrovvLBxWx6s1XC/view?usp=drivesdk
+  - number: '141'
+    title: Doomed Voyage
+    url: https://drive.google.com/open?id=1yYnaZp9qQQU5zPP3lf_De02Gq-GDnyva

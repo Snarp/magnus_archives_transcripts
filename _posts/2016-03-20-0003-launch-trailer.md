@@ -3,6 +3,7 @@ layout:          post
 title:           "MAG000.3 - Launch Trailer"
 date:            2016-03-20 12:00:00 -0400
 categories:      [trailer, episode]
+trailer:         true
 tags:            [Trailers, Martin Blackwood, The Archivist, Mysterious Voice, The Eye]
 statement_of:    []
 recorder:        []

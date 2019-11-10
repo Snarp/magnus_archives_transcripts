@@ -3,6 +3,7 @@ layout:          post
 title:           "MAG000.2 - #20111507 - Pre-Launch Trailer"
 date:            2016-03-19 12:00:00 -0400
 categories:      [trailer, episode]
+trailer:         true
 tags:            [Trailers, Jacob, Elias Bouchard, Gertrude Robinson, The Archivist, Scopophobia, The Eye]
 statement_of:    [Jacob]
 recorder:        [The Archivist]

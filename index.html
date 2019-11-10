@@ -14,6 +14,12 @@ layout: default
         <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
       </div>
 
+      {%- if post.trailer %}
+
+      <div class='ep-center'>
+        <a class='ep-status ep-status-trailer' href="{{ post.url | prepend: site.baseurl }}">TRAILER</a> 
+      </div>
+      {%- endif %}
       {%- if post.unfinished %}
 
       <div class='ep-center'>

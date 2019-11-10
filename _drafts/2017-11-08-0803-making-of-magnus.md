@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG080.3 - The Making of Magnus"
 date:            2017-11-08 12:00:00 -0400
-categories:      other
+categories:      special
 tags:            []
 statement_of:    []
 recorder:        []

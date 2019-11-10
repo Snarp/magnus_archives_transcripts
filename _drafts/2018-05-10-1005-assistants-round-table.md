@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG100.5 - Assistants Round Table"
 date:            2018-05-10 12:00:00 -0400
-categories:      other
+categories:      special
 tags:            []
 statement_of:    []
 recorder:        []

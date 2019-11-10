@@ -1,14 +1,14 @@
 ---
 layout:          post
-title:           "MAG S3 Trailer"
+title:           "080.4 - Season 3 Trailer"
 date:            2017-10-30 12:00:00 -0400
-categories:      other
+categories:      [trailer, episode]
 tags:            [Trailers, Alice 'Daisy' Tonner, Elias Bouchard, The Calliaphone, Police, Music, The Stranger]
 statement_of:    []
 recorder:        []
 voiced:          [Alice 'Daisy' Tonner, Elias Bouchard]
-episode_title:   'MAG S3 Trailer'
-episode_number:  
+episode_title:   'Season 3 Trailer'
+episode_number:  '080.4'
 case_number:     
 statement_date:  
 recording_date:  

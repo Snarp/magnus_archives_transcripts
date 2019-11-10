@@ -1,14 +1,14 @@
 ---
 layout:          post
-title:           "MAG S2 Trailer"
+title:           "040.1 - Season 2 Trailer"
 date:            2016-11-16 12:00:00 -0400
-categories:      other
+categories:      [trailer, episode]
 tags:            [Trailers, Martin Blackwood, The Archivist]
 statement_of:    []
 recorder:        []
 voiced:          [Martin Blackwood, The Archivist]
-episode_title:   'MAG S2 Trailer'
-episode_number:  
+episode_title:   'Season 2 Trailer'
+episode_number:  '040.1'
 case_number:     
 statement_date:  
 recording_date:  

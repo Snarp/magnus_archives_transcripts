@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG100.1 - Deadlands Special Part 1"
 date:            2018-04-11 12:00:00 -0400
-categories:      other
+categories:      special
 tags:            [Non-Canon, Deadlands]
 statement_of:    []
 recorder:        []

@@ -18,14 +18,14 @@ $font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
 
 // Solarized Variables
 
-$base03:  #002b36; // darkest
-$base02:  #073642;
-$base01:  #586e75;
-$base00:  #657b83;
-$base0:   #839496;
-$base1:   #93a1a1;
-$base2:   #eee8d5;
-$base3:   #fdf6e3; // lightest
+$base03:  #000000; // darkest
+$base02:  #000000;
+$base01:  #000000;
+$base00:  #666666;
+$base0:   #666666;
+$base1:   #f2f2f2;
+$base2:   #f2f2f2;
+$base3:   #ffffff; // lightest
 $yellow:  #b58900;
 $orange:  #cb4b16;
 $red:     #dc322f;
@@ -35,13 +35,16 @@ $blue:    #268bd2;
 $cyan:    #2aa198;
 $green:   #859900;
 
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+/*$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
 $font-family-monospace:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
+
+/*$font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;*/
+$font-family-sans-serif: $font-family-monospace;
+$font-family-serif:      $font-family-monospace;
 
 // Our variables
 
-$base-font-family:   $font-family-serif;
+$base-font-family:   $font-family-monospace;
 $base-font-size:     18px;
 $base-font-weight:   400;
 $base-line-height:   $base-font-size * 1.618;
@@ -53,14 +56,14 @@ $grey-color:         $base0;
 $grey-color-light:   $base1; 
 $grey-color-dark:    $base00; 
 
-$background-color:   $base3; 
+$background-color:   #ffffff; 
 $brand-color:        $grey-color-dark; 
-$text-color:         $grey-color-dark; 
+$text-color:         #000000; 
 $accent-color:       $green;
 $title-color:        $green; 
 $warning-text-color: $orange; 
-$muted-text-color:   $grey-color-light;
-$highlight-bg-color: $base2;
+$muted-text-color:   #000000;
+$highlight-bg-color: #ffffff;
 
 // Width of the content area
 // $content-width:      800px;
@@ -88,5 +91,6 @@ $on-laptop:          800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting", 
+        "homestuck"
 ;

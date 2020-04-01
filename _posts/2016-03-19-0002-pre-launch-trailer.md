@@ -27,24 +27,18 @@ wiki_url:
 
 ##### [CLICK]
 
-#### ARCHIVIST
+<span class="archivist">ARCHIVIST: Test... test...</span>
 
-Test... test...
+<span class="archivist">ARCHIVIST: Elias, hopefully if you hear this it means I've found a way to record those 'difficult' statements I was telling you about. While I hate to speak ill of the dead, the previous Archivist left this place in such a dreadful mess, even an organisation with such an 'unusual' focus as the Magnus Institute needs a well-organised archive. As you know, I've been going through trying to digitise and record audio versions but I've been having trouble with a few of the more... bizarre statements. There have been sufficient distortions as to make them utterly unintelligible.</span>
 
-Elias, hopefully if you hear this it means I've found a way to record those 'difficult' statements I was telling you about. While I hate to speak ill of the dead, the previous Archivist left this place in such a dreadful mess, even an organisation with such an 'unusual' focus as the Magnus Institute needs a well-organised archive. As you know, I've been going through trying to digitise and record audio versions but I've been having trouble with a few of the more... bizarre statements. There have been sufficient distortions as to make them utterly unintelligible.
+<span class="archivist">ARCHIVIST: Thankfully, though, I managed to unearth this old tape recorder from storage, and these cassettes, archaic as they may be, are still better than nothing. So, with that in mind, I thought I'd take it for a spin, as it were. I've taken the shortest of the problem statements, and I'm trying it here. Frankly, I wouldn't normally bother with something so... fragmented but it should be fine as a test.</span>
 
-Thankfully, though, I managed to unearth this old tape recorder from storage, and these cassettes, archaic as they may be, are still better than nothing. So, with that in mind, I thought I'd take it for a spin, as it were. I've taken the shortest of the problem statements, and I'm trying it here. Frankly, I wouldn't normally bother with something so... fragmented but it should be fine as a test.
+<span class="archivist">ARCHIVIST: Statement of Jacob, no second name given, regarding... god knows what. Original statement given July 15th 2011.</span>
 
-Statement of Jacob, no second name given, regarding... god knows what. Original statement given July 15th 2011.
+<span class="archivist">ARCHIVIST: Statement begins.</span>
 
-Statement begins.
+<span class="statement archivist-statement">ARCHIVIST (STATEMENT): It'll get you too. You can stare all you want, make your notes and your inquiries, but all your beholding will come to nothing. When the time arrives, and all is darkness and butchery, you'll wish you had stopped listening and run.</span>
 
-#### ARCHIVIST (STATEMENT)
-
-It'll get you too. You can stare all you want, make your notes and your inquiries, but all your beholding will come to nothing. When the time arrives, and all is darkness and butchery, you'll wish you had stopped listening and run.
-
-#### ARCHIVIST
-
-Statement ends.Yes, well, you see why I wouldn't have otherwise recorded it. Not exactly something for posterity, but, nonetheless, let me know if you're able to hear that correctly Elias. If so, I think we can begin transcribing the rest of the statements.
+<span class="archivist">ARCHIVIST: Statement ends.Yes, well, you see why I wouldn't have otherwise recorded it. Not exactly something for posterity, but, nonetheless, let me know if you're able to hear that correctly Elias. If so, I think we can begin transcribing the rest of the statements.</span>
 
 ##### [CLICK]

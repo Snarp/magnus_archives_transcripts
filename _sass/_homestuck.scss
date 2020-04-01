@@ -1,0 +1,87 @@
+.comicsans, .sbahj, .herbert { font-family: Comic Sans, Comic Sans MS, cursive; }
+.herbertpink, .herbertroxy { font-family: Comic Sans, Comic Sans MS, cursive;
+  color: #ff6ff2; }
+.pesterlog { color: #000000; }
+
+.aradia, .damara { color: #a10000; }
+.bro, .dirk, .davesprite { color: #f2a400; }
+.caliborn, .undyingumbrage { color: #323232; }
+.calibornwins { color: #2ed73a; }
+.calliope, .uranianumbra { color: #929292; }
+.dave, .AR, .arquius, .arquiusprite { color: #e00707; }
+.equius, .horuss { color: #000056; }
+.eridan, .cronus { color: #6a006a; }
+.exile { color: #ffffff;
+  background-color: #000000; }
+.feferi, .meenah, .hic { color: #77003c; }
+.gamzee, .kurloz { color: #2b0057; }
+.jade, .erisol, .erisolsprite { color: #4ac925; }
+.jake, .jadesprite { color: #1f9400; }
+.jane, .nanna, .nannasprite { color: #00d5f2; }
+.john, .tavris, .tavrisprite { color: #0715cd; }
+.kanaya, .porrim { color: #008141; }
+.kankri, .altkarkat { color: #ff0000; }
+.karkat { color: #626262; }
+.nepeta, .meulin { color: #416600; }
+.rose, .fefeta, .fefetasprite { color: #b536da; }
+.roxy, .jaspers, .jaspersprite, .mom { color: #ff6ff2; }
+.scratch, .scratch-white { color: #ffffff;
+  background-color: #ffffff; }
+.scratch-green { color: #ffffff;
+  background-color: #1f9400; }
+.sollux, .mituna { color: #a1a100; }
+.tavros, .rufioh { color: #a15000; }
+.terezi, .latula { color: #008282; }
+.vriska, .aranea, .mindfang { color: #005682; }
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+div.entry-content { 
+  font-family: 'courier-std', courier, monospace; 
+  font-size:   14px;
+  line-height: 1.35;
+  p, h5 { 
+    font-family:    'courier-std', courier, monospace; 
+    font-size:      14px;
+    line-height:    1.35;
+    padding-top:    0; 
+    padding-bottom: 0; 
+    margin-top:     0; 
+    margin-bottom:  0; }
+}
+
+.archivist { @extend .john; }
+.archivist-statement { color: #135567; }
+.archivist-final-statement { color: #1f9400; }
+.gertrude { @extend .terezi; }
+.gertrude-statement { color: #108B41; }
+.martin, .martins-echo { @extend .vriska; }
+.martin-statement { color: #107541; }
+.elias { @extend .scratch-green; }
+.elias-statement { @extend .scratch-white; }
+.basira { @extend .rose; }
+.basira-statement { color: #6A656D; }
+.daisy, .daisy-statement { @extend .kanaya; }
+.sasha, .sasha-statement { @extend .nepeta; }
+.not-sasha, .not-sasha-statement { @extend .gamzee; }
+.tim, .tim-statement { @extend .tavros; }
+.georgie, .georgie-statement { @extend .sollux; }
+.melanie { @extend .karkat; }
+.mystery-figure, .leitner { @extend .jake; }
+.peter, .peter-statement, .peters-echo { @extend .eridan; }
+.gerard, .gerry, .gerard-statement { @extend .aradia; }
+.mary, .mary-statement { @extend .kankri; }
+
+.trevor, .trevor-statement, .julia, .julia-statement { @extend .exile; }
+.oliver, .oliver-statement { @extend .equius; }
+.simon, .simon-statement, .unknown { @extend .feferi; }
+.jared, .jared-statement { @extend .caliborn; }
+.michael, .michael-statement, .helen { @extend .rainbow; }
+.nikola, .orsinov { @extend .herbertpink; }
+.breekon, .hope, .breekon-statement, .deliverymen { @extend .sbahj; }

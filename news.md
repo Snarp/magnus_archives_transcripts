@@ -29,3 +29,4 @@ Hello! For... several reasons, it seems like the Archive Archive A has been gett
 
 * __The Admiral__ is now __softer and fluffier__.
 
+<a href="https://snarp.github.io/mag_transcripts_april_2019/">The original version of the site can be viewed here.</a>

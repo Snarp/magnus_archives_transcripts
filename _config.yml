@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Magnus Archives Transcripts Archive Archive A (Extremely Unofficial)
+title: The Magnus Archives Transcripts Archive Archive Aa (Extremely Unofficial)
 email: snarp@snarp.work
 author: snarp
 # description: > # this means to ignore newlines until "baseurl:"

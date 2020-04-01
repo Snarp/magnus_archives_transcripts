@@ -148,7 +148,7 @@
     .post-subtitle {
         font-family:     $font-family-monospace;
         font-size:       120%; 
-        color:           $grey-color-light; 
+        color:           $grey-color; 
         display:         flex;
         justify-content: center;
         margin:          $spacing-unit/2 0 0;
@@ -227,7 +227,7 @@
     span {
         color:          $brand-color;
         display:        block;
-        font-family:    Montserrat, $font-family-sans-serif;
+        font-family:    $font-family-sans-serif;
         font-size:      0.75rem;
         font-style:     normal;
         letter-spacing: 1px;
@@ -316,7 +316,7 @@
         color:        $yellow; 
     }
     .ep-date {
-        color:        $grey-color-light; 
+        color:        $green; 
     }
 }
 
@@ -325,7 +325,7 @@
     .ep-transcriber { margin:      $spacing-unit 0 $spacing-unit/2; }
     .ep-source      { font-weight: bold; }
     .ep-title { 
-        color: $grey-color-light; 
+        color: $grey-color; 
         &:hover { color: $grey-color; }
     }
     li:nth-child(odd){ .ep-title { 

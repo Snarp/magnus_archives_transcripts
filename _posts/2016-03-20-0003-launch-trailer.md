@@ -27,53 +27,47 @@ wiki_url:
 
 ##### [CLICK]
 
-#### ARCHIVIST
+<span class="archivist">ARCHIVIST: Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh.</span>
 
-Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh.
-
-Original statement giv--
+<span class="archivist">ARCHIVIST: Original statement giv--</span>
 
 ##### [CLUNK]
 
-_[Inquiringly]_ Hello? _[Pause]_ Hello?
+<span class="archivist">ARCHIVIST: _[Inquiringly]_ Hello? _[Pause]_ Hello?</span>
 
-...
+<span class="archivist">ARCHIVIST: ...</span>
 
-This archive is off-limits.
+<span class="archivist">ARCHIVIST: This archive is off-limits.</span>
 
 ##### [MUFFLED THUD]
 
-Is anyone there?
+<span class="archivist">ARCHIVIST: Is anyone there?</span>
 
-...
+<span class="archivist">ARCHIVIST: ...</span>
 
-Martin? Martin, is that you?
+<span class="archivist">ARCHIVIST: Martin? Martin, is that you?</span>
 
-...
+<span class="archivist">ARCHIVIST: ...</span>
 
 ##### [CHAIR SCRAPES]
 
-I swear, if he's brought another dog in here, I'm going to peel him. _[Voice fades as Archivist leaves]_
+<span class="archivist">ARCHIVIST: I swear, if he's brought another dog in here, I'm going to peel him. _[Voice fades as Archivist leaves]_</span>
 
 ##### [SILENCE, THEN...]
 
-#### MYSTERIOUS VOICE
+<span class="mysterious-voice">MYSTERIOUS VOICE: _[Faint over static]_ Vigilo. Audio. Opperior.</span>
 
-_[Faint over static]_ Vigilo. Audio. Opperior.
+<span class="mysterious-voice">MYSTERIOUS VOICE: _[Getting louder, quicker and more staticky]_</span>
+<span class="mysterious-voice">MYSTERIOUS VOICE: Vigilo. Audio. Opperior.</span>
+<span class="mysterious-voice">MYSTERIOUS VOICE: Vigilo. Audio. Opperior.</span>
+<span class="mysterious-voice">MYSTERIOUS VOICE: Vigilo. Audio. Opperior.</span>
+<span class="mysterious-voice">MYSTERIOUS VOICE: Vigilo. Audio. Opperior.</span>
+<span class="mysterious-voice">MYSTERIOUS VOICE: Vigilo. Audio. Opperior.</span>
 
-_[Getting louder, quicker and more staticky]_
-Vigilo. Audio. Opperior.
-Vigilo. Audio. Opperior.
-Vigilo. Audio. Opperior.
-Vigilo. Audio. Opperior.
-Vigilo. Audio. Opperior.
-
-#### ARCHIVIST
-
-_[muttering impatiently to self]_ ...piled so many files on a shelf. Don't buy them from IKEA. Oh, it's, uh, still running.
+<span class="archivist">ARCHIVIST: _[muttering impatiently to self]_ ...piled so many files on a shelf. Don't buy them from IKEA. Oh, it's, uh, still running.</span>
 
 ##### [CLEARS THROAT]
 
-Let's, uh, let's try this again.
+<span class="archivist">ARCHIVIST: Let's, uh, let's try this again.</span>
 
 ##### [CLICK]

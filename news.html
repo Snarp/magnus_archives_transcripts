@@ -1,0 +1,20 @@
+---
+layout: page_default
+title: 'Site News'
+---
+
+<div class="table-of-contents">
+  <div class="wrapper">
+
+    <h2 style="text-align: center;">{{page.title}}</h2>
+
+    <ul>
+  {% for post in site.news %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} - <strong>{{ post.title | escape }}</strong></a>
+      </li>
+  {% endfor %}
+    </ul>
+
+  </div>
+</div>

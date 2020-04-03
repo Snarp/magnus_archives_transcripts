@@ -11,6 +11,10 @@
 #   shortname: Incomplete
 #   path:      incomplete.html
 #   local:     true
+- name:      Site News
+  shortname: News
+  path:      news.html
+  local:     true
 - name:      Community-Maintained Episode Content Warnings
   shortname: Content Warnings
   path:      https://docs.google.com/document/d/1KLuJa1AaT8m5rzBOvvtzeEWT9piQ715bss4hkbLBXmA/edit

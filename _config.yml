@@ -28,6 +28,10 @@ language: en-us
 
 permalink: /:categories/:title:output_ext
 
+collections:
+  news: 
+    output: true
+
 # Build settings
 markdown: kramdown
 kramdown:

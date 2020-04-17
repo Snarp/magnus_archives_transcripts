@@ -9,11 +9,10 @@ title: 'Site News'
     <h2 style="text-align: center;">{{page.title}}</h2>
 
     <ul>
-  {% for post in site.news %}
-      <li>
+  {% assign news_posts = site.news | reverse %}
+  {% for post in news_posts %}<li>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} - <strong>{{ post.title | escape }}</strong></a>
-      </li>
-  {% endfor %}
+      </li>{% endfor %}
     </ul>
 
   </div>

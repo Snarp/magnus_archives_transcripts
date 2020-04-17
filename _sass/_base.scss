@@ -1,9 +1,16 @@
+.muted   { color: $muted-text-color; }
+.warning { color: $warning-text-color; }
+
+@mixin small-text {
+    font-size: $small-font-size; line-height: $small-line-height;
+}
+.small { @include small-text; }
+// .small   { font-size: $small-font-size; line-height: $small-line-height; }
+
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, 
-dl, dd, ol, ul, figure {
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, dl, dd, ol, ul, figure {
     margin:  0;
     padding: 0;
 }
@@ -39,9 +46,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
+%vertical-rhythm { margin-bottom: $spacing-unit / 2; }
 
 
 
@@ -52,33 +57,10 @@ article {
     background:    $background-color;
     margin-bottom: $spacing-unit;
 
-    @include media-query($on-palm) {
-        padding: 1em 1em 0.3em;
-    }
+    @include media-query($on-palm) { padding: 1em 1em 0.3em; }
 
     > .entry-content {
-        @include media-query($on-palm) {
-            font-size: $small-font-size;
-        }
-
-        h4 { // Speaker Label
-            font-size:   1rem; 
-            margin-top:  $spacing-unit; 
-            text-align:  center; 
-            font-weight: bold; 
-            color:       $base01; 
-            @include media-query($on-palm) {
-                font-size: $small-font-size;
-            }
-        }
-        h5 { // Caption Label
-            font-size:      1rem; 
-            color:          $muted-text-color; 
-            text-transform: uppercase;
-            @include media-query($on-palm) {
-                font-size: $small-font-size;
-            }
-        }
+        @include media-query($on-palm) { font-size: $small-font-size; }
     }
 }
 
@@ -137,8 +119,7 @@ ul, ol {
 }
 
 li {
-    > ul,
-    > ol {
+    > ul, > ol {
          margin-bottom: 0;
     }
 }
@@ -161,7 +142,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color:           $accent-color;
     text-decoration: none;
-
     &:hover {
         color:           darken($accent-color, 10%);
         text-decoration: none;
@@ -179,13 +159,9 @@ blockquote {
     padding:          $spacing-unit / 2;
     font-size:        1rem;
 
-    @include media-query($on-palm) {
-        font-size: $small-font-size;
-    }
+    @include media-query($on-palm) { font-size: $small-font-size; }
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+    > :last-child { margin-bottom: 0; }
 }
 
 
@@ -193,8 +169,7 @@ blockquote {
 /**
  * Code formatting
  */
-pre,
-code {
+pre, code {
     font-size:        15px;
     border:           1px solid $grey-color-light;
     border-radius:    3px;
@@ -244,11 +219,10 @@ pre {
  * Clearfix
  */
 %clearfix {
-
     &:after {
         content: "";
         display: table;
-        clear: both;
+        clear:   both;
     }
 }
 

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="post">
 <header class="post-header">
 	<div class="wrapper">
 		{% include post-nav.html %}
@@ -20,18 +21,27 @@ layout: default
 			{{ page.date | date: "%B %-d, %Y" }}
 		</div>
 
+		{% if page.summary %}<div class="post-header-section post-summary post-links post-meta">
+			<div class="label">Summary</div>
+			<div class="content">{{ page.summary }}</div>
+		</div>{% endif %}
+		{% if page.content_flags %}<div class="post-header-section post-flags post-links post-meta">
+			<div class="label">Warning</div>
+			<div class="content">{{ page.content_flags | join: ", " }}</div>
+		</div>{% endif %}
+
 		<div class="post-links post-meta">
 			<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
 
-			{% if page.official or page.unofficial %}
-				{% if page.official %}
-				<br />Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
-				{% elsif page.unofficial %}
-				<br />Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
-				{% endif %}
+		{% if page.official or page.unofficial %}
+			{% if page.official %}
+			<br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
+			{% elsif page.unofficial %}
+			<br/>Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
 			{% endif %}
+		{% endif %}
 
-			<br />Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
+			<br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
 			{% if page.google_doc %}
 				| <a class="source-link source-google-doc" target="_blank" href="{{ page.google_doc }}">Google Doc</a> 
 			{% endif %}
@@ -43,20 +53,14 @@ layout: default
 			{% endif %}
 		</div>
 
-		{% if page.content_flagss %}
-		<div class="post-links post-meta post-flags">
-			{%- for flag in page.content_flags %}*<b>{{ flag }}</b> {% endfor -%}
-		</div>
-		{% endif %}
-
-		{% if page.unfinished %}<div class='post-warnings'>
+		{% if page.unfinished %}<div class='warning'>
 			<em>This transcript is incomplete.</em>
 		</div>{% endif %}
-	</div><!-- div.wrapper -->
-</header><!-- header.post-header -->
+	</div><!-- /div.wrapper -->
+</header><!-- /header.post-header -->
 
 <div class="wrapper">
-	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<article class="post-body" itemscope itemtype="http://schema.org/BlogPosting">
 		<div class="entry-content" itemprop="articleBody">
 			{{ content }}
 		</div>
@@ -68,3 +72,4 @@ layout: default
 		{% include post-nav.html %}
 	</div>
 </footer>
+</div><!-- /div.post -->

@@ -9,7 +9,7 @@
     {%- if link.local -%}
     <span><a href="{{site.baseurl}}/{{link.path}}">{{link.shortname}}</a></span>
     {%- else -%}
-    <span><a href="{{link.path}}">{{link.shortname}}</a></span>
+    <span><a target="_blank" href="{{link.path}}">{{link.shortname}}</a></span>
     {%- endif -%}
   {% endfor %}
   </div>

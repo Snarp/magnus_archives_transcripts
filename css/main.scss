@@ -3,20 +3,13 @@
 ---
 @charset "utf-8";
 
+// FONTS
 
-// Font variables
-$font-name:           libretto-icons;
-$font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-monospace:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
 
-@font-face {
-    font-family: $font-name;
-    src: url($font-path-file-name+'.eot'); /* IE9 Compat Modes */
-    src: url($font-path-file-name+'.woff') format('woff'), /* Pretty Modern Browsers */
-         url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
-         url($font-path-file-name+'.svg#font_name') format('svg'); /* Legacy iOS */
-}
-
-// Solarized Variables
+// SOLARIZED COLOR SCHEME
 
 $base03:  #002b36; // darkest
 $base02:  #073642;
@@ -35,11 +28,7 @@ $blue:    #268bd2;
 $cyan:    #2aa198;
 $green:   #859900;
 
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-$font-family-monospace:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-family-serif:      "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
-
-// Our variables
+// OTHER VARIABLES
 
 $base-font-family:   $font-family-serif;
 $base-font-size:     18px;
@@ -48,6 +37,7 @@ $base-line-height:   $base-font-size * 1.618;
 $spacing-unit:       $base-line-height;
 
 $small-font-size:    0.8rem;
+$small-line-height:  $small-font-size * 1.618;
 
 $grey-color:         $base0; 
 $grey-color-light:   $base1; 
@@ -62,18 +52,30 @@ $warning-text-color: $orange;
 $muted-text-color:   $grey-color-light;
 $highlight-bg-color: $base2;
 
+$dark-background-color:     $base03;
+$dark-highlight-bg-color:   $base02;
+$dark-highlight-text-color: $base1;
+$dark-muted:                $base01;
+$dark-text-color:           $base0;
+
 // Width of the content area
-// $content-width:      800px;
 $content-width:      calc(620px + (#{$spacing-unit}*2));
 
 $on-palm:            600px;
 $on-laptop:          800px;
 
+
+@mixin dark-mode {
+  background-color: $dark-background-color; 
+  color:            $dark-text-color;
+}
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-left:  $spacing-unit / 2;
 //     }
 // }
 @mixin media-query($device) {
@@ -81,7 +83,6 @@ $on-laptop:          800px;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

@@ -13,7 +13,7 @@ case_number:
 statement_date:  
 recording_date:  
 event_date:      
-summary:         "Happy last week of hiatus! Join us behind-the-scenes as the familiar voices of the Magnus Institute's archival assistants break character to discuss their thoughts on performance, inspiration, and horror. As an added bonus, here is a short must-read (or play) list from Alex, Mike, and Lydia: <br/> <br/>* Alien Isolation - Creative Assembly (not read but play!) <br/>* Blindsight - Peter Watts <br/>* Dracula - Bram Stoker <br/>* Swamp Thing - DC Comics (Alan Moore) <br/>* The Dunwich Horror - H.P. Lovecraft <br/>* The Shadow over Innsmouth - H.P. Lovecraft <br/> <br/>Stay tuned for a shiny new Magnus episode next week!"
+summary:         "Happy last week of hiatus! Join us behind-the-scenes as the familiar voices of the Magnus Institute's archival assistants break character to discuss their thoughts on performance, inspiration, and horror. As an added bonus, here is a short must-read (or play) list from Alex, Mike, and Lydia: <br/><br/>* Alien Isolation - Creative Assembly (not read but play!) <br/>* Blindsight - Peter Watts <br/>* Dracula - Bram Stoker <br/>* Swamp Thing - DC Comics (Alan Moore) <br/>* The Dunwich Horror - H.P. Lovecraft <br/>* The Shadow over Innsmouth - H.P. Lovecraft <br/><br/>Stay tuned for a shiny new Magnus episode next week!"
 content_flags:   [Spoilers!, Gruesome horror prop discussion]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.5-assistantsroundtable
 pdf:             

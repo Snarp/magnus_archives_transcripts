@@ -25,7 +25,8 @@ layout: default
 			<div class="label">Summary</div>
 			<div class="content">{{ page.summary }}</div>
 		</div>{% endif %}
-		{% if page.content_flags %}<div class="post-header-section post-flags post-links post-meta">
+		
+		{% if page.content_flags and page.content_flags.size > 0 %}<div class="post-header-section post-flags post-links post-meta">
 			<div class="label">Warning</div>
 			<div class="content">{{ page.content_flags | join: ", " }}</div>
 		</div>{% endif %}

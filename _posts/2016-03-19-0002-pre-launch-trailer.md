@@ -21,7 +21,7 @@ pdf:             https://drive.google.com/open?id=11-o-0-ePh5Dzoj99OnVv785uGciq_
 accessible_pdf:  https://drive.google.com/open?id=1KXu1otvCQhm3iCywMoCS7nKVz0ZS-yZx
 google_doc:      
 official:        true
-wiki_url:        
+wiki_url:        https://the-magnus-archives.fandom.com/wiki/MAG_0.1
 ---
 
 
@@ -45,6 +45,6 @@ It'll get you too. You can stare all you want, make your notes and your inquirie
 
 #### ARCHIVIST
 
-Statement ends.Yes, well, you see why I wouldn't have otherwise recorded it. Not exactly something for posterity, but, nonetheless, let me know if you're able to hear that correctly Elias. If so, I think we can begin transcribing the rest of the statements.
+Statement ends. Yes, well, you see why I wouldn't have otherwise recorded it. Not exactly something for posterity, but, nonetheless, let me know if you're able to hear that correctly Elias. If so, I think we can begin transcribing the rest of the statements.
 
 ##### [CLICK]

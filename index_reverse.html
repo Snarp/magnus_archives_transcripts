@@ -6,9 +6,9 @@ layout: default
 <div class="wrapper">
 
 <ul>
-<li class='ep-sort'><a href="{{ site.baseurl }}/index_reverse.html">⇅</a> <a href="{{ site.baseurl }}/index_reverse.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index_reverse.html">⇅</a></li>
+  <li class='ep-sort'><a href="{{ site.baseurl }}/index.html">⇅</a> <a href="{{ site.baseurl }}/index.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index.html">⇅</a></li>
 
-{% assign episodes = site.posts | where: "categories", "episode" %}
+{% assign episodes = site.posts | where: "categories", "episode" | reverse %}
 {% for post in episodes %}
   <li>
     <div class='ep-left'>

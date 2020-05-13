@@ -297,9 +297,15 @@
             padding:         0.4rem 0.6rem;
             div { display:   inline-block; }
         }
-        li:nth-child(odd){ background: $base2; }
+        li:nth-child(odd){ background: $highlight-bg-color; }
     }
 
+    li.ep-sort { 
+        text-align:    center; 
+        align-content: space-between; 
+        color:         $grey-color-light; 
+        a { color:     $grey-color-light; }
+    }
     .ep-left {
         flex-grow: 2;
     }

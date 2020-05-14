@@ -1,41 +1,39 @@
 ---
-layout: default
+layout: page_default
 title: 'Special Episodes - Q&A, Contest Winners, Etc.'
 ---
 
 <div class="table-of-contents">
-  <div class="wrapper">
+<div class="wrapper">
 
-    <h2>{{page.title}}</h2>
+<ul>
+{% assign episodes = site.posts | where: "categories", "special" %}
+{% for post in episodes %}
+  <li>
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+    </div>
 
-    <ul>
-  {% assign episodes = site.posts | where: "categories", "special" %}
-  {% for post in episodes %}
-      <li>
-        <div class='ep-left'>
-          <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-          <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-        </div>
+    {%- if post.unfinished %}
 
-        {%- if post.unfinished %}
+    <div class='ep-center'>
+      <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+    </div>
+    {%- elsif post.unofficial %}
 
-        <div class='ep-center'>
-          <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
-        </div>
-        {%- elsif post.unofficial %}
+    <div class='ep-center'>
+      <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
+    </div>
+    {%- else -%}
+    {%- endif %}
 
-        <div class='ep-center'>
-          <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
-        </div>
-        {%- else -%}
-        {%- endif %}
+    <div class='ep-right'>
+      <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
 
-        <div class='ep-right'>
-          <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
-        </div>
-      </li>
-  {% endfor %}
-    </ul>
-
-  </div>
+</div>
 </div>

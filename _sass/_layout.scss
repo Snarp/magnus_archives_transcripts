@@ -364,6 +364,8 @@
 /**
  * Error pages
  */
+
+h1.error { color: $red; }
 .error {
-    text-align: center;
+    // text-align: center; 
 }

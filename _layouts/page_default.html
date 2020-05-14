@@ -4,7 +4,7 @@ layout: default
 
 <div class="page-content">
 	<div class="wrapper">
-    {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+    {% if page.title %}<h1 class="page-title center"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>{% endif %}
 
 		{{ content }}
 	</div><!-- /div.wrapper -->

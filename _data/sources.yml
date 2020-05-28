@@ -4,7 +4,7 @@
   - number: '048'
     title: Lost in the Crowd
     url: https://docs.google.com/document/d/1073PT_ZCfFxWcDG-Jj-osZqZneYjFX3tSmiZ4ePHZ_0/edit
-- name: prentissed
+- name: 'prentissed.tumblr.com'
   url: http://prentissed.tumblr.com/
   episodes: 
   - number: '049'
@@ -210,6 +210,33 @@
   - number: '160'
     title: "The Eye Opens"
     url: "https://tmatranscripts.tumblr.com/post/188732857886/mag160-the-eye-opens-case-0181810pdf"
+  - number: '161'
+    title: "Dwelling"
+    url: "https://tmatranscripts.tumblr.com/post/614297383883440128/mag161-dwelling-case-1pdf"
+  - number: '162'
+    title: "A Cosy Cabin"
+    url: "https://tmatranscripts.tumblr.com/post/614931549890199552/mag162-a-cosy-cabin-case-2pdf"
+  - number: '163'
+    title: "In the Trenches"
+    url: "https://tmatranscripts.tumblr.com/post/615565727508873217/mag163-in-the-trenches-case-3pdf"
+  - number: '164'
+    title: "The Sick Village"
+    url: "https://tmatranscripts.tumblr.com/post/616199906555789312/mag164-the-sick-village-case-4pdf"
+  - number: '165'
+    title: "Revolutions"
+    url: "https://tmatranscripts.tumblr.com/post/616834900797079552/mag165-revolutions-case-5pdf"
+  - number: '166'
+    title: "The Worms"
+    url: "https://tmatranscripts.tumblr.com/post/617468360761982976/mag166-the-worms-case-6pdf"
+  - number: '167'
+    title: "Curiosity"
+    url: "https://tmatranscripts.tumblr.com/post/618102502926204929/mag167-curiosity-case-7pdf"
+  - number: '168'
+    title: "Roots"
+    url: "https://tmatranscripts.tumblr.com/post/618736720863756288/mag168-roots-case-8pdf"
+  # - number: '169'
+  #   title: ""
+  #   url: ""
 - name: 'Official'
   url: 'https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM'
   episodes:

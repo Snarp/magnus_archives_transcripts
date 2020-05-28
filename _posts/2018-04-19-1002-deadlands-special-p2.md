@@ -20,1477 +20,3371 @@ pdf:
 accessible_pdf:  
 google_doc:      
 official:        false
-unofficial:      http://www.youtube.com/
-unofficial_name: YouTube CC
-unfinished:      true
+unofficial:      teawood
+unofficial_name: teawood
 wiki_url:        
 ---
 
+#### JONNY
 
+Hello, and welcome to part 2 of the Deadlands Halloween special--
 
+#### ALEX
 
-hi everyone Alex here with a quick
+_(simult.)_ Ooooooooh!
 
-reminder that today's episode is part
+#### JONNY
 
-two of our Horus special from rusty cool
+_(simult.)_ --at the Rusty Quill Gaming Podcast!
 
-gaming so if you didn't hear part one
+#### ALEX
 
-last week you might want to check out
+Oooooh, spooky!
 
-that episode before this one we'll be
+#### BEN
 
-releasing the first of our competition
+_(deadpan)_ So spooky.
 
-winning entries next week so thanks for
+#### JONNY
 
-listening and we hope you enjoy today's
+If you haven't listened to episode 1, then... none of this would mean anything to you, so go back and listen to episode 1. We'll see you... it doesn't take very long.
 
-episode hi everyone
+#### JAMES
 
-then here I'd just like to take a moment
+We'll see you last week.
 
-to thank some of our patrons Garret
+#### JONNY
 
-Monroe Chris Maine John W Thompson
+_(simult.)_ We'll see you soon.
 
-Gavin Taylor black Eliza Margaret MJ
+#### JAMES
 
-Stokes ish dawn a vison burger Marc
+_(simult.)_ Waheyyyyyy!
 
-young Andrew Copelan Douglas Lewis thank
+##### [BEN AND ALEX CHUCKLE]
 
-you all we really appreciate your
+#### JONNY
 
-support if you'd like to join them go to
+So, we'll continue right now. So, everyone hears an ear-splitting scream, from deep inside the cavern. Zeke, you are part of the way down your tunnel when you hear a scream from behind you. I will say, for our listeners, that in the meantime, there has been... some *secret rolling*, between Alex and the thing that was once Blackjack Bronson.
 
-WWE tree on Comm forward slash rusty
+##### [BRYN GASPS]
 
-quill and take a look at our rewards
+#### JONNY
 
-[Music]
+But nobody except me and Alex knows how that went! So.
 
-hello and welcome to part two the
+#### BRYN
 
-Deadlands Halloween special at the rusty
+Zeke turns around, and sprints towards the scream.
 
-quill gaming odd cars if you haven't
+#### JONNY
 
-listened to episode one then none of
+You run almost bodily into... Fletcher.
 
-this would mean anything to you so go
+#### NATHANIEL
 
-back and listen to episode one we'll see
+Ohh, flee! Fleeeee!
 
-you
+#### ZEKE
 
-it doesn't take the few last week so
+What happened?
 
-we'll continue right now so everyone
+#### NATHANIEL
 
-here's an ear-splitting scream from deep
+Oh, it--uh--I dunno! I dunno, Blackjack went weird! So... we gotta go! _(nervous singsong)_ There's a thing and we gotta flee...
 
-inside the cabin Zeke you are part of
+#### ZEKE
 
-the way down your tunnel when you hear a
+Where is he?
 
-scream from behind you I will say for
+#### NATHANIEL
 
-our listeners that in the mean time
+It--back there, go nuts.
 
-there has been some secret rollin
+#### ALEX
 
-between Alex and the thing that was once
+I'm immediately standing up and trying to just run past Zeke.
 
-Black Jack Bronson but nobody except me
+##### [ZEKE SIGHS]
 
-and Alex knows how that went
+#### BRYN
 
-so Zeke turns around and Sprint's
+I *reluctantly* let him flee.
 
-towards the screen you run almost bodily
+#### JONNY
 
-into Fletcher hopefully flee what
+Okay.
 
-happened oh I don't know I don't know
+#### NATHANIEL
 
-Black Jack went weird so we gotta go
+Fleeeeeeee!
 
-there's the thing and we got a flurry it
+#### BRYN
 
-back there go nuts I'm immediately
+Then go down the tunnel, towards the terrifying evil monster. 'Cause I am *not* genre-savvy.
 
-standing up and trying to just run past
+#### JONNY
 
-League I reluctantly let him flee okay
+Okay!
 
-we then go down the tunnel towards the
+##### [CHUCKLING]
 
-terrifying evil monster because I am NOT
+#### JONNY
 
-a genre savvy okay you could can't hear
+You can't hear anything from in front of you. It's about a minute of walking, same as for Fletcher. No sound, no movement. You cast your lantern around, it's a small, roughly-hewn cavern.
 
-anything from the front of you
+#### BRYN
 
-it's about minute of walking same as
+Mm-hm.
 
-Fletcher no sound no movement you cast
+#### JONNY
 
-your Lantern around it's a small roughly
+You see the scratches on the wall. You see the... nest of discarded clothes. And lying in... the center of the room, surrounded by a pool of translucent ichor... is Blackjack Bronson's skin. It looks almost entirely whole, but there is nothing inside it. The face is very recognizable, though. His moustache *sags* obscenely.
 
-hewn cavern you see the scratches on the
+#### BRYN
 
-wall you see the nest of discarded
+[CHUCKLES APPRECIATIVELY] Zeke will... poke at the... skin with his club.
 
-clothes and lying in the center of the
+#### ALEX
 
-room surrounded by a pool of translucent
+_(simult.)_ Ohhh, Zeke.
 
-a core
+#### BRYN
 
-his blackjack Bronson's skin it looks
+_(simult, laughing)_ Just...
 
-almost entirely whole but there is
+#### ALEX
 
-nothing inside it the face is very
+*Don't* poke the *thing!*
 
-recognizable his moustache sags
+#### BRYN
 
-obscenely zzzquil poke at the skin with
+Just to see if there's anything there, and then he'll do the same to the other piece of skin.
 
-his club just don't poke the thing just
+#### JONNY
 
-to see if there's anything there and
+It looks...
 
-then he'll do the same to the other
+#### BRYN
 
-piece of skin it looks and then I go
+And then he might--
 
-into the nest he's just gonna poke
+#### JONNY
 
-around I don't want to get too close how
+Poking the--
 
-many other pieces of skin they sort of
+#### BRYN
 
-start the flow away and you can see that
+--go and do it to the nest. He's just gonna poke around.
 
-they are also complete people's Worth's
+#### JONNY
 
-of skin some further decayed than others
+_(simult.)_ Poking--
 
-maybe four or five collections is there
+#### BRYN
 
-anything in the nest if I go and poke
+_(simult.)_ He doesn't wanna get too close.
 
-around nothing you can see oh there's a
+#### JONNY
 
-pocket watch actually that might fetch a
+_(simult.)_ Poking the other--
 
-few dollars it's covered in blood I
+#### ALEX
 
-pocket it mean wildly yep Fletcher runs
+_(simult.)_ *Don't* ***poke** it!*
 
-screaming into the main part of the cave
+#### JONNY
 
-flea I immediately start trying to rub
+--pieces of skin, they sort of start to flop away, and you can see that they are also... complete people's worth's of skin. Some further decayed than others. Maybe four or five... collections?
 
-up this
+#### BRYN
 
-okay he's trying to grab a horse Victor
+[SHUDDERS] Is there anything in the nest, if I go and poke around, for...
 
-what's going on death dewmocracy and
+#### JONNY
 
-shaking death only gonna get my flesh
+Not that you can see. Oh, there's a pocket watch, actually, that might fetch a... few dollars. It's covered in blood.
 
-against his chest oh come on now what's
+#### BRYN
 
-going on we gotta flee oh yeah three
+I pocket it.
 
-people go in one person comes in exactly
+#### JONNY
 
-look at me I can't take them how do I
+Meanwhile, y--
 
-know we got guns
+#### NATHANIEL
 
-they cut a little things take it I'd
+FLEEEEE!
 
-literally hand over my derringer we
+##### [ALEX LAUGHS]
 
-gotta go
+#### JONNY
 
-you're going right now it twice you shot
+Yup. Fletcher...
 
-this well yeah I shot this the things
+##### [JAMES LAUGHS]
 
-trying to get me
+#### JONNY
 
-I didn't hear a gunshot I heard you
+...runs screaming into the main part of the cave.
 
-scream too during this conversation
+#### NATHANIEL
 
-carla has taken Marjorie down is now
+Fleeeee!
 
-holding it at chess okay new plan okay
+#### ALEX
 
-great here's what I'm gonna do right I
+I immediately start trying to grab a horse.
 
-am gonna I'm gonna sit here like on the
+#### JONNY
 
-ground okay you can point your guns at
+Okay. He's trying to grab a horse.
 
-me that's fine as long as one of you
+#### CIGARILLO
 
-keeps pointing your gun at that cave
+Wh--w--Fletcher, what's goin' on?
 
-because death lots of death death what
+#### NATHANIEL
 
-does that mean point Zeke looking a bit
+Death! Doom!
 
-bloodier than he did when he went down
+#### CIGARILLO
 
-the tunnel emerges into the mouth of the
+W--just f--
 
-kill it kill it now Oh God where's
+#### ALEX
 
-blackjack some
+Grabbing and shaking.
 
-I see I told you I told you what is that
+#### NATHANIEL
 
-thing's gonna bond and we gotta kill it
+Death! Flee!
 
-or or we have an extra horse and we flee
+#### BEN
 
-we flee away we go we got that's a posse
+_(simult.)_ I'm gonna get my pistol out, and push it--
 
-out there looking for us posses don't
+#### NATHANIEL
 
-eat people they put them in jail no I
+_(simult.)_ We gotta flee! We've *gotta flee!*
 
-don't shoot them or they hang them oh
+#### BEN
 
-yeah uh it's probably just a coyote or
+--against his chest?
 
-something sure that I mean it kind of
+#### NATHANIEL
 
-ate him while I was there and it was
+Oh--*come on, now*.
 
-invisible and it ate him from the inside
+#### CIGARILLO
 
-out and it's gonna kill us all ish so
+What's goin' on?
 
-what am I talking about
+#### NATHANIEL
 
-I don't know cuz I can't see it let's go
+We gotta *flee*.
 
-give me my gun or something we flee we
+#### CIGARILLO
 
-go like how how is no one perturbed by
+Oh yeah? _(nervous panting)_ Three people go in, one person comes out?
 
-this but this is my point
+#### NATHANIEL
 
-literally dead there's a posse outside
+Exactly! Look at me, *I can't take them!*
 
-that's definitely gonna kill us
+#### CIGARILLO
 
-sounds like a Cody growl to me sounds a
+Y--u--d--h--how do I know? Uh--we got guns! They kinda level things!
 
-lot like death let's stick together
+#### NATHANIEL
 
-let's hunt this thing and I'll guard the
+*Take it!*
 
-horses you are coming with why cuz I
+#### ALEX
 
-don't like you what do you think Carl
+I literally hand over my derringer.
 
-the voice of experience as a suggestion
+#### NATHANIEL
 
-we're at the mouth of the cave and
+We *gotta go!*
 
-outside there's a posse and that's very
+#### JONNY
 
-dangerous insider may or may not be some
+_(simult.)_ It looks like it's been fired...
 
-danger why don't we Romania maintain a
+#### NATHANIEL
 
-watch looking in both directions wait it
+_(simult.)_ We gotta go *right now!*
 
-out that's an excellent plan let's do
+#### JONNY
 
-that let's wait are I the horse I am not
+...twice.
 
-waiting for a code to come for me you've
+#### CIGARILLO
 
-got a gun he's got a huge gun in there
+You *shot* this.
 
-and I'm finding it I'm killing it best
+#### NATHANIEL
 
-of luck to you as well that'll slow see
+Well, yeah, I shot this, the thing's trying to get me!
 
-I've never seen an animal eat before
+#### CIGARILLO
 
-they get slow after that's you know what
+I didn't hear a gunshot. I--I he--I heard you scream, but--
 
-you should you should go home that thing
+#### JAMES
 
-tell you what you give me my gun back I
+During this conversation, Carl has taken Marjorie down and is now holding it at... Fletcher's chest.
 
-wanna sneak coward
+#### NATHANIEL
 
-come with me have a good time guys
+Okay. New plan. Okay? Great. Here--here's what we're gonna do. Right? I am gonna--I'm gonna *sit*, *here*, like, *on the ground*, okay? You can *point* your guns at me, that's fine, as long as one of you keeps pointing your gun at *that cave*. Because *death*. Lots of *death*. Death.
 
-that'll be great
+#### CIGARILLO
 
-I I wish you all the best if you'd allow
+_(simult.)_ What does that mean?
 
-me to keep my gun oh hi every place the
+#### JONNY
 
-posse come I'll keep them at bay I'll
+_(simult.)_ At this point...
 
-hang back urine is good back not trust
+#### NATHANIEL
 
-him with it he's likely to take a shot
+_(simult.)_ Death.
 
-at you and Sherlock get out on his own
+#### JONNY
 
-you give things look just don't give me
+...Zeke, looking a bit bloodier than he did, when he went down the tunnel... emerges into the mouth of the cave.
 
-any bullets
+#### NATHANIEL
 
-why do you need to come then I'll hold
+Kill it! Kill it now!
 
-it and feel better
+#### CIGARILLO
 
-I'm gonna listen to that guy why look at
+Whoa--whoa--wh-whoa--whoa--whoa whoa, whoa!
 
-him
+#### ZEKE
 
-yeah he's big when you should know how
+Guys.
 
-to coyote oh my god if we're if we're
+#### CIGARILLO
 
-going anywhere we've got to stick
+Where's Blackjack?
 
-together there's no sense that's leavin
+#### ZEKE
 
-this useless little toss piece short or
+Something *ate* Blackjack.
 
-captioning tell us tell everyone where
+#### NATHANIEL
 
-we are
+I--see! I *told* you. I *told you!*
 
-smash cut - you're in the cave yeah
+#### CIGARILLO
 
-going down I'm gonna say you are at the
+_(simult.)_ Well, whaddaya mean "ate"?
 
-crossroad presumably all of us because
+#### NATHANIEL
 
-there's no way - yes yes you are in
+_(simult.)_ I said the things are gonna kill us--
 
-front with obviously all the guns
+#### ZEKE
 
-pointed at your back are actually
+We gotta find it and we gotta *kill it*.
 
-pointed at any dangers that might be in
+#### NATHANIEL
 
-front of you you are currently at the
+*Or*... ***or***... we have an *extra horse*. And we flee. We flee! _(nervous tune)_ Doodle-oo-doo! Away we go.
 
-way of the cave splits we'll go down the
+#### CIGARILLO
 
-right one first the one just to make
+But we got a--there's a posse out there lookin' for us.
 
-sure we thoroughly explore the nest okay
+#### NATHANIEL
 
-yeah you can find you can find your
+*Posses* don't eat people, they put them in jail.
 
-lantern it is fine I almost picked up a
+#### CIGARILLO
 
-go see see everything's fine you can
+No.
 
-give me my gun because I'm in front of
+#### NATHANIEL
 
-you all anyway just Everett keeps ya
+_(simult.)_ I don't know about--
 
-mannan you can see that there is a nest
+#### CIGARILLO
 
-which looks like it's been gradually
+_(simult.)_ They shoot them. Or they *hang* them!
 
-built up from stolen clothes piles of
+#### NATHANIEL
 
-complete sets of human skin huh see see
+Oh yeah. Uh...
 
-I don't eat people you know why because
+#### ZEKE
 
-because I couldn't fit him in where
+It's probably just a coyote or something.
 
-would I put and in the middle with a
+#### NATHANIEL
 
-nice neat seam down the back is the skin
+Y--*sure*. That. I mean. It--it kinda ate him while I was there. And it was invisible, and it ate him from the inside out, and it's gonna kill us all, ish, sorta--
 
-of blackjack Watson I'm gonna pull a
+#### CIGARILLO
 
-Hamid need for bit I'm gonna use the
+_(simult.)_ What--what're you--
 
-opportunity to try to steal my gun back
+#### NATHANIEL
 
-James could you make me a smart roll oh
+_(simult.)_ --now, why don't we--
 
-one is a six eight total yeah based on
+#### CIGARILLO
 
-what you're seeing here you'd probably
+--talkin' about?
 
-be willing to wager that whatever took
+#### NATHANIEL
 
-you on that job was not black Jack
+_(tiredly)_ *I don't know*, 'cause I can't see it, let's go, give me my gun or something, we flee, we go, like, I--t--*how--how is no one perturbed by this?*
 
-Bronson hmm based on your based on what
+#### CIGARILLO
 
-you've seen of him before your
+But--
 
-suspicions and the fact that his skin
+##### [ANOTHER LONG MENACING BREATH FROM DEEPER IN THE CAVE]
 
-suit is now lying yeah they need to roll
+#### CIGARILLO
 
-in order higher than you would have
+Y--w--
 
-before you started playing yeah Karl is
+#### NATHANIEL
 
-a very
+*This is my POINT!*
 
-man many things is the row before you
+#### CIGARILLO
 
-know I don't think that blackjack your
+Well, I'm--I'm perturbed, but--
 
-Brunson that took us on job same as what
+#### NATHANIEL
 
-chuckles no no from years ago I
+That's clearly *death!*
 
-continued trying to steal my gun Oh make
+#### CIGARILLO
 
-me a stealth roll until I make a yes me
+There's a *posse* outside that's definitely gonna kill us.
 
-too cuz I'm no you you're too busy
+#### ZEKE
 
-thinking right oh five the six explodes
+It sounds like--sounds like a coyote growl to me.
 
-to an eleven you have your gun back I
+#### NATHANIEL
 
-have my gun back you did not notice and
+*Sounds a lot like DEATH!*
 
-proceeded to on the sly try and just
+#### ZEKE
 
-load it or something with with with an
+Let's stick together, let's *hunt* this thing.
 
-eleven I'm gonna say yeah you can get
+##### [PAUSE]
 
-your gun back and you can load it as I
+#### NATHANIEL
 
-like I dropped it when I was robbed yeah
+And *I'll* guard the *horses*.
 
-I just I just pocketed no one knows that
+#### ZEKE
 
-I have my gun but I'd rather have a gun
+*You* are comin' with me.
 
-guns are good oh yeah I'm just going to
+#### NATHANIEL
 
-explore this carbon fully maybe or a
+*Why?*
 
-coyote you see you see this this is what
+#### ZEKE
 
-I'm getting at well what do you what do
+'Cause I don't like ya.
 
-you think it was I I think it was death
+#### CIGARILLO
 
-on legs I think it was death on legs and
+What d'you think, Carl?
 
-it's coming for us we can leave there
+#### CARL
 
-are horses horses have for this thing
+THE--THE VOICE OF EXPERIENCE HAS A SUGGESTION. WE'RE HERE AT THE MOUTH OF THE CAVE, AND OUTSIDE THERE'S A POSSE AND THAT'S VERY DANGEROUS. INSIDE, THERE MAY OR MAY NOT BE SOME DANGER. WHY DON'T WE REMAIN HERE, MAINTAIN A WATCH LOOKING IN BOTH DIRECTIONS, AND WAIT IT OUT?
 
-presumably have animals the damage the
+#### NATHANIEL
 
-skin
+That's an *excellent* plan, let's do that--
 
-oh no he's still just some you stick a
+#### CIGARILLO
 
-some Cup I'm almost it's the best bit
+_(simult.)_ That sounds all right.
 
-it's like crackling delicious I'm gonna
+#### NATHANIEL
 
-throw my hat win Fletcher here I see you
+_(simult.)_ --let's wait by the horses.
 
-i just take my trinity in the past a
+#### ZEKE
 
-smart you know i don't know what's going
+I am not waitin' for a coyote to come for me.
 
-on if I have a point I think I mean you
+#### NATHANIEL
 
-know a better good tell them you know
+You've got a gun! He's got a *huuuge* gun!
 
-cuz you can show a double-faced one
+#### ZEKE
 
-animal or dozen angry townsfolk I'm
+I'm goin' in there, and I'm findin' it, and I'm killin' it.
 
-starting to think I want to take out the
+#### NATHANIEL
 
-town's folk if you never had a hanging
+Best of luck to you, Zeke, that'll--
 
-Posse asked me before you don't know why
+#### ZEKE
 
-you're talking I can't hear nothing I
+While it's still *slow*.
 
-know I listen there's no okay so I'm
+#### CIGARILLO
 
-just off backing and standing
+See--um--
 
-deliberately right next to cigarillo so
+#### ZEKE
 
-you want to hunt this thing that's a
+You never seen an animal eat before? They get *slow* after.
 
-great idea how do you feel you feel I'm
+#### NATHANIEL
 
-safe now we can go guard the entrance
+That's--you know what? You should. You should go hunt that thing. Tell you what, you give me my gun back--
 
-yeah no I still don't trust you
+#### ZEKE
 
-oh come on man no way alright we should
+_(simult.)_ Anyone who's not--
 
-stay together
+#### NATHANIEL
 
-you know I grabbed one of the lanterns
+_(simult.)_ --I'll guard--
 
-and I start walking back to the fork
+#### ZEKE
 
-okay this is great we're heading back
+--a sniveling coward, come with me.
 
-the way we came
+#### NATHANIEL
 
-everything is fine we're going to leave
+Have a good time, guys. That'll be great. I--I wish you all the best, if you'd allow me to keep my gun.
 
-when we get back to the fork I turn down
+#### BEN
 
-the roof okay really I call ANOVA you're
+I'll hand you back...
 
-absolutely sure about this Lud
+#### NATHANIEL
 
-yes I'm waiting about fork and I'm not
+And in case the posse come I'll keep them at bay!
 
-even near the entrance because I'm
+#### BEN
 
-afraid they'll kill me if I do
+_(simult.)_ I'll hand you back--
 
-down the tunnel cuz I'm afraid I'll die
+#### ZEKE
 
-if I go there Carl tosses up the options
+_(simult.)_ Do *not* give him his gun back.
 
-looks at these two measly pathetic
+#### CIGARILLO
 
-excuses look I'll give my best boys
+I--I--
 
-smile with a little slicked comb over my
+#### NATHANIEL
 
-head
+_(simult, antsy)_ Oh, come onnn.
 
-I'll sigh and I kind of still shaking a
+#### CIGARILLO
 
-bit but get around behind him and stop
+_(simult.)_ --it's p--it's pretty rubbish.
 
-pushing him down with my pistol jammed
+#### ZEKE
 
-in the smaller business you know that
+Do *not* trust him with it. He's as likely to take a shot at you and--
 
-I'm good for it like everything's fine
+#### NATHANIEL
 
-sure there's nothing you can do I've got
+_(simult.)_ Tell you what.
 
-your gun oh wait oh no I must have
+#### ZEKE
 
-dropped it sorry I've lost you gone oh
+_(simult.)_ --try and get out on his own.
 
-come on
+#### NATHANIEL
 
-that's awful I'm so annoyed further down
+_(simult.)_ You give me my gun, but--
 
-that passage it goes on for quite a
+#### CIGARILLO
 
-while getting deeper and deeper
+_(simult.)_ Yeah, sure thing, Zeke.
 
-and it splits off into what looks like
+#### NATHANIEL
 
-to be a small network of passages I very
+--just don't give me any bullets.
 
-slowly to show that I'm not trying to
+#### CIGARILLO
 
-pick a fight pull out my hidden knife an
+Why do you need your gun, then?
 
-etchant arrow scratching it into the
+#### NATHANIEL
 
-rock pointing back the way we came and
+I'll hold it and feel better.
 
-then very slowly and obviously for
+#### CIGARILLO
 
-everyone put it back where it came from
+No?
 
-and good thinking Fletcher maybe you're
+#### NATHANIEL
 
-not so useless after all
+_(sighing)_ Aw.
 
-oh my god please I can hold the gun
+#### CIGARILLO
 
-someone else will go by pixi and I'm
+I'm gonna listen to that guy.
 
-going to load the rifle oh yeah you
+#### NATHANIEL
 
-can't actually be like oh yeah sure as
+Why?
 
-soon as it bolt action it doesn't matter
+#### ZEKE
 
-it's one shot I reload it cool I've got
+I'm--
 
-some experience truckin animals when
+#### CIGARILLO
 
-you're out here for long as I've been in
+'Cause look at him!
 
-like deep American West I'm not gonna be
+#### NATHANIEL
 
-accident obviously but I've acquired a
+Yeah, he's big!
 
-cynic about trucking experience so look
+#### CIGARILLO
 
-around you probably used to be a poacher
+Look at--
 
-back in it yeah Carl starts picking
+#### NATHANIEL
 
-things up and it's looking across oh
+He should go hunt a coyote while I guard the entrance.
 
-that's not feces
+#### CARL
 
-that's not theses fusco feces meanwhile
+WELL, LOOK, IF WE'RE--IF WE'RE GOING ANYWHERE WE'VE GOTTA STICK TOGETHER. THERE'S NO SENSE US LEAVING THIS... USELESS LITTLE TOSSPIECE...
 
-what is it he's now bizarrely the
+##### [ALEX AND BEN CHUCKLING]
 
-driving of wars with the plant guys I
+#### CARL
 
-just have to say
+...OUT ON HIS OWN. HE'LL ONLY GET SHOT OR CAPTURED AND TELL US--TELL EVERYONE OUT THERE WHERE WE ARE!
 
-I'm enjoying so much being the airhead
+#### JONNY
 
-job in a horror movie scenario I'm the
+*Smash cut* to... you're in the cave.
 
-idiot who never learned how horribly
+#### JAMES
 
-yeah I'm gonna ask Carl which way we
+_(laughs)_ Yeah.
 
-should go and do some sort of track yeah
+#### JONNY
 
-they're just gonna let rocks and call
+Going down, I'm gonna say you are at... the crossroads.
 
-them feces yeah for the third thing you
+#### ALEX
 
-lick is still not feces Oh which point
+Presumably all of us, 'cause there was no way to negotiate that.
 
-you're kind of give up on that
+#### JONNY
 
-particular method of trapping and notice
+Yes. Yes, you are in front, with...
 
-the launch drag marks robot which is
+#### ALEX
 
-address of real article of me together
+Of course I am.
 
-there's no strike marks they're quite
+#### JONNY
 
-old you reckon a couple of weeks maybe
+...obviously all the guns pointed at your back are actually pointed at any dangers that might be in *front* of you. You are currently at the--where the cave splits.
 
-but they go from this passage through
+#### BRYN
 
-the dirt and it curved into one of the
+We'll go down the right one first.
 
-tunnels meaning I can I throw what has
+#### JONNY
 
-been dragged it looks like people it
+The one--
 
-looks like a person there are two lines
+#### BRYN
 
-as though legs are being dragged sure
+To just make sure we thoroughly explore the nest.
 
-there's one thing I know it's the marks
+#### ALEX
 
-made by bodies it's dragged out by
+_(simult.)_ The right one, or the *wrong* one?
 
-position under the arms across into a
+#### BRYN
 
-passage in a doomed uh a very specific
+_(simult.)_ And then we'll come back and go down the other one.
 
-knowledge you can't board schools it's
+#### JONNY
 
-also it's the thing that carried a
+Okay. Yeah, you can find--
 
-person away let's list the animals that
+##### [BEN SNORTS]
 
-carry things away humans yes okay humans
+#### JONNY
 
-are scary what they don't steals like
+--you can find your lantern. It is... fine!
 
-who do you know whose skins people I've
+#### BEN
 
-walked down that passage now that Kyle's
+Waheyyyyyy!
 
-pointed it I'm gonna continue bickering
+#### ALEX
 
-quite being for sure I'm guy in Brooklyn
+I immediately--
 
-who said it's key to a heading down the
+#### BEN
 
-passage you two are still bickering so
+Small mercies.
 
-who is not currently carrying a lantern
+#### ALEX
 
-Carl isn't because I was having a
+--pick it up and go:
 
-two-handed rifle the rest of us have
+#### JONNY
 
-like that yes or no I've loaded my rifle
+Mm-hm.
 
-yep
+#### NATHANIEL
 
-so you two are bickering you two are
+You see? See. Everything's fine, you can give me my gun because I'm in front of you all anyway.
 
-heading down this passage it leads to a
+#### CIGARILLO
 
-smaller room and in the walls
+_(simult.)_ Just... keep your--
 
-it's got divots sort of carved and
+#### NATHANIEL
 
-hanging from them look to be very old
+_(simult.)_ Everything's fine.
 
-hooks some of which yes have more skin
+#### CIGARILLO
 
-on them but in the corner is quite a
+--your--y-your lantern.
 
-well-kept looking chest or a trunk
+#### JONNY
 
-probably the sort you use for coach
+You can see that there is... a nest which looks like it's been gradually built up from stolen clothes, piles of complete sets of human skin...
 
-I walk over to it and attempt open it it
+#### NATHANIEL
 
-is not locked inside a lot of money a
+Hah! *See?* See? *I* don't eat people! You know *why?* Because--'cause I couldn't fit 'em in. Where would I have put that--
 
-lot of jewelry valuables some small
+#### JONNY
 
-books some guns ammo and it's quite a
+And in the middle... with a nice neat seam down the back... is the skin of Blackjack Bronson.
 
-prominent leather-bound journal I close
+#### BEN
 
-the chest again and say may not have
+I'm gonna pull a Hamid...
 
-been a wasted trip all together let's
+#### JONNY
 
-take this back to the horses I don't
+Mm-hm?
 
-want to admit I can't repeat there is a
+#### BEN
 
-gunshot and your lantern explodes
+...and vomit.
 
-plunging you into darkness like curse
+##### [LAUGHTER]
 
-loudly James mm-hmm
+#### ALEX
 
-could you make me a fighting roll sudden
+I'm gonna use the opportunity to try to steal my gun back.
 
-you feel yourself getting claws into
+#### JONNY
 
-your shoulders and you are dragged away
+James, could you make me a Smarts roll?
 
-already of us see this because we've got
+##### [DICE ROLLING]
 
-some other well that depends what sort
+#### JAMES
 
-of vocalizations you make Oh get off me
+Oh, one of them is a 6!
 
-I'm not giving you a piggyback God pull
+##### [DICE ROLLING]
 
-off with your Caltex rifle into us there
+#### BRYN
 
-are gunshots you see just a few
+Explode.
 
-milliseconds of Carl being bodily lifted
+#### JAMES
 
-by it looks like a skinless human with
+8, total.
 
-large pointed teeth and wicked claws I
+#### JONNY
 
-drop everything I'm holding except for
+Yeah. Based on what you're seeing here, you'd probably be willing to wager that... whatever took you on that job was not Blackjack Bronson.
 
-my club and I'm gonna just jump forward
+#### JAMES
 
-and give a wild swing above the level of
+Mm-hm.
 
-Carl's head you'll be making me a
+#### JONNY
 
-fighter at minus 6 because it is pitch
+Based on your... based on what you'd seen of him before, your suspicions, and the fact that his *skinsuit* is now lying here.
 
-darkness that seems fair - for I might
+#### JAMES
 
-use a free roll on that yeah that was a
+[LAUGHS] "Huh!" Did I--how high did I need to roll in order to go like--
 
-zero on my details I'm gonna re-roll it
+##### [BRYN CHUCKLES]
 
-and a four so 14 Wow alright so with
+#### JAMES
 
-tonight yeah okay that's a hit they
+--"Ah, that's a skinsuit!" _[indistinct]_
 
-throw me your damage please fourteen
+#### JONNY
 
-both the 8x8 floats because you are just
+Higher than you would've before you started playing...
 
-you're a huge horrible bruiser
+#### JAMES
 
-sixteen damage the club smashes into
+Yeah.
 
-something and you hear a squelch
+#### JONNY
 
-now no longer being gripped by Palance
+_(laughing)_ ...Carl as a very old...
 
-oh oh oh I've got I've got oil sweet
+##### [ALEX LAUGHS]
 
-home John where are we more wheezing
+#### CARL
 
-during this
+I'M AN OLD MAN.
 
-you have heard a scream and then a kind
+#### JONNY
 
-of squirrel tree hit sound and there's a
+...*borderline*...
 
-relief Oxman yes I will immediately drop
+#### CARL
 
-my lantern begin to flee realize that
+_(simult.)_ DON'T NOTICE MANY THINGS...
 
-there's no lights because we're too deep
+#### JONNY
 
-run back to grab my lantern at the same
+_(simult.)_ ...*dementiac* man.
 
-time I'm gonna run forward with my gun
+#### CARL
 
-okay it's a try to help the scene that's
+...MANY THINGS AS THERE WERE BEFORE. YOU KNOW, I DON'T THINK THAT... UH, BLACKJACK BRONSON TOOK US ON JOB, WERE... SAME AS BLACKJACK BRONSON I KNOW FROM YEARS AGO.
 
-illuminated is an Old York Sherman
+#### ALEX
 
-bleeding from the shoulders horrify a
+I continue trying to steal my gun back.
 
-large southern man with a club standing
+#### CARL
 
-looking very pleased with himself
+I WOULDN'T DO THAT IF I WERE YOU.
 
-I'm looking around see if I can hit it
+#### JONNY
 
-again you can see basically a flash of
+Okay. Make me a Stealth roll.
 
-red disappearing down one of the tunnels
+#### BEN
 
-no Norris I'm gonna cave come on come on
+And do I make a--a--
 
-all right I guess so almost to jump me
+#### JONNY
 
-well there's originals where the girly
+A Notice roll.
 
-screams patting himself down go confuse
+#### BEN
 
-you book it you're checking me mints
+--Notice? Yes.
 
-good could you tracking no actually
+#### JAMES
 
-notice rolls noses are all from everyone
+Me too? 'Cause I'm...
 
-everyone including people who are
+#### JONNY
 
-failing to play explodes 14 914 read
+No, you're--you're too busy *thinking*.
 
-cool just like old times
+##### [DICE ROLLING]
 
-Bryn you can pretty much hear where it's
+#### JAMES
 
-going follow it through the tunnels yeah
+All right.
 
-then you hear what sounds like shouting
+##### [ALEX LAUGHS]
 
-from the direction of the entrance guys
+#### CARL
 
-I think the posses here I can hear
+OOOOHHH.
 
-shouting at the entrance and our lovable
+#### BEN
 
-cowards was running away I believe I
+5.
 
-wasn't aiming for love that's great
+#### ALEX
 
-hateable cowards I picked up my lantern
+The 6 explodes!
 
-and I am fleeing to our entrance because
+##### [DICE ROLLING]
 
-you know what you're all great people
+#### ALEX
 
-die for you okay
+To an... 11.
 
-as you run you can see the light of the
+#### JONNY
 
-entrance approaching and everything's
+You have your gun back.
 
-fine a silhouette steps into it
+#### ALEX
 
-am I able to tell anything more than a
+I have my gun back. I proc--
 
-silhouette it has a wide brimmed half I
+#### JONNY
 
-immediately turn around and flee back
+You did not notice.
 
-into the cave okay I respond to cielos
+#### ALEX
 
-yell of the posse is here by then the
+And proceed to--
 
-best thing to do is get deeper in these
+#### BEN
 
-caves
+Fair enough.
 
-come on went that way sure thing okay
+#### ALEX
 
-you follow it for a little while it
+--on the sly, try and just load it or something.
 
-looks like most of these
+#### JONNY
 
-empty from what you can see and there is
+With an 11, I'm gonna say yeah, you can get your gun back and you can load it.
 
-one other nest that you find there's not
+#### ALEX
 
-as much skin in that one it looks like
+_(simult.)_ And then I--
 
-most of the skin is in that strange
+#### BEN
 
-wardrobe that you found Alex yes as you
+_(simult.)_ So I would say, like, I dropped it when I was vomiting.
 
-run back down yeah in the light of your
+#### ALEX
 
-torch you can see something something is
+Yeah, I just pocket it. No one knows that I have my gun, but I'd rather have a gun. Guns are good.
 
-running towards you something red and
+#### BRYN
 
-angry please make me a cut small - - now
+I--yeah, I'm just gonna explore this cavern fully.
 
-the Deadlands has actually quite a
+#### ZEKE
 
-complicated fear role system because
+Maybe it weren't a coyote.
 
-there is the fear level of the area
+#### NATHANIEL
 
-because everywhere is a different level
+You *see?* You see--this--*this* is what I'm getting at.
 
-of spooky
+#### CIGARILLO
 
-this place is 3 spooky 3 spooky it goes
+[PANTING] What d--what d'y--_[coughs]_--what d'you think it was? I...
 
-all the way up to 6 spooky which is when
+#### NATHANIEL
 
-the entire landscape like hills or
+I think it was *death on legs*. I think it was death on legs, and it's coming for us, and we can *leave*. W--there are *horses*.
 
-skulls like the road is made of bones
+#### ZEKE
 
-the trees are actually we're gonna power
+There's plenty--
 
-how are the transport links in this
+#### NATHANIEL
 
-areas it is affordable I mean it depends
+Horses have *four*. This thing--
 
-on how many spikes you're happy to have
+#### ZEKE
 
-in your flesh while you travel like fix
+_(simult.)_ There's plenty of animals--
 
-is basically a hellscape it's 3spooky
+#### NATHANIEL
 
-fight basically it's three spooky so
+_(simult.)_ --presumably has to--
 
-minus 3 you're a coward
+#### ZEKE
 
-so minus another two on you do however
+--that don't eat the skin.
 
-have one point of grit yes plus one
+#### CIGARILLO
 
-coarse grit is how numb you are to
+I'm--I'm gonna--um--
 
-everything being horrible so this is a
+#### ZEKE
 
-minus 4 minus 4 I have to hit four you
+It's probably still just some... *beast* of some kind.
 
-have to hit four so you need an eight so
+#### CIGARILLO
 
-it really has to explode yes I lose come
+_(simult.)_ I'm just gonna--
 
-on he's got a six
+#### CARL
 
-okay I already have one God God and a
+_(simult.)_ NO, SKIN'S THE BEST BIT. IT'S LIKE CRACKLING. IT'S DELICIOUS!
 
-four he's gonna turn so yeah there's a
+##### [NATHANIEL GROANS]
 
-skinless angry to feel or man running
+#### CIGARILLO
 
-towards you and strangely your
+I--I'm gonna throw my hat with F-Fletcher here, I--
 
-adrenaline kicks in and all those false
+#### NATHANIEL
 
-going the other way what do you do you
+*See?*
 
-are currently in the passageway between
+#### CIGARILLO
 
-the entrance and the fork it is coming
+_(simult.)_ --I--I'd like to take my chances with the posse.
 
-up from the fork and the entrance is a
+#### NATHANIEL
 
-silhouette of a man and a wide-brimmed
+_(simult.)_ *Smart kid.* Smart kid.
 
-hat oh it's a coward nightmare no matter
+#### CIGARILLO
 
-where I flee I flee towards death I am
+You know? I dunno what's goin' on.
 
-going to die
+#### CARL
 
-[Laughter]
+HE MIGHT HAVE A POINT THERE, ZEKE. I MEAN... YOU KNOW, UH, BETTER THE DEVIL YOU KNOW, 'CAUSE YOU CAN SHOOT THE DEVIL IN... FACE.
 
-I am going to draw my gun if possible
+##### [ALEX BURSTS OUT LAUGHING]
 
-and plant two shots in it while
+#### ZEKE
 
-continuing to run it and desperately try
+One animal... or a *dozen* angry townsfolk.
 
-and run around it in the narrow corridor
+#### CIGARILLO
 
-as ill-advised as that is many a shootin
+[QUIET HALF-LAUGH] I'm startin' to think I wanna take on the townsfolk.
 
-wrong but I can keep exploding these
+##### [AN EVEN MORE THREATENING EXHALE FROM THE CAVE UNDER ZEKE'S WORDS]
 
-right that's a thing they can have I
+#### ZEKE
 
-mean in sabot worlds yes I got a 5
+If you've never had a hangin' posse after you before--
 
-that's a hit
+#### CIGARILLO
 
-roll me your damage is damaged okay
+*Shhhhhhhhhhhhhhhhh.*
 
-that's 2d6 it's alright guys I got this
+#### NATHANIEL
 
-I'm gonna save as well it's already got
+_(urgent whisper)_ *Shut up.*
 
-16 prints still save you if you don't if
+#### ZEKE
 
-it dies 11 I may explode if you've
+_(pointedly louder)_ --you don't know--
 
-rolled a 6 oh okay
+#### NATHANIEL
 
-6 7 8 9 10 11 and then the second roll
+_(simult.)_ Shut up. Shut--sh--sh--_[muffled angry noises]_
 
-on the 6 was a further 2 so 13 13 the
+#### ZEKE
 
-bullets think of the shoulder praying
+_(simult.)_ --what you're talk--I CAN'T HEAR NOTHING.
 
-it's a flesh and it : just now asking us
+#### NATHANIEL
 
-all over the walls it's sort of tumbles
+_(gritted teeth)_ I know you can't, so *shut up!*
 
-it's not dead and it's not stopping but
+#### ALEX
 
-it does mean you can just press yourself
+I listen.
 
-against the wall and let it kind of
+##### [PAUSE]
 
-Scrabble past you it's not trying to
+#### JONNY
 
-kill you anymore because you've heard it
+_(simult.)_ *Nothing*.
 
-that's fine I am going to push my look
+#### ZEKE
 
-because I'm that foolish a character and
+_(simult.)_ There's nothing there!
 
-if possible I'm going to try and swing
+##### [CHUCKLES]
 
-the lantern at its head as it goes by me
+#### NATHANIEL
 
-alright yeah make me make me a fight and
+Okay, so.
 
-roll a minus 1 because it is very
+#### ALEX
 
-provides weapon fighting roll 5 minus 1
+I'm just sort of backing and standing *deliberately* right next to Cigarillo.
 
-I mean you sort of shove the lantern in
+#### NATHANIEL
 
-it which costs its jagged horrible
+*So*. *You* wanna hunt this thing, that's a great idea. How do you feel--you feel that I'm safe now? We can go guard--
 
-spacing ok you didn't get a real good
+#### CIGARILLO
 
-look at it when it was coming no you
+_(simult.)_ Wh--y--
 
-haven't
+#### NATHANIEL
 
-no okay so you made things worse for
+_(simult.)_ --the entrance, yeah?
 
-yourself good great it is currently
+#### CIGARILLO
 
-running off towards the entrance I then
+I still don't--no! I still don't trust you!
 
-proceeded to try and just run back to
+#### NATHANIEL
 
-all the other people who I know won't
+Oh come *on*, man.
 
-kill me on sight
+#### CIGARILLO
 
-ok yep you get back you get back into
+No, i--y--w--w--right, we should stay together. Uh--y--you know--uh--the--i----
 
-the tunnels with deeper in right you
+#### BRYN
 
-haven't heard any real movement around
+_(simult.)_ I grab one of the lanterns.
 
-until someone runs in shouting your car
+#### CIGARILLO
 
-I'm gonna take a snapshot at the thing
+_(simult.)_ --we'll--we'll get--
 
-that runs in maybe shooting off in the
+#### BRYN
 
-panic if a gun please no no this is the
+And I start walking back to the fork in the...
 
-best Abdallah
+#### JONNY
 
-are you shooting me well as weapons when
+Okay.
 
-you burst into the room we've really
+#### NATHANIEL
 
-scared people with yeah
+This is great! We're heading back the way we came. Everything is fine. We're going to leave.
 
-seven seven that's a hint Romney you're
+#### BRYN
 
-damaged please seven seven okay what's
+_(simult.)_ Everyone will be fine.
 
-your toughness my toughness is five so
+#### NATHANIEL
 
-that's enough to shake you but not wound
+_(simult.)_ When we get back to the fork, I turn down the other route.
 
-you basically the shoots clips right
+#### JONNY
 
-past Jory oh geez ha ha
+Okay!
 
-sneak up on people like us sure I shot
+#### CIGARILLO
 
-it it's not dead and the sheriff's here
+Z--Z--_(whispering)_ Zeke, *really?*
 
-and the sheriff's at the entrance and
+#### CARL
 
-the creatures between us and the sheriff
+COME ON NOW, ZEKE, YOU'RE ABSOLUTELY SURE ABOUT THIS, LAD?
 
-which is a good thing and I shot it
+#### ZEKE
 
-which is a good thing but the creatures
+Yes.
 
-there which is a bad thing and there's a
+#### ALEX
 
-creature and it's not no face and it's
+I'm waiting at that fork, and I'm not even gonna go to the entrance 'cause I'm afraid he'll *kill* me if *do*.
 
-there it's at the front I love many of
+#### JONNY
 
-the bow they have is they just this one
+Okay.
 
-that's been wounded Joe they're of us
+#### ALEX
 
-around two nests right well the first
+But I'm not going to down the tunnel, 'cause I'm afraid I'll *die* if I *go* there.
 
-one was a second homeowner where's maybe
+#### JAMES
 
-maybe have a larger or something do you
+Carl tosses up the options, looks at... these two measly pathetic excuses of...
 
-think it's breeding
+#### ALEX
 
-let's go of actually have a chance and
+Look, I'll give my--
 
-see what's going on I know you can't be
+#### CARL
 
-nice yeah calm because the sheriff's at
+_(simult.)_ ALL RIGHT, FINE.
 
-the entrance so or at least something
+#### ALEX
 
-like oh that's rewards the entrance and
+_(simult.)_ --best winning *smile* with a little slicked comb over my hair.
 
-see what's coming there's just one of
+##### [BRYN CHUCKLES]
 
-them there's still four of us yes okay
+#### BEN
 
-we won't engage unless we have to okay
+Yup.
 
-if we do it's common ooh do you know
+#### NATHANIEL
 
-this just it's a narrow passage it's
+_(simult, coaxing)_ Eh? Ahh?
 
-full of us with guns I'm sure I died
+#### BEN
 
-load my gun and place myself a central
+_(simult.)_ I'll sigh, and be like... kind of still shaking a bit but get round--
 
-between everyone else as possible so
+#### NATHANIEL
 
-you're starting to head to back up
+Eh?
 
-towards the engine yeah much much more
+#### BEN
 
-cautiously than before who's going first
+--behind him and start pushing him down the right-hand--
 
-yeah we're shuffle round and push him to
+#### NATHANIEL
 
-the front yeah I thought you were just a
+Uh--no--no!
 
-yellow-bellied streak of the yellow or
+#### CARL
 
-belly but it turns out actually you got
+DON'T WEAR YOUR HAIR LIKE THAT, YOU LOOK LIKE A LASS FROM HALIFAX.
 
-spine and I think that's not a mixed
+#### BEN
 
-message Oh on you go
+With his--
 
-I can't hop alonein alright you go I'm
+#### NATHANIEL
 
-gonna grab my rifle and rest it on
+No.
 
-Fletcher's shoulder and just sight down
+#### BEN
 
-it as we walk up so that he's
+With my pistol *jammed* in the small of his back.
 
-stabilizing it for me like a mobile Mad
+#### NATHANIEL
 
-Max yeah yeah
+Oh, come *on!* You know that I'm good for it! Like--everything's fine!
 
-nice enough not to pick the fight moves
+#### CIGARILLO
 
-the Lanson to his left hand having
+Look, shut up, there's nothing you can do, I've got your gun.
 
-already reloaded his gun pockets his gun
+#### CARL
 
-and then puts his finger in his ear next
+COME ON.
 
-to that gun because he's a coward he's
+#### CIGARILLO
 
-not an idiot as you head up towards the
+All right?
 
-entrance you can start to hear voices
+#### CARL
 
-drifting down yeah
+_(simult.)_ ALL RIGHT, AFTER ZEKE, COME ON, LADS.
 
-can't see much though gunshot was it
+#### NATHANIEL
 
-yeah don't you mean that about five
+_(simult.)_ Fine. Fine. Fine. Fine.
 
-minutes you any deeper Wyatt don't look
+#### CIGARILLO
 
-to be running back
+Wait. The w--ohh *no*, I musta dropped it! Sorry, I've lost your gun.
 
-oh no just the entire group look at me
+#### NATHANIEL
 
-as quietly as I possibly can and I
+Oh come on! That's awful! I'm *so* annoyed!
 
-actually mean that I turned meaningfully
+#### JONNY
 
-to look to everyone else and mouth I put
+Further down that passage it goes on for quite a while, getting deeper and deeper. And it splits off into what looks likely to be a small network of passages.
 
-one hand over his mouth and gesture to
+#### ALEX
 
-the other members of the party but we
+I, very slowly, to show that I'm not trying to pick a fight... pull out my hidden knife...
 
-should cover the lanterns I do so yeah
+#### JONNY
 
-[Music]
+_(chuckling)_ Mm-hm?
 
-[Music]
+#### ALEX
 
-so can we see him is Easter like
+...and etch an arrow, scratching it into the rock, pointing back the way we came. And then very slowly and obviously for everyone, put it *back* where it came from.
 
-silhouetted against the mouth of the
+#### ZEKE
 
-cave you are not currently at a stage
+That's good thinking, Fletcher. Maybe you're not so useless after all.
 
-where you can no line of sight no
+#### CIGARILLO
 
-otherwise they would have seen your
+Oh. Wait, uhhh... uh--the--could someone hold my gun? Please, I just--
 
-antennas oh right I shout come on
+#### NATHANIEL
 
-goodness if you want us Carl
+I can hold the gun.
 
-Emma drops to one mean also said himself
+#### CIGARILLO
 
-and he aims up the no no no I say I will
+Could someone else hold my gun?
 
-position the lanterns on the floor
+#### BRYN
 
-either side of the passageway uncover
+I...
 
-them and gesture sure we want to back
+#### CIGARILLO
 
-off a little
+Thanks, Zeke.
 
-okay if people will allow it Allen cover
+#### BEN
 
-my lantern and point it immediately
+And I'm gonna load the rifle.
 
-behind us in towards the dark terrifying
+#### JONNY
 
-tunnel so I'm going down on a knee as
+Oh yeah, _(laughing)_ you didn't actually reload it--
 
-well with my right
+#### BEN
 
-and yet shaking slowly let them come
+_(simult.)_ No, no.
 
-into the light first what you thinking
+#### JONNY
 
-well I reckon if we head down there they
+_(simult.)_ --after your shot!
 
-got the advantage it's a bald man I say
+#### BEN
 
-we've done right on the answers believe
+So is it bolt-action, or...
 
-me man come on cor you'll be doing this
+#### JONNY
 
-along guess what do we do right well
+It doesn't matter. It's one shot.
 
-there's one thing that I is a true
+##### [ALEX LAUGHS]
 
-Pollack York Sherman no it's the dangers
+#### JONNY
 
-of cave-ins in mining scenarios we don't
+You reload it.
 
-wanna get stuck down here okay so we're
+#### BEN
 
-gonna rush normally fun that's Russian
+Cool.
 
-yeah okay
+#### CARL
 
-hey watch you go first no it's okay I
+I'VE GOT SOME EXPERIENCE, UHHH, TRACKING ANIMALS. WHEN YOU'RE OUT HERE FOR AS LONG AS I'VE BEEN, IN, UH, LIKE, DEEP AMERICAN... WEST. I'VE NOT ACQUIRED THE ACCENT, OBVIOUSLY, BUT I HAVE ACQUIRED... A CERTAIN AMOUNT OF TRACKING EXPERIENCE. SO I'M GONNA LOOK AROUND.
 
-I've got it back I start running okay
+#### JAMES
 
-I'll follow thee Ben
+It--
 
-there are 20 of them outside oh dear all
+#### JONNY
 
-arms
+Probably used to be a poacher, back in Yorkshire.
 
-Anat as you run Abel dives to the side
+#### JAMES
 
-and shout something and they all start
+Yeah, probably! Carl starts picking things up and just licking them, going:
 
-shooting you are as they turn to ride
+#### CARL
 
-off leave your moldering bodies for the
+OH--THAT'S NOT FECES.
 
-Arizona Sun uncle Abel just readjusts
+##### [BEN LAUGHS]
 
-his face sheriff lead fled anywhere just
+#### CARL
 
-fleeing as an to be fair got shotting
+THAT'S NOT FECES.
 
-the sheriff kind of signed a lot of your
+#### ALEX
 
-death one yes I think all that Florence
+_(laughing)_ Oh for god's sake.
 
-is a boy yeah thank you all for joining
+#### CARL
 
-us for this spooky skinny massacre
+*THAT'S* NOT FECES.
 
-massacre because Halloween episode that
+#### JONNY
 
-ends with all of the players alive and
+Meanwhile, what does Zeke do?
 
-saying there's not a good one
+##### [ALEX BURSTS OUT LAUGHING]
 
-and don't even get me started on the
+#### JONNY
 
-characters
+_(laughing)_ Zeke is now...
 
-[Laughter]
+##### [ALEX SAYS SOMETHING INDISTINCT]
 
-[Music]
+#### JONNY
 
-rust equal gaming is a podcast
+...bizarrely, the *driving force of the plot*.
 
-distributed by rusty quilter common
+#### BRYN
 
-licensed under a Creative Commons
+Guys, I just have to say: I'm enjoying *so* much being the airhead *jock*...
 
-Attribution non-commercial international
+##### [LAUGHTER]
 
-license today's episode was recorded and
+#### BRYN
 
-produced by Alexander J Newell to
+...in a horror movie scenario!
 
-comment on episodes make donations and
+##### [ALEX LAUGHING]
 
-view links images videos and show notes
+#### BRYN
 
-visit rusty quill calm rate and review
+I'm the idiot who never learned how horror movies work.
 
-us on iTunes visit us on Facebook tweet
+##### [JAMES AND BEN CHUCKLE]
 
-us on Twitter at the rusty quill or
+#### ALEX
 
-email us at mail at rusty quill calm
+This is great.
 
-thanks for listening humans Steven don't
+#### BRYN
 
-sit around fast madness even if it were
+I'm gonna ask Carl which way we should go.
 
-to in a waltz the most appropriate dance
+#### JAMES
 
-first time of the morning at this stage
+Do I do some sort of tracking roll?
 
-in the season that would be ludicrous
+#### JONNY
 
-you'll be saying it was wearing a fancy
+Yeah, you can roll Tracking!
 
-top hat and tails next and toasting the
+#### JAMES
 
-Macarena there's not as much skin in
+Cool.
 
-that one it looks like most of the skin
+#### BEN
 
-is in that strange wardrobe that you
+Thought you were just gonna lick rocks and call them feces.
 
-found it's like a very sinister episode
+##### [DICE ROLLING]
 
-of mr. bird I mean to be honest all
+#### JAMES
 
-episodes and mr. Benn our sinister if
+Yeah. 4.
 
-you ever think them missed miss mr. Ben
+#### JONNY
 
-being a kids TV show in Britain from
+The... third thing you lick... is still not feces.
 
-years and years and years ago yes you
+##### [ALEX LAUGHING]
 
-know we're a very middle class man in a
+#### CARL
 
-bowler hat puts on other hats in a
+WHOAA, WHAT A DISAPPOINTMENT.
 
-costume shop and becomes all sorts of
+#### JONNY
 
-spaceman nights and even at some points
+At which point you kind of give up on that particular method of tracking...
 
-a cowboy mm-hmm it's mr. faceless
+##### [ALEX LAUGHING]
 
-understand me buddy doesn't have the
+#### JONNY
 
-skin bitter I stand by my panic
+...and notice the large *drag marks*.
 
-statement of the Moustakas it doesn't
+##### [LOUD LAUGHTER]
 
-have a moustache so this is the Old West
+#### CARL
 
-so he's here correct
+DRAG MARKS, HERE! FLETCHER, THERE'S A *DRESS* OVER HERE!
 
-my backup was to pretend was to shoot
+##### [ALEX LAUGHING]
 
-myself with my own gun in the shoulder
+#### BEN
 
-tie myself up and claim I was a hostage
+That took a while for me to get that one.
 
-lovely
+#### JONNY
 
-you
+There's...
+
+##### [ALEX LAUGHING, HAVING JUST GOTTEN IT]
+
+#### BEN
+
+_(laughing)_ There we go.
+
+##### [LAUGHTER]
+
+#### JAMES
+
+_(simult.)_ Thank you.
+
+#### ALEX
+
+_(simult.)_ Sorry.
+
+#### JAMES
+
+Thank you.
+
+##### [ALEX LAUGHING]
+
+#### JAMES
+
+Go on. Large drag marks.
+
+#### JONNY
+
+They're quite old. You reckon... a couple of weeks, maybe. But they go from this passage through the dirt and curve into one of the tunnels leading off.
+
+#### JAMES
+
+Okay. Can I tell what has been dragged?
+
+#### JONNY
+
+It looks like people. It looks like a person. There are two lines as though legs have been dragged.
+
+#### JAMES
+
+Sure.
+
+#### CARL
+
+WELL IF THERE'S ONE THING I KNOW, IT'S THE MARKS MADE BY A BODY AS IT'S DRAGGED OUT BY A POSITION UNDER THE ARMS, ACROSS, INTO A PASSAGE, IN THE DIM DAR--A VERY SPECIFIC KNOWLEDGE. YOU CAN'T--IT'S BOARDING SCHOOLS IN YORKSHIRE.
+
+#### ZEKE
+
+So...
+
+#### NATHANIEL
+
+So--so it's a--
+
+#### ZEKE
+
+This way.
+
+#### NATHANIEL
+
+--thing that *carried a person away*. Let's list the animals that *carry things away*.
+
+#### CIGARILLO
+
+Uh, humans?
+
+#### NATHANIEL
+
+*Yes*. Okay? Humans are *scary*...
+
+#### CIGARILLO
+
+W--
+
+#### NATHANIEL
+
+...but they don't steal, like... who--who do you know who *skins* people?
+
+#### BRYN
+
+I walk down that passage now that--
+
+#### CIGARILLO
+
+I--!
+
+#### BRYN
+
+--Carl's pointed it out.
+
+#### ALEX
+
+I'm gonna continue bickering, whilst--
+
+#### CIGARILLO
+
+I--
+
+#### ALEX
+
+--being forced along this--
+
+#### CIGARILLO
+
+Look. I--I _[indistinct]_ one guy in Brooklyn who said he'd skinned a guy!
+
+#### JONNY
+
+So, you two are heading...
+
+##### [ALEX CHUCKLES]
+
+#### JONNY
+
+...down the passage--
+
+#### JAMES
+
+Yup.
+
+#### JONNY
+
+--you two are still bickering. So who is not currently carrying a lantern?
+
+#### JAMES
+
+Carl isn't, because Carl is having a two-handed rifle.
+
+#### JONNY
+
+Cool.
+
+#### BRYN
+
+The rest of us have lanterns.
+
+#### JONNY
+
+_(simult.)_ Good to know.
+
+#### ALEX
+
+_(simult.)_ That's true.
+
+#### BEN
+
+And although I've loaded my rifle I'm holding it like this.
+
+#### JONNY
+
+Yeah. So, you two are bickering, you two are heading down this passage. It leads to a smaller room, and in the walls, it's got divots, sort of carved. And hanging from them... look to be very old hooks. Some of which... yes, *have* *more skin on them*. But in the corner is quite a well-kept looking chest. Or a trunk. Probably the sort you'd use for coach travel.
+
+#### BRYN
+
+I walk over to it, and attempt to open it.
+
+#### JONNY
+
+It is not locked. Inside, a lot of money, lot of jewelry, valuables, some small books, some guns, ammo, and quite a prominent leather-bound journal.
+
+#### BRYN
+
+I close the chest again...
+
+#### JONNY
+
+Mm-hm.
+
+#### BRYN
+
+...and say:
+
+#### ZEKE
+
+Hmm. This may not've been a wasted trip altogether. Let's take this back to the horses.
+
+#### BRYN
+
+I don't want to *admit* that I can't read.
+
+##### [DICE ROLLING]
+
+##### [ALEX LAUGHS]
+
+#### BEN
+
+That's fair enough.
+
+#### JONNY
+
+There is a gunshot. And your lantern explodes, plunging you into darkness.
+
+#### BRYN
+
+I *curse* loudly.
+
+#### JONNY
+
+Mm-hm. James!
+
+#### JAMES
+
+Mm-hm?
+
+#### JONNY
+
+Could you make me a Fighting roll?
+
+##### [DICE ROLLING]
+
+#### JAMES
+
+7!
+
+##### [DICE ROLLING]
+
+#### JONNY
+
+You feel yourself getting claws into your shoulders, and you are dragged away.
+
+#### JAMES
+
+Oh.
+
+#### BEN
+
+Do any of us see this? 'Cause we've got two other lanterns.
+
+#### JONNY
+
+Well, that depends what sort of vocalizations you make.
+
+#### CARL
+
+NOOO, GET OFF ME, I'M NOT GIVING YOU A PIGGYBACK! GO ON! *POO* OFF WITH YE!
+
+#### JAMES
+
+Carl takes a rifle and starts shooting behind him.
+
+##### [ALEX LAUGHING]
+
+#### JAMES
+
+As he moves.
+
+#### BEN
+
+Fair enough.
+
+#### JONNY
+
+Yup. There are gunshots. You see... just a few milliseconds of Carl being bodily lifted by... it looks like a skinless human with large pointed teeth, and wicked claws.
+
+#### BRYN
+
+I drop everything I'm holding except for my club, and I'm gonna just jump forward, and give a wild swing, *above* the level of Carl's head?
+
+#### JONNY
+
+You'll be making me a Fighting roll, -6 because it is *pitch* darkness.
+
+#### BRYN
+
+That seems fair!
+
+##### [BEN CHUCKLES]
+
+##### [DICE ROLLING]
+
+#### BRYN
+
+-4!
+
+#### ALEX
+
+*Ooohh!*
+
+#### BRYN
+
+I might use a--
+
+#### ALEX
+
+*What?* Ohhh.
+
+#### BRYN
+
+--reroll on that?
+
+#### JONNY
+
+Yup!
+
+##### [DICE ROLLING]
+
+#### BRYN
+
+That was a 0, on my d10, so I'm gonna reroll it.
+
+#### BEN
+
+Nice.
+
+#### BRYN
+
+And a 4, so 14.
+
+#### JONNY
+
+Okay. Wow, all right. So with the----it's an e--yeah, okay, that's a hit. Um...
+
+##### [BEN CHUCKLES]
+
+#### JONNY
+
+...roll me your damage, please.
+
+##### [ALEX CHUCKLES]
+
+##### [DICE ROLLING]
+
+#### BRYN
+
+14!
+
+#### JAMES
+
+_(simult.)_ And that... explodes.
+
+#### BEN
+
+_(simult.)_ It explodes.
+
+#### BRYN
+
+Oh! The 8 explodes.
+
+#### JONNY
+
+The 8 explodes, 'cause you are just...
+
+##### [DICE ROLLING]
+
+#### JONNY
+
+...you are a huge...
+
+#### BRYN
+
+16!
+
+#### JONNY
+
+...horrible bruiser.
+
+#### BRYN
+
+16 damage!
+
+#### JONNY
+
+Uh, the club... smashes into *something* and you hear a squelch.
+
+##### [JAMES LAUGHS]
+
+#### JONNY
+
+You are now no longer being gripped by... talons.
+
+#### CARL
+
+OH, THANKS FOR THAT, LAD. _(shuddering)_ OOHH! OH, I'M ALL A-FLUSTER. I'VE GOT--I'VE GOT A BOILED SWEET AROUND, HANG ON.
+
+#### BEN
+
+Where are we and what're we seeing during this little...
+
+#### JONNY
+
+You've heard--
+
+#### BEN
+
+...fracas?
+
+#### JONNY
+
+--a scream, and then a kinda squelchy hit sound.
+
+#### JAMES
+
+And then the sound of relieved Yorkshireman.
+
+#### JONNY
+
+Yes.
+
+#### ALEX
+
+I will... immediately drop my lantern, *begin* to flee, realize that there's *no light* 'cause we're too deep, run *back* to grab my lantern.
+
+#### BEN
+
+At the same time, I'm gonna run forward with my gun...
+
+#### JONNY
+
+Okay.
+
+#### BEN
+
+...to try and help.
+
+#### JONNY
+
+Yeah--the scene that's illuminated is an old Yorkshireman bleeding from the shoulders...
+
+##### [ALEX LAUGHS]
+
+#### BEN
+
+*Horrifying!*
+
+#### JONNY
+
+...a large Southern man with a club, standing, looking very pleased with himself.
+
+#### BRYN
+
+I'm looking around to see if I can hit it again.
+
+#### JONNY
+
+You can see basically a flash of red disappearing down one of the tunnels.
+
+#### CIGARILLO
+
+_(whispering)_ What--what...
+
+#### ZEKE
+
+I hurt it! Let's follow it!
+
+#### CIGARILLO
+
+U--uh--y--y--yeah? No? _(helplessly)_ Carl. What're we doin'?
+
+##### [JAMES LAUGHS]
+
+#### CARL
+
+I'M FURIOUS! I'M GONNA GET HIM! COME ON. COME ON!
+
+#### CIGARILLO
+
+_(uncertainly)_ All right, I guess so.
+
+#### CARL
+
+I MUST'VE DROPPED ME... WERTHER'S ORIGINALS. WHERE HAVE THEY GONE?
+
+#### JAMES
+
+And he just begins patting himself down.
+
+#### CARL
+
+GOT ALL CONFUSED. YOU *BUGGER*, YOU'VE TAKEN ME *MINTS!* GO ON!
+
+#### JONNY
+
+Could you...
+
+#### JAMES
+
+Tracking?
+
+#### JONNY
+
+No, actually, Notice rolls, please.
+
+#### JAMES
+
+Notice rolls.
+
+#### BEN
+
+From everyone?
+
+#### JONNY
+
+Everyone, yes.
+
+##### [MULTIPLE DICE ROLLING]
+
+#### ALEX
+
+Including people who are... failing to flee--_[laughs]_--_(laughing)_ 'cause they're too incompetent to flee.
+
+#### BEN
+
+Waheyyy! 8 explodes.
+
+##### [DICE ROLLING]
+
+#### BEN
+
+14.
+
+#### BRYN
+
+9.
+
+#### JONNY
+
+14.
+
+#### JAMES
+
+3.
+
+#### JONNY
+
+Cool.
+
+#### BRYN
+
+Ah, just like old times!
+
+#### JAMES
+
+I know.
+
+##### [LAUGHTER]
+
+#### ALEX
+
+4!
+
+#### JONNY
+
+Bryn, you can pretty much hear where it's going, and follow it through the tunnels. Ben. You hear what sounds like shouting, from... the direction of the entrance.
+
+#### CIGARILLO
+
+_(hushed)_ Guys, I think the posse's here! I can hear shouting at the entrance!
+
+#### JONNY
+
+And our... lovable coward...
+
+##### [BEN LAUGHS]
+
+#### JONNY
+
+...was running away, I believe.
+
+#### ALEX
+
+I wasn't *aiming* for lovable. _(laughing)_ I was just aiming--
+
+##### [JAMES LAUGHS]
+
+#### ALEX
+
+--at coward. If he came out lovable, that's great.
+
+#### JONNY
+
+Uh, I--d--*hateable* coward.
+
+#### ALEX
+
+I am.
+
+##### [BEN CHUCKLES]
+
+#### BRYN
+
+_(chuckling)_ Yes.
+
+#### ALEX
+
+I have... picked up my lantern and I am fleeing to the entrance, because, you know what? You're all great people. _(laughs)_ But I'm not gonna *die* for you!
+
+#### JONNY
+
+Okay. As you run, you can see the light of the entrance approaching.
+
+#### ALEX
+
+Then *everything's* fine!
+
+#### JONNY
+
+A silhouette steps into it.
+
+#### ALEX
+
+Am I able to tell anything more than a silhouette?
+
+#### JONNY
+
+It has a wide-brimmed hat...
+
+#### ALEX
+
+I *immediately* turn round and flee *back* into the cave.
+
+##### [LAUGHTER]
+
+#### JONNY
+
+Okay.
+
+#### BRYN
+
+I respond to Cigarillo's yell of "the posse is here" by:
+
+#### ZEKE
+
+Then the best thing to do is get deeper in these caves. Come on. Went that way.
+
+#### CIGARILLO
+
+_(terrified)_ Sure thing.
+
+#### JONNY
+
+Okay. You follow it for a little while. It looks like... most of these chambers are empty. From what you can see. And there is one other nest that you find. There's not as much skin in that one, it looks like most of the skin is in that strange wardrobe that you found. Alex.
+
+#### ALEX
+
+Yes.
+
+#### JONNY
+
+As you run back down...
+
+#### ALEX
+
+Yup.
+
+#### JONNY
+
+...in the light of your torch...
+
+#### NATHANIEL
+
+_(whispering)_ Ca-caawww.
+
+#### JONNY
+
+...you can see something...
+
+#### NATHANIEL
+
+_(whispering)_ ***Ca-caaaaawww***.
+
+#### JONNY
+
+...something is running towards you.
+
+##### [BRYN SAYS SOMETHING INDISTINCT UNDER JONNY]
+
+#### JONNY
+
+Something red, and angry. Please make me a Guts roll.
+
+#### ALEX
+
+Oh I've got no guts!
+
+#### JONNY
+
+Minus 2. Now, Deadlands has actually quite a complicated... fear roll system, because there is the Fear Level of the area, because... everywhere is a different level of spooky.
+
+##### [BEN SNORTS]
+
+#### JONNY
+
+This place is... *3 spooky*.
+
+##### [LAUGHTER]
+
+#### ALEX
+
+*Not **3** spooky!* This is--
+
+#### JONNY
+
+It goes all the way up to 6 spooky, which is when the entire landscape--like, hills are skulls... uh...
+
+##### [ALEX LAUGHING]
+
+#### JONNY
+
+...like, the road is made of bones, the trees are actually, like...
+
+#### ALEX
+
+But this is--this is--
+
+#### JONNY
+
+...just hands.
+
+#### BEN
+
+We're gonna have to--
+
+#### JAMES
+
+How are the transport links in this area? Is it--is it afforadable? Is that...
+
+#### JONNY
+
+I mean, it depends on how many *spikes* you're happy to have *in* your flesh, while you travel? Like, 6 is basically a hellscape.
+
+#### JAMES
+
+Southern Railways.
+
+#### ALEX
+
+_(simult.)_ So this is a--
+
+#### JAMES
+
+_(simult.)_ All right. Yeah, okay.
+
+#### JONNY
+
+_(simult.)_ Yeah. Southern Rail.
+
+#### BEN
+
+So Alex is currently rolling to see if it's 3 spooky, _[indistinct]_.
+
+#### JONNY
+
+Basically, it's 3 spooky, so -3. You're a coward, so minus another 2.
+
+#### BEN
+
+Oh no.
+
+#### JONNY
+
+You do, however, have **1** point of Grit.
+
+#### ALEX
+
+Yeah!
+
+#### JONNY
+
+So that's... +1.
+
+#### ALEX
+
+Yeahh!
+
+#### JONNY
+
+Because Grit is how numb you are to everything being horrible. So this is at -4!
+
+#### ALEX
+
+-4 and I have to *hit* 4?
+
+#### JONNY
+
+You have to hit 4. So you need an 8, essentially.
+
+#### ALEX
+
+So it *has* to *explode*...
+
+#### JONNY
+
+Yes.
+
+#### ALEX
+
+...or I lose.
+
+##### [DICE ROLLING]
+
+#### ALEX
+
+Come on! _[claps]_ He's got a 6!
+
+#### JONNY
+
+He's got a 6!
+
+#### JAMES
+
+_(simult.)_ Hey!
+
+#### BEN
+
+_(simult.)_ Okay! Y--I really hope your roll is a 1.
+
+#### ALEX
+
+Come on. Come on.
+
+##### [DICE ROLLING]
+
+#### ALEX
+
+And a **4**! HE'S GOT A **10**!
+
+#### JONNY
+
+So... yeah, there's a skinless angry toothy claw man running towards you, and... strangely, your adrenaline kicks in.
+
+##### [ALEX BURSTS OUT LAUGHING]
+
+#### JONNY
+
+_(simult.)_ Rather than...
+
+#### ALEX
+
+_(simult.)_ As opposed to all those *false*...
+
+#### JONNY
+
+...going the other way, what do you do? You are currently in the passageway between the entrance, and the fork.
+
+##### [PAUSE]
+
+#### JONNY
+
+It is coming up from the fork. At the entrance is the silhouette of a man in a wide-brimmed hat.
+
+#### ALEX
+
+OHHHH, IT'S A COWARD'S NIGHTMARE! No matter where I flee, I flee *towards* *death!* I... am... going... to......
+
+#### BRYN
+
+Die.
+
+#### ALEX
+
+[BURSTS OUT LAUGHING] Yes. Yes, I am.
+
+##### [LAUGHTER]
+
+#### ALEX
+
+I am going to draw my gun, if possible, and plant two shots in it, whilst *continuing* to run at it and desperately try and run *around* it in the narrow corridor, as ill-advised as that is.
+
+#### JONNY
+
+Make me a Shootin' roll!
+
+#### ALEX
+
+Come on! _[shaking dice]_ I can keep exploding these, right? That's a thing that can happen.
+
+##### [DICE ROLLING]
+
+#### JONNY
+
+I mean, in Savage Worlds, yes.
+
+#### ALEX
+
+I got a 5.
+
+#### JONNY
+
+That's a hit. Roll me your damage's damage.
+
+#### ALEX
+
+Okay, that's 2d6. It's all right, guys, I got this. I'm gonna save us all.
+
+#### BEN
+
+Mm-hm. Well, it's already got 16--
+
+##### [DICE ROLLING]
+
+#### BEN
+
+--so Bryn still saved you. If you die--if it dies.
+
+#### ALEX
+
+#### 11!
+
+#### BEN
+
+And they explode if you've rolled a 6.
+
+#### ALEX
+
+Oh--! Okay. 6, 7, 8, 9, 10, 11, and then the second roll on the 6 was a further 2, so **13**.
+
+#### JONNY
+
+13\. The bullets sink in its shoulder, which explodes, spraying bits of flesh and ichor and just nastiness all over the walls. It sort of tumbles. It's not dead, and it's not stopping, but it does mean you can just... press yourself against the wall, and let it kind of scramble past you. It's not trying to kill you anymore, 'cause you've hurt it.
+
+#### ALEX
+
+That's fine. I am going to push my luck because I'm that foolish a character...
+
+#### JONNY
+
+Mm-hm.
+
+#### ALEX
+
+...and if possible, I'm going to try and swing the lantern at its head as it goes by me.
+
+#### JONNY
+
+[SNORTS] All right, uh...
+
+##### [LAUGHTER]
+
+#### JONNY
+
+...make me a...
+
+#### ALEX
+
+That's--_[laughs]_--that's a *death snort*. I know a death snort.
+
+#### JONNY
+
+Yeah, make me a Fighting roll at... -1, because it is it an improvised weapon.
+
+#### ALEX
+
+Fighting roll...
+
+##### [DICE ROLLING]
+
+#### ALEX
+
+5 -- 1.
+
+#### JONNY
+
+I mean, you sort of... shove the lantern in it, which casts its jagged horrible face in all sorts of shadows, and--
+
+#### ALEX
+
+That made things worse!
+
+#### JONNY
+
+Yeah, no, *okay*, you didn't get a *real* good look at it when it was coming, *now* you have, and, mmm, no, okay. So, you've made things worse for yourself.
+
+#### ALEX
+
+That's good. Great.
+
+#### JONNY
+
+It is currently running off towards the entrance.
+
+#### ALEX
+
+I then proceed to try and just run back to all of the other people who I know won't kill me on sight.
+
+#### JONNY
+
+Okay.
+
+#### BEN
+
+_("that's debatable")_ Mmmm...
+
+#### JONNY
+
+Yup, you get back.
+
+##### [JAMES LAUGHS]
+
+#### JONNY
+
+You get back into the tunnels.
+
+#### NATHANIEL
+
+_(whispering)_ Ca-caawww! *Ca-caaawww!* Ca-caw!
+
+#### BEN
+
+We're deeper in, right?
+
+##### [ALEX CHUCKLES]
+
+#### JONNY
+
+You haven't heard any real movement around, until someone runs in... shouting "ca-caw"...
+
+##### [ALEX LAUGHING]
+
+#### NATHANIEL
+
+_(laughing)_ Ca-caaawww!
+
+#### BEN
+
+_(simult.)_ I'm gonna take a--
+
+#### NATHANIEL
+
+_(simult.)_ Ca-caaawww.
+
+#### BEN
+
+--snap shot at the thing that runs in.
+
+#### JONNY
+
+Make me a Shooting roll.
+
+##### [ALEX LAUGHS]
+
+#### BEN
+
+In panic.
+
+#### ALEX
+
+_(simult.)_ Please let the--
+
+#### JONNY
+
+_(simult.)_ Is this with your big gun?
+
+#### ALEX
+
+_(simult.)_ Please let the *first death*...
+
+#### BEN
+
+_(simult.)_ No no, this is with the pistol.
+
+#### JONNY
+
+It's with the pistol.
+
+#### ALEX
+
+_(simult.)_ Please let the first death be you--
+
+#### BEN
+
+_(simult.)_ 'Cause I've got a lantern with that.
+
+#### ALEX
+
+--shooting *me*.
+
+#### BEN
+
+Well, that's what happens when you burst into the room with really scared people with guns.
+
+#### ALEX
+
+_(laughing)_ Yelling "ca-caw."
+
+##### [DICE ROLLING]
+
+#### BEN
+
+Yeah. 7.
+
+#### JONNY
+
+7! That's a hit. Roll me your damage, please.
+
+##### [ALEX LAUGHING]
+
+##### [DICE ROLLING]
+
+#### BEN
+
+7.
+
+#### JONNY
+
+7\. Okay, what's your Toughness?
+
+#### ALEX
+
+My Toughness is... 5!
+
+#### JONNY
+
+So that's enough to Shake you, but not wound you. Basically, the... shoots--clips right past your ear.
+
+#### ALEX
+
+_(sound of ears ringing)_ "Eeeeeeeeeeeeeee!" _[chuckles]_
+
+#### CIGARILLO
+
+Oh jeez!
+
+#### NATHANIEL
+
+Ah--
+
+#### CIGARILLO
+
+Sorry, Fletcher!
+
+#### NATHANIEL
+
+Haaaahh. *Haaahhh*. _(shaky whisper)_ Ca-caw. _[continues ca-cawing quietly]_
+
+#### CARL
+
+WHO IS IT? WELL, HE SHOULDN'T SNEAK UP ON PEOPLE LIKE THAT.
+
+#### NATHANIEL
+
+_(pitch rising)_ Ca-caaaww.
+
+#### CIGARILLO
+
+Shut up.
+
+#### NATHANIEL
+
+I--I shot it. It's not dead. And--and the sheriff's here. And... the sheriff's at the entrance, and the creature's between us and the sheriff--which is a good thing! And I shot it, which is a good thing. But the creature's there. Which is a bad thing. And it's a creature! And it's got no face! And it's there! And it's at the front.
+
+#### CARL
+
+RIGHT, WELL, HOW MANY OF THEM ARE THERE? IS IT JUST THIS ONE THAT'S BEEN WOUNDED? OR ARE THERE OTHERS AROUND?
+
+#### CIGARILLO
+
+Well, there were two nests, right?
+
+#### CARL
+
+WELL, TWO CHAMBERS WAS IMPL--UNLESS THE FIRST ONE WAS A SECOND HOMEOWNER. UM, WAS MAYBE--MAYBE HAD A LODGER OR SOMETHING.
+
+#### CIGARILLO
+
+D'you think it's *breeding?*
+
+#### ZEKE
+
+Let's go back to the entrance and see what's going on.
+
+#### NATHANIEL
+
+No no no. You *can't*, be--_[nervous laugh]_--y--you *can't*, because the *sheriff's at the entrance*.
+
+#### CIGARILLO
+
+So w--
+
+#### NATHANIEL
+
+Or at least something like a sheriff.
+
+#### ZEKE
+
+We'll go back *towards* the entrance, and see what's comin'.
+
+#### CIGARILLO
+
+There's just one of them, there's still four of us.
+
+##### [PAUSE]
+
+#### NATHANIEL
+
+*Yyyes*. Okay.
+
+#### ZEKE
+
+We won't engage unless we have to.
+
+#### NATHANIEL
+
+Okay.
+
+#### CARL
+
+AND EVEN IF WE DO, IT'S CORNERED, YOU KNOW? THERE'S JUST--IT'S A NARROW PASSAGE, THERE'S FOUR OF US WITH GUNS. AND SHERIFF AT OTHER END.
+
+#### ALEX
+
+I load my gun and place myself as central between _(laughing)_ everyone else as possible!
+
+#### JONNY
+
+So you're starting to head back up towards the entrance?
+
+#### BRYN
+
+Yeah.
+
+#### JAMES
+
+Mm-hm.
+
+#### BRYN
+
+Much more cautiously than before.
+
+#### BEN
+
+Who's going first?
+
+#### CARL
+
+FLETCHER'S--
+
+#### NATHANIEL
+
+*Not it!*
+
+#### CARL
+
+_(laughing)_ --GOING FIRST.
+
+#### NATHANIEL
+
+Not it.
+
+#### BEN
+
+Yeah. We'll shuffle round and push him to the front.
+
+##### [ALEX LAUGHING]
+
+#### CARL
+
+WELL VOLUNTEERED! SO ACTUALLY YOU'RE BUCKING UP THERE. WHEN I FIRST MET YOU, I THOUGHT YOU WERE JUST A YELLOW-BELLIED... STREAK OF... YELLOW... BELLY. BUT IT TURNS OUT, ACTUALLY YOU'VE GOT SPINE! AND I THINK THAT'S NOT A MIXED METAPHOR. ON YOU GO.
+
+#### CIGARILLO
+
+I--I--I've got an idea. Carl, hold the lantern.
+
+#### CARL
+
+ALL RIGHT, YEAH, ON YOU GO.
+
+#### BEN
+
+I'm gonna grab my rifle, and rest it on Fletcher's shoulder, and just sight down it as we walk up, so that he's stabilizing it for me.
+
+#### JONNY
+
+Like a mobile Mad Max?
+
+#### BEN
+
+Yeah!
+
+##### [JAMES LAUGHS]
+
+#### ALEX
+
+Fletcher... wise enough not to pick the fight, moves the lantern to his left hand, having already reloaded his gun, pockets his gun, and then puts his finger...
+
+##### [LAUGHTER]
+
+#### ALEX
+
+...*in his ear* next to that gun, 'cause... he's a coward, he's not an idiot.
+
+#### JONNY
+
+As you head up towards the entrance, you can start to hear voices. Drifting down.
+
+**VOICE 1:**Abel! Abel, you say you still heard something?
+
+**VOICE 2:**Yeah. Can't see much, though.
+
+**VOICE 1:**Gunshots, right, was it?
+
+**VOICE 2:**Yeah. Dark, though.
+
+**VOICE 1:**Well, you've been down here about 5 minutes. You ain't gone any deeper?
+
+**VOICE 2:**I ain't gone any deeper. Spooky down there. Dunno what sorta critters might be in there.
+
+**VOICE 1:**Well, we ain't after critters. We're after murderers.
+
+**VOICE 2:**All right. Well, the others here?
+
+**VOICE 1:**Yeah. _(shouting)_ Hey! Anybody down there?
+
+##### [PAUSE]
+
+#### ALEX
+
+As *quiet*--*don't all look to me like that!*
+
+##### [CHUCKLING]
+
+#### ALEX
+
+On audio--just the entire group look at me. As *quietly* as I *possibly* can, and I actually mean that... I turn meaningfully to look to everyone else and mouth:
+
+#### NATHANIEL
+
+_(barely audible)_ Ca-caaaawww. Ca-caaaawww.
+
+#### BRYN
+
+I put one hand over his mouth.
+
+##### [ALEX LAUGHS]
+
+#### BRYN
+
+And gesture to the other members of the party that we should cover the lanterns.
+
+#### ALEX
+
+I do so.
+
+#### JAMES
+
+Yeah.
+
+**VOICE 1:**_(shouting)_ Got twenty angry men out here! Gonna comb every inch of this damn cave 'less you come out peaceful-like.
+
+##### [PAUSE]
+
+**VOICE 1:**Last chance.
+
+#### CIGARILLO
+
+_(whispering)_ He said last chance. That means there's not more chances after this!
+
+#### JAMES
+
+So can we see him--is he still, like, silhouetted against the mouth of the cave, or...
+
+#### JONNY
+
+You are not currently at a stage where you can...
+
+#### JAMES
+
+There's no line of sight.
+
+#### JONNY
+
+No. Otherwise they would've seen your lanterns.
+
+#### JAMES
+
+Oh, right, yeah, of course.
+
+#### BRYN
+
+I shout:
+
+#### ZEKE
+
+Come and get us if you want us!
+
+##### [CIGARILLO SPLUTTERING VERY QUIETLY]
+
+#### JAMES
+
+Carl drops to one knee in order to steady himself and he aims up the...
+
+#### ALEX
+
+Am I still stood here--
+
+#### BEN
+
+Yeah.
+
+#### ALEX
+
+_(laughing)_ --as human meat shield?
+
+#### BRYN
+
+No, no. So I will... position the lanterns on the floor either side of the passageway, uncover them, and gesture to everyone to back off a little.
+
+#### BEN
+
+Okay.
+
+#### ALEX
+
+If people will allow it, I'll uncover my lantern and point it immediately *behind* us in towards the dark terrifying tunnel.
+
+#### BEN
+
+So I'm going down on a knee as well, with my rifle, and, yeah. Shaking slightly. But yeah.
+
+#### BRYN
+
+Let them come into the light first.
+
+**VOICE 1:**What're you thinkin'?
+
+**VOICE 2:**Well, I reckon if, uh, we head down there... they got the advantage. S'a bottleneck.
+
+##### [PAUSE]
+
+**VOICE 2:**I say we dynamite up the entrance. Leave 'em here.
+
+#### CIGARILLO
+
+_(whispering)_ Zeke, what do we *do?*
+
+**VOICE 1:**Sounds like a decent plan, Abel.
+
+##### [PAUSE]
+
+**VOICE 1:**Let's do that.
+
+#### CIGARILLO
+
+Come on, Carl, you've been doing this the longest, what do we do?
+
+#### CARL
+
+RIGHT, WELL, IF THERE'S ONE THING THAT I AS A TRUE-BLOODED YORKSHIREMAN KNOW, IT'S THE DANGERS OF CAVE-INS IN MINING SCENARIOS.
+
+##### [BRYN LAUGHING]
+
+#### ALEX
+
+_(laughing)_ For god's *sake*.
+
+#### CARL
+
+WE DO NOT WANNA GET STUCK DOWN HERE.
+
+#### CIGARILLO
+
+Okay. So... we're gonna rush 'em?
+
+#### NATHANIEL
+
+Flee?
+
+#### ZEKE
+
+Fine. Let's rush 'em, then.
+
+#### CIGARILLO
+
+Okay. Hey Fletcher, you go first.
+
+#### NATHANIEL
+
+_(hastily)_ No, it's okay, I--I--I, uh... I--I've got your back.
+
+##### [ZEKE SIGHS HEAVILY]
+
+#### BRYN
+
+I start running.
+
+#### JONNY
+
+Okay.
+
+#### BEN
+
+I'll follow Zeke, then.
+
+#### JONNY
+
+There are... twenty of them, outside.
+
+#### BEN
+
+Oh dear.
+
+#### JONNY
+
+All armed. And... as you run, Abel dives to the side, and shouts something, and they all start shooting. You are all... shot... to pieces.
+
+#### BEN
+
+Awww.
+
+#### JAMES
+
+Awwwwww.
+
+#### JONNY
+
+And, as they turn to ride off, and leave your moldering bodies for the Arizona sun... the one called Abel just...
+
+#### BEN
+
+Yeah.
+
+#### JONNY
+
+...readjusts his face.
+
+##### [JAMES GASPS]
+
+#### JONNY
+
+Ever so slightly.
+
+##### [ALEX MAKING QUIET FRUSTRATED NOISES]
+
+#### BEN
+
+Yeah. Ahhhh.
+
+#### ALEX
+
+Should've *fleed*. Fled. Floweden.
+
+#### JAMES
+
+Where?
+
+#### ALEX
+
+*Anywhere*.
+
+##### [JAMES SPLUTTERING]
+
+#### ALEX
+
+Just *fleeing as an action*.
+
+#### JONNY
+
+To be fair, gut-shotting the sheriff... kind of... signed a lot of your death warrants.
+
+##### [JAMES LAUGHS]
+
+#### BEN
+
+I think all of our death warrants, it sounds like.
+
+#### JONNY
+
+Yeah.
+
+#### JAMES
+
+Yeah.
+
+#### JONNY
+
+Yeah.
+
+##### [BEN CHUCKLES]
+
+#### JONNY
+
+Thank you all for joining us for this... spooky... skinny...
+
+#### ALEX
+
+Massacre.
+
+#### JONNY
+
+...massacre.
+
+##### [ALEX LAUGHS]
+
+#### JONNY
+
+Because a Halloween episode that ends with all of the players alive, and sane, is not a... good one.
+
+##### [LAUGHTER]
+
+#### JONNY
+
+And don't even get me started on the characters.
+
+##### [ALEX AND BEN LAUGH]
+
+#### JAMES
+
+Eyyyyyyyyyyyy!
+
+#### BEN
+
+Eyyyyyy.
+
+#### JONNY
+
+Pretty funny, 'cause I implied I'd killed you all.
+
+##### [ALEX LAUGHS]
+
+#### JAMES
+
+Ah!
+
+#### BEN
+
+Aw, but it--then we went "ey," and--aw, it's--
+
+#### ALEX
+
+Aww. Well--
+
+#### JONNY
+
+No, it's fine. It's been--
+
+#### JAMES
+
+But is it our GHOOOSTS SAYING THAT?
+
+#### BEN
+
+I mean--woooOOOOOOooooooo!
+
+#### JAMES
+
+WoooooOOOOooooooo, my HAND'S just gone *through the table!* Twiiiice!
+
+#### JONNY
+
+What's that, Lydia's ghost? No, I don't think he will shut up.
+
+##### [LAUGHTER]
+
+#### JAMES
+
+This is what Hell is, Lydia! *Me* talking *near you*, for aaaaall eteeeeernity!
+
+#### ALEX
+
+Yeah, thank--
+
+#### JONNY
+
+_(simult.)_ And with that...
+
+#### ALEX
+
+_(simult.)_ --thanks for coming, Jonny, I appreciate it.
+
+##### [BEN AND JAMES LAUGH]
+
+#### JONNY
+
+Thank you all. Thank you for listening, and tune in next time, when your regularly scheduled...
+
+#### JAMES
+
+Mucking-around time.
+
+##### [ALEX LAUGHS]
+
+#### JONNY
+
+...mucking-around time, will be... less... sinister.
+
+##### [ALEX AND BEN CHUCKLE]
+
+#### JONNY
+
+So.
+
+#### BEN
+
+Well.
+
+#### JONNY
+
+That'll be nice.
+
+##### [BEN LAUGHS]
+
+#### ALEX
+
+Bye, guys.
+
+#### ALL
+
+Bye!
+
+#### NATHANIEL
+
+_(simult.)_ Ate it while I was--
+
+#### CARL
+
+_(simult.)_ _[indistinct]_ TO WEARING HUMAN SKIN AND DANCING AROUND? THAT'S *MADNESS!* EVEN IF IT WERE DOING A WALTZ, THE MOST APPROPRIATE DANCE FOR THIS TIME OF THE MORNING AT THIS STAGE, IN THE SEASON, THAT WOULD BE LUDICROUS! YOU'LL BE SAYING IT WAS WEARING A FANCY TOP HAT AND TAILS, NEXT! AND TOASTING THE MACARENA!
+
+#### JONNY
+
+There's not as much skin in that one, it looks like most of the skin is in that strange wardrobe that you found.
+
+#### CARL
+
+IT'S LIKE A VERY SINISTER EPISODE OF MR. BENN.
+
+##### [ALEX AND BRYN BURST OUT LAUGHING]
+
+#### ALEX
+
+That's *so niche*.
+
+#### JONNY
+
+I mean, to be honest, all episodes of Mr. Benn are sinister if you overthink them.
+
+#### JAMES
+
+Mmmm.
+
+##### [BRYN LAUGHS]
+
+#### ALEX
+
+Mr. Benn being a kid's TV show in Britain from years and years and years ago. Just, you know.
+
+#### JONNY
+
+_(simult.)_ Where a very middle-class man--
+
+#### ALEX
+
+_(simult.)_ About costumes.
+
+#### JONNY
+
+--in a bowler hat puts on *other* hats in a costume shop, and becomes all sorts of... spacemen, knights, and *even*, at some points, a cowboy!
+
+#### JAMES
+
+Mmmm!
+
+#### ALEX
+
+*It's Mr. Benn!*
+
+#### JAMES
+
+_(simult.)_ WHAAAAAAAAAAAT.
+
+#### ALEX
+
+_(simult.)_ *Whaaat?*
+
+#### JAMES
+
+_(simult.)_ HOW DEEP DOES THIS RABBIT HOLE GO?
+
+#### JONNY
+
+_(simult.)_ What a *twist!*
+
+##### [BEN LAUGHING]
+
+#### JAMES
+
+NOOOOOOOO!
+
+#### JONNY
+
+It's not a *faceless* thing.
+
+#### ALEX
+
+*I stand by*--
+
+#### JONNY
+
+_(simult.)_ It just doesn't have--
+
+#### ALEX
+
+_(simult.)_ --*my statement.*
+
+#### JONNY
+
+--the *skin* between the face.
+
+#### ALEX
+
+I stand by my panicked statement of--
+
+#### JONNY
+
+_(simult.)_ The moustache, for instance.
+
+#### ALEX
+
+_(simult.)_ "It does not have a face."
+
+#### JONNY
+
+It doesn't have a moustache.
+
+#### JAMES
+
+Eughhhh.
+
+##### [ALEX LAUGHING]
+
+#### JONNY
+
+This is the Old West, so...
+
+#### JAMES
+
+_(simult.)_ Yeah!
+
+#### BEN
+
+_(simult.)_ Yeah.
+
+#### JONNY
+
+...the correct reaction, there.
+
+##### [ALEX LAUGHING]
+
+#### JAMES
+
+Ughhhhh!
+
+#### JONNY
+
+Mr. James.
+
+#### JAMES
+
+Euughhhh.
+
+#### ALEX
+
+It's all right.
+
+#### BEN
+
+No, that's cool.
+
+#### ALEX
+
+My backup was to prete--was to shoot myself with my own gun in the shoulder, tie myself up, and _(laughing)_ claim I was a hostage.
+
+##### [JONNY AND ALEX BURST OUT LAUGHING]
+
+#### JAMES
+
+It's quite a good one.
+
+#### BRYN
+
+Wow.
+
+##### [ALEX LAUGHING]
+
+#### JAMES
+
+Yeah.
+
+#### JONNY
+
+Oh, that's... *that*--
+
+#### BEN
+
+Love that.
+
+#### JONNY
+
+--would've been lovely.
+
+#### JAMES
+
+Yeah.

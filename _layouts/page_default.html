@@ -2,8 +2,10 @@
 layout: default
 ---
 
-	<div class="page-content">
-		<div class="wrapper">
-			{{ content }}
-		</div><!-- /div.wrapper -->
-	</div><!-- /div.page-content -->
+<div class="page-content">
+	<div class="wrapper">
+    {% if page.title %}<h1 class="page-title center"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>{% endif %}
+
+		{{ content }}
+	</div><!-- /div.wrapper -->
+</div><!-- /div.page-content -->

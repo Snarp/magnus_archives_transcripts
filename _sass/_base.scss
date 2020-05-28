@@ -5,7 +5,7 @@
     font-size: $small-font-size; line-height: $small-line-height;
 }
 .small { @include small-text; }
-// .small   { font-size: $small-font-size; line-height: $small-line-height; }
+.center { text-align: center; margin-left: auto; margin-right: auto; }
 
 /**
  * Reset some basic elements

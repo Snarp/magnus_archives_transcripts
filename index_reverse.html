@@ -1,13 +1,14 @@
 ---
-layout: page_default
-title: 'Special Episodes - Q&A, Contest Winners, Etc.'
+layout: default
 ---
 
 <div class="table-of-contents">
 <div class="wrapper">
 
 <ul>
-{% assign episodes = site.posts | where: "categories", "special" %}
+  <li class='ep-sort'><a href="{{ site.baseurl }}/index.html">⇅</a> <a href="{{ site.baseurl }}/index.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index.html">⇅</a></li>
+
+{% assign episodes = site.posts | where: "categories", "episode" | reverse %}
 {% for post in episodes %}
   <li>
     <div class='ep-left'>
@@ -15,6 +16,12 @@ title: 'Special Episodes - Q&A, Contest Winners, Etc.'
       <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
     </div>
 
+    {%- if post.trailer %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-trailer' href="{{ post.url | prepend: site.baseurl }}">TRAILER</a> 
+    </div>
+    {%- endif %}
     {%- if post.unfinished %}
 
     <div class='ep-center'>

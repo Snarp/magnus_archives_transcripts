@@ -219,8 +219,12 @@
         .post-flags {
             background:     $dark-highlight-bg-color;
             color:          $dark-highlight-text-color;
-            .label { 
-                color:  $warning-text-color; 
+            .label          { color: $warning-text-color; }
+            .spoiler-label {
+                color:       $base3;
+                font-weight: bold; 
+                font-size:   90%; 
+                cursor:      pointer; 
             }
         }
     }
@@ -264,10 +268,9 @@
             }
         }
         span {
-            color:          $brand-color;
             display:        block;
-            font-family:    Montserrat, $font-family-sans-serif;
-            font-size:      0.75rem;
+            font-family:    $font-family-monospace;
+            font-size:      1.0rem;
             font-style:     normal;
             letter-spacing: 1px;
             text-transform: uppercase;

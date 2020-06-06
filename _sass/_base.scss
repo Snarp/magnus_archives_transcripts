@@ -7,6 +7,20 @@
 .small { @include small-text; }
 .center { text-align: center; margin-left: auto; margin-right: auto; }
 
+
+
+.spoiler-label-hidden { 
+    display: none; 
+    cursor:           pointer; 
+}
+.spoiler-hidden {
+    background-color: $dark-highlight-bg-color; 
+    color:            $dark-highlight-bg-color; 
+    cursor:           pointer; 
+}
+
+
+
 /**
  * Reset some basic elements
  */
@@ -63,6 +77,33 @@ article {
         @include media-query($on-palm) { font-size: $small-font-size; }
     }
 }
+
+
+
+a.footnote {
+    font-family: $font-family-monospace;
+    font-weight: bold; 
+    color:       $orange;
+}
+div.footnotes {
+    font-family: $font-family-monospace;
+
+    margin-top:  $spacing-unit * 2; 
+    border-top:  $grey-color-light solid 1px; 
+    padding-top: $spacing-unit; 
+
+    ol li p {
+        margin-left: 1em; 
+        color:       $muted-text-color;
+    }
+    li::marker { color: $orange; }
+
+    a.reversefootnote {
+        color:       $orange;
+        font-weight: bold; 
+    }
+}
+
 
 
 

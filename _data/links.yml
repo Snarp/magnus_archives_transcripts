@@ -28,3 +28,7 @@
   shortname: RSS
   path:      feed.xml
   local:     true
+- name:      EPUB Download
+  shortname: EPUB Download
+  path:      "assets/epub/the_magnus_archives.epub"
+  local:     true

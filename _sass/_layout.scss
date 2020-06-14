@@ -48,15 +48,24 @@
 }
 
 
+.latest-news-bar {
+    margin:          $spacing-unit auto;
+    text-align:      center;
+    font-size:       smaller;
+    color:           $muted-text-color;
+    font-style:      italic;
+}
+
+
 
 /**
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding:    $spacing-unit 0;
     background: $dark-background-color;
     color:      $dark-text-color;
+    border-top: 1px solid $grey-color-light;
+    padding:    $spacing-unit 0;
     font-size:  0.8rem;
     @include media-query($on-palm) { font-size: 0.8rem; }
     a { 

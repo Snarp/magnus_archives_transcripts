@@ -194,7 +194,7 @@
         .post-links {
             margin: 1.0rem auto 0;
             @include media-query($on-palm) { font-size: $small-font-size; }
-            a.acast-link { font-weight: bold; color: $orange; }
+            a.acast-link { font-weight: bold; }
             .unofficial-label {
                 font-family: $font-family-monospace; 
                 font-weight: bold; 

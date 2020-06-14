@@ -7,7 +7,7 @@ title: 'Special Episodes - Q&A, Contest Winners, Etc.'
 <div class="wrapper">
 
 <ul>
-{% assign episodes = site.posts | where: "categories", "special" %}
+{% assign episodes = site.posts | where: "categories", "special" | reverse %}
 {% for post in episodes %}
   <li>
     <div class='ep-left'>

@@ -30,6 +30,15 @@ $blue:    #268bd2;
 $cyan:    #2aa198;
 $green:   #859900;
 
+$black-color:        $base03;
+$off-black-color:    $base02;
+$grey-color-darker:  $base01;
+$grey-color-dark:    $base00;
+$grey-color:         $base0;
+$grey-color-light:   $base1;
+$off-white-color:    $base2;
+$white-color:        $base3;
+
 // OTHER VARIABLES
 
 $base-font-family:   $font-family-serif;
@@ -41,24 +50,21 @@ $spacing-unit:       $base-line-height;
 $small-font-size:    0.8rem;
 $small-line-height:  $small-font-size * 1.618;
 
-$grey-color:         $base0; 
-$grey-color-light:   $base1; 
-$grey-color-dark:    $base00; 
-
-$background-color:   $base3; 
-$brand-color:        $grey-color-dark; 
-$text-color:         $grey-color-dark; 
+$background-color:   $white-color;
+$brand-color:        $grey-color-dark;
+$text-color:         $grey-color-dark;
 $accent-color:       $green;
-$title-color:        $green; 
-$warning-text-color: $orange; 
+$title-color:        $green;
+$warning-text-color: $orange;
 $muted-text-color:   $grey-color-light;
-$highlight-bg-color: $base2;
+$em-text-color:      $grey-color-darker;
+$highlight-bg-color: $off-white-color;
 
-$dark-background-color:     $base03;
-$dark-highlight-bg-color:   $base02;
-$dark-highlight-text-color: $base1;
-$dark-muted:                $base01;
-$dark-text-color:           $base0;
+$dark-background-color:     $black-color;
+$dark-highlight-bg-color:   $off-black-color;
+$dark-highlight-text-color: $grey-color-light;
+$dark-muted-text-color:     $grey-color-darker;
+$dark-text-color:           $grey-color;
 
 // Width of the content area
 $content-width:      calc(620px + (#{$spacing-unit}*2));
@@ -68,7 +74,7 @@ $on-laptop:          800px;
 
 
 @mixin dark-mode {
-  background-color: $dark-background-color; 
+  background-color: $dark-background-color;
   color:            $dark-text-color;
 }
 

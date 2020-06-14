@@ -20,8 +20,8 @@ pdf:
 accessible_pdf:  
 google_doc:      
 official:        false
-unofficial:      teawood
-unofficial_name: teawood
+unofficial:      "mailto:teawoodleaf@gmail.com"
+unofficial_name: tea wood
 wiki_url:        
 ---
 

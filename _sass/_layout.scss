@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    background:    $base03;
+    background:    $dark-background-color;
     border-top:    5px solid $accent-color;
     border-bottom: 1px solid $grey-color-light;
     min-height:    60px;
@@ -55,14 +55,14 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding:    $spacing-unit 0;
-    background: $base03;
-    color:      $base0;
+    background: $dark-background-color;
+    color:      $dark-text-color;
     font-size:  0.8rem;
     @include media-query($on-palm) { font-size: 0.8rem; }
     a { 
         font-weight:     bold; 
-        color:           $base1; 
-        &:hover { color: $base2; }
+        color:           $grey-color-light; 
+        &:hover { color: $off-white-color; }
     }
 
     .footer-heading {
@@ -139,7 +139,7 @@
                 margin-top:  $spacing-unit; 
                 text-align:  center; 
                 font-weight: bold; 
-                color:       $base01; 
+                color:       $em-text-color; 
                 @include media-query($on-palm) { font-size: $small-font-size; }
             }
             h5 { // CAPTION LABEL
@@ -185,8 +185,13 @@
         .post-links {
             margin: 1.0rem auto 0;
             @include media-query($on-palm) { font-size: $small-font-size; }
-            a.acast-link { 
+            a.acast-link { font-weight: bold; color: $orange; }
+            .unofficial-label {
+                font-family: $font-family-monospace; 
                 font-weight: bold; 
+                font-size:   80%; 
+                line-height: 1; 
+                color:       $em-text-color;
             }
         }
         .post-header-section {
@@ -221,7 +226,7 @@
             color:          $dark-highlight-text-color;
             .label          { color: $warning-text-color; }
             .spoiler-label {
-                color:       $base3;
+                color:       $white-color;
                 font-weight: bold; 
                 font-size:   90%; 
                 cursor:      pointer; 

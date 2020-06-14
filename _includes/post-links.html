@@ -1,11 +1,11 @@
-<div class="post-links post-meta">
+<div class="post-meta post-links">
   <a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
 
   {% if page.official or page.unofficial -%}
     {%- if page.official -%}
   <br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
-    {%- elsif page.unofficial -%}
-  <br/>Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
+    {%- elsif page.unofficial_name -%}
+  <br/>Source: <a class="source-link source-homepage" target="_blank" {% if page.unofficial %} href="{{ page.unofficial }}"{% endif %}>{{page.unofficial_name}}</a> <span class="unofficial-label">[UNOFFICIAL]</span>
     {%- endif -%}
   {%- endif -%}
 

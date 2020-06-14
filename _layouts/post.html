@@ -1,64 +1,8 @@
 ---
 layout: default
 ---
-
 <div class="post">
-<header class="post-header">
-	<div class="wrapper">
-		{% include post-nav.html %}
-		
-		<div class="post-subtitle">
-			<div class="post-episode-number">MAG{{page.episode_number}}</div>
-			{%- if page.case_number %} 
-			<div class="divider"> - </div> 
-			<div class="post-case-number">#{{page.case_number}}</div>
-			{%- endif %}
-		</div>
-		<h1 class="post-title" itemprop="name headline">
-			<a href="{{ page.url | prepend: site.baseurl }}">{{page.episode_title}}</a>
-		</h1>
-		<div class="post-date post-meta">
-			{{ page.date | date: "%B %-d, %Y" }}
-		</div>
-
-		{% if page.summary %}<div class="post-header-section post-summary post-links post-meta">
-			<div class="label">Summary</div>
-			<div class="content">{{ page.summary }}</div>
-		</div>{% endif %}
-		
-		{% if page.content_flags and page.content_flags.size > 0 %}<div class="post-flags post-header-section post-links post-meta">
-			<div class="label" onclick="document.querySelector('.spoiler-hidden').classList.remove('spoiler-hidden');"><p>Warning</p></div>
-			<div class="content" title="Click to view."><p class="spoiler-label spoiler-label-hidden">(Click to view.)</p><p class="spoiler">{{ page.content_flags | join: ", " }}</p></div>
-		</div>{% endif %}
-
-		<div class="post-links post-meta">
-			<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
-
-		{% if page.official or page.unofficial %}
-			{% if page.official %}
-			<br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
-			{% elsif page.unofficial %}
-			<br/>Source: <a class="source-link source-homepage" target="_blank" href="{{ page.unofficial }}">{{page.unofficial_name}}</a> <i>(unofficial)</i>
-			{% endif %}
-		{% endif %}
-
-			<br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
-			{% if page.google_doc %}
-				| <a class="source-link source-google-doc" target="_blank" href="{{ page.google_doc }}">Google Doc</a> 
-			{% endif %}
-			{% if page.pdf %}
-				| <a class="source-link source-pdf" target="_blank" href="{{ page.pdf }}">PDF</a> 
-			{% endif %}
-			{% if page.accessible_pdf %}
-				| <a class="source-link source-pdf-accessible" target="_blank" href="{{ page.accessible_pdf }}">PDF (Accessible)</a> 
-			{% endif %}
-		</div>
-
-		{% if page.unfinished %}<div class='warning'>
-			<em>This transcript is incomplete.</em>
-		</div>{% endif %}
-	</div><!-- /div.wrapper -->
-</header><!-- /header.post-header -->
+{% include post-header.html %}
 
 <div class="wrapper">
 	<article class="post-body" itemscope itemtype="http://schema.org/BlogPosting">

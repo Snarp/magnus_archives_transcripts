@@ -1,0 +1,37 @@
+<header class="post-header">
+  <div class="wrapper">
+
+{% include post-nav.html %}
+
+<div class="post-subtitle">
+  <div class="post-episode-number">MAG{{page.episode_number}}</div>
+  {%- if page.case_number %} 
+  <div class="divider"> - </div> 
+  <div class="post-case-number">#{{page.case_number}}</div>
+  {%- endif %}
+</div>
+<h1 class="post-title" itemprop="name headline">
+  <a href="{{ page.url | prepend: site.baseurl }}">{{page.episode_title}}</a>
+</h1>
+<div class="post-date post-meta">{{ page.date | date: "%B %-d, %Y" }}</div>
+
+{% if page.summary -%}
+<div class="post-header-section post-summary post-links post-meta">
+  <div class="label">Summary</div>
+  <div class="content">{{ page.summary }}</div>
+</div>
+{%- endif %}
+    
+{% if page.content_flags and page.content_flags.size > 0 -%}
+  {% include post-content-flags.html %}
+{%- endif %}
+
+{% include post-links.html %}
+
+{% if page.unfinished -%}
+<div class='warning'>
+  <em>This transcript is incomplete.</em>
+</div>
+{%- endif %}
+  </div><!-- /div.wrapper -->
+</header><!-- /header.post-header -->

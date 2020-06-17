@@ -4,9 +4,15 @@ layout: default
 
 <div class="page-content">
 	<div class="wrapper">
+    <div class="news-post">
+
     <h1 class="page-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
     <p class="muted"><i><a href="{{ page.url | prepend: site.baseurl }}">{{ page.date | date: "%Y-%m-%d" }}</a></i></p>
 
 		{{ content }}
+
+    </div><!-- /div.news-post -->
+
+    {% include news-post-nav.html %}
 	</div><!-- /div.wrapper -->
 </div><!-- /div.page-content -->

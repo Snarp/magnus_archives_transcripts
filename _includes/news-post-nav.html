@@ -1,0 +1,14 @@
+<div class="post-nav">
+  <div class="previous">
+    {% if page.previous.url %}<a href="{{ site.baseurl }}{{ page.previous.url }}">
+      <span>← {{ page.previous.date | date: "%Y-%m-%d" }}</span>
+      {{ page.previous.title }}
+    </a>{% endif %}
+  </div>
+  <div class="next">
+    {% if page.next.url %}<a href="{{ site.baseurl }}{{ page.next.url }}">
+      <span>{{ page.next.date | date: "%Y-%m-%d" }} →</span>
+      {{ page.next.title }}
+    </a>{% endif %}
+  </div>
+</div><!-- /div.post-nav -->

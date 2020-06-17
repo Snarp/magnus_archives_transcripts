@@ -248,55 +248,57 @@
         padding:    $spacing-unit 0;
         margin:     $spacing-unit 0 0 0;
     }
-    .post-nav {
-        margin:          0;
-        display:         flex;
-        justify-content: space-between;
+}
+.news-post { 
+    margin-top: $spacing-unit; margin-bottom: $spacing-unit;
+}
+.post-nav {
+    margin:          0;
+    display:         flex;
+    justify-content: space-between;
 
-        .previous, .next {
-            margin: 0;
-            width:  50%;
-        }
-        .previous {
-            text-align:   left;  
-            margin-right: 0.4rem;
-        }
-        .next {
-            text-align:  right; 
-            margin-left: 0.4rem;
-        }
-        @include media-query($on-palm) {
-            padding: initial;
-            a:nth-child(even) { margin-bottom: 0.5rem; }
-            .next, .previous {
-                text-align: center;
-                width:      100%;
-            }
-        }
-        @include media-query($on-laptop) {
-            padding: initial;
-            a:nth-child(even) { margin-bottom: 0.5rem; }
-            .next, .previous {
-                text-align: center;
-                width:      100%;
-            }
-        }
-        span {
-            display:        block;
-            font-family:    $font-family-monospace;
-            font-size:      1.0rem;
-            font-style:     normal;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-        }
-        a {
-            font-style: italic;
-            color:      $muted-text-color;
-            &:hover     { color: darken($muted-text-color, 10%); }
+    .previous, .next {
+        margin: 0;
+        width:  50%;
+    }
+    .previous {
+        text-align:   left;  
+        margin-right: 0.4rem;
+    }
+    .next {
+        text-align:  right; 
+        margin-left: 0.4rem;
+    }
+    @include media-query($on-palm) {
+        padding: initial;
+        a:nth-child(even) { margin-bottom: 0.5rem; }
+        .next, .previous {
+            text-align: center;
+            width:      100%;
         }
     }
+    @include media-query($on-laptop) {
+        padding: initial;
+        a:nth-child(even) { margin-bottom: 0.5rem; }
+        .next, .previous {
+            text-align: center;
+            width:      100%;
+        }
+    }
+    span {
+        display:        block;
+        font-family:    $font-family-monospace;
+        font-size:      1.0rem;
+        font-style:     normal;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+    a {
+        font-style: italic;
+        color:      $muted-text-color;
+        &:hover     { color: darken($muted-text-color, 10%); }
+    }
 }
-
 
 
 /**

@@ -75,12 +75,12 @@
 - name: snarp
   url: https://snarp.tumblr.com/
   episodes:
-  - number: '043'
-    title: "Section 31"
-  - number: '044'
-    title: "Tightrope"
-  - number: '045'
-    title: "Blood Bag"
+  # - number: '043'
+  #   title: "Section 31"
+  # - number: '044'
+  #   title: "Tightrope"
+  # - number: '045'
+  #   title: "Blood Bag"
   - number: '046'
     title: "Literary Heights"
   - number: '047'

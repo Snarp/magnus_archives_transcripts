@@ -1,4 +1,4 @@
 {% assign news_posts = site.news | reverse %}
 <div class="latest-news-bar wrapper">
-  Updates: <a class="news-toplink" href="{{ news_posts[0].url | prepend: site.baseurl }}">{{ news_posts[0].title }}</a>
+  {{ news_posts[0].date | date: "%Y-%m-%d" }} - <a class="news-toplink" href="{{ news_posts[0].url | prepend: site.baseurl }}">{{ news_posts[0].title }}</a>
 </div>

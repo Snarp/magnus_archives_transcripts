@@ -112,9 +112,25 @@ div.footnotes {
  */
 hr { 
     margin: 2.4rem auto; 
-    border: 1px solid $grey-color-light;
     width:  66%;
+    border: 1px solid $grey-color-light;
 }
+// hr {
+//     margin:    2.4rem auto;
+//     height:    18px;
+//     width:     80px;
+//     max-width: 60%;
+//     color:     $grey-color-light;
+//     border:    0;
+//     background-repeat:   no-repeat;
+//     background-image:    url('../assets/icon-eye.svg'),
+//                          url('../assets/icon-eye.svg'),
+//                          url('../assets/icon-eye.svg');
+//     background-position: 0    top,
+//                          50%  top,
+//                          100% top;
+//     background-size:     16px;
+// }
 
 
 

@@ -1,4 +1,30 @@
 /**
+ * Search
+ */
+
+form#site-search {
+    display: flex; 
+    input#search-box { flex-grow: 4; }
+}
+
+ul#search-results {
+    margin:     $spacing-unit 0;
+    padding:    0;
+    list-style: none;
+    li {
+        margin:  $spacing-unit 0;
+        padding: ($spacing-unit / 2);
+        p { margin: ($spacing-unit / 2) 0 0 0; }
+    }
+    li:nth-child(odd){ background: $highlight-bg-color; }
+}
+
+.search-results-header { 
+    margin:      $spacing-unit 0; 
+    font-family: $font-family-monospace; 
+}
+
+/**
  * Site header
  */
 .site-header {

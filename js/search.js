@@ -6,8 +6,8 @@
       var appendString = '';
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString+='<li><a href="'+item.url+'"><h3>'+item.title+'</h3></a>';
-        appendString+='<p>'+item.content.substring(0, 150)+'...</p></li>';
+        appendString+='<li><a href="'+item.url+'">'+item.title+'</a>';
+        appendString+='<p>'+item.summary+'...</p></li>';
       }
       searchResults.innerHTML = appendString;
     } else {
@@ -35,15 +35,13 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
-      this.field('author');
-      this.field('category');
+      this.field('summary');
       this.field('content');
       for (var key in window.store) { 
         this.add({
           'id': key,
           'title': window.store[key].title,
-          'author': window.store[key].author,
-          'category': window.store[key].category,
+          'summary': window.store[key].summary,
           'content': window.store[key].content
         });
       };

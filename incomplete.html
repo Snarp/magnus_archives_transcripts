@@ -10,7 +10,7 @@ title: Incomplete Transcripts
   <ul>
     {% for episode in site.data.incomplete %}
     <li>
-      <div class="ep-left"><a class="ep-title" href="episode/{{episode.number}}.html">{{episode.number}} {{episode.title}}</a></div>
+      <div class="ep-left"><a class="ep-title" href="{{episode.url}}">{{episode.number}} {{episode.title}}</a></div>
     </li>
     {% endfor %}
   </ul>

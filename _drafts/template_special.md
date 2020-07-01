@@ -1,18 +1,12 @@
 ---
 layout:          post
-title:           "MAG000 - #0000000 - TITLE"
+title:           "MAG160.0 - TITLE"
 date:            2020-01-01 12:00:00 -0400
-categories:      other
+categories:      special
 tags:            []
-statement_of:    []
-recorder:        []
 voiced:          []
 episode_title:   'TITLE'
-episode_number:  '000'
-case_number:     '0000000'
-statement_date:  
-recording_date:  
-event_date:      
+episode_number:  '160.0'
 summary:         ""
 content_flags:   []
 acast_url:       

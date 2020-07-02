@@ -4,21 +4,12 @@ title:           "MAG080.3 - The Making of Magnus"
 date:            2017-11-08 12:00:00 -0400
 categories:      special
 tags:            []
-statement_of:    []
-recorder:        []
-voiced:          []
 episode_title:   'The Making of Magnus'
 episode_number:  '080.3'
-case_number:     
-statement_date:  
-recording_date:  
-event_date:      
 summary:         "Join Alex, Mike, Anil, Martyn and Ben as they discuss what it takes to get an episode of The Magnus Archives from the page to your ears."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/mag80.3-themakingofmagnus
-pdf:             
-accessible_pdf:  
-google_doc:      
+google_doc:      https://docs.google.com/document/d/1kXFkZOin_UcglAsQmzM8kt01RbWOd504C7TUO4GvJAE/edit?usp=sharing
 official:        false
 unofficial:      "mailto:teawoodleaf@gmail.com"
 unofficial_name: tea wood
@@ -75,15 +66,15 @@ This is, yeah, it's much better than it was before.
 
 #### BEN
 
-Yeah. We did the recording today, and we all got to sit down. We weren't all huddled in Martin's hallway, surrounded by a duvet that keeps falling over, or underneath a yurt made of, uh... []{#__DdeLink__5321_2701062539 .anchor}(laughing)
+Yeah. We did the recording today, and we all got to sit down. We weren't all huddled in Martin's hallway, surrounded by a duvet that keeps falling over, or underneath a yurt made of, uh...
 
 #### MARTYN
 
-(Simultaneous) Duvets. A lot of duvets.
+_(Simultaneous)_ Duvets. A lot of duvets.
 
 #### MIKE
 
-(Simultaneous) A yurt made of blankets, yeah. (laughing)
+_(Simultaneous)_ A yurt made of blankets, yeah. _(laughing)_
 
 #### MARTYN
 
@@ -91,7 +82,7 @@ A lot of duvets in pretty early days.
 
 #### BEN
 
-Yeah. (Mike laughs) Still very warm.
+Yeah. _(Mike laughs)_ Still very warm.
 
 #### MIKE
 
@@ -115,7 +106,7 @@ Typos is another thing, yeah. It's unbelievable just how much a typo can throw y
 
 #### BEN
 
-Oh yeah, completely ruins it. There's lots of, I mean, we did one today where we changed something and then changed it back, and every single time I got to that line I just went, "Ablurbbbb..." (Mike chuckles)
+Oh yeah, completely ruins it. There's lots of, I mean, we did one today where we changed something and then changed it back, and every single time I got to that line I just went, "Ablurbbbb..." _(Mike chuckles)_
 
 #### ALEX
 
@@ -165,7 +156,7 @@ Well, as far as Jonny has written them.
 
 #### BEN
 
-(Deadpan) Yaaaay.
+_(Deadpan)_ Yaaaay.
 
 #### MIKE
 
@@ -173,7 +164,7 @@ Whooo!
 
 #### BEN
 
-(Deadpan) Everyone was really good.
+_(Deadpan)_ Everyone was really good.
 
 #### MIKE
 
@@ -185,7 +176,7 @@ Everyone was brilliant.
 
 #### MIKE
 
-(Unconvincingly) We all done a really... good... job.
+_(Unconvincingly)_ We all done a really... good... job.
 
 #### BEN
 
@@ -193,7 +184,7 @@ Yes.
 
 #### ANIL
 
-Lots and lots of raw audio. (Mike laughs)
+Lots and lots of raw audio. _(Mike laughs)_
 
 #### ALEX
 
@@ -229,7 +220,7 @@ No, not in this case. I mean, we haven't got the budget for that **yet**, but we
 
 #### ALEX
 
-What an excellent example of the kind of thing that can turn up in raw audio that you need to **remove** (laughter) in order to get a fully-fledged episode out of the end of it.
+What an excellent example of the kind of thing that can turn up in raw audio that you need to **remove** _(laughter)_ in order to get a fully-fledged episode out of the end of it.
 
 #### MIKE
 
@@ -263,7 +254,7 @@ Horribly but in a good way also. We have some music tracks which are produced by
 
 #### BEN
 
-Is that the official title? (laughter)
+Is that the official title? _(laughter)_
 
 #### ALEX
 
@@ -271,7 +262,7 @@ Sam Sam the Music Man.
 
 #### MIKE
 
-(laughing) Official title. Yeah, yeah. He's developed some tracks specifically for Season 2. So in Season 1, we had some tracks that were developed for Season 1. But in Season 2 we wanted to kind of give it a little bit of a different feel, we wanted something that was a bit more dynamic, and so we worked on producing a set of, a series of tracks that worked together no matter what order you put them in, which is quite clever on his part.
+_(laughing)_ Official title. Yeah, yeah. He's developed some tracks specifically for Season 2. So in Season 1, we had some tracks that were developed for Season 1. But in Season 2 we wanted to kind of give it a little bit of a different feel, we wanted something that was a bit more dynamic, and so we worked on producing a set of, a series of tracks that worked together no matter what order you put them in, which is quite clever on his part.
 
 #### ALEX
 
@@ -387,7 +378,7 @@ If there's one piece of advice for anyone who's wanting to do a podcast is, it i
 
 #### MARTYN
 
-Or you could do it yourself like we did! Figure it all out! (Ben laughs)
+Or you could do it yourself like we did! Figure it all out! _(Ben laughs)_
 
 #### ALEX
 
@@ -487,7 +478,7 @@ Yes.
 
 #### MIKE
 
-(Laughs) Yeah, that is a good idea.
+_(Laughs)_ Yeah, that is a good idea.
 
 #### ANIL
 
@@ -515,15 +506,15 @@ Like, the amount...
 
 #### MIKE
 
-(Simultaneous) With everything that we're doing, yeah, yeah.
+_(Simultaneous)_ With everything that we're doing, yeah, yeah.
 
 #### BEN
 
-(Simultaneous) The fanart, and the fanart and stories and...
+_(Simultaneous)_ The fanart, and the fanart and stories and...
 
 #### ANIL
 
-(Simultaneous) Yeah. The fanart, the stories, and I will say here, those of you who have listened to the Q&A will have heard Jonny say that he doesn't read any of the fanfic or anything like that...
+_(Simultaneous)_ Yeah. The fanart, the stories, and I will say here, those of you who have listened to the Q&A will have heard Jonny say that he doesn't read any of the fanfic or anything like that...
 
 #### ALEX
 
@@ -563,7 +554,7 @@ One thing that I'll mention at this point as well is we are always on the hunt f
 
 #### MARTYN
 
-(Laughing) We won't come to your house.
+_(Laughing)_ We won't come to your house.
 
 ##### [LAUGHTER]
 
@@ -589,7 +580,7 @@ Like, I saw some Elias fanart I think the first time with the brutal, sounds of 
 
 #### BEN & ANIL
 
-(Simultaneous) Sounds of extended brutal pipe murder.
+_(Simultaneous)_ Sounds of extended brutal pipe murder.
 
 #### ANIL
 
@@ -667,7 +658,7 @@ But I think we'll wrap up there. So that was a very very quick walkthrough of ho
 
 If you haven't already, leaving a review on whatever service you use to access the episodes makes a massive difference for us. A lot of people underestimate how much of a difference that makes. It literally determines how visible we are on these services so that when new people are looking for a podcast, we're there, we're waiting for them. The reason that we're so visible on iTunes is 'cause so many people have taken time to review on iTunes, but that's not the only service out there.
 
-If you want to do us a favor, and it doesn't cost you anything apart from a little bit of time, leaving us a review will make a massive difference for us. And then the last but not least thing is spreading the word. We have no marketing budget. We are not spending money on posters and on adverts and promos. The only reason that anyone has heard of us is 'cause one person heard us, went, "That's quite good," and then told other people. That's how we've been functioning, that's how we've got to where we are. So the biggest favor you can do is recommending us to people. Until Martyn finds a way to entirely automate the listening process so that now no listeners are needed, (Mike laughs) yeah. That's gonna be the best way that you can really help us out.
+If you want to do us a favor, and it doesn't cost you anything apart from a little bit of time, leaving us a review will make a massive difference for us. And then the last but not least thing is spreading the word. We have no marketing budget. We are not spending money on posters and on adverts and promos. The only reason that anyone has heard of us is 'cause one person heard us, went, "That's quite good," and then told other people. That's how we've been functioning, that's how we've got to where we are. So the biggest favor you can do is recommending us to people. Until Martyn finds a way to entirely automate the listening process so that now no listeners are needed, _(Mike laughs)_ yeah. That's gonna be the best way that you can really help us out.
 
 #### MARTYN
 
@@ -715,7 +706,7 @@ So I think we'll close up there. But thank you all for coming and talking about 
 
 #### BEN
 
-(Spooky) Oooooooooh.
+_(Spooky)_ Oooooooooh.
 
 #### ALEX
 

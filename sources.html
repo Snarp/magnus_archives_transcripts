@@ -18,7 +18,7 @@ title: Transcript Sources
   <ul>
   {%- for episode in source.episodes %}
     <li>
-      <div class="ep-left"><a class="ep-title" href="episode/{{episode.number}}.html">{{episode.number}} {{episode.title}}</a></div>
+      <div class="ep-left"><a class="ep-title" href="{%if episode.path%}{{episode.path | prepend: site.baseurl}}{%else%}episode/{{episode.number}}.html{%endif%}">{{episode.number}} {{episode.title}}</a></div>
     {%- if episode.url %}
       <div class="ep-right"><a class="ep-source" target="_blank" href="{{episode.url}}">Source</a></div>
     {%- endif %}

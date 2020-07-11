@@ -9,7 +9,8 @@ episode_number:  '080.3'
 summary:         "Join Alex, Mike, Anil, Martyn and Ben as they discuss what it takes to get an episode of The Magnus Archives from the page to your ears."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/mag80.3-themakingofmagnus
-google_doc:      https://docs.google.com/document/d/1kXFkZOin_UcglAsQmzM8kt01RbWOd504C7TUO4GvJAE/edit?usp=sharing
+google_doc:      https://docs.google.com/document/d/1kXFkZOin_UcglAsQmzM8kt01RbWOd504C7TUO4GvJAE/
+docx:            https://drive.google.com/file/d/1Y9qMFFJLFMyzDVk_4IckXdEIKfwlsgyg/
 official:        false
 unofficial:      "mailto:teawoodleaf@gmail.com"
 unofficial_name: tea wood

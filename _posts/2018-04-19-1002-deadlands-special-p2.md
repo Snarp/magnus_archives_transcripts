@@ -11,7 +11,8 @@ content_flags:   [Gun Violence, Blunt Object Violence, Body Horror]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.2-deadlandsspecialpart2
 pdf:             
 accessible_pdf:  
-google_doc:      
+google_doc:      https://docs.google.com/document/d/1PQD0DLagcY2FdeJTLtWmuJKm6XTHdHd8vXvQVlVE-lY/
+docx:            https://drive.google.com/file/d/1rKD3bqWkFzxXJCzSWteqNOZIukrK1jBe/
 official:        false
 unofficial:      "mailto:teawoodleaf@gmail.com"
 unofficial_name: tea wood

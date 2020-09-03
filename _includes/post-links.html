@@ -9,9 +9,15 @@
     {%- endif -%}
   {%- endif -%}
 
+{% if page.formats -%}
+  <br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a>
+  {%- for link in page.formats %} | <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>
+  {% endfor -%}
+{% else %}
   <br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a> 
   {%- if page.google_doc %} | <a class="source-link source-google-doc" target="_blank" href="{{ page.google_doc }}">Google Doc</a>{%- endif -%}
   {%- if page.doc %} | <a class="source-link source-doc" target="_blank" href="{{ page.doc }}">Doc</a>{%- endif -%}
   {%- if page.pdf %} | <a class="source-link source-pdf" target="_blank" href="{{ page.pdf }}">PDF</a>{%- endif -%}
   {%- if page.accessible_pdf %} | <a class="source-link source-pdf-accessible" target="_blank" href="{{ page.accessible_pdf }}">PDF (Large-Print)</a>{%- endif %}
+{%- endif -%}
 </div>

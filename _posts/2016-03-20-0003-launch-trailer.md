@@ -17,9 +17,9 @@ event_date:
 summary:         "\"Make your statement, face your fear.\" <br/><br/>The Magnus Archives are... OPEN. <br/><br/>Come listen to our weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be be warned, as he looks into its depths something starts to look back... <br/><br/>New episodes every Thursday produced by Rusty Quill, featuring guest actors, short stories, serial plots and more."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/mag-0-3-launch-trailer
-pdf:             https://drive.google.com/open?id=11-o-0-ePh5Dzoj99OnVv785uGciq_5R0
-accessible_pdf:  https://drive.google.com/open?id=1KXu1otvCQhm3iCywMoCS7nKVz0ZS-yZx
-google_doc:      
+formats: 
+  PDF: https://drive.google.com/open?id=11-o-0-ePh5Dzoj99OnVv785uGciq_5R0
+  PDF (Large-Print): https://drive.google.com/open?id=1KXu1otvCQhm3iCywMoCS7nKVz0ZS-yZx
 official:        true
 wiki_url:        
 ---

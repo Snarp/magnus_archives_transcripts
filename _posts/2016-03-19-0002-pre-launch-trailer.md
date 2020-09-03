@@ -17,9 +17,9 @@ event_date:
 summary:         "\"Make your statement, face your fear.\" <br/><br/>Here is the pre-launch trailer for The Magnus Archives, wherein our new Archivist makes his first attempt to record a transcript. <br/><br/>The Magnus Archives is a weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join the new head archivist Jonathan Sims every Thursday as he explores the much-neglected collection of statements and investigations, digitising them and converting them to audio along with supplementary investigations by his team. <br/><br/>New episodes every Thursday featuring guest actors, short stories, serial plots and more. <br/><br/>Coming March 24th 2016."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/mag-0-2-pre-launch-trailer
-pdf:             https://drive.google.com/open?id=11-o-0-ePh5Dzoj99OnVv785uGciq_5R0
-accessible_pdf:  https://drive.google.com/open?id=1KXu1otvCQhm3iCywMoCS7nKVz0ZS-yZx
-google_doc:      
+formats: 
+  PDF: https://drive.google.com/open?id=11-o-0-ePh5Dzoj99OnVv785uGciq_5R0
+  PDF (Large-Print): https://drive.google.com/open?id=1KXu1otvCQhm3iCywMoCS7nKVz0ZS-yZx
 official:        true
 wiki_url:        https://the-magnus-archives.fandom.com/wiki/MAG_0.1
 ---

@@ -16,9 +16,11 @@ event_date:
 summary:         ""
 content_flags:   []
 acast_url:       
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats: 
+  PDF: 
+  PDF (Large-Print): 
+  Google Doc: 
+  DOCX: 
 official:        
 unofficial:      
 unofficial_name: 

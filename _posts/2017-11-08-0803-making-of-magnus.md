@@ -178,7 +178,7 @@ Everyone was brilliant.
 
 #### MIKE
 
-_(Unconvincingly)_ We all done a really... good... job.
+_(Unconvincingly)_ We've all done a really... good... job.
 
 #### BEN
 
@@ -226,7 +226,7 @@ What an excellent example of the kind of thing that can turn up in raw audio tha
 
 #### MIKE
 
-So Alex will usually pass me the episodes in bulk, and we do this through online drives because that's just the easiest way to for everyone to be able to access the audio as and when they need it. Before we were able to bring on other editors and when I was--back in the beginning of Season 2, it was mostly Alex and I who were doing all of the editing together, and so I would do the first pass. So I would look through the audio, find the silence gap that we'd prepared at the beginning, use that for background noise removal.
+So Alex will usually pass me the episodes in bulk, and we do this through online drives because that's just the easiest way for everyone to be able to access the audio as and when they need it. Before we were able to bring on other editors and when I was--back in the beginning of Season 2, it was mostly Alex and I who were doing all of the editing together, and so I would do the first pass. So I would look through the audio, find the silence gap that we'd prepared at the beginning, use that for background noise removal.
 
 Once we've done that, we clean the audio a little bit using a couple of tricks that we have up our sleeve and make sure that each bit of the audio is sounding nice and leveled, and we make sure we take out any top-end or bottom-end noise, and also we work on the actual waveform itself, we normalise it and make sure that it's all kind of playing at a standard volume level and there's nothing there that'll aggravate or annoy any of our listeners. And then once that's done, we start cutting it together.
 
@@ -294,7 +294,7 @@ That's the hardest part about editing the music for *Magnus*. Because getting th
 
 The thing to bear in mind as well is that at the start it was just myself and Mike, and now we have, we've had a dedicated team working on it, we've had someone working on vocals, we've had someone working on music, and it's all been a lot more complex but a lot more streamlined as well. And it gets passed eventually to myself for mastering.
 
-What mastering consists of is... it's always easiest when the director is mastering because the director knows what it should sound like. Ideally before they've heard the episode. You know, you have a clear idea of what it should sound like, what bits should be silent, what bits should have a loud noise to them, what should have soundscaping, what shouldn't. Basically, what we'll do is we'll go through and we'll tweak it, one little tweak here, one little tweak there, but through every single second. And when I'm saying a tweak, I'm talking... sometimes we'll shift a vocal performance 1/10^th^ of a second. I've spent 10, 20 minutes before getting that 10^th^ of a second right because that edit's just not **quite** sitting right.
+What mastering consists of is... it's always easiest when the director is mastering because the director knows what it should sound like. Ideally before they've heard the episode. You know, you have a clear idea of what it should sound like, what bits should be silent, what bits should have a loud noise to them, what should have soundscaping, what shouldn't. Basically, what we'll do is we'll go through and we'll tweak it, one little tweak here, one little tweak there, but through every single second. And when I'm saying a tweak, I'm talking... sometimes we'll shift a vocal performance 1/10th of a second. I've spent 10, 20 minutes before getting that 10th of a second right because that edit's just not **quite** sitting right.
 
 And then one thing that I've been tending to do as well is I'll do the soundscaping, and that's one that can take a long time as well. So with that, the way that we've been functioning is that we'll take either some foley, rarely, but normally we'll make use of Creative Commons available foley that other people have recorded. We tidy it up, we basically pass it in some ways through all of the stages that you would a normal edit, and then we layer them together until you've built your soundscape. So that sort of falls under mastering at the moment.
 
@@ -468,11 +468,11 @@ What happens next, Anil? It's sat there, it is ready to go.
 
 #### ANIL
 
-Assuming you have subscribed, it should be waiting for you when you get up or when you get home, depending on if you're in the US. I will then do a shout-out on social media and then I'll go on the forums and you will get a dedicated thread to the episode. After that, I'll then give it a couple hours and throughout the day I will then do social media sweeps, just to keep an eye on what people are saying, see if there are any problems with the episode. Then check the reddit, we do have a dedicated subreddit for *Magnus* at [*/r/themagnusarchives*](https://www.reddit.com/r/TheMagnusArchives/), and just follow the conversations. See if people liked the episode, see what they are talking about it. Have they delved into the conspiracies and the red string behind it?
+Assuming you have subscribed, it should be waiting for you when you get up or when you get home, depending on if you're in the US. I will then do a shout-out on social media and then I'll go on the forums and you will get a dedicated thread to the episode. After that, I'll then give it a couple hours and throughout the day I will then do social media sweeps, just to keep an eye on what people are saying, see if there are any problems with the episode. Then check the reddit, we do have a dedicated subreddit for *Magnus* at [__/r/themagnusarchives__](https://www.reddit.com/r/TheMagnusArchives/), and just follow the conversations. See if people liked the episode, see what they are talking about it. Have they delved into the conspiracies and the red string behind it?
 
 #### MARTYN
 
-Would definitely recommend listen to the episode first then go on the forum about it.
+Would definitely you recommend listen to the episode first then go on the forum about it.
 
 #### ANIL
 
@@ -484,7 +484,7 @@ _(Laughs)_ Yeah, that is a good idea.
 
 #### ANIL
 
-So yeah. See what the discussion son the forums and the subreddit are going, and then also like do a sweep checking what the Tumblr community are saying about it.
+So yeah. See what the discussions on the forums and the subreddit are going, and then also like to do a sweep checking what the Tumblr community are saying about it.
 
 #### MARTYN
 
@@ -528,7 +528,7 @@ And myself, I don't either.
 
 #### ALEX
 
-No one who's generating story read the fanfics.
+No one who's generating story reads the fanfics.
 
 #### BEN
 
@@ -704,7 +704,7 @@ But make sure you say Elias is brilliant.
 
 #### ALEX
 
-So I think we'll close up there. But thank you all for coming and talking about sort of the making of and we look forward for Season 3 and we hope you all enjoy the trailer which should be incoming to you very soon.
+So I think we'll close up there. But thank you all for coming and talking about sort of the making of and we look forward to Season 3 and we hope you all enjoy the trailer which should be incoming to you very soon.
 
 #### BEN
 

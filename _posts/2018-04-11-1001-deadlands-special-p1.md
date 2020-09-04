@@ -11,8 +11,9 @@ content_flags:   [Gun Violence, Gambling, Explosive Violence]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.1-deadlandsspecialpart1
 pdf:             
 accessible_pdf:  
-google_doc:      https://docs.google.com/document/d/1S1o42NJl9n4-mAW2m5rLAirJpx0EaeDzY_ppv1xl1D4/
-docx:            https://drive.google.com/file/d/1yeXI7qwicNKfoWAvxSKdTv013WAALoIb/
+formats: 
+  Google Doc: https://docs.google.com/document/d/1S1o42NJl9n4-mAW2m5rLAirJpx0EaeDzY_ppv1xl1D4/
+  DOCX: https://drive.google.com/file/d/1yeXI7qwicNKfoWAvxSKdTv013WAALoIb/
 official:        false
 unofficial:      "mailto:teawoodleaf@gmail.com"
 unofficial_name: tea wood

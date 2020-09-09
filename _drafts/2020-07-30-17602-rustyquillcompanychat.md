@@ -10,9 +10,7 @@ episode_number:  '176.02'
 summary:         "Take a peek behind the curtain at Rusty Towers as Alex sits down with various members of Rusty Quill Ltd for insight into what we do and the values we work towards as a company. <br/><br/>Featuring: <br/><br/>- Alexander J Newall <br/>- Jonathan Sims <br/>- Helen Gould <br/>- Tim Meredith <br/>- Mike LeBeau <br/>- April Sumner <br/>- Hannah Brankin <br/>- Anil Godigamuwe"
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/rustyquillcompanychat
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats:         
 official:        false
 unofficial:      
 unofficial_name: tmatranscripts.tumblr.com

@@ -10,9 +10,7 @@ episode_number:  '176.06'
 summary:         "<strong>The Magnus Archives</strong> is brought to you by folks who are completely serene and professional humans at all times, on and off-recording. Totally and absolutely. <br/><br/>Featuring voices of: Alexander J Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith."
 content_flags:   [Explicit language]
 acast_url:       https://play.acast.com/s/themagnusarchives/magbloopers-totallynormalrealhumans
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats:         
 official:        false
 unofficial:      
 unofficial_name: 

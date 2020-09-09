@@ -10,9 +10,7 @@ episode_number:  '160.08'
 summary:         "It's the finale of our Duskhollow PD special and our team has 24 hours to crack the case!<br/><br/>Archie's investigations begin at the library, Emma is a proud mentor, Gabrielle Schreiber goes for coffee and Detective Sergeant Carl Husselback is questioning his life choices."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/magduskhollowpd-part3
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats:         
 official:        
 unofficial:      
 unofficial_name: 

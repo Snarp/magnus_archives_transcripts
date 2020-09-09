@@ -9,8 +9,6 @@ episode_number:  '100.2'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through the second half of their spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Listen to our gang slowly fall apart as they desperately attempt to survive in a world populated by supernatural horror."
 content_flags:   [Gun Violence, Blunt Object Violence, Body Horror]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.2-deadlandsspecialpart2
-pdf:             
-accessible_pdf:  
 formats: 
   Google Doc: https://docs.google.com/document/d/1PQD0DLagcY2FdeJTLtWmuJKm6XTHdHd8vXvQVlVE-lY/
   DOCX: https://drive.google.com/file/d/1rKD3bqWkFzxXJCzSWteqNOZIukrK1jBe/

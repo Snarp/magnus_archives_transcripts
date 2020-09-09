@@ -10,9 +10,7 @@ episode_number:  '160.06'
 summary:         "Join Jonny, Frank, Sasha, Alex and Lowri as they play MacGuffin & Co's original TTRPG 'Duskhollow PD'<br/><br/>In this first episode of 3 we meet a team of likely cops whose task it is to solve completely normal crimes..."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/magduskhollowpd-part1
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats:         
 official:        
 unofficial:      
 unofficial_name: 

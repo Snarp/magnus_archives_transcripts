@@ -10,9 +10,7 @@ episode_number:  '176.05'
 summary:         "Recorded live at PodUK 2020, Alexander J Newall, Gemma Amor (No Sleep Podcast, Calling Darkness) and David Ault (No Sleep Podcast, Shadows at the Door) moderated by Alasdair Stuart (Escape Artists Inc., The Magnus Archives) talk about the world of modern audio horror."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/maghorrorpanelatpoduk
-pdf:             
-accessible_pdf:  
-google_doc:      
+formats:         
 official:        false
 unofficial:      
 unofficial_name: 

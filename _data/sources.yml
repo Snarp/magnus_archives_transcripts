@@ -33,45 +33,53 @@
     path: '/special/1602-season4q-apart2.html'
     url: 'https://drive.google.com/file/d/1VYyAH6eJaSTbRcG09EvGoUfLPSQlSPKR/'
 
+- name: 'Elizabeth Richardson (Author)'
+  url: mailto:delightedmuse@posteo.net
+  episodes:
+  - number: '100'
+    title: Lucid (Rusty Fears Winner)
+    path: '/special/1003-lucid.html'
+    url: mailto:delightedmuse@posteo.net
+
 - name: 'prentissed.tumblr.com'
   url: http://prentissed.tumblr.com/
   episodes: 
   - number: '049'
     title: "The Butcher's Window"
-    url: "https://docs.google.com/document/d/1O1SyQLTWyxAAoFgybv1thRzao2-gek4uevmHixWWPZg/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1O1SyQLTWyxAAoFgybv1thRzao2-gek4uevmHixWWPZg/edit"
   - number: '051'
     title: "High Pressure"
-    url: "https://docs.google.com/document/d/1nSof6i0l70dJbgOti3Oo_2HyvC_JrWYF-EkUsSo8C6Q/edit#"
+    url: "https://docs.google.com/document/d/1nSof6i0l70dJbgOti3Oo_2HyvC_JrWYF-EkUsSo8C6Q/edit"
   - number: '052'
     title: "Exceptional Risk"
-    url: "https://docs.google.com/document/d/1AZAjU9X8aT2saX5zA8jSNlt0-0_3dLBvV6kPurvyj9g/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1AZAjU9X8aT2saX5zA8jSNlt0-0_3dLBvV6kPurvyj9g/edit"
   - number: '053'
     title: "Crusader"
-    url: "https://docs.google.com/document/d/1l10aGYpdS8N4nQ2JgKy-1XaKEGltpKXqZND22xLH55s/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1l10aGYpdS8N4nQ2JgKy-1XaKEGltpKXqZND22xLH55s/edit"
   - number: '054'
     title: "Still Life"
-    url: "https://docs.google.com/document/d/1sA6TNwrEUuVkVmfTw_ijqC1jE0nipxXxfPWAflxK0Ow/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1sA6TNwrEUuVkVmfTw_ijqC1jE0nipxXxfPWAflxK0Ow/edit"
   - number: '056'
     title: "Children of the Night"
-    url: "https://docs.google.com/document/d/14HfarGxiz_W94C7gxzDHO7a2m1aSGshySUhZzR2VVo4/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/14HfarGxiz_W94C7gxzDHO7a2m1aSGshySUhZzR2VVo4/edit"
   - number: '057'
     title: "Personal Space"
-    url: https://docs.google.com/document/d/1hT2ceVz5QIKcCKSe6HBczgpma6U2upsaLhrTPutNsis/edit?usp=sharing
+    url: https://docs.google.com/document/d/1hT2ceVz5QIKcCKSe6HBczgpma6U2upsaLhrTPutNsis/edit
   - number: '058'
     title:  "Trail Rations"
-    url: "https://docs.google.com/document/d/12jLUawePqnKBCUzz6lYEBVqYt-Og-DxbrkaSgxaGUZw/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/12jLUawePqnKBCUzz6lYEBVqYt-Og-DxbrkaSgxaGUZw/edit"
   - number: '060'
     title: "The Observer Effect"
-    url: "https://docs.google.com/document/d/1cM95nT_61C0_c_0YdO-4icwfR5jZ7QqEWEHBthJKTqM/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1cM95nT_61C0_c_0YdO-4icwfR5jZ7QqEWEHBthJKTqM/edit"
   - number: '064'
     title: "Burial Rites"
-    url: "https://docs.google.com/document/d/1AVsSvuKX94PWkJJ6GQ7r-3wuAnlz06WrdsTioz7dB8w/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1AVsSvuKX94PWkJJ6GQ7r-3wuAnlz06WrdsTioz7dB8w/edit"
   - number: '066'
     title: "Held in Customs"
-    url: "https://docs.google.com/document/d/17liqmFnVkHG85cfpaxxQfm2E_xHi-Hl4Ryo28SF4aSw/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/17liqmFnVkHG85cfpaxxQfm2E_xHi-Hl4Ryo28SF4aSw/edit"
   - number: '119'
     title: "Stranger And Stranger"
-    url: "https://docs.google.com/document/d/1a2SWu5RmIE9D2ugIhHHHglfGiLFyKAjgO6C8MPb2hug/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1a2SWu5RmIE9D2ugIhHHHglfGiLFyKAjgO6C8MPb2hug/edit"
   - number: '149'
     title: "Concrete Jungle"
     url: "https://docs.google.com/document/d/1Lf_yzIzAc0hBJ_gPqBF7PWtn3AoxHUJbzYsy3O_LcOU/edit"
@@ -99,8 +107,6 @@
   - number: '159'
     title: "The Last"
     url: "https://docs.google.com/document/d/1VrU1cpXC5cbbhQebT6f0L3B3ztzeLdHnCJhj1tfY14o/edit"
-  - number: '160'
-    title: "The Eye Opens"
 
 - name: 'scienceandstarlight.tumblr.com'
   url: 'https://scienceandstarlight.tumblr.com/'
@@ -309,36 +315,31 @@
   - number: '173'
     title: "Night Night"
     url: "https://tmatranscripts.tumblr.com/post/621914197170814976/mag173-night-night-case-13pdf"
-  # - number: '174'
-  #   title: ""
-  #   url: ""
-  # - number: '175'
-  #   title: ""
-  #   url: ""
-  # - number: '176'
-  #   title: ""
-  #   url: ""
-  # - number: '177'
-  #   title: ""
-  #   url: ""
+  - number: '174'
+    title: The Great Beast
+    url: https://tmatranscripts.tumblr.com/post/622567184785358848/mag174-the-great-beast-case-14pdf
+  - number: '175'
+    title: Epoch
+    url: https://tmatranscripts.tumblr.com/post/623177393032642560/mag175-epoch-case-15pdf
+  - number: '176'
+    title: Blood Ties
+    url: https://tmatranscripts.tumblr.com/post/623824050313166848/mag176-blood-ties-case-16pdf
+  - number: '176.01'
+    title: The Magnus Archives Liveshow
+    path: '/special/17601-liveshow.html'
+    url: https://tmatranscripts.tumblr.com/post/624444329573924865/tma-liveshow-london-podcast-festival-2019pdf
+  - number: '176.03'
+    title: What The Ghost? - The Devil's Dance
+    path: '/special/17603-whattheghost.html'
+    url: https://tmatranscripts.tumblr.com/post/625768530444500992/what-the-ghost-the-devils-dance
+  - number: '176.04'
+    title: MAG Fluff - Epiphany
+    path: '/special/17604-epiphany.html'
+    url: https://tmatranscripts.tumblr.com/post/626395186278367232/mag-fluff-competition-winner-1-epiphanypdf
   # - number: '178'
   #   title: ""
   #   url: ""
-  # - number: '179'
-  #   title: ""
-  #   url: ""
-  # - number: '180'
-  #   title: ""
-  #   url: ""
-  # - number: '181'
-  #   title: ""
-  #   url: ""
-  # - number: '182'
-  #   title: ""
-  #   url: ""
-  # - number: '183'
-  #   title: ""
-  #   url: ""
+
 - name: 'Official'
   url: 'https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM'
   episodes:
@@ -636,3 +637,7 @@
   - number: '141'
     title: Doomed Voyage
     url: https://drive.google.com/open?id=1yYnaZp9qQQU5zPP3lf_De02Gq-GDnyva
+  - number: '177'
+    title: Wonderland
+    url: https://drive.google.com/file/d/16NuYSb7bTpVckohonkXEX8HJOjeRhTyd/view
+

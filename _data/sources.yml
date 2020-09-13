@@ -47,6 +47,7 @@
   - number: '049'
     title: "The Butcher's Window"
     url: "https://docs.google.com/document/d/1O1SyQLTWyxAAoFgybv1thRzao2-gek4uevmHixWWPZg/edit"
+    notes: 'Edited by snarp'
   - number: '051'
     title: "High Pressure"
     url: "https://docs.google.com/document/d/1nSof6i0l70dJbgOti3Oo_2HyvC_JrWYF-EkUsSo8C6Q/edit"
@@ -92,6 +93,7 @@
   - number: '152'
     title: "A Gravedigger's Envy"
     url: "https://docs.google.com/document/d/1Xy3N4aDj8BxCnDHgubhYNQF4NLoNdi_xxw6YnU4sVOg/edit"
+    notes: 'Edited by snarp'
   - number: '153'
     title: "Love Bombing"
     url: "https://docs.google.com/document/d/1KS4pNW69L392h_CBOXfKAo4XIVt1NRjqilBcRUKPUaY/edit"
@@ -167,6 +169,17 @@
     title: "Nemesis"
   - number: '148'
     title: "Extended Surveillance"
+  - number: '176.06'
+    title: "MAG Bloopers - Totally Normal Real Humans"
+    path: "/special/17606-bloopersnormalhumans.html"
+
+- name: 'stellarscripts.tumblr.com'
+  url: https://stellarscripts.tumblr.com/
+  episodes: 
+  - number: '160.05'
+    title: "The Magnus Archives... in Spaaaace"
+    path: "/special/16004-inspace.html"
+    url: https://docs.google.com/document/d/1DpeChM3Id81pz9Q2kkuUQrnf-t5iQHCpmk6foJHkuNI/edit
 
 - name: 'tea wood'
   url: 'mailto:teawoodleaf@gmail.com'
@@ -643,4 +656,3 @@
   - number: '178'
     title: The Processing Line
     url: https://drive.google.com/file/d/1UJLiBnT3aG1J7_CsfscgCrmd_yJ4UQFI/view
-

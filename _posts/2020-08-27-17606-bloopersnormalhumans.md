@@ -11,6 +11,7 @@ summary:         "<strong>The Magnus Archives</strong> is brought to you by folk
 content_flags:   [Explicit Language]
 acast_url:       https://play.acast.com/s/themagnusarchives/magbloopers-totallynormalrealhumans
 formats: 
+  Google Doc: https://docs.google.com/document/d/14kZySfoEcrKwfBWOySYKIZXdF_e2y_THwdvIAGElozw/edit
 official:        false
 unofficial:      https://snarp.tumblr.com/
 unofficial_name: snarp
@@ -25,7 +26,7 @@ wiki_url:
 
 #### FAY ROBERTS
 
-_[forbodingly]_ *You* would.
+_[forebodingly]_ *You* would.
 
 ##### [ALEX SNORTS]
 
@@ -505,7 +506,7 @@ _[squeaky voice, apparently mimicking Alex]_ To the mic...!
 
 #### ALEX NEWELL
 
-You're a good villain! You know, a good villain needs to *make lurve* to the microphone...!
+You're a good villain! You know, a good villain needs to *make love* to the microphone...!
 
 #### [LAUGHTER, OVERLAPPING]
 

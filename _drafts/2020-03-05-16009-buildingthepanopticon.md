@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG160.09 - Building the Panopticon - Making MAG 158"
-date:            2020-03-05 12:00:00 -0400
+date:            2020-03-05 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

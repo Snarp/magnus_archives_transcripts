@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG176.05 - MAG - Pod UK Horror Panel"
-date:            2020-08-20 12:00:00 -0400
+date:            2020-08-20 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

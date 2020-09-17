@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG160.10 - Rusty Fears Competition Winner - Nox Mare"
-date:            2020-03-19 12:00:00 -0400
+date:            2020-03-19 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

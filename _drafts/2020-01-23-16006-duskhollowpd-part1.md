@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG160.06 - MAG Duskhollow PD - Part 1"
-date:            2020-01-23 12:00:00 -0400
+date:            2020-01-23 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

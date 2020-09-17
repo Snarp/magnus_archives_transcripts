@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG176.02 - Rusty Quill Company Chat"
-date:            2020-07-30 12:00:00 -0400
+date:            2020-07-30 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

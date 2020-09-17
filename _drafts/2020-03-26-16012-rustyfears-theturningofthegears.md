@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG160.12 - Rusty Fears Competition Winner - The Turning of the Gears"
-date:            2020-03-26 12:00:00 -0400
+date:            2020-03-26 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          []

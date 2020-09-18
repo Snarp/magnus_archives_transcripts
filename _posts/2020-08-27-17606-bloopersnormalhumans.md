@@ -62,15 +62,19 @@ This is how they converse?
 
 #### PAUL SIMS
 
-Uhh...
+Uh...
 
 #### SUE SIMS
 
-_[overlapping]_ -- but when the gusts of war _(???)_ --
+_[overlapping, dramatically]_ *-- But when the blast of war --*[^1]
+
+[^1]: Shakespeare's *Henry V,* Act 3, Scene 1. From a famous speech by Henry to his troops, which begins "Once more unto the breach, dear friends, once more."
 
 #### PAUL SIMS
 
-...is this a dagger that I see before me?
+...is this a dagger that I see before me?[^2]
+
+[^2]: *Macbeth,* Act 2, Scene 1.
 
 #### ALEX NEWELL
 
@@ -82,11 +86,11 @@ It's --
 
 #### SUE SIMS
 
-_[overlapping]_ -- No, it's me.
+_[overlapping, matter-of-factly]_ -- no, it's me.
 
 #### PAUL SIMS
 
-Okay.
+_[calmly]_ Okay.
 
 ##### [CLICK]
 
@@ -95,6 +99,8 @@ Okay.
 
 
 ##### [CLICK]
+
+##### [FROM EPISODE 117, 'TESTAMENT':]
 
 #### LYDIA NICHOLAS / MELANIE
 
@@ -135,6 +141,8 @@ You *say* that.
 
 
 ##### [CLICK]
+
+##### [FROM EPISODE 114, 'CRACKED FOUNDATION':]
 
 #### JONNY SIMS / ARCHIVIST
 
@@ -188,7 +196,7 @@ _[quietly, directly into microphone]_ Butt to butt.
 
 ##### [CLICK]
 
-##### [SCENE FROM MAG114]
+##### [FROM EPISODE 114, 'CRACKED FOUNDATION':]
 
 #### JONNY SIMS / ARCHIVIST
 
@@ -231,6 +239,8 @@ Well, there is a reason to believe that the Archivist conversations are always d
 
 
 ##### [CLICK]
+
+##### [FROM EPISODE 114, 'CRACKED FOUNDATION':]
 
 #### ALEX NEWELL
 
@@ -508,7 +518,7 @@ _[squeaky voice, apparently mimicking Alex]_ To the mic...!
 
 You're a good villain! You know, a good villain needs to *make love* to the microphone...!
 
-#### [LAUGHTER, OVERLAPPING]
+##### [LAUGHTER, OVERLAPPING]
 
 #### ALEX NEWELL
 

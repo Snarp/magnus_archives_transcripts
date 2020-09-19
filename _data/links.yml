@@ -24,15 +24,15 @@
 # - name:      "Snarp/magnus_archives_transcripts"
 #   shortname: GitHub
 #   path:      https://github.com/Snarp/magnus_archives_transcripts
-- name:      RSS Feed
-  shortname: RSS
-  path:      feed.xml
-  local:     true
+# - name:      RSS Feed
+#   shortname: RSS
+#   path:      feed.xml
+#   local:     true
 - name:      Ebook Download
   shortname: Ebook
   path:      "assets/epub/the_magnus_archives.epub"
   local:     true
 - name:      "Search (WARNING: Slow! Data-Intensive!)"
-  shortname: "Search (WARNING: Slow! Data-Intensive!)"
+  shortname: "Search"
   path:      search.html
   local:     true

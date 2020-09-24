@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG176.05 - MAG - Pod UK Horror Panel"
 date:            2020-08-20 11:00:00 -0400
-categories:      special
+categories:      incomplete
 tags:            []
 voiced:          []
 episode_title:   'MAG - Pod UK Horror Panel'
@@ -12,9 +12,10 @@ content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/maghorrorpanelatpoduk
 formats:         
 official:        false
-unofficial:      
-unofficial_name: 
+unofficial:      http://www.youtube.com/
+unofficial_name: YouTube CC
 unfinished:      true
 wiki_url:        
 ---
 
+[PENDING]

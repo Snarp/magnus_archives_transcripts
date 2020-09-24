@@ -1,0 +1,24 @@
+---
+layout: page_default
+title: Incomplete Transcripts
+---
+
+<p>Some of these episodes may already be partially-transcribed <a href="https://drive.google.com/drive/folders/1EIFIx7OztYBW3DUcalbLz7vBGFQwJ48U">in this publicly-editable Google Docs folder</a>; those linked below can be also be downloaded in Markdown format from their archive pages.</p>
+
+<div class="table-of-contents">
+  <ul>
+{% if site.data.incomplete.size > 0 %}
+  {% for episode in site.data.incomplete %}
+    <li>
+    {% if episode.url.size > 0 %}
+      <a href="{{episode.url}}">{{episode.number}} {{episode.title}}</a>
+    {% else %}
+      {{episode.number}} {{episode.title}}
+    {% endif %}
+    </li>
+  {% endfor %}
+{% else %}
+    <li>No incomplete transcripts found!</li>
+{% endif %}
+  </ul>
+</div>

@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG176.02 - Rusty Quill Company Chat"
 date:            2020-07-30 11:00:00 -0400
-categories:      special
+categories:      incomplete
 tags:            []
 voiced:          []
 episode_title:   'Rusty Quill Company Chat'
@@ -12,8 +12,8 @@ content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/rustyquillcompanychat
 formats:         
 official:        false
-unofficial:      
-unofficial_name: tmatranscripts.tumblr.com
+unofficial:      http://www.youtube.com/
+unofficial_name: YouTube CC
 unfinished:      true
 wiki_url:        
 ---

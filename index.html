@@ -20,7 +20,6 @@ layout: default
   <td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
   <td class="ep-status">
     {%- if post.trailer %}<a class="trailer" href="{{ url }}">TRAILER</a> {% endif -%}
-    {%- if post.unfinished %}<a class="incomplete" href="{{ url }}">INCOMPLETE</a> {% endif -%}
     {%- if post.unofficial %}<a class="unofficial" href="{{ url }}">UNOFFICIAL</a> {% endif -%}
   </td>
   <td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>

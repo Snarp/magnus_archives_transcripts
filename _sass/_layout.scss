@@ -359,6 +359,7 @@ table.toc-table {
             a { color:     $grey-color-light; }
         }
         td.ep-number {
+            padding-left: 0.6rem;
         }
         td.ep-title {
             font-size:   1.0em;
@@ -379,6 +380,7 @@ table.toc-table {
             a.official   { color: $accent-color; }
         }
         td.ep-date {
+            padding-right: 0.6rem;
             a { color: $grey-color-light; }
         }
     }

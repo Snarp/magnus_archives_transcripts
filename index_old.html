@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% include latest-news-bar.html %}
+
+<div class="table-of-contents">
+<div class="wrapper">
+
+<ul>
+<li class='ep-sort'><a href="{{ site.baseurl }}/index_reverse.html">⇅</a> <a href="{{ site.baseurl }}/index_reverse.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index_reverse.html">⇅</a></li>
+
+{% assign episodes = site.posts | where: "categories", "episode" %}
+{% for post in episodes %}
+  <li>
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+    </div>
+
+    {%- if post.trailer %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-trailer' href="{{ post.url | prepend: site.baseurl }}">TRAILER</a> 
+    </div>
+    {%- endif %}
+    {%- if post.unfinished %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+    </div>
+    {%- elsif post.unofficial %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
+    </div>
+    {%- else -%}
+    {%- endif %}
+
+    <div class='ep-right'>
+      <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+</div>
+</div>

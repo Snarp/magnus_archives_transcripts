@@ -330,6 +330,8 @@ ul#search-results {
 /**
  * EPISODE TABLE OF CONTENTS
  */
+
+
 table.toc-table {
     border-collapse: collapse; 
     margin: $spacing-unit 0;
@@ -345,19 +347,22 @@ table.toc-table {
     tbody tr:nth-child(odd){ background: $highlight-bg-color; }
     tr {
         margin: 0;
+        // display: flex;
+        // justify-content: space-between;
 
         td, th {
             font-size:     0.8em;
+            @include media-query($on-palm) { font-size: 0.7em; }
             margin:        0;
             padding:       0.4rem;
             font-family:   $font-family-monospace;
             a { color:     $grey-color-light; }
         }
         td.ep-number {
-            padding-left: 0.6rem;
         }
         td.ep-title {
             font-size:   1.0em;
+            @include media-query($on-palm) { font-size: 0.8em; }
             font-weight: bold;
             a { 
                 color: $brand-color;
@@ -374,7 +379,6 @@ table.toc-table {
             a.official   { color: $accent-color; }
         }
         td.ep-date {
-            padding-right: 0.6rem;
             a { color: $grey-color-light; }
         }
     }

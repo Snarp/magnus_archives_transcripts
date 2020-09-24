@@ -371,6 +371,7 @@ table.toc-table {
             a.incomplete { color: $warning-text-color; }
             a.trailer    { color: $brand-color; }
             a.unofficial { color: $grey-color-light; }
+            a.official   { color: $accent-color; }
         }
         td.ep-date {
             padding-right: 0.6rem;

@@ -352,7 +352,7 @@ table.toc-table {
 
         td, th {
             font-size:     0.8em;
-            @include media-query($on-palm) { font-size: 0.7em; }
+            @include media-query($on-palm) { font-size: 0.6em; }
             margin:        0;
             padding:       0.4rem;
             font-family:   $font-family-monospace;

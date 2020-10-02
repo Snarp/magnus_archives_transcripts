@@ -4,45 +4,32 @@ layout: default
 
 {% include latest-news-bar.html %}
 
-<div class="table-of-contents">
 <div class="wrapper">
-
-<ul>
-  <li class='ep-sort'><a href="{{ site.baseurl }}/index.html">⇅</a> <a href="{{ site.baseurl }}/index.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index.html">⇅</a></li>
-
+<table class="toc-table">
+<thead>
+  <tr>
+    <th colspan="4"><a href="{{ site.baseurl }}/index.html">⇅ Reverse Sort ⇅</a></th>
+  </tr>
+</thead>
+<tbody>
 {% assign episodes = site.posts | where: "categories", "episode" | reverse %}
 {% for post in episodes %}
-  <li>
-    <div class='ep-left'>
-      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-    </div>
-
-    {%- if post.trailer %}
-
-    <div class='ep-center'>
-      <a class='ep-status ep-status-trailer' href="{{ post.url | prepend: site.baseurl }}">TRAILER</a> 
-    </div>
-    {%- endif %}
-    {%- if post.unfinished %}
-
-    <div class='ep-center'>
-      <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
-    </div>
-    {%- elsif post.unofficial %}
-
-    <div class='ep-center'>
-      <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
-    </div>
-    {%- else -%}
-    {%- endif %}
-
-    <div class='ep-right'>
-      <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
-    </div>
-  </li>
+<tr>
+  {% assign url = post.url | prepend: site.baseurl %}
+  <td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
+  <td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
+  <td class="ep-status">
+    {%- if post.trailer %}<a class="trailer" href="{{ url }}">TRAILER</a> {% endif -%}
+    {%- if post.unofficial %}<a class="unofficial" href="{{ url }}">UNOFFICIAL</a> {% endif -%}
+  </td>
+  <td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+</tr>
 {% endfor %}
-</ul>
-
-</div>
-</div>
+</tbody>
+<tfoot>
+  <tr>
+    <td colspan="4"><a href="{{ site.baseurl }}/index.html">⇅ Reverse Sort ⇅</a></td>
+  </tr>
+</tfoot>
+</table>
+</div><!-- /div.wrapper -->

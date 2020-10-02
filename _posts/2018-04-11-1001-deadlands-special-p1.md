@@ -9,8 +9,6 @@ episode_number:  '100.1'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through a spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Meet our band of questionable desperadoes as they attempt a bank heist in a world populated by supernatural horror. Its a straightforward job and surely nothing could go wrong... right?"
 content_flags:   [Gun Violence, Gambling, Explosive Violence]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.1-deadlandsspecialpart1
-pdf:             
-accessible_pdf:  
 formats: 
   Google Doc: https://docs.google.com/document/d/1S1o42NJl9n4-mAW2m5rLAirJpx0EaeDzY_ppv1xl1D4/
   DOCX: https://drive.google.com/file/d/1yeXI7qwicNKfoWAvxSKdTv013WAALoIb/

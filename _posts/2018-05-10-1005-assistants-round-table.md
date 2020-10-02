@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG100.5 - Assistants Round Table"
 date:            2018-05-10 12:00:00 -0400
-categories:      special
+categories:      incomplete
 tags:            []
 episode_title:   'Assistants Round Table'
 episode_number:  '100.5'
@@ -16,8 +16,6 @@ unofficial_name: YouTube CC
 unfinished:      true
 wiki_url:        
 ---
-
-
 
 hi everyone then here I'd just like to
 

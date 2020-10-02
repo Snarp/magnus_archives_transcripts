@@ -24,7 +24,6 @@ official:        true
 wiki_url:        https://the-magnus-archives.fandom.com/wiki/MAG_0.1
 ---
 
-
 ##### [CLICK]
 
 #### ARCHIVIST

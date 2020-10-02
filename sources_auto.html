@@ -1,0 +1,26 @@
+---
+layout: page_default
+title: Transcript Sources
+---
+
+<p>Any transcripts on this site not listed below were sourced from <a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">the Rusty Quill's official transcript archive</a>. (Unless I let this page get out-of-date; please <a href="mailto:{{site.email}}">let me know</a> if something looks wrong!)</p>
+
+<table class="toc-table">
+<tbody>
+{% assign episodes = site.posts | reverse %}
+{% for post in episodes %}
+<tr>
+  {% assign url = post.url | prepend: site.baseurl %}
+  <td class="ep-number"><a href="{{ url }}">MAG{{ post.episode_number | escape }}</a></td>
+  <td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
+  <td class="ep-status">
+    {%- if post.official -%}
+    <a class="official" href="https://drive.google.com/open?id=0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">OFFICIAL</a>
+    {%- else -%}
+    <a class="unofficial" href="{{ post.unofficial }}">{{ post.unofficial_name }}</a>
+    {%- endif -%}
+  </td>
+</tr>
+{% endfor %}
+</tbody>
+</table>

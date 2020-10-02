@@ -1,7 +1,7 @@
 ---
 layout:          post
-title:           "MAG000 - #0000000 - TITLE"
-date:            2020-01-01 12:00:00 -0400
+title:           "MAG000 - ########- - TITLE"
+date:            2020-01-01 11:00:00 -0400
 categories:      episode
 tags:            []
 statement_of:    []
@@ -9,7 +9,7 @@ recorder:        []
 voiced:          []
 episode_title:   'TITLE'
 episode_number:  '000'
-case_number:     '0000000'
+case_number:     '#######-'
 statement_date:  
 recording_date:  
 event_date:      

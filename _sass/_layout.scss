@@ -330,6 +330,65 @@ ul#search-results {
 /**
  * EPISODE TABLE OF CONTENTS
  */
+
+
+table.toc-table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: $spacing-unit 0;
+    > .wrapper { padding: 0; }
+
+    // Table header and footer ('reverse sort' links)
+    thead tr th, tfoot tr td { 
+        font-weight: normal; 
+        text-align:  center; 
+    }
+
+    // Actual table
+    tbody tr:nth-child(odd){ background: $highlight-bg-color; }
+    tr {
+        margin: 0;
+
+        td, th {
+            margin:        0;
+            padding:       0.4rem;
+            font-size:     0.8em;
+            @include media-query($on-palm) { 
+                padding:   0.2rem; 
+                font-size: 0.6em; 
+            }
+            font-family:   $font-family-monospace;
+            a { color:     $grey-color-light; }
+        }
+        td.ep-number {
+            padding-left: 0.6rem;
+        }
+        td.ep-title {
+            font-size:   1.0em;
+            @include media-query($on-palm) { font-size: 0.6em; }
+            font-weight: bold;
+            a { 
+                color: $brand-color;
+                &:hover { color: $accent-color; }
+            }
+        }
+        td.ep-status { 
+            text-align:  right; 
+            font-weight: bold;
+            line-height: 1.2;
+            a.incomplete { color: $warning-text-color; }
+            a.trailer    { color: $brand-color; }
+            a.unofficial { color: $grey-color-light; }
+            a.official   { color: $accent-color; }
+        }
+        td.ep-date {
+            @include media-query($on-palm) { display: none; }
+            padding-right: 0.6rem;
+            a { color: $grey-color-light; }
+        }
+    }
+}
+
 .table-of-contents {
     margin: $spacing-unit 0;
     > .wrapper { padding: 0; }

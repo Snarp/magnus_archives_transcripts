@@ -13,7 +13,7 @@ acast_url:       https://play.acast.com/s/themagnusarchives/magcommentary-retros
 formats: 
   DOCX: https://drive.google.com/file/d/1D5D_nxbToqTIK5sxyco1a7FQfyRDSqCY/view
   PDF: https://drive.google.com/file/d/1fF9HvgAj1hpKWBYhqH0xXppTRVlilWx4/view
-  # Google Doc: 
+  Google Doc: https://docs.google.com/document/d/12J2Hx_v8vclOubP8k73KGSqONxaYCggiz1StaY1ND0g/edit
 official:        true
 wiki_url:        
 ---
@@ -380,7 +380,7 @@ Yeah. And, like, periodically throughout the recording, you'd have to just stop 
 
 #### ALEX
 
-Better that then slowly creeping upwards, right? _[Pitches voice up gradually to squeaky levels]_ 'And then I found an apple. And then there were teeth in there.'
+Better that than slowly creeping upwards, right? _[Pitches voice up gradually to squeaky levels]_ 'And then I found an apple. And then there were teeth in there.'
 
 #### JONNY
 
@@ -494,7 +494,7 @@ See, I really miss the Jane Prentiss stuff because --
 
 So, we changed how we did the music. At first in Season 1, we had a slate of music done, and then we crossfaded between them, but there was too much progression in it. It swells up and blah, blah, blah built-in, which at first was great because it was built to last at the standard runtime. But unfortunately, as things went on, we ended up having to bend and stretch and scrape it, and crossfade so much that actually became a headache.
 
-But later seasons, are a bit more static drones. So they're not as complex, but they don't have the progression. But for Jane Prentiss and for The Piper, I got to use two of the tracks that we rarely get chance to use any more. One, which has a real dirty sort of _[Alex makes a sort-of buzzing sound]_ to it. And the other one is the Creepy-1, because they all have these names where it was just like, Creepy-1, Threat-4! And Creepy-1 was just The Piper's tune, which is a sort of like, _[Alex makes a warbling ghost-like sound]_. And I just -- I miss the Season 1 ones. I occasionally have sneaked them in where I can, but for Season 5, they've just not really been appropriate. But I sneaked them in --
+But later seasons are a bit more static drones. So they're not as complex, but they don't have the progression. But for Jane Prentiss and for The Piper, I got to use two of the tracks that we rarely get the chance to use any more. One, which has a real dirty sort of _[Alex makes a sort-of buzzing sound]_ to it. And the other one is the Creepy-1, because they all have these names where it was just like, Creepy-1, Threat-4! And Creepy-1 was just The Piper's tune, which is a sort of like, _[Alex makes a warbling ghost-like sound]_. And I just -- I miss the Season 1 ones. I occasionally have sneaked them in where I can, but for Season 5, they've just not really been appropriate. But I sneaked them in --
 
 #### JONNY
 
@@ -516,7 +516,7 @@ To be fair, maybe he's sparing your feelings because if you pushed and were like
 
 #### ALEX
 
-Just, yeah, Alex just calm down. You're just very extra, and it doesn't need to be all that.
+Just, yeah, Alex, just calm down. You're just very extra, and it doesn't need to be all that.
 
 #### JONNY
 
@@ -780,9 +780,9 @@ That sounds about right.
 
 #### ALEX
 
-It was... absolutely gorgeous! And it was -- I was actively distraught when we lost that audio. I still have, like I said, hopes to bring it back, but this was genuinely one of my favourite.
+It was... absolutely gorgeous! And it was -- I was actively distraught when we lost that audio. I still have, like I said, hopes to bring it back, but this was genuinely one of my favourites.
 
-But we were, oh god, we were still recording using Big Bertha. Big Bertha is an Alesis MultiMix USB 2.0 -- it was a massive, massive mixing desk. And for a while in the podcasting sphere, it was __the__ mixing desk. Like, I started the entire company with a 600 quid investment, which was in that mixing desk. And that was it. I just had to save up for so long. Basically it was __the__ mixing desk, and they they'd even discontinued it when we started, but I managed to get hold of it. And we had to stop periodically, because as with all tech in my life at the time, if it run too long, it started to melt.
+But we were, oh god, we were still recording using Big Bertha. Big Bertha is an Alesis MultiMix USB 2.0 -- it was a massive, massive mixing desk. And for a while in the podcasting sphere, it was __the__ mixing desk. Like, I started the entire company with a 600 quid investment, which was in that mixing desk. And that was it. I just had to save up for so long. Basically it was __the__ mixing desk, and they, they'd even discontinued it when we started, but I managed to get hold of it. And we had to stop periodically, because, as with all tech in my life at the time, if it ran too long, it started to melt.
 
 ##### [ALEX LAUGHS]
 
@@ -918,7 +918,7 @@ Yeah, yeah, yeah.
 
 #### ALEX
 
-Like, later Magnus, yeah, is a thing that you can listen to, and go, 'God, I don't really know how they did that. Wow.' But early seasons of Magnus really was just... a labour of love and it's, like, 'Okay, Alex, we need to have this sound effect.' 'I don't know how to do that. I guess I'll go on Google and look up foley or something.'
+Like, later Magnus, yeah, is a thing that you can listen to, and go, 'God, I don't really know how they did that. Wow.' But early seasons of Magnus really were just... a labour of love and it's, like, 'Okay, Alex, we need to have this sound effect.' 'I don't know how to do that. I guess I'll go on Google and look up foley or something.'
 
 #### JONNY
 
@@ -1294,7 +1294,7 @@ Yeah.
 
 #### ALEX
 
-But in a way that was good, because part of Magnus as well is you can't, I mean, Podcasting 101, everyone wants infinite amounts of the same content that's also consistently fresh and new every week.
+But in a way that was good, because part of Magnus as well is, you can't, I mean, Podcasting 101, everyone wants infinite amounts of the same content that's also consistently fresh and new every week.
 
 I mean, all, all you have to do is give exactly the same thing --
 
@@ -1400,7 +1400,7 @@ It's the first one that, like, really grabs the idea of The Extinction, which, l
 
 #### ALEX
 
-You know what? That's fair. Actually, yeah. It is an early Extinction one, because everyone knows this at this point that I dive down like research rabbit holes, occasionally, just fall deep, and I'm like, ooh.
+You know what? That's fair. Actually, yeah. It is an early Extinction one, because everyone knows this at this point, that I dive down like research rabbit holes, occasionally, just fall deep, and I'm like, ooh.
 
 #### JONNY
 
@@ -1752,7 +1752,7 @@ Yeah.
 
 #### ALEX
 
-We had Season 5 is all the apocalypse, which is obviously what we ended up with. We had Season 5 is a half-way fake out, and suddenly it's there. We had Season 5 is going to be all apocalypse, but only twelve episodes. Like we tried a few...
+We had "Season 5 is all the apocalypse," which is obviously what we ended up with. We had "Season 5 is a half-way fake out, and suddenly it's there." We had "Season 5 is going to be all apocalypse, but only twelve episodes." Like we tried a few...
 
 #### JONNY
 
@@ -1858,7 +1858,7 @@ US markets, they don't like it!
 
 #### JONNY
 
-I was just, like, he's, he's a very sweary man, Alex. But, like, right from the start I, like, I had this idea of Salesa as this, like, just very practically-minded character. And like, as soon as we started talking about the apocalypse, and I was, like, well, we need to have, like, this rest in the centre.
+I was just, like, he's, he's a very sweary man, Alex. But, like, right from the start I, like, I had this idea of Salesa as this, like, just, very practically-minded character. And like, as soon as we started talking about the apocalypse, and I was, like, well, we need to have, like, this rest in the centre.
 
 #### ALEX
 
@@ -1866,7 +1866,7 @@ Yeah, absolutely.
 
 #### JONNY
 
-And like, as soon as we setup, I was like, Salesa is going to be in there.
+And like, as soon as we set up, I was like, Salesa is going to be in there.
 
 #### ALEX
 

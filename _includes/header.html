@@ -5,7 +5,7 @@
   <div class="site-header-linkbar">
   {% for link in site.data.links %}
     {%- if link.local -%}
-    <span><a href="{{link.path | prepend: site.baseurl}}">{{link.shortname}}</a></span>
+    <span><a href="{{site.baseurl}}/{{link.path}}">{{link.shortname}}</a></span>
     {%- else -%}
     <span><a target="_blank" href="{{link.path}}">{{link.shortname}}</a></span>
     {%- endif -%}

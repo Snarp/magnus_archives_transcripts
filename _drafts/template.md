@@ -20,10 +20,7 @@ formats:
   DOCX: 
   PDF: 
   # Google Doc: 
-official:        
-unofficial:      
-unofficial_name: 
-unfinished:      true
+official:        true
 wiki_url:        
 ---
 

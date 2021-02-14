@@ -2,1962 +2,3304 @@
 layout:          post
 title:           "MAG160.07 - MAG Duskhollow PD - Part 2"
 date:            2020-02-06 11:00:00 -0400
-categories:      incomplete
+categories:      special
 tags:            []
-voiced:          []
+voiced:          [Jonny Sims, Frank Voss, Lowri Ann Davies, Alexander Newell, Sasha Sienna]
 episode_title:   'MAG Duskhollow PD - Part 2'
 episode_number:  '160.07'
 summary:         "Join Jonny, Frank, Sasha, Alex and Lowri as they play MacGuffin & Co's original TTRPG 'Duskhollow PD' <br/><br/>This second episode sees the team split their resources to follow up the leads they've found. Emma and Archie head to 'The Last Drop' while Gabrielle Schreiber and Detective Sergeant Carl Husselback pay Angela Grockle a visit."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/magduskhollowpd-part2
-formats:         
+formats: 
+  Google Doc: https://docs.google.com/document/d/1A56AB_1xggwqM6TU906vPJV1xyD-S5X_ac0FKMzSqIg/edit
 official:        false
-unofficial:      http://www.youtube.com/
-unofficial_name: YouTube CC
-unfinished:      true
+unofficial:      http://mileaftermile.tumblr.com/
+unofficial_name: mileaftermile.tumblr.com
 wiki_url:        
 ---
 
-hi everyone Alex here I just like to
+#### JONNY
 
-take a moment to thank some of our
+Hello again! It's still us.
 
-patrons
+##### [LAUGHTER]
 
-Sofia Sardino Cecil Goodwin now Marsha
+I say still, if you've started listening here rather than the last episode.... Don't.
 
-Weber James can Delino kids bus rocket
+#### LOWRI
 
-Corgi Terrence roll in with a grand
+It might be interesting!
 
-Connor a delay row in grey Liz McGregor
+#### JONNY
 
-yellow Sayid Hoss
+And...
 
-hhhh ex-libris crow Ryan nori Ivana
+#### FRANK
 
-Arvilla mill dump bucket o 55k Brianna
+_[overlapping]_ Don't let Jonny tell you what to do, live your best life.
 
-spam Sam thank you all we really
+#### JONNY
 
-appreciate your support if you'd like to
+_[overlapping]_ You'll -- It won't make any sense!
 
-join them go to WWE on comm forward
+#### FRANK
 
-slash rusty quill and take a look at our
+_[continuing]_ Jump into the middle of the story, don't understand anything!
 
-rewards
+#### ALEX
 
-[Music]
+Middle of the episode!
 
-hello again it's still us I say still if
+#### JONNY
 
-you've started listening here rather
+So, this is episode 2 of our Duskhollow PD actual play. _[dramatic]_ There's been a murder!
 
-than the last episode don't understand
+##### [EVERYONE GASPS]
 
-so this is episode 2 of dusk hollow PD
+You -- what -- it's not a surprise! You've been investigating him for like an hour now!
 
-actual play there's been a murder
+#### FRANK
 
-surprise like an hour it's just a
+What!?
 
-massive heart attack just enormous heart
+#### ALEX
 
-attack in the sense that something
+Still maintaining it's just a massive heart attack. Just an _[with a lot of emphasis]_ *enormous* heart attack.
 
-attacked his heart in a weird way yes
+#### JONNY
 
-definitely the housekeeper with the
+In the sense that something attacked his heart in a weird way... then, yes.
 
-poison brought you in system does
+#### SASHA
 
-Gabriel schreiber believe that the stew
+Was definitely the housekeeper.
 
-might have been poisoned no because she
+#### ALEX
 
-did eat some and she's still fine okay
+Oh, yeah, with the poisoned broth! That you insisted on guzzling.
 
-wait is she still fine yeah
+##### [LAUGHTER]
 
-for now she hasn't noticed any worrying
+#### SASHA
 
-symptoms but we'll see how she rolls I
+_[overlapping]_ I was hungry, okay!
 
-guess you have a few a few clues to
+#### ALEX
 
-follow up can we introduce ourselves
+_[overlapping]_ Like a kid at a candy store!
 
-oh yeah I guess Johnny rolls in any who
+#### LOWRI
 
-are you I'm actually in this system I do
+Is that just 'cause *Sasha* was hungry?
 
-basically no rolling that's fine because
+#### SASHA
 
-I hate what I like said anyway so Lowry
+Yes, it's entirely because Sasha was *so* hungry.
 
-who are you
+#### ALEX
 
-hello I'm Laurie I produce the Magnus
+_[overlapping]_ Oh, no, no.
 
-archives and I'm playing Emma Lenski
+##### [LAUGHTER]
 
-conspiracy theorist extraordinaire
+#### JONNY
 
-conspiracy theorist Jordan air and Frank
+_[overlapping]_ Hold on, so -- so are you saying --
 
-who are you hi I'm Frank
+#### SASHA
 
-I have voice Becerra in the Magnus
+-- I made my character eat stew.
 
-archives and I am playing Detective
+#### LOWRI
 
-Sergeant Karl Haas Peck Alex who are you
+_[overlapping]_ Go into to the kitchen --
 
-I am Alex no live voice Martin and I'm
+#### JONNY
 
-playing Archie Murdock who I'm rapidly
+_[overlapping]_ Do you -- does Gabrielle --
 
-coming to realize is Martin's American
+#### SASHA
 
-cousin he wasn't Madison even just kind
+_[overlapping]_ Gabrielle --
 
-of
+#### JONNY
 
-no wonder I hate you Sasha
+-- Schreiber believe that the stew might have been poisoned?
 
-I'm playing Gabrielle Schreiber who are
+#### SASHA
 
-you oh yeah no I'm Sasha I'm still Sasha
+No, because she did eat some and she's still fine.
 
-me Sasha I play Georgie on the Magnus
+#### JONNY
 
-archives and I'm playing Gabrielle
+_[overlapping]_ Okay, okay, cool.
 
-Schreiber skeptic again of regular
+#### SASHA
 
-proportions and we are playing dust
+Wait. Is she still fine?
 
-collar PD a micro setting from a
+##### [LAUGHTER]
 
-government company which is myself and
+#### JONNY
 
-sastras games company and we're using
+Yeah, that's -- that's -- let's say yeah.
 
-the system the Cthulhu hack by Paul ball
+#### SASHA
 
-darsky we did another game of yours over
+Well, for now she hasn't noticed any worrying symptoms but we'll see how she rolls, I guess.
 
-on the gaming feed if you want to use
+#### JONNY
 
-that buttons I feel the best of us is
+_[overlapping]_ Okay. Okay.
 
-that the end of the episode plug that we
+#### ALEX
 
-should probably do yeah yes do every
+_[laughing]_ I love that "Is she fine?" "Depends, what's your fortitude?"
 
-five minutes cross-promotion another
+#### LOWRI
 
-feed there's a weird energy in this room
+_[overlapping]_ Literally.
 
-it's mainly coming from me so last time
+##### [LAUGHTER]
 
-you found a bode there were all sorts of
+#### JONNY
 
-cool clues all sorts of interesting
+So. You have a few -- a few clues to follow up. Uh...
 
-leads well I mean I don't know about all
+#### LOWRI
 
-the rest of you but I definitely didn't
+Can we introduce ourselves?
 
-notice any clues whatsoever that's fine
+#### JONNY
 
-well I'm covered in blood now absent
+Oh! _[fake irritated]_ Yeah, I guess. Ugh... fine.
 
-because you took a nap in the garden no
+##### [LOWRI LAUGHING QUIETLY]
 
-you don't sleep you can't sleep when
+#### ALEX
 
-you're on duty all you can do is shotgun
+That's not how Jonny rolls in any show he's in.
 
-coffee shirts that's the rules probably
+#### JONNY
 
-I don't think we put that in there but
+_[overlapping]_ _[still irritated]_ Who are you? I -- actually in this system, I do basically *no* rolling.
 
-we didn't no one sleeps they just drink
+##### [ALEX LAUGHS]
 
-coffee well support us on patreon read
+#### FRANK
 
-the micro setting and find out for
+That's fine, 'cause I hate what Alex said anyway.
 
-yourself
+##### [LAUGHTER]
 
-so what's everyone's next move can I ask
+#### JONNY
 
-so all the information that we gathered
+Yeah. So, Lowri, who are you?
 
-you you pretty much share it unless
+#### LOWRI
 
-there's a specific thing that you're
+Oh, hello I'm Lowri, I produce The Magnus Archives and I'm playing Emma Walensky, conspiracy theorist.
 
-like I'm not telling anyone else I mean
+#### ALEX
 
-I'm not telling anyone that I pocketed
+Extraordinaire.
 
-oh that is hard to say pocket did some
+#### LOWRI
 
-timetables no everywhere I think yeah
+Extraordinaire.
 
-I'm assuming that you have shared the
+#### JONNY
 
-clue of the burns timetable yes from the
+_[overlapping]_ Uh, no. _[with feeling]_ Very much not extraordinaire!
 
-wastepaper bit yes yep okay well geez I
+##### [LAUGHTER]
 
-mean I don't I don't think I shouldn't
+##### [LOTS OF UNINTELLIGIBLE CROSSTALK]
 
-necessarily be what with the blonde
+#### LOWRI
 
-suggesting things but I mean you know
+_[overlapping]_ I am really good!
 
-there's a there's a match book thing for
+#### JONNY
 
-a long drop and we could you know with
+Very -- very, like...
 
-the the last pot a long drop is a
+#### SASHA
 
-different pub in character I definitely
+_[overlapping]_ Bargain bin conspiracy theorist!
 
-said the long trip
+##### [ALEX LAUGH-COUGHING IN BACKGROUND]
 
-that's fair the long drop is a pump that
+#### LOWRI
 
-is up over five stories it has a central
+_[overlapping]_ I believe anything!
 
-sort of well that goes down all five of
+#### JONNY
 
-them and no safety rails I'm thinking we
+Conspiracy theorist 'traordinaire. And... Frank, who are you?
 
-should probably check this because with
+#### FRANK
 
-with the cigarettes and the with the
+Hi, I'm Frank. I voice Basira in The Magnus Archives and I am playing Detective Sergeant Carl Husselbeck.
 
-with the match books and I like your
+#### JONNY
 
-instincts kids yes sirree
+Alex, who are you?
 
-you see with the heart exploding heart
+#### ALEX
 
-yeah that is a method they use and she
+I am Alex Newall, I voice Martin and I'm playing Archie Murdoch who I'm rapidly coming to realize is... _[sounding annoyed at himself]_ Martin's American cousin. He wasn't meant to be, but he just kind of is.
 
-winks with both eyes okay cool so well
+#### FRANK
 
-in ski and murdocka going after the go
+Oh, no wonder I hate him.
 
-to the last drop what about you guys III
+##### [LAUGHTER]
 
-don't know that it's really there's much
+#### JONNY
 
-point investigating more at this point
+And, Sasha?
 
-it's clearly the housekeeper make the
+#### SASHA
 
-arrest kick kick up for me are you
+I'm playing Gabrielle Schreiber.
 
-making the arrest no we need more
+#### JONNY
 
-evidence I mean it's obviously the
+Yeah, but who -- who are you?
 
-housekeeper she found the body
+#### SASHA
 
-no one can account for her whereabouts
+Oh, sorry, yeah, no! I'm Sasha. I'm still Sasha. Me, Sasha. I play Georgie on The Magnus Archives and I'm playing Gabrielle Schreiber, skeptic, again, of regular proportions.
 
-she's cooked up some crock and balls
+##### [LAUGHTER]
 
-story about some perp with a scar well
+#### JONNY
 
-that's convenient
+Yep. And we are playing Duskhollow PD, a micro-setting from MacGuffin & Company, which is myself and Sasha's games company, that you should all --
 
-every thick perps got a scar cuz you're
+#### SASHA
 
-bound to never find a blonde tall thin
+_[overlapping]_ It's real good!
 
-woman covered in blood with a scar over
+#### JONNY
 
-one eye that's not gonna happen is it
+Yeah, it is. It's really good.
 
-she's just sending us on a wild goose
+#### LOWRI
 
-chase and I've spent enough at that time
+_[overlapping]_ It is!
 
-on a wild goose chase before I came here
+#### JONNY
 
-chasing geese oh it takes ages why were
+And we're using the system The Cthulhu Hack by Paul Baldowski.
 
-you chasing geese say well criminals
+#### LOWRI
 
-started criminals too confident that is
+We did another game of yours, over on the Gaming feed if you want to go and listen to that!
 
-not the job I said well sometimes the
+#### JONNY
 
-job finds you so you guys heading back
+_[overlapping]_ Yes, actually. But, uh, I feel -- that's -- that's -- is that an end of the episode plug that we should probably do?
 
-to the police station you following up a
+#### ALEX
 
-different leader you also know to the
+Yeah, definitely.
 
-last drop well I have got Angela groffle
+#### JONNY
 
-address looks like she was in touch with
+Yeah.
 
-the deceased quite a lot so maybe that
+#### FRANK
 
-she's got some evidence against the
+Just do it every five minutes.
 
-housekeeper she might be able to tell us
+#### JONNY
 
-more about the relationship yeah could
+_[sing-song]_ Cross-promotion! _[lowers voice, still sing-song]_ Gotta look at another feed. _[normal]_ There's a weird energy in this room, and it's mainly coming from me.
 
-help us with our inquiries okay
+##### [LAUGHTER]
 
-yeah let's start with Frank and Sasha
+#### ALEX
 
-hey that makes us the B team yeah
+That's an accurate statement.
 
-you piloted the police car and drive
+#### FRANK
 
-down the address for Angela Krakow is
+Yep.
 
-out in the suburbs of dusk Allah the
+#### JONNY
 
-rain continues to beat down but when you
+So. Last time you found a body _[mispronounces "body" as "bode-y_"]. There were all sorts of cool clues, all sorts of interesting leads.
 
-get out of the city it becomes less
+#### ALEX
 
-oppressive and more just drab rows and
+Oh, were there? I mean, I don't know about all the rest of you, but I definitely didn't notice any clues whatsoever.
 
-rows of identical houses cars that they
+#### JONNY
 
-just make you feel kind of sad
+That's fine.
 
-so that's oppressive a more repressive a
+#### FRANK
 
-little bit a little bit a little bit all
+Well, I'm covered in blood now.
 
-the windows curtains closed except they
+#### SASHA
 
-twitch sometimes like someone's just
+That's only 'cause you took a nap in the garden.
 
-looking out staring at you as you roll
+#### FRANK
 
-by Angela Bracco's house looks no
+No, it was before that.
 
-different to any of the others the only
+#### JONNY
 
-difference is that it is number 15 one
+_[overlapping]_ You didn't need -- you didn't take a nap in the garden. You didn't -- didn't take a nap -- it's...
 
-before it
+#### ALEX
 
-number 13 one after it
+_[overlapping]_ You took a nap on the corpse!
 
-number 20 we're 17 or 19 who knows
+#### JONNY
 
-rise 20 on the wrong side of the road
+_[exasperated]_ You don't sleep, you can't sleep when you're on duty --
 
-good questions all it's that like a gap
+#### FRANK
 
-between the houses or does it just say
+_[overlapping]_ Well that's where it's warm!
 
-it's like semi-detached I'm gonna say
+#### JONNY
 
-that there is one houses space there
+-- all you can do is shotgun coffee.
 
-probably should like it looks like there
+#### ALEX
 
-should be a house but that house is gone
+S'true.
 
-you need to find professor dumbledore
+#### JONNY
 
-and he'll be able to tell you where it
+It's -- that's the rules. Probably, I don't think we put that in there, but --
 
-is and you'll be able to gain he retired
+#### SASHA
 
-he doesn't work for the foursome yeah
+_[overlapping slightly]_ That is -- we didn't put that in there.
 
-you vaguely recall one of the other
+#### JONNY
 
-detectors being assigned to some case
+Yeah, no one sleeps, they just drink coffee. Uh...
 
-out here where like a house had gone and
+#### SASHA
 
-they vanished as well you know was a
+That's not canon.
 
-hole I mean it would have been a big
+##### [ALEX LAUGHS]
 
-thing but like detective Spanish a lot
+That's like -- I need to point that out.
 
-you know not as much as rookies but you
+#### JONNY
 
-know a lot so the house is very standard
+Definitely canon. Well, support us on Patreon, read the micro-setting and find out for yourself.
 
-home number 15 is on a plaque just
+##### [FRANK, ALEX AND LOWRI "OOH"]
 
-outside in the shape of an old steam
+#### JONNY
 
-train there's the sound of shuffling
+So. What's everyone's next move?
 
-from inside and door opens an elderly
+##### [RAIN SFX START]
 
-steam train well shouldn't she not
+#### LOWRI
 
-elderly but he has seizures oh you know
+Can I ask -- so, all the information that we gathered...
 
-I should have said no she's not a
+#### JONNY
 
-steamship she is a person she's probably
+You -- you pretty much share it. Unless there's a specific thing that you're like _[scheming voice]_ "I'm not telling anyone else about this".
 
-like maybe early 50s cardigan toward
+#### LOWRI
 
-oiss Kurt's well-maintained all over
+I mean I'm not telling anyone that I pocketed -- oh, that is hard to say -- _[enunciates]_ pocketed some timetables.
 
-yes can I can I help you mrs. grumble
+#### JONNY
 
-yes Angela that's me yes oh what's this
+No. That's fine.
 
-about
+#### FRANK
 
-detectives hustle back Thank You Zack
+_[overlapping]_ Or that you put goo everywhere.
 
-service hustle back and schreiber oh oh
+#### JONNY
 
-goodness
+That's fine, but I, uh --
 
-can i do for you detectives well Murray
+#### LOWRI
 
-come into this yes no no please
+_[overlapping]_ I think I got caught doing that, but, yeah.
 
-absolutely would you like some tea some
+#### JONNY
 
-coffee hot chocolate tall glass of water
+-- But I'm assuming that you have shared the clue of the burned timetable.
 
-some juice grape mango orange with
+#### LOWRI
 
-chunks don't have many Norm Chow orange
+Yes.
 
-juice I'm afraid if that's that's what
+#### JONNY
 
-you're desperately looking for anyway
+From the wastepaper bin?
 
-come in sit down thank you
+#### LOWRI
 
-gently triathlete [ __ ] everywhere oh
+Yes.
 
-goodness you hold on I'll get some more
+#### JONNY
 
-doilies to get some more doilies and
+Yep. Okay.
 
-places them down just wear whatever
+#### ARCHIE
 
-you're about to touch you'll just place
+Well, jeez, I mean -- I don't -- I don't think I should necessarily be -- what, with the one suggesting things, I mean, you know, there's a -- there's a match... book... thing for a Long Drop and we could, you know, with the --
 
-down a doily so yes please take a seat
+#### JONNY
 
-what can I do for you you were in
+The Last Drop.
 
-contacts of the mr. Jeffrey Marla Jeff
+#### ALEX
 
-yes yes charming boy is something
+I, in --
 
-happened to him he's dead Oh Oh No I've
+#### JONNY
 
-has very difficult to hit him you might
+_[overlapping]_ The Long Drop is a different pub.
 
-want to up sat down for that next it's
+#### ALEX
 
-too late for that I'm afraid sorry I was
+In character, I definitely said The Long Drop.
 
-distracted by all the doilies right
+##### [LAUGHTER]
 
-well what brings you to my door I mean
+#### JONNY
 
-obviously I was friends with him we
+That's fair, that's fair. The Long Drop is a pub that is up over five stories. It has a central, sort of, well that goes down all five of them and no safety rails.
 
-communicated pretty regularly but I'm
+#### ARCHIE
 
-not a suspect
+I'm thinking we should probably check this, 'cause with -- with the cigarettes and the -- with the -- with the matchbooks and --
 
-I'm shocked shocked and innocent I mean
+#### EMMA
 
-in my defense I am both shocked and
+I like your instincts, kid. Your theory --
 
-innocent just ignore the voices in your
+#### ARCHIE
 
-head man no chief she volunteered that's
+_[surprised]_ Oh, thanks.
 
-okay just you know because he's in her
+#### EMMA
 
-defense strange things to say
+Your theory with the heart -- the exploding heart?
 
-appropriately nothing well I mean there
+#### ARCHIE
 
-has been a murder you said covered in
+Yeah!
 
-blood did mr. marina have any enemies
+#### EMMA
 
-that you know of not that I know of
+_[whispering conspiratorially]_ That is a method they use.
 
-we didn't really talk much about his
+#### LOWRI
 
-personal life what did you talk about
+And she winks. With both eyes.
 
-Oh trains mostly me did you know much
+##### [LAUGHTER]
 
-about trains detective I have been on
+#### ALEX
 
-several it's fascinating fascinating
+Out of sequence!
 
-business steam trains especially it's
+#### ARCHIE
 
-all about the power of water you see it
+_[weirded out]_ Okay, cool!
 
-all used to be canals did you know that
+#### JONNY
 
-didn't there were there were some
+So, Walensky and Murdoch are going after the -- going to The Last Drop. What about you guys?
 
-there's a decade when everyone was
+#### FRANK
 
-building canals connecting the the the
+Oh god.
 
-industry with canals but that sort of
+#### SASHA
 
-water slow boring useless
+I'm -- I -- I don't know that it's really -- there's much point investigating more at this point. It's clearly the housekeeper.
 
-train the power of steam you see
+#### ALEX
 
-detectives harnessing the power of steam
+Make the arrest, kick -- kick up for the rest of the episode.
 
-to revolutionize the world but people
+#### JONNY
 
-have forgotten all this electricity
+I mean, are you making the arrest?
 
-sorry that's a little bit of a hobby
+#### SASHA
 
-awesome you know of course this is this
+No, no, we need more evidence. I mean it's obviously the housekeeper. She found the body, no one can account for her whereabouts, she's cooked up some cock and bull story about... some perp with a scar. Well, that's convenient, every fake perp's got a scar 'cause you're bound to never find a blonde, tall, thin woman covered in blood with a scar over one eye! That's not gonna happen, it's -- she's just sending us on a wild goose chase!
 
-is the sort of thing that we used to
+#### FRANK
 
-talk about by our letters myself and
+_[overlapping]_ That's what my mum looks like, thank you.
 
-Jeffrey I believe he was writing a book
+#### SASHA
 
-on it mmm yes I did see manuscripts
+And I've spent enough of that time on a wild goose chase before I came here, chasing geese.
 
-could you both row me smokes actually
+#### ALEX
 
-because we're having a we're having a
+Oh, it takes ages.
 
-bit of a chat any chance to pick up on
+#### FRANK
 
-any visual clues of this place as a
+Why are we chasing geese?
 
-salmon okay yeah you're good you good
+#### SASHA
 
-team spirit Alex no failure is the best
+They were criminals, hardened criminals.
 
-outcome so yes anyway I'm dreadfully
+#### ALEX
 
-sorry going off on one of my little
+_[overlapping]_ They can't put... _[unintelligible]_
 
-rants obviously it's not particularly
+#### FRANK
 
-relevant to your your case is not
+_[overlapping]_ That -- that is not the job I sent you on.
 
-relevant to your case is it detectives
+##### [LAUGHTER]
 
-well that's remains to be seen obviously
+#### SASHA
 
-quickly out of character because I
+Well, sometimes the job finds you.
 
-forgot to make some notes
+##### [MORE LAUGHTER]
 
-wasn't there a particular kind of train
+#### JONNY
 
-that he was really yes the British Rail
+So. Are you guys heading back to the police station, are you following up a different lead, are you also going to The Last Drop?
 
-standards be our standards and the
+#### SASHA
 
-letter that you found from Anton the
+Well, I have got Angela Grockle's address. Looks like she was in touch with the deceased quite a lot so maybe that she's got some evidence against the housekeeper, she might be able to tell us more about their relationship.
 
-most recent one that lowly found seemed
+#### FRANK
 
-to it seemed like it would have
+_[overlapping]_ Yeah, can't hurt.
 
-accompanied a package of some sort it
+#### SASHA
 
-refers to here is perhaps an enormous 32
+_[overlapping]_ Could help us with our inquiries.
 
-to 64 tonne package perhaps a train
+#### JONNY
 
-package I mean probably not who's the
+Okay. Yeah, let's start with Frank and Sasha.
 
-surface is impressive this case is
+#### ALEX
 
-coming together it's very clear what
+_[whispering]_ Hey Lowri, that makes us the B team!
 
-happened is you have a fit crime he's a
+##### [THEY HIGH-FIVE]
 
-train to smuggle another train someone
+Yeah!
 
-posted him a whole train and he had a
+##### [QUIET LAUGHTER]
 
-heart attack from how happy he was at
+##### [SFX OF CAR DOORS OPENING]
 
-being posted a train this case is
+#### JONNY
 
-solving it so much like this chest did
+You park the police car and drive down. The address for Angela Grockle is out in the suburbs of Duskhollow. The rain continues to beat down but when you get out of the city it becomes less oppressive and more just... drab. Rows and rows of identical houses. Cars that, they just make you feel kind of sad.
 
-you know his housekeeper she apparently
+#### ALEX
 
-handled a lot of his post not personally
+So less oppressive and more repressive rain?
 
-I think he made reference to her
+#### JONNY
 
-sometimes Nelson or Nellie or Napoleon I
+Little bit, little bit, little bit. All the windows, curtains closed, except they twitch sometimes like someone's just looking out, staring at you as you roll by. Angela Grockles's house looks no different to any of the others. The only difference is that it is number *fifteen*. The one before it? Number thirteen. One after it? Number twenty. Where's seventeen? Or nineteen. Who knows?
 
-don't really know
+#### LOWRI
 
-remember Neal maybe and do you remember
+Why is twenty on the wrong side of the road?
 
-what he said about her was it positive
+#### JONNY
 
-negative neutral
+Good questions all.
 
-he went into quite some detail about how
+#### SASHA
 
-she wasn't planning to kill him at any
+Is that like a gap between the houses or does it just like -- it's like semi-detached --
 
-point in distant future how much he
+#### JONNY
 
-trusted her with his life Amiens
+I'm gonna say that there is one house's space. There probably -- there should -- like, it looks like there should be *a* house but that house is gone.
 
-yes of course well he had a very dark
+#### ALEX
 
-sense of humor I'm sure he would
+You need to find Professor Dumbledore and he'll be able to tell you where it is --
 
-appreciate it yes of course he wouldn't
+##### [LOWRI GASPS]
 
-stop saying how she's dead
+-- and you'll be able to get in.
 
-the deceased received a package from
+#### FRANK
 
-yourself I believe
+No, he retired, he doesn't work for the force anymore.
 
-oh yes the the the capital a plump table
+##### [ALEX MAKES AN "OH, DARN" NOISE]
 
-I don't really know much about them they
+#### LOWRI
 
-were me very little to do with me to be
+He went to The Long Drop.
 
-honest i i i simply noticed them in a
+#### SASHA
 
-curiosity shop and posted them his way
+_[overlapping]_ Maybe we can get him back --
 
-thought they might be good for his
+##### [LAUGHTER]
 
-excitement that's not what it sounded
+#### LOWRI
 
-like from the no Pleasant oh I mean I he
+Oh no!
 
-was I mean he was very interested in in
+#### JONNY
 
-that sort of paraphernalia so I I simply
+Yeah, you vaguely recall one of the other detectives being assigned to some case out here, where like a house had gone and they vanished as well. You know, it was a whole -- I mean, it would have been a big thing but, like, detectives vanish a lot. You know? Not as much as rookies, but, you know, a lot. So the house is a very standard suburban home. "Number fifteen" is on a plaque just outside, in the shape of an old steam train.
 
-I simply noticed it in a shop purchased
+#### FRANK
 
-it in that shop no reference something
+Gonna knock on the door?
 
-that we have been looking for is
+#### JONNY
 
-something you were both very interested
+There's the sound of shuffling from inside, and the door opens.
 
-we both liked both my trains you saw my
+#### ALEX
 
-house number it's a steam train with a
+It's an elderly steam train.
 
-15 on it yes I noticed that I'm a
+#### JONNY
 
-detective
+Well, she -- she's not elderly, uh...
 
-yes well you know we're both very
+#### FRANK
 
-interested in trains but I I we've been
+But is she a steam train?
 
-looking for timetables and and perfectly
+#### ALEX
 
-the that regarding some the old the
+_[overlapping]_ But she *is* a steam... _[trailing off, laughing]_
 
-older British Rail standard trains for
+#### JONNY
 
-sometimes I noticed it in earth would
+Oh yeah, you know, I should have said, no, she's not a steam train --
 
-there be a steam train so electric train
+#### FRANK
 
-ocean train steam trains of course you
+_[overlapping]_ Oh, okay.
 
-account for your whereabouts over the
+#### JONNY
 
-last couple of days mr. gronkle yes
+_[continuing]_ -- she is a person. She's probably, like, maybe early fifties? Cardigan, corduroy skirt, well-maintained all over.
 
-absolutely
+#### ANGELA
 
-she wanders over finds what looks to be
+Yes, can I, uh, can I help you? At all?
 
-a diary and starts listing off quite a
+#### CARL
 
-lot of very public places there she was
+You are... Ms. Grockle?
 
-well I was in the the supermarket for
+#### ANGELA
 
-about four hours not doing a murder
+*Mrs*. Grockle, yes.
 
-yesterday then I was I decided taking a
+#### CARL
 
-show you can see my tickets here
+*Angela* Grockle.
 
-you know I was I was I was taking a walk
+#### ANGELA
 
-in the park at peak dog walking hours I
+That's me, yes. W-what's this about?
 
-think I think actually yes here's a
+#### CARL
 
-there's the Polaroids but a dog walker
+Detectives...
 
-took all of you police procedural fans
+#### FRANK
 
-this is what's called an orgy of
+_[undertone]_ What's my name, again?
 
-evidence or do you have alibis is the
+#### ALEX
 
-it's the ticket that she tells us you
+... Are here, hello.
 
-know like as far as you can tell these
+##### [LAUGHTER]
 
-alibis are all solid what did she see
+#### SASHA
 
-sorry what show did she see Casablanca
+Husselbeck.
 
-oh the state show no it was a film but
+#### FRANK
 
-it was in the theater they show movies
+Husselbeck! Thank you.
 
-sometimes excuse me a while in ski can
+#### CARL
 
-you stop yes detective you your voice
+Detectives Husselbeck and Schreiber.
 
-changed ever so slightly there but it's
+#### ANGELA
 
-it's fine I'm sorry I obviously just
+Oh! Oh goodness! W-what can I do for you, detectives?
 
-cigarettes clear up my throat you really
+#### CARL
 
-do need to install a fourth wall in this
+Well, might we... come in to this...
 
-building it's but yes I can probably
+#### ANGELA
 
-find you the the receipt for the the
+Yes, no, no, please, absolutely. Would you like some tea? Some coffee? A hot chocolate? Tall glass of water. Some juice? Grape? Mango? Orange? With chunks. Don't have many non-chunk orange juice, I'm afraid, if that's -- that's what you're desperately looking for. Anyway, come in, sit down.
 
-items if you if you need it that will be
+##### [LAUGHTER]
 
-helpful thank you and I suppose you
+#### CARL
 
-don't mind if we have a look around no
+Thank you.
 
-no no please how about your husband's
+##### [DOOR CLOSES; A CLOCK IS TICKING INSIDE]
 
-hmm oh he's way away aware business has
+#### FRANK
 
-been for several years now just one of
+Just gently... try not to leave blood everywhere.
 
-my little jokes he's dead a business of
+#### JONNY
 
-decomposing there's one of my little
+_[overlapping]_ Yeah, it's --
 
-jacks I really want to set her up with
+#### ANGELA
 
-the doctor they would be really happy
+Oh goodness! Uh, you -- hold on. I'll get some more doilies.
 
-together she will come back with a
+#### JONNY
 
-receipt from whateleys books and curios
+She gets some more doilies and places them down just where-wherever you're about to touch. She'll just place down a doily.
 
-for one train conductors hat and one
+##### [LAUGHTER]
 
-time table brackets old yeah you can
+#### ALEX
 
-have a look around her house and make me
+_[overlapping]_ Under each foot as they walk around!
 
-a flashlight spot okay six it's a very
+#### ANGELA
 
-it's exactly the house that you would
+So yes, please, take a seat. What can I do for you?
 
-expect this woman to have almost
+#### CARL
 
-suspiciously so it's almost as
+You were in contact with a Mr. Geoffrey Mariner?
 
-suspiciously hmm exactly what this house
+#### ANGELA
 
-you would expect this window but you can
+Geoffrey, yes! Yes, charming boy. Has something happened to him?
 
-have a you can like pull out all the
+#### CARL
 
-books see if there's a secret passage or
+He's dead.
 
-like just kick up a rug looking for a
+#### ANGELA
 
-trap drawn you can't see anything shed
+Oh!
 
-or anything in the garden yes she does
+##### [MUFFLED LAUGHTER]
 
-have a look rather shadow it's locked
+Oh no! That's very difficult to hear.
 
-miss
+##### [SASHA LAUGHS]
 
-surname a groffle grant Gloria it's been
+#### GABRIELLE
 
-a long day yes look in the shed of
+You might want to have sat down for that, miss.
 
-course
+##### [SOMEONE LAUGHS]
 
-she comes over she unlocks the shed she
+#### ANGELA
 
-opens it up and it's full of gardening
+It's too late for that, I'm afraid.
 
-tools suspiciously full you could say I
+#### FRANK
 
-mean you could say they'll be there very
+Sorry, I was distracted by all the doilies.
 
-neatly organized not a spot of rust on
+#### ANGELA
 
-any of them how nice is that garden
+Right! Well. What brings you to my doo-- I mean, obviously I was friends with him, we -- we communicated pretty regularly, but... I'm not a suspect, am I?
 
-that's nice as did you expect
+#### ALEX
 
-yes well you know my Marvin loves his
+_[imitating]_ I am shocked! Shocked and innocent!
 
-garden and I've kept his tools pristine
+#### ANGELA
 
-in memory of him isn't that nice
+I mean in my defense, I am both shocked and innocent.
 
-I'm glad to hear you say that most of
+##### [LAUGHTER]
 
-the most of the others of the W I think
+#### GABRIELLE
 
-it's a little bit more because you're
+Just ignore the voices in your head, ma'am.
 
-both just stonewalling simultaneously
+##### [MORE LAUGHTER]
 
-it's just the poor ones like hello and
+#### JONNY
 
-just by staring is like I don't I feel
+No, she -- she volunteered that.
 
-like I've been pressured but I haven't
+#### SASHA
 
-been asked a question what kind of train
+Okay. Yeah.
 
-[Music]
+#### JONNY
 
-like in terms of accomplishing anything
+_[overlapping]_ Just, you know, 'cause it -- 'cause it is in her defense.
 
-we've split the teams on the wrong axis
+#### CARL
 
-[Laughter]
+That's a strange thing to say apropos of absolutely nothing.
 
-Frank you get a ping on your pager
+#### ANGELA
 
-the station needs you to call in you
+Well, I mean there has been a murder, you said.
 
-don't have no one has mobile phones in
+#### ALEX
 
-das Hollow please have pages and they
+You're covered in blood!
 
-need to go to one of the rotary phone
+##### [LAUGHTER]
 
-boxes line motion streets yeah say my
+##### [SOMEONE SHUSHES HIM]
 
-goodbyes apologize for leaving so
+#### JONNY
 
-hastily and leaving so that's a lot of
+And you're covered in blood.
 
-rounds that's fine I'll just clean it
+#### GABRIELLE
 
-better peroxide great for getting blood
+Did Mr. Mariner have any enemies that you know of?
 
-out Felix
+#### ANGELA
 
-sad should be hunting up that
+Not that I know of. We didn't really talk much about his personal life.
 
-information well she said she knows are
+#### GABRIELLE
 
-there any final questions no yes but
+What did you talk about?
 
-don't leave town oh I wouldn't dream of
+#### ANGELA
 
-it detected so meanwhile at the last
+Oh, trains. Mostly. I mean, do you know much about... trains? Detective?
 
-drop the last drop is a dingy
+#### GABRIELLE
 
-establishment still lit partially by
+I have been on several.
 
-Gaslight it's down
+##### [SOUND OF CUCKOO CLOCK IN BACKGROUND]
 
-some stairs from the street suicide like
+#### ANGELA
 
-them basement bars you know the cool
+It's fascinating, fascinating business, steam trains, especially. It's all about the power of water, you see. It all used to be canals, did -- [stutters] -- did you know that? There -- there was some -- there was a decade when everyone was building canals, connecting the -- the industry with canals. But that sort of water, slow, boring... useless. And then the train. The power of steam. You see, detectives. Harnessing the power of steam to revolutionize the world -- but people have forgotten. All this... electricity. Sorry, it's a little bit of a hobby for me, of course this is -- this is the sort of thing that we used to talk about by o-our letters m-myself and Geoffrey, I believe he was writing a book on it?
 
-basement bars but also dangerous is the
+#### CARL
 
-long drop directly above the last track
+Mmm, yes, I did see a... a manuscript.
 
-it's it's B's it's if the building
+#### JONNY
 
-opposite and sort of towers over head of
+Could you both roll me Smokes, actually, 'cause we're having a -- we're having a bit of a chat.
 
-a turf war
+##### [DICE ROLLING]
 
-I mean you joke but yes there have been
+#### LOWRI
 
-quite a few murders about it only one
+I don't think --
 
-drop on this tree yeah so yeah it's it's
+#### SASHA
 
-quite late now and the place seems
+I've got a six!
 
-pretty pretty hop in
+#### LOWRI
 
-now to be clear are we talking like
+_[continuing]_ -- Frank can?
 
-speakeasy star where you got your door
+#### JONNY
 
-with your slider and you've got to get
+_[overlapping]_ Yes. Oh, no, no, out of Flashlights.
 
-in or we're talking more like a bit more
+#### FRANK
 
-open front a bit more open front if the
+_[overlapping]_ I can roll Smokes, I can't roll Flashlights
 
-door is clearly closed like it's clearly
+#### LOWRI
 
-a bar which doesn't want you coming in
+_[overlapping]_ Ohh.
 
-okay but it's not actively trying to
+#### JONNY
 
-stop you kid hmm before we go in
+_[slightly overlapping]_ Yeah, like I'm not -- I'm not giving Frank --
 
-mmm-hmm hold your hand out which one
+#### ALEX
 
-either okay hold up both okay I just
+_[overlapping, background]_ Your bandolier of Flashlights is low.
 
-sprinkle some salt into one of your
+#### JONNY
 
-hands I like it shouldn't do that bad
+_[continuing]_ -- any chance to -- to pick up on any *visual* clues of this place.
 
-for your blood pressure
+#### FRANK
 
-you know if I take a point of damage
+_[background]_ What's that say?
 
-notice seven should have really made you
+#### JONNY
 
-make a constitution check but I know
+That's a seven.
 
-you're probably predisposed no because
+#### FRANK
 
-then I'd fail the Constitution jackets
+_[overlapping]_ That's a seven, okay.
 
-too damaged I places yeah that's bad
+#### JONNY
 
-good good good to know you passed the
+Yeah, you're good, you're good.
 
-test okay yes I then go into the inside
+#### ALEX
 
-as you open the door
+Boo!
 
-figure sort of bumps into you as walking
+#### LOWRI
 
-as that walking past on a tall thing no
+Says the --
 
-bare shoulder with a skull no they're
+#### SASHA
 
-short broad and wearing an anorak all
+How 'bout a little team spirit, Alex?
 
-right then
+#### ALEX
 
-lanes sorry
+No.
 
-okay so I mean we asked the at the front
+##### [LAUGHTER]
 
-with the bar person and then there will
+Failure is the best outcome.
 
-do the thing yeah trust you kid I
+#### JONNY
 
-trusted you've got good instincts
+So --
 
-oh geez that's a lot of pressure really
+#### ANGELA
 
-early and okay so the place goes a
+Yes, anyway, I'm dreadfully sorry going off on one of my little rants, obviously it's not particularly relevant to your -- your case. It's not relevant to your case, is it detectives?
 
-little bit quiet as you start to walk in
+#### GABRIELLE
 
-because you're you know you need you at
+Well, that's remains to be seen.
 
-least are in police uniform Alex and
+#### ANGELA
 
-there are enough people here in here or
+Oh, I see.
 
-definitely some criminals but they're
+#### FRANK
 
-like giving you giving you evils oh yeah
+Quickly out of character, because I forgot to make some notes, wasn't there a particular kind of train that he was really...
 
-you said that like metagame you said
+#### JONNY
 
-night exactly the right time oh right
+Yes, the British Rail standards.
 
-yeah
+#### FRANK
 
-no cops Cyr I just grabbed she she grabs
+Okay.
 
-you and just forcibly walked you to the
+#### JONNY
 
-bar behind the bar is the owner of the
+BR standards. And the letter that you found from Angela, the most recent one that Lowri found seemed to -- it seemed like it would have accompanied a package of some sort. It refers to "here is".
 
-last drop she is like if you're looking
+#### ALEX
 
-for some with a scar you found someone
+Perhaps an enormous thirty-two to sixty-four tonne package? Perhaps _[louder, more dramatic]_ a *train* package?
 
-with basically more scar than face well
+#### JONNY
 
-let me just every like she's wearing one
+I -- I mean, probably not. The postal service is impressive, Alex, but, uh...
 
-of them short sleeve I was gonna say one
+#### ALEX
 
-of them short sleeve bar shirts but is
+No, this -- this case is coming together, it's very clear, what happened is he had --
 
-that a thing I don't think that's a
+#### FRANK
 
-thing I know she's wearing on them short
+It's the perfect crime, use a train to smuggle another train.
 
-sleeve past bar shirts we all have a
+##### [LOWRI LAUGHS]
 
-reference for and all the like just
+#### ALEX
 
-every bit of skin has got scars or
+It's simple: someone posted him a whole train and he had a heart attack from how happy he was at being posted a train! This case is solving itself.
 
-brulée shoes she runs a very rough pub
+#### FRANK
 
-and cleans glasses with her like the
+Yeah, open and shut.
 
-glass is dirty she washed it in some
+#### SASHA
 
-dirty water she's cleaning it with a
+Much like his chest!
 
-dirty rag well what do you want cops two
+##### [LAUGHTER]
 
-whiskey's and uh some information and
+Hey-oh!
 
-I'll have a lemonade one whiskey pours
+#### FRANK
 
-it out two whiskeys
+It's not very shut anymore.
 
-pause it lemonade pause your shelter
+#### GABRIELLE
 
-lemonade's information I'll give you as
+Did you know his housekeeper? She apparently handled a lot of his post.
 
-I don't talk to cops
+#### ANGELA
 
-is there someone at the bar next to me
+Not personally, I think he made reference to her sometimes? Nelson or Nellie or... Napoleon? I
 
-yes it's a child it is a child's they're
+don't really know, I don't remember. Neil, maybe?
 
-just a mean to their whiskey glass one
+#### GABRIELLE
 
-they got problems
+And do you remember what he said about her, was it positive, negative? Neutral?
 
-jeez you know you're not a cop are you
+#### ANGELA
 
-no mr. cool if I ask you some questions
+He went into quite some detail about how she wasn't planning to kill him at any point, uh...
 
-could you then ask this are Tennyson
+##### [LAUGHTER]
 
-questions a note art of cups
+-- in the near or distant future. How much he -- he trusted her with his life.
 
-jeez I really thought I had it there
+#### GABRIELLE
 
-nice try kids thinking outside the box I
+Very convenient.
 
-like it
+#### CARL
 
-I know what happens to snitches well at
+That a joke, Mrs. Grockle?
 
-lunchtime on the playground you get
+#### ANGELA
 
-shivved it's a rough town mr. does the
+Yes, of course, of course.
 
-barbers and have a nametag
+##### [LAUGHTER]
 
-yeah it is an expletive beep okay I
+#### CARL
 
-can't meet any Mara Mara Brack know this
+_[overlapping]_ Well, it's not really appropriate
 
-we might be cops but this goes this goes
+#### GABRIELLE
 
-all the way to the top like you and me
+_[overlapping]_ It's hardly in good taste, I'd say.
 
-we're in this together okay I've got
+#### ANGELA
 
-America now I'm not American I don't
+Well, he had a very dark sense of humor, I'm sure he would appreciate it.
 
-know who you are that's okay you don't
+#### ALEX
 
-need to know who I am I do though do you
+"Was that a joke?" "Yes, of course, he wouldn't *stop* saying how she's definitely going to kill him!"
 
-know Geoffrey mariner no is there an
+##### [LAUGHTER]
 
-equivalent of a sense like we brought
+Would go *on* and *on*...
 
-make me a smokes roll okay let me ask my
+#### GABRIELLE
 
-strong I'm very charming remember that
+The deceased received a package from yourself, I believe?
 
-character [ __ ] what do you what do you
+#### ANGELA
 
-say yeah what are your expertise is
+Oh yes, the -- the -- the cap and the timetable, I don't really know much about them? They were... I mean, very little to do with me to be honest. I -- I -- I simply noticed them in a curiosity shop and posted them his way, thought they might be good for his research.
 
-flattery is one of them which I feel is
+##### [MODEL TRAIN HORN BLOWING IN BACKGROUND]
 
-quite relevant you okay yeah you are you
+#### GABRIELLE
 
-a child Fatima might make me a
+Hmm, is that so. That's not what it sounded like from the note that you sent.
 
-spokesperson Sam listen here you sexy
+#### ANGELA
 
-bar lady person you clearly do not have
+Oh, I mean, I -- he -- he was, I mean, he was very interested in that sort of paraphernalia so I -- I simply --
 
-flash beans I could talk to her about
+I simply noticed it in a shop, purchased it in that shop, and...
 
-Stevenson regulator till the cows come
+#### GABRIELLE
 
-home
+_[overlapping]_ The note that you sent referenced something that *we* have been looking for?
 
-nine oh okay yeah oh you're gonna
+#### ANGELA
 
-flatter more a Brack scarred owner of
+_[overlapping]_ Y-yes.
 
-the last drop you and me we're cut from
+#### GABRIELLE
 
-the same cloth I see the toughness in
+Sounds like it was something you were *both* very interested in.
 
-your eyes you don't survive in a town
+#### ANGELA
 
-like this or as long as you and I have
+We -- we, I mean, we both liked -- both liked trains, you saw my house number. It's a steam train. With a
 
-without something inside you some
+fifteen on it.
 
-strength inside you and a lot of bullets
+#### GABRIELLE
 
-mmm-hmm I can see scar tissues too thick
+Yes, I noticed that, I'm a detective.
 
-can't cut them out they're just in there
+#### ANGELA
 
-i toast you with a whiskey and doughnut
+Yes, well, you know, we're both very interested in trains but I -- I -- we've been looking for timetables and -- and paraphernalia that -- that -- regarding some of the old -- the old British Rail standard trains for some times. I -- I noticed it in a --
 
-- you Maura - you I like you though
+#### GABRIELLE
 
-obviously you know if you do threaten my
+Would that be steam trains or electric trains?
 
-establishment I probably have to kill
+#### ANGELA
 
-you and leave you in the back I respect
+Oh, steam trains, steam trains, of course!
 
-his fine thank you I haven't killed any
+#### CARL
 
-cops that you can prove but you know
+Can you account for your whereabouts over the last couple of days, Mrs. Grockle?
 
-yeah where they cops threw food though
+#### ANGELA
 
-with a human we don't know that's asking
+Yes, absolutely.
 
-no questions I feel like I've lost
+#### JONNY
 
-control of this conversation so I what
+She wanders over, finds what looks to be a diary and starts listing off quite a lot of very public places that she was --
 
-are you here for
+#### ANGELA
 
-Geoffrey Mona the name doesn't mean
+Well, I was in the -- the supermarket for about four hours, uh...
 
-anything - nothing right okay I believe
+#### ALEX
 
-you this time
+Not doing a murder.
 
-okay I mean so I have an an ex-wife okay
+##### [QUIET LAUGHTER]
 
-who I have to find to give her the
+#### ANGELA
 
-divorce settlement so I'm looking for a
+-- yesterday. Then I was -- I decided to take in a show. You can see my tickets here. You know, I was -- I was taking a walk in the park at peak dog walking hours. I think -- I think, actually -- yes, here's a... a Polaroid that a -- that a dog walker took of me --
 
-woman who is tall thin blonde with a
+#### ALEX
 
-scar on one eye so that I can give her
+For all of you police procedural fans, this is what's called an *orgy of evidence*.
 
-lots of money and then she will give
+##### [LAUGHTER]
 
-some money to the people that help me
+#### JONNY
 
-find her yes wrong I've got a da I won't
+Orgy of *alibis*.
 
-even die from this one oh it's a six
+#### SASHA
 
-everything I saw every single one of you
+And is the, uh, is the ticket that she tells us, is that stamped or like ripped? Yeah...
 
-wait you're Marie's ex yeah yeah there's
+#### JONNY
 
-I mean look I'm not gonna be a current
+_[overlapping slightly]_ Yeah, it all -- yeah, yeah, it all -- like as far as you can tell these alibis are all solid.
 
-am i she said you had to be it
+#### LOWRI
 
-oh I shaved it off to prove my love she
+What did she see?
 
-said you were like six foot eight I wore
+#### JONNY
 
-platform shoes to prove my love she said
+Sorry?
 
-you weren't a cop I became a cop
+#### LOWRI
 
-after because of MiG grief because I
+What show did she see?
 
-wasn't a cop at first to prove my love I
+#### JONNY
 
-mean these are all very good reasons for
+Casablanca.
 
-her to divorce you to be honest
+#### LOWRI
 
-I mean she's round the back there yeah
+_[interesting]_ Oh... the stage show.
 
-there's a reason why you know we're
+#### JONNY
 
-paying the settlement sure well just so
+No, it was a film.
 
-you know she was with a fella
+#### LOWRI
 
-so maybe could you give me an accurate
+Ah.
 
-description of the fella you know we had
+#### JONNY
 
-our coats on kept his hood up an anorak
+But it was in the theater. They show movies sometimes.
 
-yeah one of them cocoons okay go okay
+#### LOWRI
 
-well for foreign American listeners I
+Just interesting.
 
-don't know what words actually translate
+#### CARL
 
-over the pond but it's it's it's another
+Excuse me, Walensky, can you stop astral projecting into our investigation?
 
-word for an anorak a curved jacket yeah
+#### LOWRI
 
-one of them
+Sorry, apologies.
 
-emma downs ii whiskey and the lemonade
+#### Angela
 
-and hoody make me a constitution roll
+Yes, detective, you -- your voice changed ever so slightly there, but it's -- it's fine.
 
-please oh I've got a seven the whiskey
+#### CARL
 
-was fine but it's the lemonade Oh eight
+I'm sorry, I -- obviously, the cigarettes clear up my throat.
 
-yeah I mean Frank's right the whiskey no
+#### ALEX
 
-problem but the lemonade it's old it's
+You really do need to install a fourth wall in this building at some point.
 
-probably been about decades that
+##### [LAUGHTER]
 
-someone's had a lemonade here and you
+#### ANGELA
 
-are feeling remarkably unwell I'm
+But yes, I can probably find you the -- the receipt for the -- the items if you -- if you need it.
 
-probably gonna ask you to roll a d4 and
+#### GABRIELLE
 
-lose that many hit points that's fine to
+That would be helpful, thank you. And I suppose you don't mind if we have a look around?
 
-lose a hit point no on eleven lame come
+#### ANGELA
 
-on kid let's go see your your acts see
+No, no, no, please.
 
-the tall thin blond woman in like a very
+#### CARL
 
-very sharp suit sitting in the back
+How 'bout your husband?
 
-sipping a tall drink close-cropped
+#### ANGELA
 
-blonde hair scar over one eye it was
+Hmm? Oh, he's away.
 
-Murray right mouse game it wasn't Mary
+#### GABRIELLE
 
-right yeah Murray who was asking what
+Away where?
 
-well Lansky and Murdock FBI
+#### ANGELA
 
-no you ain't know you're not always that
+Business. Has been for several years now. _[chuckles]_ Just one of my little jokes. He's dead.
 
-always works on the TV show that's
+#### CARL
 
-that's bad sister Scala PD I know I know
+Oh.
 
-a beat cop when I see one I thought that
+#### ANGELA
 
-I thought you just say FBR okay kid I've
+Business of decomposing. Just one of my little jokes.
 
-I've got this Murray sure there's a nice
+#### ALEX
 
-suit I flatter thank you
+I really want to set her up with the doctor, they would be really happy together.
 
-top yeah sure I'm gonna sprinkle some
+##### [LOWRI GASPS]
 
-salt on her does she deserve she does
+#### LOWRI
 
-not she stares at you not try to cook
+Oh my gosh, you go.[^1]
 
-frankly what's this about any offices
+[^1]: Not sure about what Lowri says here.
 
-does the name Jeffrey Mon I mean
+#### JONNY
 
-anything - no well that's that case
+She will come back with a receipt from Whateley's Books And Curios. For one train conductor's hat and one timetable, brackets old. Yeah, you can have a look around her house, make me a Flashlights roll?
 
-closed
+#### SASHA
 
-I'm sorry for disturbing you I'll make
+Okay, here goes...
 
-me a flashlights wrong okay both of us
+##### [DICE ROLLING]
 
-no okay good not you good one you notice
+Six!
 
-that the cuffs of her white shirt under
+#### JONNY
 
-a very sharp suit have some pretty clear
+It's a very... it's *exactly* the house that you would expect this woman to have. Almost suspiciously so?
 
-dried blood on them hmm you know just
+#### SASHA
 
-that she notice easy you know to sing
+_[overlapping]_ _[suspicious]_ Hmm. Hmmm.
 
-she gives up and makes a run for it i
+#### JONNY
 
-triangular can't make me a Krakken let's
+It's almost just as suspiciously, exactly what this house you would expect this woman to have, but you can have a -- you can, like, pull out all the books, see if there's a secret passage, or like, just kick up a rug looking for a trapdoor, and you can't see anything.
 
-have a strength check okay so I need to
+#### SASHA
 
-roll lower than my strength yes you do
+Okay.
 
-come on lucky zero I do 20 right and it
+#### FRANK
 
-is only 20 yet like she's tall but she's
+Does she have, like, a shed or anything in the garden?
 
-like like a bungler Twix she just goes
+#### JONNY
 
-down good get off me get off me nice
+Yes, she does.
 
-brocade no I want a cigarette
+##### [SFX: RAIN, BIRDS CHIRPING]
 
-give me a cigarette I'm gonna cigarette
+#### FRANK
 
-should she turn into a jacket and tanned
+Okay, I have a look around the shed.
 
-your mobile red yeah I'm arresting you
+#### JONNY
 
-for possession of Marlboro red are you
+Oh, it's locked.
 
-are you saying those words I think I'm
+#### CARL
 
-gonna have to yeah cuz I'm rookie and
+Mrs.... Surname?
 
-that's how I roll okay yes good feel it
+#### ANGELA
 
-outside the box the bar goes quiet and
+Uh, Grockle. Mrs. Grockle.
 
-the door opens and in walks a judge
+#### CARL
 
-flanked by some officials from the town
+_[overlapping]_ Grockle. Sorry, it's been a long day.
 
-oh this is so convenient
+#### ANGELA
 
-the judge walks over he's tall he's
+Uh, yes?
 
-wearing his robes
+#### CARL
 
-officer Murdoch
+Can we have a look in the shed?
 
-yeah you've arrested this woman I am
+#### ANGELA
 
-trying to who put there so much going on
+Of course, of course.
 
-what are the charges
+#### JONNY
 
-having bloody cuffs and having a scar
+She comes over, she unlocks the shed, she opens it up and it's full of gardening tools.
 
-possession of Marlboro Reds none of
+#### ALEX
 
-these are crimes officer no but they are
+Suspiciously full, you could say.
 
-because because they're tied to the to
+#### JONNY
 
-them to them to them to the murder so
+Sus-- I mean, you could say -- I mean, they're very neatly organized, not a spot of rust on any of them.
 
-that their crimes to that's helped is
+#### FRANK
 
-sufficient evidence to convict of a
+How nice is her garden?
 
-crime I hereby throw out this case the
+#### JONNY
 
-case of Murray for possession of
+As nice as you'd expect.
 
-Marlboro Reds a note will be passed to
+#### ALEX
 
-your captain to follow up on this what
+_[overlapping]_ Suspiciously as nice as you'd expect.
 
-about loitering can we get around
+#### FRANK
 
-loitering a judge is already turned to
+_[overlapping]_ _[unintelligible]_... for an average garden.
 
-started to walk away the officials from
+#### ANGELA
 
-the Town Hall follow behind him the door
+Yes well, you know, my... _[Jonny is clearly making this up on the spot]_ Marvin --
 
-closes and just you know life resumes in
+##### [FRANK SNORTS]
 
-the last drop what a nice man you would
+##### [ALEX LAUGHS]
 
-none of that is weird to you just so you
+-- loved his garden. And I've kept his tools pristine in memory of him.
 
-know that is how justice works in
+#### CARL
 
-Tuscola when you make an arrest the
+Isn't that nice.
 
-judge turns up determines whether or not
+#### ANGELA
 
-you've correctly arrested the person if
+I'm glad to hear you say, that most of the -- most of the others at the WI think it's a little bit morbid.
 
-they're guilty they're taken away I mean
+#### CARL
 
-if not the chief shouts at you and you
+_[unconvincingly]_ No.
 
-just know at some point we need to have
+##### [LAUGHTER]
 
-this as a TV series and cast mind
+#### ALEX
 
-freeman as the straight man who just
+I love that you're investigation technique is that you're both just stonewalling simultaneously, so it's just this poor woman like "hello!" and just by staring is like "I don't -- I feel like I'm being pressured but I haven't been asked a question!" so...
 
-acknowledges how weird this isn't no one
+#### FRANK
 
-else ever does so can we arrest her
+_[overlapping]_ I feel like...
 
-again is it kind of the same rules of if
+#### SASHA
 
-you bring fun it was a real bad idea to
+_[overlapping]_ I've asked several questions --
 
-antagonize your arrest the judge mm-hmm
+#### LOWRI
 
-I mean you've heard that somebody tried
+_[overlapping]_ Very pertinent ones?
 
-once but you know they don't work for
+#### SASHA
 
-does got a PDA and people tell like if
+_[continuing]_ -- about what kind of train she's into? And, uh, why she bought a hat!
 
-people are suspended or they lose their
+##### [LAUGHTER]
 
-their position in the police department
+#### FRANK
 
-they like they tend to end up there's
+I feel like, in terms of accomplishing anything, we've split the teams on the wrong axis.
 
-like the subject of the next crime
+##### [MORE LAUGHTER]
 
-weird or special I didn't kill him okay
+#### SASHA
 
-and how did you know he was dead I mean
+Yeah, definitely.
 
-he wasn't when I got there so he wasn't
+#### LOWRI
 
-there
+Oh, I don't know!
 
-he wasn't dead when you got I was indeed
+#### JONNY
 
-I was told go there I would totally be
+Frank, you get a ping on your pager, the station needs you to call in. You don't have -- no one has mobile phones in Duskhollow. Police have pagers and they need to go to one of the rotary phone boxes that... line most streets. Call the station.
 
-dead already
+#### FRANK
 
-I was told to cut the whistle I was told
+Yeah, I will say my goodbye, apologize for leaving so hastily and leaving *so* much blood around.
 
-to take the cat no told to return it but
+#### ANGELA
 
-when I got there he was still reading
+No, that's fine, that's fine. I'll just, uh... clean it.
 
-stuff he was doing his whole dance I
+#### CARL
 
-don't know what the hell so I stood
+Bit of peroxide, great for getting blood out of fabrics.
 
-there I had a smoke I waited he didn't
+#### ANGELA
 
-see me I was outside the window and then
+_[overlapping]_ I know.
 
-he keeled over dead
+#### GABRIELLE
 
-so when he was dead like I was thought
+Sarge, should we be handing out that information?
 
-he was gonna be I went in look this
+#### CARL
 
-whole job has been hell of a lot more of
+Well, she said she knows.
 
-a headache
+##### [LOWRI LAUGHS]
 
-then it was meant to be who gave you the
+It figures *she* knows how to get blood out.
 
-job she's starting to convulse
+##### [LAUGHTER]
 
-ever-so-slightly
+#### FRANK
 
-oh no quickly Marie quickly foaming
+Yep.
 
-isn't going to help you you know her
+#### ANGELA
 
-limbs flails knocking don't touch up
+Are there any final questions?
 
-onto the table and it sort of flows
+#### GABRIELLE
 
-around
+Not yet, but don't leave town.
 
-that's unfortunate just to the wider bar
+#### ANGELA
 
-in general does anyone know what happens
+Oh, no. I wouldn't dream of it, detective.
 
-now lean over I mean usually the
+##### [SFX: RAIN, DISTANT MUSIC AND THE SOUND OF A CROWD]
 
-ambulance comes know about half an hour
+#### JONNY
 
-we used to just walk around until then I
+So, meanwhile at The Last Drop. The Last Drop is a *dingy* establishment, still lit partially by gaslight. It's down some stairs from the street. So it's like one of them basement bars, you know, the cool basement bars but also dangerous.
 
-mean okay can I touch no that sounds
+#### FRANK
 
-terrible can I search the body just be
+Is The Long Drop directly above The Last Drop?
 
-careful don't touch the froth okay
+#### JONNY
 
-that's how you get contaminated hey it
+It's -- it's the... it's the building opposite? And just sort of towers over...
 
-looks like she's been poisoned hmm who
+#### SASHA
 
-the stew I proceeded to search the now
+Bit of a turf war.
 
-corpse fresh cotton without touching the
+#### JONNY
 
-skin maybe using napkins and taking far
+I mean, you joke but... yes, there have been quite a few murders about it.
 
-longer than it really needs to so there
+#### FRANK
 
-is a note with a time the time was about
+_[dramatic]_ Only one Drop on this street.
 
-10 minutes ago
+#### JONNY
 
-and the place was the last drop there is
+So, yeah, it's -- it's quite late now and the place seems pretty -- pretty hoppin'.
 
-a matchbook for the last drop pack of
+#### ALEX
 
-marble red cigarettes and that's about
+Now, are we -- to be clear, are we talking like speakeasy style where you got your door with your slider and you've got to get in or we're talking more, like, a bit more open-fronted?
 
-it okay she did have a bag that the bag
+#### JONNY
 
-is now empty right
+A bit more open-fronted. The door is clearly closed, like, it's clearly a bar which doesn't want you coming in?
 
-that's not very human behavior is that
+#### ALEX
 
-carrying an empty bag around you know
+Okay.
 
-yes I can tell you know yes can we take
+#### JONNY
 
-the body to assure the doctor that once
+But it's not actively trying to stop you.
 
-the ambulance like you can you can you
+#### EMMA
 
-can call it in and doc smiley will be
+Kid.
 
-there so yeah Frank are you heading to
+#### ARCHIE
 
-are you are you calling in yes the
+Hmm?
 
-findings of the autopsy already guess
+#### EMMA
 
-I'll come back to the coroner's office
+Before we go in --
 
-something but Sasha you going with
+#### ARCHIE
 
-hustle back are you following me I'm
+_[overlapping]_ Mm-hmm, yeah --
 
-following a different lead so I'm
+#### EMMA
 
-actually gonna go and see Geoffrey
+-- hold your hand out.
 
-Mariners lawyer because you know in nine
+#### ARCHIE
 
-cases out of ten a murders done by the
+Which one?
 
-spouse in those other cases where it's
+#### EMMA
 
-not the spouse nine times out of ten
+Either.
 
-it's a presently found the body and and
+#### ALEX
 
-the other cases nine times out of ten
+Okay, I hold up both.
 
-it's it's to do with the will so I'm
+#### EMMA
 
-don't know sender that's five I'm right
+Okay.
 
-everybody those are the three kinds of
+#### LOWRI
 
-murder
+I just sprinkle some salt into one of your hands.
 
-it's the spouse it's personally found
+#### ALEX
 
-the body it's the person who benefits in
+I lick it.
 
-the world three kinds of murder so I'm
+##### [QUIET LAUGHTER]
 
-gonna go see who was named in the will
+#### JONNY
 
-because of its housekeeper I mean case
+Shouldn't do that, it's bad for your blood pressure.
 
-closed
+#### EMMA
 
-so all of the crime is no point one
+You know...
 
-percent of the time yeah okay cool
+#### JONNY
 
-Geoffrey Mariner does not he does not
+_[continuing]_ In fact, take a point of damage.
 
-have a lawyer no he was quite young you
+##### [LAUGHTER]
 
-don't have a will yet it doesn't have a
+#### ALEX
 
-will okay well who is this next of kin
+Down to seven.
 
-parents his parents mmm-hmm and they're
+#### JONNY
 
-conveniently out of the country right
+Should have really made you make a constitution check but I -- you're probably predisposed to it.
 
-that's it I'm tracking them down
+#### LOWRI
 
-in fact housekeeper will know back to it
+_[overlapping]_ Nah.
 
-back to Nellie shop yeah what can I do
+#### ALEX
 
-for you alright so you mentioned the
+No, because then I'd fail the constitution check and take *two* damage, I've played this game before.
 
-mister Mariners parents are out of town
+#### JONNY
 
-out down yes I think they're in Milan at
+_[overlapping]_ Yeah that's fair, that's fair, that's fair.
 
-the moment okay I see and how long have
+#### EMMA
 
-they been there I don't know a few weeks
+Good, good, good to know, you passed the test.
 
-maybe did I also live here at this
+#### ARCHIE
 
-address
+_[weirded out]_ Okay, yes...
 
-not often what do you mean not often I
+#### ALEX
 
-mean they're not often it's a yes or no
+I then go in the -- inside?
 
-question
+##### [LAUGHTER]
 
-do they live here or not sometimes
+#### JONNY
 
-they're rich which people live all over
+As you open the door, a figure sort of bumps into you, as walking -- as they're walking past.
 
-the place
+#### ALEX
 
-so this is one of their legal abodes yes
+Are they tall, thin, female --
 
-okay and did Geoffrey Mariner of any
+#### JONNY
 
-money of his own and not really just the
+_[overlapping]_ No, they're short --
 
-allowance he was given which was a lot
+#### ALEX
 
-like he was he was I mean he was also
+_[overlapping]_ -- blonde and with a scar?
 
-rich but okay
+#### JONNY
 
-back at the police station yes doctor
+No, they're short, broad, and wearing an anorak.
 
-doctors
+#### ALEX
 
-Alden is there over the corpse looking
+_[still suspicious]_ Aaalright, then.
 
-very pleased with himself which cops we
+#### JONNY
 
-have turned guys yeah you guys can come
+They sort of --
 
-in he'll take one look at the body that
+#### MYSTERY PERSON
 
-you guys are brought in now
+Sorry.
 
-poisoning something in our drink I think
+#### JONNY
 
-hmm
+-- wander off.
 
-yes we're probably a murder anyway this
+#### ARCHIE
 
-body is fascinating is it yes so
+Okay, so... I mean, we ask the -- at the front with the, um, bar person and then from there, we'll do the -- thing, yeah?
 
-obviously the cut marks on the chest
+#### EMMA
 
-amateur stuff dreadfully done I mean I'm
+I trust you, kid, I trust you, you've got good instincts.
 
-not even sure how sharp the knife was
+#### ARCHIE
 
-but strange thing is the heart
+Oh jeez, that's a lot of pressure really early, um, okay.
 
-completely gone
+#### EMMA
 
-but completely gone so neatly as if it
+Look, you just --
 
-just stopped being there at all were
+##### [THEY ENTER THE BAR]
 
-there any like whistle shaped holes in
+#### JONNY
 
-the middle of the chest what a
+So the place goes a little bit quiet as you start to walk in 'cause you're -- you know, you, at least, are in police uniform, Alex, and there are enough people here -- in here who are definitely some criminals. But they're like -- _[growls under breath]_ -- like giving you -- giving you evils.
 
-fascinating question yes what there was
+#### ARCHIE
 
-where the heart should be in the muscle
+_[undertone]_ Oh, it's okay, I've seen how to deal with this on TV.
 
-around it
+#### EMMA
 
-there was a burn mark in the shape of
+Kid, low profile, low profile.
 
-when it was a cylindrical shape I hadn't
+#### ALEX
 
-really thought what it might be but now
+Oh yeah, you said that -- like, metagame, you said that at *exactly* the right time.
 
-you say a whistle yes what's just in the
+#### ARCHIE
 
-shape of an old whistle and you can see
+Oh, right, yeah. _[louder, unconvincing]_ No cops here!
 
-here he just wrenches up a bit of skin
+#### LOWRI
 
-and points you see these little markings
+I just grab -- she -- she grabs you and just forcibly walks you to the bar.
 
-here numbers I think numbers etched into
+#### JONNY
 
-wood whatever was within where the heart
+Behind the bar is the owner of The Last Drop, she is -- like, if you're looking for someone with a scar, you've found someone with basically more scar than face?
 
-should be burned isn't this fascinating
+#### ALEX
 
-can we take a rubbing oh I already did
+_[whispering]_ Case closed.
 
-fleshy the corpse he hands you a very
+#### JONNY
 
-like gooey piece of paper today the
+Well, let me just -- every -- like, she's wearing one of them short sleeve -- I was gonna say one of them short sleeve bar shirts, but is that a thing? I don't think that's a thing.
 
-numbers 9 F - 9 - 2 5 1 with my
+#### ALEX
 
-expertise in engineering and on the
+I know what you mean!
 
-off-chance library you saw that that's
+#### SASHA
 
-not a Jew adesso no I don't believe do
+Yeah, I know what you mean as well.
 
-any bells
+#### JONNY
 
-I mean you might be a trained
+Okay, cool. She's wearing on them short sleeve bar -- bar shirts we all have a reference for, and all the, like, just every bit of skin has got scars or brui-- like, she runs a very rough pub, and cleans glasses with her, like -- the glass is dirty? She washed it in some dirty water, she's cleaning it with a dirty rag.
 
-designation given the given while sheep
+#### BARTENDER
 
-seen also buck get in here you can hear
+Well? What do you want, cops?
 
-the cheese we're using it all the way
+#### EMMA
 
-that's nicer day mate I checked that's
+Two whiskeys and, uh, some information.
 
-your Sydney this is something you've
+#### ARCHIE
 
-done rookie kind of been something I
+And I'll have a lemonade!
 
-done I'm still wearing most of the
+##### [LAUGHTER]
 
-mistakes I've made today the chief is
+#### BARTENDER
 
-sitting in his office chewing a cigar if
+One whiskey.
 
-a mountain could be really pissed off
+#### JONNY
 
-with how your hand
+Pours it out.
 
-in this case that is the chief his
+#### BARTENDER
 
-moustache is bristling which is always
+Two whiskeys.
 
-always a bad sign puzzle part what the
+#### JONNY
 
-hell are you doing with this case I got
+Pours it out.
 
-City Hall breathing down my neck wasting
+#### BARTENDER
 
-the judges time on some trumped-up
+Lemonade.
 
-charge about cigarettes not only that
+#### JONNY
 
-that courts full assault back and I'm
+Pours you a shot of lemonade.
 
-being told of one of your detectives is
+#### BARTENDER
 
-trying to hassle the Mariners rich
+Information I won't give you as I don't talk to cops.
 
-people rich people who are very
+#### ARCHIE
 
-important in this town and are doing
+_[whispering]_ I've got a plan!
 
-their own thing and one of your
+#### ALEX
 
-detectives is bothering them when
+Is there someone at the bar next to me?
 
-they're doing whatever important rich
+#### JONNY
 
-people think that they are doing does
+Yes.
 
-this sound like your case should have
+#### FRANK
 
-been had like this why you covered in
+_[high-pitched]_ It's a child!
 
-blood you shot apart I was investigating
+##### [LAUGHTER]
 
-a murder all right I'll give you that
+_[normal]_ No, I'm sorry.
 
-one I'm not happy with you hustle back
+#### JONNY
 
-now explain what's going on with this
+It is a child.
 
-case this is a big case and I've got
+#### ALEX
 
-city hall breathing down my neck can we
+_[incredulous]_ Okay.
 
-hear this yes I think you're in so much
+#### JONNY
 
-trouble like when the chief is when the
+They're -- they're about eight, they're just staring into their whiskey glass, like they've got -- they've got problems.
 
-chief is expressing his opinion about
+#### ARCHIE
 
-the handling of a case all the crockery
+Um, oh jeez, uh, you -- you're not a cop, are you?
 
-and the mugs just in this it's just they
+#### CHILD
 
-just vibrate ever so slightly why you're
+No, mister.
 
-gonna save yourself hustle back Jeffery
+#### ARCHIE
 
-Mariner mm-hmm as you know sir he was
+Cool, if I ask you some questions, could you then ask this bartender some questions?
 
-found dead early it's that yeah I'm
+#### CHILD
 
-familiar with the case yeah
+I don't talk to cops.
 
-the throws down the case file well I'm
+##### [LAUGHTER]
 
-just reminding you of the importance of
+#### ARCHIE
 
-the victim because there's just a lot of
+Damn. Oh jeez, I really thought I had it there.
 
-leads to track down
+#### EMMA
 
-okay well when's it gonna be solved I
+Nice try, kid. Thinking outside the box, I like it.
 
-need results also back well that's why
+#### CHILD
 
-there's been such a mess rich man like
+I know what happens to snitches.
 
-that makes a lot of enemies we've just
+##### [LAUGHTER]
 
-got to shake things up so really good
+#### ARCHIE
 
-going to this file yeah no known enemies
+Really? What -- what does happen to snitches?
 
-it's rich everyone's his enemy everyone
+#### CHILD
 
-wants to be rich in this town so how
+Well... at lunchtime, on the playground... you get shivved.
 
-close are you to solving it well I'm
+##### [MORE LAUGHTER]
 
-looking at the coroner's report now sir
+#### ARCHIE
 
-and I would say
+Aw jeez. Aw jeez. This really isn't Morgan's Hill anymore, is it?
 
-you got 24 hours hustle back yes what I
+#### CHILD
 
-expense it 24 hours or you're off the
+It's a rough town, mister.
 
-case and you're off this force okay so
+#### ARCHIE
 
-now get out of my office can have your
+Oh wow! Oh jeez, oh man, oh jeez.
 
-flashlights back now nice it's just the
+#### LOWRI
 
-stand of meeting with the chief yeah
+Does -- does the bar person have a nametag?
 
-yeah yeah very light pretty you know I
+#### JONNY
 
-feel like I've had this enough to matter
+Yeah. It is an expletive.
 
-massages ego of it can I choose not to
+#### LOWRI
 
-ever get my flashlights back so I don't
+Beep!
 
-have to have that conversation can I
+##### [LAUGHTER]
 
-just accept being incompetent at my job
+#### JONNY
 
-bleats so on that gruff shouty note
+Okay, I can't maintain it -- the, uh -- Mara. Mara Brack.
 
-probably going to call the second
+#### EMMA
 
-episode to a club legitimate cool guys
+Mara, this, uh... we might be cops but this goes -- this goes all the way to the top. Like you and me, we're in this together, okay --
 
-legitimate clue I am very then she died
+#### LOWRI
 
-I've got a legitimate clue I've not been
+Why -- I've gone American now! I'm not American.
 
-following it but I might later I've got
+#### MARA
 
-a clue that I this is in the nor point
+I don't know who you are.
 
-one percent of crimes per the dramatic
+#### EMMA
 
-conclusion to this adventure of dusk all
+That's okay, you don't need to know who I am.
 
-OPD will be coming in I believe two
+#### MARA
 
-weeks that sounds right right to me okay
+I do, though.
 
-so we will see you then
+#### EMMA
 
-this episode is distributed by rusty
+Do you know Geoffrey Mariner?
 
-quill and licensed under a creative
+#### MARA
 
-commons
+No?
 
-attribution-noncommercial-sharealike 4.0
+#### LOWRI
 
-international license for more
+Is there an equivalent of a Sense Motivation?
 
-information visit rusty Qualcomm
+#### JONNY
 
-twitter's at the rusty quill visit us on
+Well -- no, ro-- make me a Smokes roll.
 
-Facebook or email us at male at a rusty
+#### LOWRI
 
-12.com thanks for listening
+Mm 'kay.
+
+#### JONNY
+
+Make me a Smokes roll.
+
+#### LOWRI
+
+Mmm, so I've got ten... I'm very charming, remember? That says so on my character sheet.
+
+#### JONNY
+
+Well --
+
+#### LOWRI
+
+Hashtag "just saying".
+
+#### JONNY
+
+Well, what are your -- so, what are your expertises?
+
+#### LOWRI
+
+Flattery is one of them, which I feel is quite relevant here.
+
+#### JONNY
+
+Okay, yeah, you -- you want to try with flattery, make me a Smokes roll, see how it goes.
+
+#### ALEX
+
+Listen here, you sexy bar... lady... person... sexy!
+
+#### JONNY
+
+Yeah, you clearly do *not* have flattery as an expertise.
+
+#### ALEX
+
+_[overlapping]_ I do not have that, but I could talk to her about _[???]_ [^2] 'til the -- cows come home.
+
+[^2]: I can't for the life of me figure out what Alex is saying here.
+
+##### [LOWRI LAUGHS]
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+Nine.
+
+##### [ALEX MAKES A DISAPPOINTED SOUND]
+
+#### JONNY
+
+Oh, okay, yeah. How're you gonna flatter Mara Brack, scarred owner of The Last Drop?
+
+#### EMMA
+
+You and me, we're cut from the same cloth, I see the toughness in your eyes. You don't survive in a town like this for as long as you and I have without *something* inside you. Some strength inside you.
+
+#### MARA
+
+And a lot of bullets.
+
+##### [SASHA LAUGHS]
+
+#### EMMA
+
+I can see --
+
+#### MARA
+
+Scar tissue's too thick, can't cut 'em out, they're just in there.
+
+#### LOWRI
+
+I toast you with a whiskey and down it.
+
+#### EMMA
+
+To you, Mara. To you.
+
+#### MARA
+
+I like you, though obviously, you know, if you do threaten my establishment, I'll probably have to kill you and leave you in the back alley, but it's fine, it's fine.
+
+#### EMMA
+
+_[overlapping]_ I respect that for that, I respect you for that.
+
+#### MARA
+
+I haven't killed any cops that you can prove, but, you know... you know.
+
+#### EMMA
+
+Were they cops through-and-through, though? Were they human? We don't know. Let's ask no questions.
+
+##### [BACKGROUND LAUGHTER]
+
+#### MARA
+
+I feel like I've lost control of this conversation a little bit. So what -- what are you here for?
+
+#### EMMA
+
+Geoffrey Mariner, the name, does it mean anything to you?
+
+#### MARA
+
+Nothing.
+
+#### EMMA
+
+Right, okay, I believe you this time.
+
+#### MARA
+
+Okay.
+
+#### ARCHIE
+
+Well, I mean, so I have an -- _[unconvincing]_ an ex-wife, okay? Who, I have to find, to give her the... divorce settlement! So, I'm looking for a woman who is tall, thin, blonde with a scar on one eye so that I can give her lots of money and then she will give some money to the people that help me find her.
+
+#### JONNY
+
+Make me a Smokes roll.
+
+#### ALEX
+
+_[triumphant]_ Yeaahh! I can't remember how to do that. I am on... oh, I've got a d8! I won't even die from this one.
+
+##### [DICE ROLLING]
+
+Oh, it's a six! Every single -- I saw every single one of you waiting for that one, I saw you all looking.
+
+##### [LAUGHTER]
+
+#### FRANK
+
+_[overlapping]_ I don't know what you're talking about.
+
+##### [UNINTELLIGIBLE CROSSTALK]
+
+#### MARA
+
+_[overlapping]_ Hang on. You're *Marie's* ex.
+
+#### ARCHIE
+
+Yeaahh... yeaahh, I mean, look, there's -- I'm not gonna be a current am I? _[laughs nervously]_
+
+#### FRANK
+
+_[overlapping]_ Oh, I see why she left you, mister.
+
+#### MARA
+
+She said you had a beard.
+
+#### ARCHIE
+
+Oh, I shaved it off to prove my love.
+
+#### MARA
+
+She said you were like six foot eight.
+
+#### ARCHIE
+
+I wore platform shoes to prove my love.
+
+##### [LAUGHTER]
+
+#### MARA
+
+She said you weren't a cop.
+
+#### ARCHIE
+
+I became a cop after... because of my grief... because I wasn't a cop at first to prove my love.
+
+#### MARA
+
+I mean these are all very good reasons for her to divorce you, to be honest.
+
+#### ARCHIE
+
+I mean, I --
+
+#### MARA
+
+She's 'round the back there, you can have a -- you can go have a chat yourself.
+
+#### ARCHIE
+
+Absolutely, there's a reason why, you know, um... we're paying the settlement.
+
+#### MARA
+
+Sure, sure, well just so you know, she was with a fella earlier --
+
+#### ARCHIE
+
+_[unconvincing]_ Aw jeez. Oh no.
+
+#### MARA
+
+-- so maybe, uh...
+
+#### ARCHIE
+
+Could you give me an accurate description of the fella? Like height, weight...
+
+#### MARA
+
+_[overlapping]_ Don't know, he had a big coat on, kept his hood up.
+
+#### ARCHIE
+
+An anorak?
+
+#### MARA
+
+Yeah.
+
+#### ARCHIE
+
+Ohh.
+
+#### MARA
+
+One of them cagoules.
+
+#### ARCHIE
+
+Cagoule, okay. Well, th-thanks!
+
+#### JONNY
+
+Which for our American listeners, I don't know what words actually translate over the pond but it's -- it's -- it's another word for an anorak.
+
+#### ALEX
+
+A perv jacket.
+
+#### JONNY
+
+Yeah, one of them.
+
+##### [LAUGHTER]
+
+#### LOWRI
+
+Emma downs her second whiskey and the lemonade and --
+
+#### JONNY
+
+Could you make me a constitution roll, please?
+
+#### LOWRI
+
+Uh oh, I've got a seven.
+
+#### FRANK
+
+The whiskey was fine but it's the lemonade, oof.
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+_[pained]_ Oh, eight.
+
+#### JONNY
+
+Yeah, I mean, Frank's right -- the whiskey? No problem, but the lemonade... it's old. It's probably been about a decade since someone's had a lemonade here, and you are feeling *remarkably* unwell. I'm probably gonna ask you to roll a d4 and lose that many hit points.
+
+#### ALEX
+
+_[whispering]_ Do what I do! Roll max!
+
+##### [DICE ROLLING]
+
+Or one, that's fine too.
+
+#### JONNY
+
+You lose a hit point.
+
+#### ALEX
+
+Lame.
+
+#### LOWRI
+
+I'm now on eleven.
+
+#### ALEX
+
+Lame.
+
+#### EMMA
+
+Come on kid, let's go see your, uh, your ex.
+
+#### JONNY
+
+See that there tall, thin, blonde woman in, like, a very, *very* sharp suit sitting in the back, sipping a tall drink. Close-cropped blonde hair, scar over one eye.
+
+#### ALEX
+
+It was Marie, right? Metagame, it was Marie, right?
+
+#### LOWRI
+
+Mm-hmm, yeah.
+
+#### ARCHIE
+
+_[hesitant]_ Uh, uh, ooh, M-Marie?
+
+#### MARIE
+
+Who's asking?
+
+#### ARCHIE
+
+Walensky and Murdoch, FBI.
+
+#### MARIE
+
+No, you ain't.
+
+#### EMMA
+
+No, you're --
+
+#### ARCHIE
+
+_[sheepish]_ That always -- that always works on TV shows.
+
+#### MARIE
+
+That badge says Duskhollow PD, I know -- I know a beat cop when I see one.
+
+#### ARCHIE
+
+I thought you just say "FBI".
+
+#### EMMA
+
+Okay, kid, I -- I've got this. Marie --
+
+#### MARIE
+
+Sure.
+
+#### EMMA
+
+That's a nice suit.
+
+#### LOWRI
+
+I flatter.
+
+#### MARIE
+
+*Thank* you. _[derisive]_ Cop!
+
+#### EMMA
+
+Yeah, sure.
+
+#### LOWRI
+
+I'm gonna sprinkle some salt on her. Does she dissolve?
+
+#### JONNY
+
+She does not.
+
+##### [MUFFLED LAUGHTER]
+
+She stares at you.
+
+#### FRANK
+
+Now try the goo!
+
+#### MARIE
+
+_[getting aggressive]_ What's this *about*, officers?
+
+#### LOWRI
+
+_[overlapping]_ Frank, the goo doesn't show anything!
+
+#### EMMA
+
+Does the name Geoffrey Mariner mean anything to you?
+
+#### MARIE
+
+No.
+
+#### ARCHIE
+
+Well, that's that case closed! Sorry for disturbing you, I'll --
+
+#### JONNY
+
+Make me a Flashlights roll.
+
+#### LOWRI
+
+Okay.
+
+#### ALEX
+
+Both of us?
+
+#### JONNY
+
+Mmm, no. Not you.
+
+#### ALEX
+
+Okay, good. Good.
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+One.
+
+#### ALEX
+
+Yeessss!
+
+#### LOWRI
+
+Okay, so down to a d4.
+
+#### JONNY
+
+You notice that her -- the cuffs of her white shirt, under her very sharp suit, have some pretty clear dried blood on them.
+
+#### LOWRI
+
+Mmm.
+
+#### JONNY
+
+You notice that. She notices you noticing. She leaps up and makes a run for it.
+
+#### ALEX
+
+_[overlapping]_ I try and tackle her!
+
+#### FRANK
+
+_[overlapping]_ Oh no!
+
+#### JONNY
+
+'Kay, make me a... let's have -- let's have a strength check.
+
+#### ALEX
+
+_[overlapping]_ Just like cricket back at school.
+
+##### [LOWRI LAUGHS]
+
+'Kay, so I need to roll lower than my strength for this one, don't I?
+
+#### JONNY
+
+Yes, you do.
+
+#### ALEX
+
+Come on lucky zero! On a d20. Alright. And it is on a d20, yeah?
+
+#### JONNY
+
+Yes.
+
+##### [ALEX LAUGHS WEIRDLY]
+
+##### [DICE ROLLING]
+
+#### ALEX
+
+_[loud]_ Whoa!
+
+#### SASHA
+
+Heeyyy!
+
+#### ALEX
+
+Whoa, my strength is a nine and I got a four!
+
+#### JONNY
+
+Yeah, no you -- you're like, you take her down, like she's tall but she's, like -- like a bundle of twigs, she just goes down.
+
+#### MARIE
+
+Hey, get off me! Get off me!
+
+#### EMMA
+
+Nice work, kid!
+
+#### ARCHIE
+
+Now I want a cigarette! Gimme a cigarette. I want a cigarette, give me a cigarette.
+
+#### MARIE
+
+S-sure, o-okay, okay, okay!
+
+##### [LAUGHTER]
+
+#### ARCHIE
+
+_[weirdly aggressive]_ A cigarette, give me a cigarette!
+
+#### JONNY
+
+She'll reach into her --
+
+#### ARCHIE
+
+Give me a cig!
+
+#### JONNY
+
+-- into her jacket and hand you a Marlboro Red.
+
+#### ARCHIE
+
+Haaah! _[faintly disturbing sounds of triumph]_ I'm arresting you for possession of Marlboro Red!
+
+#### JONNY
+
+Are you? Are you saying those words?
+
+#### ALEX
+
+I think I'm gonna have to, yeah, 'cause I'm the rookie and that's how I roll.
+
+#### JONNY
+
+Okay, uh...
+
+#### EMMA
+
+Yes, kid, feel it, outside the box!
+
+#### JONNY
+
+The bar goes quiet. And the door opens. And in walks, a judge. Flanked by some officials from the town.
+
+#### ARCHIE
+
+Oh, this is so convenient!
+
+##### [LAUGHTER]
+
+#### JONNY
+
+The judge walks over. He's tall, he's wearing his robes.
+
+#### JUDGE
+
+_[clears throat]_ Officer... Murdoch.
+
+#### ARCHIE
+
+Y-yeah?
+
+#### JUDGE
+
+You've arrested this woman?
+
+#### ARCHIE
+
+I -- I am *trying* to, but there's so much going on!
+
+#### JUDGE
+
+What are the charges?
+
+#### ARCHIE
+
+Having bloody cuffs! Having a scar! Possession of Marlboro Reds!
+
+#### JUDGE
+
+None of these are crimes, Officer.
+
+#### ARCHIE
+
+No but they are 'cause -- 'cause they're tied to the -- to the _[stutters]_ murder so that their crimes to that. _[hisses to Emma]_ Help! Me! _[normal, Alex laughing]_ Why -- Walensky -- why are you not helping me?
+
+##### [LAUGHTER]
+
+#### FRANK
+
+_[overlapping]_ Emma just looks away in contempt.
+
+##### [A LOT OF UNINTELLIGIBLE CROSSTALK]
+
+#### EMMA
+
+_[overlapping]_ You're the only person I trust.
+
+#### JUDGE
+
+None of this is sufficient evidence to convict of a crime. I hereby throw out this case, the case of Marie for possession of Marlboro Reds. A note will be passed to your captain to follow up on this.
+
+#### ARCHIE
+
+Oh. What about loitering, can we get her on loitering?
+
+#### EMMA
+
+_[overlapping]_ Okay, kid.
+
+#### JONNY
+
+The judge has already turned to and started to walk away, the officials from the Town Hall follow behind him, the door closes and just, you know, life resumes in The Last Drop.
+
+#### ARCHIE
+
+What a nice man.
+
+#### JONNY
+
+You would -- none of that is weird to you, just so you know, that is how justice works in Duskhollow. When you make an arrest, the judge turns up, determines whether or not you've correctly arrested the person --
+
+#### ALEX
+
+Naturally.
+
+#### JONNY
+
+-- if they're guilty, they're taken away.
+
+#### ALEX
+
+I need you to know --
+
+#### JONNY
+
+_[overlapping]_ If not, the chief shouts at you.
+
+#### ALEX
+
+I need you to know, at some point we need to have this as a TV series and cast Martin Freeman as the straight man who just acknowledges how weird this is and no one else ever does.
+
+#### LOWRI
+
+So can we arrest her again? Is it kind of the same rules of "if you bring someone to court once" --
+
+#### JONNY
+
+It's a real *bad* idea to antagonize the judge.
+
+#### LOWRI
+
+Mmm.
+
+#### JONNY
+
+It is --
+
+#### FRANK
+
+What if you arrest the judge?
+
+#### JONNY
+
+I mean, you've heard that somebody tried once but, you know, they don't work for Duskhollow PD anymore. And people tell -- like, if people are suspended or they lose their -- their position in the police department, they -- like, they tend to end up as the subject of the next crime.
+
+#### FRANK
+
+Hmm. That's not weird or suspicious at all.
+
+#### MARIE
+
+I didn't kill him, okay?
+
+#### EMMA
+
+And how did you know he was dead?
+
+#### MARIE
+
+I mean, he wasn't when I got there.
+
+#### ARCHIE
+
+So he wasn't there -- he wasn't dead when you got there but he was dead when you left.
+
+#### MARIE
+
+I was -- I was told: go there. I was told he'd be dead already. I was told to cut the whistle out, I was told to take the cap, and I was told to return it. But when I got there, he was still reading his stuff, he was doing his whole *dance*, I don't know what the hell. So I stood there, I had a smoke, I waited -- he didn't see me, I was outside the window -- and then he keeled over dead. So when he was dead, like I was told he was gonna be, I went in -- look, this whole job has been a hell of a lot more of a headache then it was meant to be.
+
+#### EMMA
+
+Who gave you the job?
+
+#### JONNY
+
+She's starting to convulse ever so slightly.
+
+#### EMMA
+
+Oh no. Quickly, Marie! Quickly! Who gave you the job?
+
+#### JONNY
+
+_[overlapping]_ Slight -- slight foaming of the mouth!
+
+#### ARCHIE
+
+_[overlapping]_ Stop -- stop *convulsing,* it'll make it easier to speak.
+
+#### EMMA
+
+Oh my god.
+
+#### ARCHIE
+
+Foaming isn't going to help you, you know.
+
+#### JONNY
+
+Her limbs flail, knocking the whole drink --
+
+#### EMMA
+
+Don't touch her, kid, don't touch her!
+
+#### JONNY
+
+-- onto the table, and it sort of flows around, dripping down, as she _[makes dying sound]_. *Dead*.
+
+#### FRANK
+
+That's unfortunate.
+
+#### ALEX
+
+Just to the wider bar, in general --
+
+#### ARCHIE
+
+Does anyone know what happens now?
+
+##### [LAUGHTER]
+
+#### JONNY
+
+Uh, Mara will --
+
+#### ARCHIE
+
+_[overlapping]_ Normally they're dead when I turn up.
+
+#### JONNY
+
+Mara will lean over --
+
+#### MARA
+
+I mean, usually the ambulance comes, I don't know, 'bout half an hour? We usually just walk around until then.
+
+#### ARCHIE
+
+I mean, okay. Can I touch -- no, that sounds terrible. Can I search the body?
+
+#### EMMA
+
+Just be careful, don't touch the froth, okay? That's how you get contaminated, okay?
+
+#### ARCHIE
+
+Okay?
+
+#### JONNY
+
+It looks like she's been poisoned.
+
+#### ALEX
+
+Hmm.
+
+#### SASHA
+
+Oh no, the stew!
+
+#### ALEX
+
+I proceed to search the now-corpse -- fresh corpse, without touching the skin, maybe using napkins and taking far longer than it really needs to.
+
+#### JONNY
+
+Sure. There is a note with a time. The time was about 10 minutes ago and the place was The Last Drop. There is a matchbook for The Last Drop, pack of Marlboro Red cigarettes, and that's about it.
+
+#### ALEX
+
+Okay.
+
+#### JONNY
+
+She did have a bag, but the bag is now empty.
+
+#### ALEX
+
+Right.
+
+#### EMMA
+
+That's not very human behavior, is it kid? Carrying an empty bag around. _[blows out breath]_ You know.
+
+#### ARCHIE
+
+_[weirded out again]_ Yeesss. Yeesss.
+
+#### LOWRI
+
+Can we take the body to the doctor?
+
+#### ALEX
+
+_[overlapping]_ I miss Schreiber.
+
+#### JONNY
+
+Yeah, yeah, yeah, like, once the ambulance -- like, you can -- you can call it in and Doc Smiley[^3] will be there. Pretty sure they... _[trails off]_. So, yeah. Frank, are you heading to -- are you calling in?
+
+[^3]: Pretty sure Jonny got the name of his own NPC wrong here.
+
+##### [SFX: RAIN, BIRDS CHIRPING]
+
+#### FRANK
+
+Yes.
+
+#### JONNY
+
+The findings of the autopsy are ready.
+
+#### FRANK
+
+Guess I'll come back to the coroner's office and...
+
+#### JONNY
+
+Okay, Sasha, are you going with Husselbeck are you following a different lead?
+
+#### SASHA
+
+I'm following a different lead, so I'm actually gonna go and see Geoffrey Mariner's lawyer. Because, you know, in nine cases out of ten, a murder's done by the spouse. In those other cases where it's not the spouse, nine times out of ten it's the person who found the body. And in the other cases, nine times out of ten, it's -- it's to do with the will. So I'm -- and those are -- those are --
+
+#### FRANK
+
+_[overlapping]_ Sixty percent of the time I'm right every time.
+
+#### SASHA
+
+Those are the three kinds of murder. It's the spouse, it's the person who found the body, it's the person who benefits in the will. Three kinds of murder, so I'm gonna go see who was named in the will because if it's the housekeeper, I mean, case closed.
+
+#### ALEX
+
+So, *all* other crime is nought point one percent of the time?
+
+#### SASHA
+
+Yeah.
+
+#### ALEX
+
+Okay, cool.
+
+#### JONNY
+
+Geoffrey Mariner does not have a will.
+
+#### FRANK
+
+Or all other murders.
+
+##### [SASHA GASPS]
+
+#### SASHA
+
+_[shocked]_ He does not have a lawyer?
+
+#### JONNY
+
+No, he was quite young, he doesn't have a will yet.
+
+#### SASHA
+
+He doesn't have a will, okay, well, who is his next of kin?
+
+#### JONNY
+
+Parents.
+
+#### SASHA
+
+His parents, hmm. Hmm! And they're conveniently out of the country, right, that's it, I'm tracking them down.
+
+##### [LAUGHTER]
+
+In fact, housekeeper will know. Back to -- back to Nellie.
+
+#### JONNY
+
+Sure.
+
+#### HOUSEKEEPER
+
+Yeah, w-what can I do for you?
+
+#### GABRIELLE
+
+Alright, so you mentioned that, Mr. Mariner's parents are out of the town -- out of town? As it were.
+
+#### HOUSEKEEPER
+
+Yes, I think they're in Milan, at the moment.
+
+#### GABRIELLE
+
+Okay, I see, and how long have they been there?
+
+#### HOUSEKEEPER
+
+I don't know. A few weeks, maybe?
+
+#### GABRIELLE
+
+Do they also live here, at this address?
+
+#### HOUSEKEEPER
+
+Not often.
+
+#### GABRIELLE
+
+What do you mean "not often"?
+
+#### HOUSEKEEPER
+
+I mean, they're not often in town.
+
+#### GABRIELLE
+
+_[overlapping]_ _[aggressive]_ It's a yes or a no question, do they live here or not?
+
+#### HOUSEKEEPER
+
+Sometimes.
+
+##### [A FEW PEOPLE SNORT]
+
+They're rich. Rich people live all over the place.
+
+#### GABRIELLE
+
+So this is one of their legal abodes.
+
+#### HOUSEKEEPER
+
+Yes.
+
+#### GABRIELLE
+
+Okay. And did Geoffrey Mariner have any money of his own?
+
+#### HOUSEKEEPER
+
+Uh, not really, just the allowance he was given. Which was a lot, like, he was -- he was -- I mean, he was also rich, but...
+
+#### GABRIELLE
+
+Okay.
+
+#### JONNY
+
+Back at the police station --
+
+#### FRANK
+
+Yes.
+
+#### JONNY
+
+Doctor -- Doctor Smilton is there. Over the corpse, looking very pleased with himself.
+
+#### ALEX
+
+Which corpse? We have two now.
+
+#### JONNY
+
+Uh, you guys -- yeah, you guys can come in. He'll take one look at the body that you guys have brought in --
+
+#### DOCTOR SMILTON
+
+Oh. Poisoning. _[sniffing]_ Something in our drink, I think. Hmm, yes, probably a murder. Anyway, this body, though, is *fascinating*.
+
+#### CARL
+
+Is it?
+
+#### DOCTOR SMILTON
+
+Yes, so obviously the cut marks on the chest: _[derisive]_ amateur stuff. Dreadfully done. I mean I'm not even sure how sharp the knife was, but! Strange thing is, the heart? Completely gone. But completely gone so neatly. As if it just stopped being there at all.
+
+#### ARCHIE
+
+Were there any, like, whistle-shaped holes in the middle of the chest?
+
+#### DOCTOR SMILTON
+
+What a fascinating question. Yes. What there was, where the heart should be, in the muscle around it, there was a burn mark in the shape of -- well, it was a cylindrical shape. I hadn't really thought what it might be, but now you say a whistle -- yes, it was just in the shape of an old whistle. And you can see here --
+
+#### JONNY
+
+He just wrenches up a bit of skin and points --
+
+#### DOCTOR SMILTON
+
+You see these little markings here? Numbers. I think numbers etched into -- what-whatever was within where the heart should be, burned into the flesh. _[manic]_ Isn't this fascinating?
+
+#### ARCHIE
+
+Can -- can we take a rubbing?
+
+#### DOCTOR SMILTON
+
+Oh, I already did! Here you go.
+
+#### CARL
+
+_[incredulous]_ Of the flesh?
+
+#### ARCHIE
+
+Yes, rub the corpse!
+
+#### JONNY
+
+He hands you a very, like, gooey piece of paper.
+
+#### ARCHIE
+
+Ah jeez!
+
+#### JONNY
+
+The numbers --
+
+#### FRANK
+
+Just a gooey kind of day.
+
+#### JONNY
+
+The numbers 9F-92251.
+
+#### ALEX
+
+With my expertise in engineering and, on the off-chance, library use -- although that's not a Dewey decimal, I don't believe -- does this ring any bells?
+
+#### FRANK
+
+_[overlapping]_ Well, there's no decimals.
+
+#### JONNY
+
+Well, I mean --
+
+#### SASHA
+
+_[overlapping]_ Or Deweys.
+
+#### JONNY
+
+_[continuing]_ -- might be a train designation?
+
+#### ALEX
+
+Cool.
+
+#### JONNY
+
+Given the -- given what else you've seen.
+
+#### CHIEF
+
+_[loud, gruff]_ Husselbeck, get in here!
+
+#### JONNY
+
+You can hear the chief shouting --
+
+#### CARL
+
+What have you done?
+
+#### JONNY
+
+_[continuing]_ -- all the way down...
+
+#### ARCHIE
+
+_[overlapping]_ What, me? No that's not my surname, I checked. That's your surname.
+
+#### CARL
+
+If this is something you've done, rookie...
+
+#### ARCHIE
+
+It can't have been something I've done. I'm still wearing most of the mistakes I've made today.
+
+##### [LAUGHTER]
+
+I could just hand them back if someone asks.
+
+#### JONNY
+
+The chief is sitting in his office, chewing a cigar. If a mountain could be really pissed off with how you're handling this case, that is the chief. His moustache is bristling, which is always, always a bad sign.
+
+#### CHIEF
+
+Husselbeck, what the hell are you doing with this case?
+
+#### CARL
+
+Pardon?
+
+#### CHIEF
+
+_[aggressive]_ I got City Hall breathing down my neck, wasting the judge's time on some trumped-up charge about cigarettes. Not only that, that corpse? Full of salt!
+
+##### [LAUGHTER]
+
+Why was it full of salt, Husselbeck? And I'm being told one of your detectives is trying to hassle the Mariners? Rich people, rich people who are very important in this town and are doing their own thing and one of your detectives is bothering them, when they're doing whatever important rich people things that they are doing. Does this sound like your case should have been handled like this, and why you covered in blood? Have you shot a perp?
+
+#### CARL
+
+I was investigating a murder.
+
+#### CHIEF
+
+Alright, I'll give you that one. _[pauses]_ I'm not happy with you, Husselbeck. Now explain what's going on with this case, this is a big case and I've got City Hall breathing down my neck!
+
+#### LOWRI
+
+Can we hear this?
+
+#### JONNY
+
+Yes.
+
+#### ARCHIE
+
+Walensky, I think you're in so much trouble.
+
+#### EMMA
+
+_[overlapping]_ Me?
+
+#### JONNY
+
+Like -- like when the chief is -- when the chief is expressing his opinion about the handling of a case, all the crockery and the mugs just in this -- it's just, they just vibrate ever so slightly.
+
+#### CHIEF
+
+What do you have to say for yourself, Husselbeck?
+
+#### CARL
+
+Geoffrey Mariner.
+
+#### CHIEF
+
+Mm-hmm.
+
+#### CARL
+
+As you know, sir, he was found dead, earlier today.
+
+#### CHIEF
+
+Yeah, I'm familiar with the case.
+
+#### CARL
+
+Yeah.
+
+#### JONNY
+
+He *throws* down the case file.
+
+#### CARL
+
+Well, I'm just reminding you of the importance of the victim, because there's just a lot of leads. To track down.
+
+#### CHIEF
+
+Okay, well, when's it gonna be solved? I need results, Husselbeck.
+
+#### CARL
+
+Well, that's why there's been such a mess. Rich man like that makes a lot of enemies, we've just got to shake things up to --
+
+#### CHIEF
+
+Really, 'cause according to this file he had no known enemies.
+
+#### CARL
+
+He's rich. Everyone's his enemy. Everyone wants to be rich in this town.
+
+#### CHIEF
+
+Hmmm. So how close are you to solving it?
+
+#### CARL
+
+Well, I'm looking at the coroner's report now, sir, and I would say... we're really --
+
+#### CHIEF
+
+You got 24 hours, Husselbeck!
+
+#### CARL
+
+Yes, that's what I expected.
+
+##### [LAUGHTER]
+
+#### CHIEF
+
+Twenty-four hours or you're off the case and you're off this force.
+
+#### CARL
+
+Okay, sir.
+
+#### CHIEF
+
+Now get out of my office!
+
+#### CARL
+
+_[quiet]_ Yeah.
+
+#### JONNY
+
+You can have your flashlights back now.
+
+#### FRANK
+
+Nice. It's just the standard meeting with the chief, yeah?
+
+#### JONNY
+
+Yeah. Yeah, very, like -- pretty... it went quite well?
+
+#### CARL
+
+Yeah, no, I feel like I've had this enough to know how to massage his ego a bit.
+
+#### ALEX
+
+Can I choose not to ever get my flashlights back so I don't have to have that conversation? _[laughs nervously]_ Can I just accept being incompetent at my job, please?
+
+#### JONNY
+
+So, on that gruff, shouty note, probably going to call the second episode to a close.
+
+#### ALEX
+
+_[whispering]_ Found a legitimate clue, guys! Legitimate clue.
+
+#### LOWRI
+
+I am very excited --
+
+#### FRANK
+
+_[overlapping]_ Yeah, but then she died.
+
+#### LOWRI
+
+Oh.
+
+#### SASHA
+
+I've got a legitimate clue. I've not been following it, but I might later!
+
+#### LOWRI
+
+I've got a clue that I... don't think is legitimate!
+
+#### JONNY
+
+_[overlapping]_ So --
+
+#### SASHA
+
+So *maybe* this is in the nought point one percent of crimes, but...
+
+#### JONNY
+
+The dramatic conclusion to this adventure of Duskhollow PD will be coming in, I believe, two weeks.
+
+#### ALEX
+
+That sounds about right to me.
+
+#### JONNY
+
+Okay, so we will see you then.
+
+#### ALL
+
+Bye!

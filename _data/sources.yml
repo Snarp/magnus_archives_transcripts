@@ -41,6 +41,18 @@
     path: '/special/1003-lucid.html'
     url: mailto:delightedmuse@posteo.net
 
+- name: 'mileaftermile.tumblr.com'
+  url: http://mileaftermile.tumblr.com/
+  episodes: 
+  - number: 160.06
+    title: MAG Duskhollow PD - Part 1
+    path: '/special/16006-duskhollowpd-part1.html'
+    url: https://docs.google.com/document/d/1rUzNV4hKN1m9ZGHmGCJQg8jlXpl5-tGkonhxxWZddlY/edit
+  - number: 160.07
+    title: MAG Duskhollow PD - Part 2
+    path: '/special/16007-duskhollowpd-part2.html'
+    url: https://docs.google.com/document/d/1A56AB_1xggwqM6TU906vPJV1xyD-S5X_ac0FKMzSqIg/edit
+
 - name: 'prentissed.tumblr.com'
   url: http://prentissed.tumblr.com/
   episodes: 

@@ -13,7 +13,7 @@ acast_url:       https://play.acast.com/s/themagnusarchives/magduskhollowpd-part
 formats: 
   Google Doc: https://docs.google.com/document/d/1A56AB_1xggwqM6TU906vPJV1xyD-S5X_ac0FKMzSqIg/edit
 official:        false
-unofficial:      http://mileaftermile.tumblr.com/
+unofficial:      https://tmblr.co/m68FmGKUY6bSy__wx9P5iEA
 unofficial_name: mileaftermile.tumblr.com
 wiki_url:        
 ---

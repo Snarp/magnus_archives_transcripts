@@ -2,2012 +2,3168 @@
 layout:          post
 title:           "MAG160.08 - MAG Duskhollow PD - Part 3"
 date:            2020-02-20 11:00:00 -0400
-categories:      incomplete
+categories:      special
 tags:            []
-voiced:          []
+voiced:          [Jonny Sims, Frank Voss, Lowri Ann Davies, Alexander Newell, Sasha Sienna]
 episode_title:   'MAG Duskhollow PD - Part 3'
 episode_number:  '160.08'
 summary:         "It's the finale of our Duskhollow PD special and our team has 24 hours to crack the case! <br/><br/>Archie's investigations begin at the library, Emma is a proud mentor, Gabrielle Schreiber goes for coffee and Detective Sergeant Carl Husselback is questioning his life choices."
 content_flags:   []
 acast_url:       https://play.acast.com/s/themagnusarchives/magduskhollowpd-part3
 formats:         
+  Google Doc: https://docs.google.com/document/d/1v8n1OapJ454uXAVev0mkNHhis1HWOtrTA6oeHaMZ6qg/edit
 official:        false
-unofficial:      http://www.youtube.com/
-unofficial_name: YouTube CC
-unfinished:      true
+unofficial:      https://tmblr.co/m68FmGKUY6bSy__wx9P5iEA
+unofficial_name: mileaftermile.tumblr.com
 wiki_url:        
 ---
 
-hi everyone Alex here I just like to
+#### JONNY
 
-take a moment to thank some of our
+Hello! For the third and final installment of Duskhollow PD. I'm Jonny from The Magnus Archives, you probably know that.
 
-patrons links and Blom cinder
+#### ALEX
 
-sorry ad retro seamstress Nick Miko late
+If you're on this feed, you -- you really should --
 
-Tasha M shark III Alex K Brienne a
+#### JONNY
 
-Ashlee chair today
+_[overlapping]_ Yeah, like... it's --
 
-Amelia Williamson Katherine white Ames
+#### ALEX
 
-me Hannah LaPlante see Brit and Astrid
+_[continuing]_ -- you picked the worst possible episode imaginable to start on otherwise.
 
-juicy sushi Farren Dean Winchester
+#### JONNY
 
-Jessica Wells Molly W thank you all
+Yeah, also, if this is your first episode of anything in this feed, *stop*. Go back to episode 1 of The Magnus Archives. If you just want to know what is going on here, go back two episodes, 'cause this is part three and it will be *very* confusing for you. I am here with some other people!
 
-we really appreciate your support if
+#### LOWRI
 
-you'd like to join them go to
+I'm Lowri and I produce The Magnus Archives and I am playing Emma Walensky.
 
-www.petland.com
+#### JONNY
 
-[Music]
+Oh, yes, sorry, this is a role-playing game.
 
-hello for the third and final
+##### [LAUGHTER]
 
-installment of dust Colo PD I'm Johnny
+Actual play, roleplay podcast, where everyone is a policeman in a *weird* town. _[whispers]_ Investigating a murder. _[loud]_ A weird murder!
 
-from the Magnus archives you probably
+#### LOWRI
 
-know that if you're on this feed so if
+_[high-pitched]_ Murder!
 
-this is your first episode of anything
+#### ALEX
 
-in this feet stop go back to episode 1
+And one of those investigators is -- is me, I'm Alex Newall, I play Martin in the podcast and I am playing today Archie Murdoch, the person with an accent that I kind of change based on the circumstances, who seems to be doing well.
 
-of the Magnus archives if you just want
+#### SASHA
 
-to know what is going on here go back to
+You're still young, you know, you -- your voice is still kind of finding itself.
 
-episodes because this is part 3 and it
+#### FRANK
 
-will be very confusing for you I am here
+_[overlapping]_ You've got time to find yourself.
 
-with some other people
+#### JONNY
 
-I'm Laurie and I produce the Magnus
+Who are those other voices we haven't been introduced to?
 
-archives and I am playing Emma will ends
+#### FRANK
 
-oh yes sorry this is a role-playing game
+_[overlapping]_ Oh, you don't want to know.
 
-roleplay podcast where everyone is a
+#### SASHA
 
-policeman in a weird town investigating
+_[overlapping]_ I'm sorry, how rude --
 
-a murder
+##### [LAUGHTER]
 
-Oh weird murder and all those
+#### JONNY
 
-investigators is me I'm action you all I
+_[overlapping]_ Oh, no, no, not at the same time now, one of you -- one at a time, please.
 
-play mine in the podcast and I am
+##### [BEAT OF SILENCE]
 
-playing today
+#### ALEX
 
-Archie Murdoch the person with an accent
+Now neither of you speak, that's how this works.
 
-that I kind of change based on the
+#### SASHA
 
-circumstances who seems to be doing well
+I'm sorry, how rude, I'm Sasha, I play Georgie on The Magnus Archives and today I play Gabrielle Schreiber, a very skeptical detective who's following leads whether they are present or not!
 
-you're still young you know you you who
+##### [LAUGHTER]
 
-are those other voices we haven't been
+#### JONNY
 
-introduced to now neither of you speak
+And finally...
 
-that's how this works I'm sorry how rude
+#### FRANK
 
-I'm Sasha
+I am Frank, I play Basira in The Magnus Archives and today I am playing Detective Carl Husselback, who's... I mean, largely his role right now is just be covered in blood.
 
-I play Georgie on the Magnus archives
+#### JONNY
 
-and today I play Gabrielle Schreiber a
+I mean, yeah, it's probably not going to change.
 
-very skeptical detective who's following
+#### FRANK
 
-leads whether they are present or not
+No.
 
-and finally I am Frank I play basura in
+#### ALEX
 
-the Magnus archives and today i am
+We thought -- we thought we'd shake things up by having you play some kind of police- oh, wait.
 
-playing detective car hustle bet who's I
+#### FRANK
 
-mean largely his role right now is just
+So outside my comfort zone.
 
-be covered in blood I mean yeah it's
+#### JONNY
 
-probably not going to change no we
+So. When last we left our... _[dubious]_ heroes?
 
-thought we'd you thought we'd shake
+#### LOWRI
 
-things up by having you play some kind
+Absolutely.
 
-of police oh wait
+#### SASHA
 
-so outside my comfort so when last we
+Protagonists.
 
-left our heroes competent you had found
+#### JONNY
 
-some clues about a body that involved
+_[overlapping]_ Protagonists.
 
-some trains question mark and then you
+#### ALEX
 
-did some very embarrassing things that
+_[overlapping]_ I think Schreiber could be competent.
 
-have the chief yelling at your sergeant
+#### JONNY
 
-but importantly not us no and as long as
+You had found some clues about a body that involved some trains, question mark. And then you did some very embarrassing things that had the chief yelling at your sergeant.
 
-as long as the sergeant isn't one of
+#### ALEX
 
-those bosses that passes their
+But importantly -- not us.
 
-irritation and displeasure down the line
+#### JONNY
 
-you should be fine I mean I'm sure being
+No, no. And as long as the sergeant isn't one of those bosses that passes their irritation and displeasure down the line, you should be fine.
 
-at the very very bottom rung means that
+##### [SFX: OFFICE NOISES, TYPEWRITERS]
 
-the problems are never going to reach me
+#### ALEX
 
-I'm sure he's given you 24 hours to
+I mean, I'm sure being at the very, very bottom rung means that the problems are never going to reach me, I'm sure.
 
-crack the case that's what you're gonna
+#### JONNY
 
-do so I'm seeing here that we've got it
+He's given you twenty-four hours to crack the case. _[lowers voice]_ So, what are you gonna do?
 
-we've got a code right we've got a
+#### ARCHIE
 
-whistle so is this what they mean when
+So I'm seeing here that we've got -- we've got a code, right. And we've got a whistle, so is this what they mean when they -- like it's -- like a whistleblower? Is this -- is that what we're dealing with here?
 
-they said like it's like a whistle
+#### EMMA
 
-blower is this is that what we're
+Kid, it -- it really could be.
 
-dealing with here kitty you really could
+#### LOWRI
 
-be I'm gonna take that coat and I'm
+I'm gonna take that code and I'm gonna cross-reference it with my --
 
-gonna cross-reference it with my
+#### CHIEF
 
-walenski you're in so much trouble
+_[shouting, distant]_ Husselback! Is one of your detectives doing wordplay? I *hate* wordplay! You got twenty hours!
 
-Judy rose off my back graveyard shift
+#### ARCHIE
 
-off of this case is over all I hate the
+Oh my god, Walensky --
 
-graveyard shift is wet and damp and
+#### CARL
 
-lonely little to none it is like the
+_[overlapping]_ Thanks, rookie.
 
-dust collar graveyard is interesting all
+#### ARCHIE
 
-the graves are very old
+_[continuing]_ Walensky, you're in so much trouble.
 
-no one ever actually seems to be buried
+#### EMMA
 
-there there are sometimes you'll see
+Kid, it rolls off my back.
 
-burial parties but they always look
+#### CARL
 
-basically like the same people clustered
+You're on graveyard shift after this. When this case is over.
 
-around a grave there's no church there
+#### ARCHIE
 
-aren't any churches of any religion in
+Oh, I hate the graveyard shift, it's wet and damp and lonely. Little tombs on the... _[trails off]_.
 
-dust kalo there is a gravedigger but you
+#### JONNY
 
-know he's he just keeps to himself
+It is. Like, the Duskhollow graveyard is interesting. All the graves are very old. No one ever actually seems to be buried there, there are -- sometimes you'll see burial parties, but they always look basically like the same people clustered around a grave. There's no church, there aren't any churches of any religion in Duskhollow. There is a gravedigger but, you know, he just keeps to himself mostly.
 
-mostly
+#### FRANK
 
-you got tenure and just hasn't been
+_[overlapping]_ He's just some guy.
 
-doing job since pretty much I'm gonna be
+#### ALEX
 
-looking for codes in the time tables
+He got tenure and just hasn't been doing the job since.
 
-using this code or the number that we
+#### JONNY
 
-got from the inside of the dead man's
+Pretty much.
 
-nine out of nine to two five one you
+#### LOWRI
 
-mean - no - Jeff oh yeah so there are
+I'm gonna be looking for codes in the timetables, using this code or the number that we got from the inside of the dead man's body.
 
-quite a lot of there quatl of 9f codes
+#### ALEX
 
-but they none of them go any higher than
+9F92251, you mean.
 
-9f
+#### LOWRI
 
-9 - 2 5 0 this is very interesting so I
+_[overlapping]_ That exact one.
 
-have a hunch yes go with a kit and so
+#### ALEX
 
-I'm gonna go to the library but can I
+Sorry, 9F-92251.
 
-have some salt first please Emma looks
+#### LOWRI
 
-so proud running out of salt
+Yeah.
 
-I don't transfer coming home I look at
+#### JONNY
 
-you dead in the eye I'm so proud of you
+So there are quite a lot of -- there are quite a lot of 9F codes, but they -- none of them go any higher than 9F-92250.
 
-I hand in my salt shaker oh yeah oh yeah
+##### [VARIOUS PEOPLE "HMM"]
 
-I knew you had a new kid hold it like
+#### LOWRI
 
-it's a live grenade and slowly walk out
+_[whispers]_ This is very interesting.
 
-towards the library holding this with
+#### ARCHIE
 
-both okay you're leaving yourself
+So, I have a hunch...
 
-without salt look I think he needs it
+#### EMMA
 
-more than I do I when you taught him
+Yes, go with it, kid.
 
-about the salt Julian's there are other
+#### ARCHIE
 
-ways to find aliens okay what about
+So I'm gonna go to the library, but can I have some salt first, please?
 
-hustle back and free Bert what are you
+#### LOWRI
 
-up to well so far I have been you know
+Emma looks so proud of you.
 
-hassling the Mariners but I think I've
+#### JONNY
 
-been the same leads real bad and doing
+_[overlapping slightly]_ You're running out of salt.
 
-great work so it's definitely time for
+#### FRANK
 
-me to reward myself with a coffee mm-hmm
+I hate this department.
 
-I do have this receipt from Whiteley's &
+##### [LAUGHTER]
 
-Sons books and curios and it is right
+#### LOWRI
 
-next to my favorite coffee place so I
+I look you --
 
-guess I'll swing by well in there you go
+#### JONNY
 
-with Frank or are you doing your own
+_[overlapping]_ How's your transfer coming, Husselback?
 
-thing
+#### FRANK
 
-following a maverick course yeah I
+Keeps getting rejected.
 
-haven't made any notes so I'm just gonna
+#### LOWRI
 
-follow tree burn okay fair enough we
+I look Archie dead in the eye --
 
-will start let's not equate leads okay
+#### EMMA
 
-wait lien sounds books and curios is old
+I am so proud of you.
 
-if you can imagine like a Victorian
+#### LOWRI
 
-Curiosity Shop dropped into a noir high
+And I hand him my salt shaker. All of it.
 
-streets that's what it is
+#### ARCHIE
 
-the window is full of rare tones strange
+_[overlapping]_ _[shocked]_ Full up?
 
-little antiques there is a stuffed tiger
+#### EMMA
 
-a little cuddly tiger those looks at you
+Yeah. Yeah, I knew you had it in you, kid.
 
-it's actually pretty cute you know I
+#### ALEX
 
-said it a bit like it was creepy but
+I hold it like it's a live grenade and slowly walk out towards the library, holding this with both hands!
 
-it's not actually he's just a cuddly toy
+#### JONNY
 
-the bell rings as you push the door open
+Okay.
 
-thank you very much angles and like
+#### SASHA
 
-Charest oh very much so very much so
+You're leaving yourself without salt.
 
-there's like there aren't enough lamps
+#### LOWRI
 
-in here and everything has quite stark
+Look, I think he needs it more than I do, I only taught him about the salt showing the aliens, there are other ways to find the aliens.
 
-shadows this is either Chinatown kid or
+#### SASHA
 
-is the owner is Helena bonham-carter
+_[overlapping]_ Okay, okay.
 
-I can't decide wage but it's gonna be
+#### JONNY
 
-one of them okay so is anybody come out
+Okay. What about Husselback and Schreiber, what are you up to?
 
-when the bell rings not immediately no
+#### SASHA
 
-you can't see the desk it's it's sort of
+Well, so far I have been, you know, hassling the Mariners, but I think I've been --
 
-behind various piles of old books and
+#### JONNY
 
-and an old grand piano that is covered
+Following the same lead over and over again to see if anything new falls out?
 
-in books
+##### [ALEX LAUGHS]
 
-well I will kind of wander around making
+#### SASHA
 
-sure that my footsteps are falling in a
+Yeah, yeah. What -- I've been working real hard and doing great work so it's definitely time for me to reward myself with a coffee.
 
-very policie way you know okay as you
+##### [SFX: OUTSIDE, RAIN, SOUNDS OF A CAR ENGINE]
 
-round a corner in the books
+#### JONNY
 
-a man is there he's middling height but
+Mm-hmm.
 
-very stooped just a very long face goes
+#### SASHA
 
-down quite a way with little small round
+I do have this receipt from Whateley & Sons Books And Curios and it is right next to my favorite coffee place, so I guess I'll swing by while I'm there, but I don't expect to find anything.
 
-spectacles
+#### JONNY
 
-hello mr. Whalley and that's me useless
+_[overlapping slightly]_ Are you going with -- are you going with Frank? Or are you doing your own thing, following a maverick course.
 
-Wheatley what can I do for you what sort
+#### FRANK
 
-of delights can i purvey to you this day
+Yeah, I haven't made any notes so I'm just gonna follow Schreiber.
 
-I'm afraid we're actually here about
+#### JONNY
 
-some previously purveyor delights oh
+Okay, fair enough. We will start... let's start at Whateley's.
 
-dear
+#### SASHA
 
-nobody's come to a horrible end are they
+Okay.
 
-it's rather suspicious that you should
+#### JONNY
 
-say that can I ask what led you to that
+Whateley & Sons Books And Curios is old. If you can imagine like a Victorian curiosity shop dropped into a noir high street, that's what it is. The window is full of rare tomes, strange little antiques. There is a stuffed tiger, a little cuddly tiger that just looks at you. It's actually pretty cute, you know, I said it a bit like it was creepy but it's not actually creepy, it's just -- just a cuddly toy. The bell rings as you push the door open.
 
-conclusion
+##### [DOOR OPENS, BELL RINGS]
 
-it's just asking questions we'll ask the
+##### [RAIN, OUTSIDE SOUNDS FADE OUT]
 
-question is press my idle curiosity
+#### ALEX
 
-about the horrible deaths now might be
+I'm thinking very Dutch angles and like chiaroscuro in here...
 
-associated with things he's not unless a
+#### JONNY
 
-man plans to give more information more
+Oh, very much so, very much so, there's like -- there aren't enough lamps in here and everything has quite stark shadows.
 
-context I mean what is this about also
+#### ALEX
 
-who are you are you buying anything
+This is either Chinatown kid or is -- the owner is Helena Bonham-Carter. I can't decide which but it's gonna be one of them.
 
-detective Schreiber oh the police
+#### FRANK
 
-detectives yes I'm so dreadfully sorry
+_[overlapping]_ Why not both?
 
-how very rude of me I always do my best
+#### ALEX
 
-to cooperate fully with the police you
+Ah, fair point.
 
-made a sale a little while ago there was
+#### SASHA
 
-a
+Okay, so is anybody come out when the bell rings, or --
 
-conductors hat No Deal and a timetable
+#### JONNY
 
-here's a trend comer old not to be
+Not immediately, no. You can't see the desk, it's -- it's sort of behind various piles of old books and -- and an old grand piano, that is covered in books.
 
-confused with comic ancient or kama
+#### SASHA
 
-undated or kama you sure I sell a lot of
+Okay. Well, I will kind of wander around, making sure that my footsteps are falling in a very police-y way, you know.
 
-interesting things well this isn't an
+#### JONNY
 
-advert you're not on the radio would you
+Okay. As you round a corner in the books, a man is there. He's middling height but *very* stooped. Just a very long face goes down quite a way with little small round spectacles.
 
-care to tell us about those particular
+#### WHATELEY
 
-items were they have any interest could
+Hello.
 
-you please make me a smokes roll I feel
+#### GABRIELLE
 
-like these have gone a bit too well for
+Mr. Whateley?
 
-me so far okay yes cost of course I can
+#### WHATELEY
 
-please come this way
+That's me, Eustace Whateley, what can I do for you, what sort of delights can I purvey to you this day?
 
-detectives he walks back round to the
+#### GABRIELLE
 
-other side of the desk pulls out a huge
+I'm afraid we're actually here about some previously purveyed delights.
 
-old accountable it starts [ __ ] throat
+#### WHATELEY
 
-now let me see various volumes sold for
+Oh. Oh, dear. Nobody's come to a horrible end, have they?
 
-thirty pounds no an old tandoor bird
+#### GABRIELLE
 
-sold for 200 pounds no could you please
+It's rather suspicious that you should say that, can I ask what led you to that conclusion?
 
-make me a wisdom test against yes that's
+#### WHATELEY
 
-a 10 under 13 okay yeah you're so she
+I was just asking questions.
 
-already so yeah you could like you you
+#### GABRIELLE
 
-know that he's just stalling I'm gonna
+We'll ask the questions here.
 
-wander around while he just takes his
+#### WHATELEY
 
-time so much time going through these
+_[overlapping]_ Can a man not express some idle curiosity about the horrible deaths --
 
-records an old tobacco box comma old 15
+#### CARL
 
-pound no
+_[overlapping]_ No.
 
-oh sorry of course here we are
+#### WHATELEY
 
-detectives
+_[continuing]_ -- that might be associated with things he has sold them?
 
-you have intimidation I believe as an
+#### CARL
 
-expertise could you've only smokes as
+Not unless a man plans to give more information, more context?
 
-well actually you get advantage for
+##### [MUFFLED LAUGHTER IN THE BACKGROUND]
 
-being covered in actual blood no I'm
+#### WHATELEY
 
-surprisingly after that anything is
+I mean, what is this about? Also, who are you? Are you buying anything?
 
-detracting seven makes it feel like oh
+#### CARL
 
-here we are
+_[overlapping]_ Probably not.
 
-of course detectives train conductors
+#### GABRIELLE
 
-cap comma old fifty pounds
+Detective Schreiber --
 
-mm-hmm train timetable come on old
+#### WHATELEY
 
-40-pound sold to a mrs. Angela grokken
+Oh, the police! Detectives, yes, I'm so dreadfully sorry, how very rude of me. I always do my best to cooperate fully with the police.
 
-two days ago now she was after train
+#### GABRIELLE
 
-memorabilia
+You made a sale, a little while ago. There was a conductor's hat.
 
-I believe specifically those relating to
+#### WHATELEY
 
-the British Rail standard class of train
+Oh, dear.
 
-fascinating fascinating business really
+#### GABRIELLE
 
-I mentioned Oh Kate these for her and
+And a timetable, I believe.
 
-sold them along I did of course not know
+#### WHATELEY
 
-anything about any purses or arcane or
+Yes, a train timetable.
 
-eldritch properties that they may have
+#### GABRIELLE
 
-had and no such knowledge would be
+Comma "old".
 
-provable on my part you can't see it but
+#### WHATELEY
 
-I had just rolled my eyes very
+Mm, comma "old". _[chuckles]_ Not to be confused with comma "ancient". Or comma "undated".
 
-powerfully no I saw that have you sold
+#### GABRIELLE
 
-any whistles recently no though
+_[overlapping]_ Right.
 
-originally I believe there was supposed
+#### WHATELEY
 
-to be a whistle that goes along with the
+Or comma "future"? I sell a lot of interesting things.
 
-cap as a scent but whether it was ever
+#### GABRIELLE
 
-created who can say can you say I can't
+Alright, well this isn't an advert, you're not on the radio here.
 
-know whether I can like I didn't get it
+##### [LOWRI LAUGHS]
 
-I didn't find a whistle though
+Would you care to tell us about those particular items? Were they of any interest?
 
-apparently there was supposed to be one
+#### JONNY
 
-with the cap as part of the set and
+Could you please make me a Smokes roll?
 
-indeed the timetable detectives I've
+#### SASHA
 
-been in this situation enough times
+I feel like these have gone a bit too well for me so far.
 
-selling the harmless curios that I do
+##### [DICE ROLLING]
 
-that sometime
+And, there we go.
 
-may end up pivotal aspects of murder
+#### ALEX
 
-scenes who can say but I've been around
+_[overlapping]_ _[enthusiastic]_ Yay!
 
-I've done this dance enough times that
+#### SASHA
 
-it is probably a good idea for me to
+That's a one.
 
-come clean I do have a second copy of
+#### JONNY
 
-that time table I may have made myself a
+Okay.
 
-copy that I can provide to you as long
+#### WHATELEY
 
-as you remember how helpful I was to
+Yes, of course, of *course* I can. Please come this way, detectives.
 
-dust called a police department I would
+#### JONNY
 
-very much hate for anyone to think that
+He walks back 'round to the other side of the desk, pulls out a *huge* old account book, starts flicking through.
 
-I was in any way involved with covering
+#### WHATELEY
 
-up or trying to excuse any sort of
+Now, let me see, various volumes sold for thirty pounds.... No. An old hand organ sold for 200 pounds.... No.
 
-horrific crime I'm simply a humble
+#### JONNY
 
-shopkeeper yeah under you mentioned that
+Could you please make me a wisdom test against boredom?
 
-you found this cap and time table where
+##### [SASHA LAUGHS]
 
-exactly did you find it
+#### SASHA
 
-oh where does anyone buy antiques here's
+Yes, I can. That's a ten under thirteen, so, I'm okay.
 
-some dealers I'm acquainted with found
+#### JONNY
 
-them in their own auctions often estate
+Okay. Yeah, so --
 
-sales washed up on lonely beaches where
+#### ALEX
 
-do antiques come from did you have any
+You're sufficiently bored already, thank god.
 
-specific information about these
+#### SASHA
 
-particular items you know that is all
+_[overlapping]_ I am okay.
 
-you have to say yes well actually now I
+#### JONNY
 
-think about it now I really think now
+So, yeah, you could, like -- you know that he's just stalling.
 
-that I am so very keen to help out at
+#### FRANK
 
-least one but I believe that these were
+I'm gonna wander around while he just takes his time, so much time, going through these records.
 
-acquired from the old station master of
+#### WHATELEY
 
-the dust collar train yard write that
+An old tobacco box, comma "old". Fifteen pounds.... No.
 
-down
+##### [MUFFLED GIGGLING]
 
-we will provide you with a copy of an
+Oh, sorry, of course, here we are, detectives.
 
-old train timetable that is strange
+#### JONNY
 
-actually lots of different train
+You have intimidation, I believe, as an expertise --
 
-designations but all of them have
+#### FRANK
 
-arrival times and dates of this year
+_[overlapping]_ Yes.
 
-whatever year this might be in da Scala
+#### JONNY
 
-it's hard to tell but it's definitely
+Could you roll me Smokes as well, actually, thinking about it.
 
-this one sorry so when you say there for
+#### ALEX
 
-this year is it for the bit of the year
+Do you get an advantage for being covered in actual blood?
 
-that hasn't it's for the future yes but
+#### JONNY
 
-on all train timetables for the future I
+_[in character voice]_ No, I'm surprisingly used to that, it -- it's not --
 
-mean not those Souls antiques usually
+#### ALEX
 
-always say of course it's an antique
+If anything, it's detracting.
 
-table , present timetable , present ,
+#### FRANK
 
-old yeah oh I see what the the issue is
+Seven.
 
-with this Sarge is a misprint those can
+#### JONNY
 
-be very valuable you know you get a you
+_[in character voice]_ Makes it feel like home.
 
-get a book with a typo in it it's more
+#### WHATELEY
 
-valuable because it's rarer dates it's
+Here we are, of course, detectives. Train conductor's cap, comma "old". Fifty pounds.
 
-specific so this one it's a misprint hmm
+#### CARL
 
-on a quick glance does the 9f9 two two
+Mm-hmm.
 
-five one schoiar yes
+#### WHATELEY
 
-it's scheduled to arrive at eight
+Train timetable, comma "old". Forty pounds. Sold to a Mrs. Angela Grockle, two days ago. Now, she was after train memorabilia, I believe, specifically those relating to the British Rail standard class of train. Fascinating, fascinating business, really. I managed to locate these for her and sold them along. I did, of course, not know anything about any curses or arcane or eldritch properties that they may have had, and no such knowledge would be provable on my part.
 
-o'clock tonight hmm you should wait on
+#### FRANK
 
-the train tracks just to be sure I will
+You can't see it but I had just rolled my eyes very powerfully.
 
-not do that so let's cut the library
+#### JONNY
 
-okay I brie is like a tall imposing
+_[in character voice]_ No, I saw that.
 
-building lots of oak lots of beams of
+##### [LAUGHTER]
 
-light for a town the size of dusk oh no
+#### CARL
 
-the library is way too big and very
+Have you sold any whistles recently?
 
-echoey i stride powerfully up and
+#### WHATELEY
 
-utilizing my library card supplies I'm
+No, though originally I believe there was supposed to be a whistle that goes along with the cap as a set, but whether it was ever created, who can say.
 
-not sure how supplies work but it's one
+#### CARL
 
-of the ones I found out what's your dice
+Can you say?
 
-d8 role of e8 to see if you brought your
+#### WHATELEY
 
-laughter part 7 yes oh yes hello hello
+I -- I can't no.
 
-what can I do for you this is the
+##### [LAUGHTER]
 
-library's voice laughter yes it's just
+Whether or not I can, like, I didn't get a -- I didn't find a whistle, though apparently there was supposed to be one with the cap as part of the set, and indeed the timetable. Detectives, I've been in this situation enough times, selling the harmless curios that I do that sometimes may end up... pivotal aspects of murder scenes, who can say? But I've been around -- I've done this dance enough times that it is probably a good idea for me to come clean. I do have a second copy of that timetable. I may have made myself a copy that I can provide to you as long as you remember how helpful I was to Duskhollow Police Department. I would very much hate for anyone to think that I was in any way involved with covering up or trying to excuse any sort of horrific crime. I'm simply a humble shopkeeper.
 
-that that's the same voice that Johnny
+#### CARL
 
-uses when he pretends to be are cats I
+Yeah, alright, we'll take that timetable.
 
-don't know oh jeez and okay I'm Arthur
+#### GABRIELLE
 
-the librarian dusk hallo public library
+And you mentioned that you found this cap and timetable. Where exactly did you find it?
 
-what can I do for you officer so I live
+#### WHATELEY
 
-with cancer that's all in order I am
+Oh, where does anyone buy antiques? Elsewhere.
 
-looking for trained books because I've
+#### GABRIELLE
 
-got to research like a train
+_[overlapping]_ Here?
 
-mmm well-trained books will be under t4
+##### [LAUGHTER]
 
-trained books you don't have any kind of
+#### WHATELEY
 
-cross-referencing system I'm gonna
+Some dealers I'm acquainted with found them in their own auctions, often. Estate sales. Washed up on lonely beaches. Where do antiques come from? All over the place.
 
-actually have library users and I
+#### CARL
 
-believe no this library we believe that
+_[overlapping]_ Did you have any more specific information about these particular items?
 
-Dewey was a fool do you have an indexing
+#### WHATELEY
 
-system that I can helps cross-reference
+No.
 
-with no but I know where I am being
+#### CARL
 
-Dennis I mean dating right now over
+That is *all* you had to say.
 
-there here I'll show you
+#### WHATELEY
 
-he takes you over to a big wall with
+Yes. Well, actually now I think about it, now I really think -- now that I am so very keen to help out the police department, I believe that these were acquired from the old stationmaster of the Duskhollow trainyard.
 
-little brass plaque
+#### ALEX
 
-I mean trained books excellent well I go
+Write that down!
 
-outside daddy gets dark Oh before I
+##### [SOUNDS OF WRITING, FRANK MUMBLING]
 
-forget I pull out sake salt shaker and
+#### SASHA
 
-just oh that's really not what I can't
+_[overlapping]_ _[singing]_ Stationmaster, stationmaster.
 
-work he was happily saying he was
+#### FRANK
 
-blessed I'm so sorry I hate myself he's
+_[overlapping]_ _[talking while writing]_ Duskhollow...
 
-feeling pretty salty about it hahaha
+#### JONNY
 
-he sort of staggers away to go wash his
+And he will provide you with a copy of an old train timetable. That is strange, actually. Lots of different train designations but all of them have arrival times and dates of this year. Whatever year this might be in Duskhollow, it's hard to tell but it's definitely this one.
 
-eyes out she was right that's the only
+#### SASHA
 
-and PC that's reacted to salsa I found a
+Sorry, so when you say they're for this year, is it for the bit of the year that hasn't --
 
-real okay I am gonna begin researching
+#### JONNY
 
-the heck out of old trains make me a
+It's for the future, yes.
 
-flashlight roll come on d4
+#### SASHA
 
-oh you only have a d4 left yep okay well
+But aren't all train timetables for the future?
 
-it's fine you got a three so three
+#### JONNY
 
-that's enough so 9 f9 2 2 5 1 if you're
+I mean not those sold as antiques, usually.
 
-cross-referencing it with the old
+#### SASHA
 
-British Rail standards well naturally
+_[overlapping]_ Oh, I see, of course, it's an antique! Oh, it's an antique! Yeah...
 
-those were a particular brand of
+#### JONNY
 
-locomotive that only 999 of them were
+_[overlapping]_ It was printed -- it was printed like fifty years ago.
 
-ever made officially the 999th one was 9
+#### ALEX
 
-F - 9 - 2 5 0 so if there were to be a
+_[overlapping]_ It's -- it's timetable, comma "present".
 
-train with the designation 9 F 9 - 2 5 1
+#### SASHA
 
-that would make it the secret thousand
+Timetable, comma "present", comma "old".
 
-Slocum
+#### ALEX
 
-okay okay so let's let's work with what
+Yeah.
 
-we know here we have a secret thousandth
+#### GABRIELLE
 
-locomotive we have a librarian who is
+Oh, I see what the -- the issue is with this, Sarge. It's a misprint. Those can be very valuable, you know, you get a -- you get a book with a typo in it, it's more valuable because it's rarer, dates it specific. So this one, it's a misprint.
 
-some kind of alien and we have someone
+#### CARL
 
-having a heart attack so big that they
+Hmm.
 
-exploded and then someone came in and
+#### FRANK
 
-took their heart later and then they
+On a quick glance, does the 9F-92251 show up at all?
 
-sort of exploded hmm okay I go back to
+#### JONNY
 
-the librarian who is presumably in I'm
+Yes. It's scheduled to arrive at eight o'clock tonight.
 
-okay I've washed my eyes out and clean
+##### [LOWRI INHALES DRAMATICALLY]
 
-to help you again what what can you tell
+#### ALEX
 
-me about local records on like I bring
+_[overlapping]_ Yay!
 
-up like this specific type of locomotive
+#### LOWRI
 
-and just like do you know where like
+Oohh.
 
-when they stopped being in commission
+#### ALEX
 
-you know I don't really I mean if it was
+You should wait on the train tracks, just to be sure.
 
-anything to do with the scholar than I
+#### FRANK
 
-imagine that any decommissioned trains
+I will *not* do that.
 
-would have gone to the old train
+##### [LAUGHTER]
 
-graveyard the rail yard fantastic buy a
+#### JONNY
 
-little bit more based on this
+So.
 
-interaction backwards keeping my eyes on
+#### FRANK
 
-because I know an alien when I see one
+_[overlapping]_ Don't want another character killed by a train.
 
-reacting to salt in the eyes like an
+#### JONNY
 
-alien not a human learning I got this
+_[continuing]_ Let's cut to the library.
 
-are you letting anyone else know that
+#### ALEX
 
-you're going to the train yard
+Okay I -- I stride --
 
-well none of them have mobile telephones
+#### JONNY
 
-I am going to go to the rotary phone
+_[overlapping slightly]_ The library is, like, a tall imposing building, lots of oak, lots of beams of light. For a town the size of Duskhollow, the library is *way* too big and very echoey.
 
-mm-hmm wait is there a chance that the
+#### ALEX
 
-chief could pick up yes I'm going
+I stride powerfully up and, utilizing my library card supplies, I'm still not sure how supplies work but it's one of the ones I've got --
 
-straight to the yard oh no Mike or
+##### [SFX: FOOTSTEPS ECHO, SOUNDS OF QUIET TALKING IN BACKGROUND]
 
-anyone mm-hmm brilliant I'm gonna stick
+#### JONNY
 
-with okay you're gonna stick with young
+What's your dice?
 
-Alex I'm sure you mean young gotcha
+#### ALEX
 
-Murdoch actually yeah okay I'm gonna
+D8.
 
-stick with grizzled old Alex playing
+#### JONNY
 
-young Archie oh yeah you can approach
+Roll a d8.
 
-the rail yard it makes zero sense that a
+#### FRANK
 
-town the size of dust Kahlo would have
+To see if you brought your library card.
 
-such an extensive train graveyard but it
+##### [DICE ROLLING]
 
-does it's maybe it's hard to tell
+#### ALEX
 
-exactly how big it is but the fence is
+Seven.
 
-remarkably easy to hop and you start to
+#### JONNY
 
-wind your way through ancient rusting
+Yes.
 
-carriages and hollowed-out locomotives
+#### LIBRARIAN
 
-they're old lamps staring at you like
+Yes. Oh, yes, hello. Hello, what can I can do for you?
 
-empty sockets of a skull hey what are
+#### ALEX
 
-you looking for so this is feeling quite
+_[overlapping]_ I've forgotten my voice, one second.
 
-sketchy so I'm gonna draw my salt mm-hmm
+#### JONNY
 
-and then what I'm gonna do is I'm gonna
+_[overlapping]_ This is the -- this is the librarian's voice.
 
-I mean you do also have a shotgun as I
+#### ARCHIE
 
-recall I see which way the winds blowing
+Ah jeez --
 
-do alien with a hint of salt so my logic
+#### SASHA
 
-is I have expertise in engineering
+_[overlapping]_ I'm sorry --
 
-mm-hm use me library in terms of
+#### LIBRARIAN
 
-engineering it's like okay cool it's
+My name is -- my name is Arthur, yes. Hello?
 
-this type of train it's a realistic case
+#### SASHA
 
-on this gauge of track realistically if
+_[overlapping]_ It's -- it's just that that's the same voice that Jonny uses when he pretends to be our cats.
 
-it's gonna be in a train graveyard or
+##### [LAUGHTER]
 
-something similar then it's gonna have
+#### JONNY
 
-to be in a certain type of shirt because
+_[in the same pretentious voice]_ That's nonsense, I don't know what you're talking about.
 
-you have gauges I mean we're done where
+#### ARCHIE
 
-that train would be if it was there yep
+Ah jeez... ehm, okay --
 
-that's fine you can 100% do that yeah
+#### LIBRARIAN
 
-it's so easy for you I'm not even gonna
+_[overlapping]_ I'm a libr- I'm Arthur the librarian, at the Duskhollow Public Library.
 
-go into details about how do you do
+##### [SASHA LAUGHING]
 
-are you in any way sneaking or you know
+#### ARCHIE
 
-okay great so as you get closer into a
+Ah jeez.
 
-nearby hill out of the train graveyard
+#### LIBRARIAN
 
-is a tunnel dark tunnel just stretching
+What can I do for you? Officer?
 
-away into the hill and there is a track
+#### ARCHIE
 
-that leads from it into the center of
+So, I --
 
-the train graveyard
+#### LIBRARIAN
 
-I stood there there are eight people
+You have a library card, so it's all in order.
 
-wearing hooded jackets that even the
+#### ARCHIE
 
-gloom you can tell do any of them wear
+I am looking for train books because I've got to research, like, a train, um... thing.
 
-like station hats at all it's hard to
+#### LIBRARIAN
 
-tell as you're getting closer you feel
+Hmm, well, train books will be under T. For... train books.
 
-some strong arms gripping you either
+#### ARCHIE
 
-side could you make a strength test
+You don't have any kind of cross-referencing system?
 
-please I'm gonna say it disadvantage
+#### LIBRARIAN
 
-because there are two of them am i able
+_[overlapping]_ Do you need --
 
-to use my special ability of swings and
+#### ARCHIE
 
-leaps being just vaguely acrobatic or is
+_[continuing]_ I'm gonna -- I'm -- I actually have library user as an expertise.
 
-this not an applicable one if you had
+#### LIBRARIAN
 
-been like if you've been jumping from
+I believe that -- no, this library, we believe that Dewey was a fool.
 
-train to train or something yes this is
+#### ARCHIE
 
-just skate being nabbed strength of
+Do you have an indexing system that I can perhaps cross-reference with?
 
-disadvantage little did you know that's
+#### LIBRARIAN
 
-the first one we got a seven on the
+No. _[pause]_ But *I* know where they all are.
 
-table 13 no I'd ruin your story you are
+#### FRANK
 
-grasped I mean it's not my story you're
+I am the index!
 
-the one who decided to go to the train
+#### ALEX
 
-yard without any backup
+_[imitating librarian]_ I'm indexing right now!
 
-you are yanked backwards by two very big
+#### SASHA
 
-guys in anoraks
+_[laughing]_ Oh no!
 
-what we got here looks like a looky-loo
+#### LIBRARIAN
 
-no I'm I'm I'm a cop and I'm allowed to
+They're over there, here, I'll show you.
 
-go wherever I want cuz the Sarge says so
+#### JONNY
 
-take
+He takes you over to a big wall with a little brass plaque, reading "train books".
 
-to the track we're on the track your
+#### ARCHIE
 
-drag on the center one of the figures
+Excellent. Well, I guess I'd better get started.
 
-and anoraks comes forward lowers the
+#### ALEX
 
-hood and you see Angela drakul wearing a
+Oh, before I forget, I pull out a salt shaker and just -- salt his face.
 
-station wearing a conductors cap I have
+##### [LOWRI LAUGHS]
 
-no no no you have no idea with a whistle
+#### LIBRARIAN
 
-around terror this is entirely for the
+Oh, my face! Oh no! God, salt in my face!
 
-the audience's name it with an old tin
+#### LOWRI
 
-whistle hung around her neck and what
+Yeesss!
 
-can I do for you officer yeah the thing
+#### LIBRARIAN
 
-with aren't you murder I don't really
+That's really not what I came to work hoping would happen.
 
-care
+#### ALEX
 
-time to the track please down there you
+_[overlapping]_ Wait. Wait, wait, wait --
 
-are tied to the track I keep yelling out
+#### FRANK
 
-because I'm reading my stats and
+_[overlapping]_ Would you say he was... assaulted?
 
-thinking whoa anything I'm reeling out
+#### ALEX
 
-on the track don't do that I swallowed
+_[overlapping]_ No other --
 
-the other whistle it'll all go wrong if
+##### [SEVERAL PEOPLE "OOOH" AT FRANK'S PUN]
 
-you do that the figures around are not
+#### FRANK
 
-chanting anything but they are each
+I'm so sorry, I hate myself.
 
-scratching stuff into their own little
+#### ALEX
 
-notebooks in a very specific rhythm cut
+_[overlapping]_ The important --
 
-back to the rest of the smell oh jeez
+#### SASHA
 
-well at least I would actually like to
+Bet he's feeling pretty salty about it.
 
-use on my special abilities because I'm
+##### [FRANK LAUGHS]
 
-just by myself yeah if you guys returned
+#### FRANK
 
-to the police station yet Franken
+Nice.
 
-well we've got our coffee so I guess so
+#### JONNY
 
-yeah so they'll be returned to the
+He sort of staggers away to go wash his eyes out.
 
-police station okay well I wanted to use
+#### ARCHIE
 
-my special ability deductions okay yep
+_[whispers]_ Oh my god, she was right, that's the only NPC that's reacted to salt! _[louder]_ I found a real one!
 
-which is once per session you can apply
+#### ALEX
 
-your powers of deduction and reasoning
+Okay, I am gonna begin researching the *heck* out of old trains.
 
-to reach earth strange
+#### JONNY
 
-conclusion and require the GM to provide
+Make me a Flashlight roll.
 
-a hint to the next best step so the
+#### ALEX
 
-thing about aliens they don't know how
+Come on d4.
 
-humans work not really may get specific
+##### [DICE ROLLING]
 
-obsessions specific things just stuck in
+#### JONNY
 
-their brains not like humans and clearly
+Oh, you only have a d4 left?
 
-what's going on here is some of the
+#### ALEX
 
-aliens have become obsessed with trains
+Yep.
 
-is how they're communicating we may be
+#### JONNY
 
-how they're communicating with each
+Okay, well, it's fine, you got a three --
 
-other maybe they believe trains to be
+#### ALEX
 
-the dominant life-form says they're so
+_[overlapping]_ I rolled a three.
 
-much bigger and eat people yeah either
+#### JONNY
 
-way
+So, that's -- that's enough. So. 9F-92251, if you're cross-referencing it with the old British Rail standards --
 
-chances are they also need somewhere
+#### ALEX
 
-inconspicuous to land their spacecraft
+Well, naturally.
 
-and if they're really into trains maybe
+#### JONNY
 
-the old train graveyard would be where
+Those were a particular brand of locomotive that... only 999 of them were ever made. Officially. The 999th one was 9F-92250. So, if there were to be a train with the designation 9F-92251, that would make it the secret thousandth locomotive.
 
-they would be so do the three of us just
+#### ARCHIE
 
-look at each other and go I mean these
+Okay, okay, so that's -- let's work with what we know here. We have a secret thousandth locomotive. We have a librarian who is some kind of alien. And we have someone having a heart attack so big that they exploded. And then someone came in and took their heart later? And then *they* sort of exploded. Hmm. Okay.
 
-two of like okay you guys walk in with
+#### ALEX
 
-coffee just as you're like just as this
+I go back to the librarian who is presumably in great disproportionate... _[unintelligible]_.
 
-is dawning on you walk up you know he's
+#### LIBRARIAN
 
-gonna see a train please get there by
+_[overlapping]_ _[still recovering]_ Oh, yes, yes, uh... I'm okay, I've washed my eyes out and, uh... I'm keen to help you again.
 
-8:00 yes the graveyard yes
+#### ARCHIE
 
-I mean it's currently it's coming half
+What -- what can you tell me about local records on like...
 
-past seven
+#### ALEX
 
-how long does it take to get to the
+I bring up, like, this specific type of locomotive and just like --
 
-train yard about 20 minutes we really
+#### ARCHIE
 
-fast at my police car I mean Romeo me
+Do you know where, like, when they stopped being in commission?
 
-your police car as you hurtle through
+#### LIBRARIAN
 
-the rain towards the graveyard when we
+Hmm. I mean, I don't really -- I mean, but if it was anything to do with Duskhollow then I imagine that any decommissioned trains would have gone to the old train graveyard, the railyard.
 
-get closer to the graveyard I'll say
+#### ARCHIE
 
-turn the siren off you don't want to let
+Fantastic. Bye!
 
-them know we're here
+#### ALEX
 
-if you hit the distance drones of a
+I salt him a little bit more --
 
-monkey Tonka so you are currently tight
+_[Librarian makes sounds of shock and distress]_
 
-the tracks the rain beats down soaking
+#### ALEX
 
-you through in the distance you hear the
+_[continuing]_ -- and head off to the trainyard.
 
-sound of a police car and then it stops
+##### [LAUGHTER]
 
-my own Angela blows the whistle and it
+#### LIBRARIAN
 
-resonates the trains and the carriages
+That's last thing I wanted to occur based on this interaction.
 
-around all the rusted old hulks start to
+#### ALEX
 
-vibrate ever so slightly distantly deep
+I leave -- I leave backwards, keeping him in my eyesight because I know an alien when I see one reacting to salt in the eyes, like an alien, not a human.
 
-within the tunnel you can see just a
+##### [DOOR OPENING, RAIN STARTS AGAIN]
 
-pinprick of light starting to approach I
+#### LOWRI
 
-would like to attempt to use my other
+Oh, I'm so proud of you.
 
-special ability so that I've blown it by
+#### ALEX
 
-the time I get run over by a train I
+I'm learning. I got this.
 
-would like to use my special abilities
+#### JONNY
 
-MacGyver my once per session you can
+And are you letting anyone else know that you're going to the trainyard?
 
-improvise a solution to a situation
+#### ALEX
 
-using available tools devices and
+Well, none of them have mobile telephones. I am going to go to the rotary phone.
 
-uncommon law ok so I am going to use to
+#### JONNY
 
-see this is this is playing into an Alex
+Mm-hmm.
 
-strength it's just me both on the fly I
+#### ALEX
 
-happen to have palmed one of the
+Wait, is there a chance that the chief could pick up?
 
-Marlboro Reds that we are from earlier
+#### JONNY
 
-shop and as a results I've got that
+Yes.
 
-sequestered along with the lighter now
+#### ALEX
 
-it just so happens that Archie Murdoch
+I'm going straight to the yard, I'm not calling anyone.
 
-with his engineering knowledge knows
+#### JONNY
 
-that there is an issue in these kind of
+Okay, brilliant! Brilliant. I'm gonna stick with --
 
-trade lines where a certain amount of
+#### ALEX
 
-aluminium oxide can end up laid into the
+Okay!
 
-track as a result of the soldering
+#### JONNY
 
-process to make the rails
+-- gonna stick with... young Alex.
 
-mhm so his logic is very simple which is
+#### ALEX
 
-you can't burn through your ropes using
+I'm sure you mean young Archie Murdoch.
 
-the cigarette it takes you long but what
+#### JONNY
 
-he's doing is he's slowly occurring as
+Well actually, yeah, okay, I'm gonna stick with grizzled old Alex playing young Archie.
 
-much dust as he can buying time to then
+#### ALEX
 
-light the cigarette in hose of the
+There we go.
 
-aluminium oxide firm at low fall and
+#### JONNY
 
-then burn through the rope so that he
+You can approach the railyard. It makes *zero* sense that a town the size of Duskhollow would have such an extensive train graveyard. But it does. It's maybe... it's hard to tell exactly how big it is. But the fence is remarkably easy to hop and you start to wind your way through ancient rusting carriages and hollowed-out locomotives. They're old lamps staring at you like _[whispers dramatically]_ empty sockets of a skull.
 
-can men with the big bright light going
+#### ALEX
 
-off from the thermite both escape and
+Okay. It's --
 
-run away as a distracting bright light
+#### JONNY
 
-though you what you're doing we
+_[overlapping]_ What are you looking for?
 
-absolutely clear I'm setting myself on
+#### ALEX
 
-fire John oh you're you're trying to
+So, this is feeling quite sketchy, so I'm gonna draw my salt.
 
-burn some thermite underneath you yes
+#### JONNY
 
-so while that's happening the police car
+Mm-hmm. Okay.
 
-pulls up here screeches to a stop just
+#### ALEX
 
-outside the train graveyard
+And then what I'm gonna do is... I'm gonna -- I'm gonna --
 
-I'm coming good well I was gonna suggest
+#### JONNY
 
-oh yeah two of the anoraks look up and
+You do also have a shotgun, as I recall.
 
-look
+##### [LAUGHTER]
 
-gestures go sort it out I'm gonna draw
+#### ALEX
 
-my Colt official police revolver yep
+Yeah, well, I see which way the winds blowing. _[loud]_ Due alien! _[normal]_ With a hint of salt. So, my logic is... I have expertise in engineering.
 
-which I have special bullets if that is
+#### JONNY
 
-acceptable to you which I have treated
+Mm-hmm.
 
-with salt okay here's what I'm going to
+#### ALEX
 
-say mm-hmm so your revolver is
+I've used me library. In terms of engineering, it's like, okay, cool, it's this type of train --
 
-technically a d6 rather than anything
+#### JONNY
 
-else this this refer like this is an
+_[overlapping]_ Yep.
 
-ammo diet it determines when you're out
+#### ALEX
 
-of ammo
+So realistically it's on this gauge of track, realistically if it's gonna be in a train graveyard or something similar then it's gonna have to be in a certain type of shed because you have gauges and so on --
 
-if you've treated your bullets with
+#### JONNY
 
-salts it is now a d4 because it's
+_[overlapping]_ Could you make me --
 
-probably going to jam okay okay good
+#### ALEX
 
-thank you good to know oh by the way
+_[continuing]_ -- I'm trying to narrow down where that train would be if it was here.
 
-just well no okay Shh you return to what
+#### JONNY
 
-they were doing that's fine I'm not
+Yep, that's fine, you can 100% do that. It's so easy for you, I'm not even gonna go into details about how you do. Are you in any way sneaking or are you...
 
-gonna I'm gonna I'm just gonna choose my
+#### ALEX
 
-moments so how are you guys getting in
+God, no!
 
-well I have got lock-picking I can pick
+#### JONNY
 
-any lock by making a flashlight rolls
+Okay, great, so as you get closer, into a nearby hill out of the train graveyard is a tunnel. Dark tunnel, just stretching away into the hill. And there is a track that leads from it into the center of the train graveyard. And stood there, there are eight people, wearing hooded jackets that, even in the gloom, you can tell _[whisper dramatically]_ are anoraks.
 
-might roll yeah this of this one of
+#### ALEX
 
-those big old wire mesh gates
+Do any of them wear like station hats at all?
 
-where's Maddy ten I think that it's very
+#### JONNY
 
-snugly completely forgotten to get any
+It's hard to tell. As you're getting closer you feel some strong arms gripping you either side. Could you make a strength test, please? I'm gonna say at disadvantage because there are two of them.
 
-of you to make any sort of stress roll
+#### ALEX
 
-why don't you no it's not aren't you
+Am I able to use my special ability of swings and leaps, being just vaguely acrobatic or is this not an applicable one?
 
-making stress rocks your train would you
+#### JONNY
 
-let me to make you like three yeah go on
+If you had been like -- if you'd been jumping from train to train or something, yes, this is just trying to escape being nabbed.
 
-all right okay I'm on das actually no
+#### ALEX
 
-role with disadvantaged so to d8 and
+_[overlapping slightly]_ They got me. Strength with disadvantage? Little did you know --
 
-take the lowest okay for you fine
+##### [DICE ROLLING]
 
-apparently this is apparently just not a
+That's the first one. We got a seven on the table.
 
-not an issue for you and also for too
+##### [DICE ROLLING]
 
-much I mean like the library wasn't
+Thirteen, nooo! Oh, I've ruined your story, but nevermind.
 
-really a stressful for me so I think I
+#### JONNY
 
-think I'm kind of up to scratch yeah for
+You are grasped. I mean, it's not my story, you're the one who decided to go to the trainyard without any backup. You are yanked backwards by two very big guys in anoraks.
 
-that fat okay so the gate swings open I
+#### BIG GUY 1
 
-wouldn t roll in your by 5:00 p.m. for
+What we got here? Looks like a looky-loo.
 
-the gate swings open the train graveyard
+#### ARCHIE
 
-is quiet before you the rain beating
+No, I'm -- I'm -- I'm a cop and I'm allowed to go wherever I want 'cause the Sarge says so.
 
-down in the distance deep in the
+#### BIG GUY 2
 
-distance you can hear the whistle of a
+Take him to the track.
 
-train coming and I actually using this
+#### JONNY
 
-opportunity to yell shoot them if
+And --
 
-they're wearing perm jackets I run
+#### ARCHIE
 
-towards the sound you see Angela give a
+We're -- we're on the track.... That's what -- I don't understand...
 
-few the other train spotters are nods to
+#### JONNY
 
-sent them off after these guys as you
+_[overlapping slightly]_ You are dragged down on the center. One of the figures in anoraks comes forward, lowers the hood and you see Angela Grockle wearing a station -- wearing a conductor's cap.
 
-round a corner you can see a train
+##### [SASHA GASPS]
 
-spotter full anorak with what looks like
+#### ALEX
 
-an Old World War two machine gun open up
+I have never met her and I have no idea who she is.
 
-on you could you please make a dexterity
+#### JONNY
 
-18 dexterity 13 okay so you're taking
+_[overlapping]_ With a whistle -- yeah, no, you have no idea -- with a whistle around her, uh -- this is entirely for the -- the audience's benefit.
 
-you owe me a d6 actually no make the d8
+#### ALEX
 
-for how much damage you're taking okay
+That's fine.
 
-it doesn't actually hit you but you dive
+#### JONNY
 
-to the ground and spread yourself up
+With an old tin whistle hung around her neck.
 
-like crazy a machine you can see other
+#### ANGELA
 
-train spotters approaching with the
+And what can I do for you, officer?
 
-other ones mainly seem to have knives
+#### ARCHIE
 
-drawn like kitchen knives it's mainly
+Now. The thing with Archie Murdoch --
 
-the knives that they found in kitchen
+#### ANGELA
 
-drawers and one of them has a machine
+I don't really care. Tie him to the track, please.
 
-gun so what are you guys doing
+#### ARCHIE
 
-lower you've already done yours because
+Oh, dammit.
 
-if you had succeeded you would have got
+#### JONNY
 
-an attack so what are one of the things
+You are tied to the track.
 
-the Cthulhu hack does is rather than
+#### ALEX
 
-having enemy attacks and player attacks
+I keep yelling out because I'm reading my stats and thinking of anything -- I'm yelling out on the track --
 
-you what you choose what you're doing
+#### ARCHIE
 
-you make a roll if you're successful and
+Don't do that, I -- I alre- I swallowed the other whistle, it'll all go wrong if you do that!
 
-you damage them if you're not successful
+#### JONNY
 
-they don't interview and there are a
+The figures around are not chanting, or saying anything.
 
-couple of additional ones because there
+#### ALEX
 
-are more of them they will get one or
+_[overlapping]_ Oh, well that's a win.
 
-two extra attacks on so write what
+#### JONNY
 
-you're doing I want to try and find the
+But they are each scratching stuff into their own little notebooks in a very specific rhythm.
 
-leader of this little
+##### [HE IMITATES THE SOUND OF RHYTHMIC WRITING]
 
-that would be Angela she is currently
+##### [SFX OF RHYTHMIC WRITING]
 
-standing over Archie blowing our whistle
+Cut back to: the rest of the squad.
 
-that likes getting closer Archie it's
+##### [RAIN FADES OUT, REPLACED WITH SOUNDS OF POLICE DEPARTMENT]
 
-fine I've got my firm I sold my know so
+#### ARCHIE
 
-I can see that he's not at the moment
+Oh no. Oh jeez. Oh jeez!
 
-there are a couple of train spotters
+#### LOWRI
 
-between you and the punch these trains
+Well... I would actually like to use one of my special abilities, because I'm just by myself.
 
-was that was a brilliant that would be a
+#### JONNY
 
-strength check Oh
+Yeah -- uh, have you guys returned to the police station, yet? Frank and Sasha?
 
-is it supposed to be under under your
+#### SASHA
 
-strength okay yeah what's your damage
+Well, we've got our coffee, so... I guess so?
 
-it is a d8 fantastic role of the eighth
+#### FRANK
 
-one I mean you like shove him any sort
+Yeah.
 
-of staggers back play is like what just
+#### JONNY
 
-want him out of the way he's out of the
+So, they'll be... returning to the police station, very shortly.
 
-way has a knife in his life stab you so
+#### LOWRI
 
-Sasha I'm gonna be trying to you like
+Okay, well I wanted to use my special ability "deduction".
 
-hop up onto trains and then run across
+#### JONNY
 
-them to basically like a voyage the
+Okay, yeah.
 
-ground you should get there real quick
+#### LOWRI
 
-it made me a dexterity roll okay I got a
+Which is, once per session you can apply your powers of deduction and reasoning to reach a "strange" conclusion and require the GM to provide a hint to the next best step.
 
-20 that is by 12 which so you climb up
+#### JONNY
 
-off the top of the Train and
+So. The thing about aliens. Is they don't know how humans work? Not really. They get specific obsessions, specific things just stuck in their brains, not like humans. And clearly what's going on here is some of the aliens have become obsessed with trains.
 
-unfortunately standing there is just the
+#### EMMA
 
-biggest anorak you've seen with what
+_[realization]_ It's how they're communicating with each other!
 
-looks like you know those gardening
+#### JONNY
 
-implements that you sort of dig in and
+It may be how they're communicating with each other, maybe they believe trains to be the dominant lifeform since they're so much bigger and eat people.
 
-used to pull up weeds yeah got one of
+##### [SASHA LAUGHS]
 
-them needs stabs wrong me a d-10 bad -
+#### JONNY
 
-okay so if oh so they're a couple of
+Either way, chances are, they'd also need somewhere inconspicuous to land their spacecraft. And if they're really into trains, maybe the old train graveyard would be where they would be.
 
-others who are charged with nice one
+#### LOWRI
 
-will go for alphabet and one will go for
+So do the three of us just look at each other and go...
 
-Wilensky so that you both many strengths
+#### JONNY
 
-roles I'd help I'm here to raise the
+I mean these two have, uh, like -- okay, you guys walk in with coffee just as you're like -- just as this is dawning on you.
 
-stakes
+#### FRANK
 
-sorry guys
+So we just walk up to you and go --
 
-I got 17 so my strength is 14 yes sir
+#### CARL
 
-you're fine you'll find you manage to
+He's going to see a train, we need to get there by 8:00.
 
-just like kick him away you get a little
+##### [LAUGHTER]
 
-bit more stamped and just this will just
+#### EMMA
 
-be a d6 I think three that's three down
+Yes, yes! The graveyard! Yes?
 
-down to six you want to be Tyson's train
+#### GABRIELLE
 
-track much safer soothing
+I mean, can't hurt to --
 
-apparently so oh my fur my plan going
+#### EMMA
 
-you've got enough if you want to if you
+_[overlapping]_ _[agitated]_ What time is it? _[pause]_ Quarter to eight?
 
-want to if you want to light it Archie
+#### SASHA
 
-yells out because Archie knows that
+_[overlapping]_ What time *is* it?
 
-thermite burns really brightly oh oh
+#### JONNY
 
-geez
+Uh, it's currently -- it's currently half past seven.
 
-hey everybody look over here oh and then
+#### SASHA
 
-lights the thermite okay so maybe like I
+How long does it take to get to the trainyard?
 
-would I would ask you to make a saving
+#### JONNY
 
-throw but you're lighting some thermite
+About 20 minutes.
 
-under you not a little bit okay so what
+#### SASHA
 
-I'm gonna say is please roll me a deep
+Cool.
 
-ten for how much damage you take if you
+#### EMMA
 
-roll one or a two you do not burn
+_[overlapping]_ We haven't got time!
 
-through the ropes if you were if you all
+#### CARL
 
-for your above you burn through the
+_[overlapping]_ We can go really fast in my police car!
 
-ropes you are also taking this much
+#### JONNY
 
-damage to be clean oh this is great
+I mean roll me your -- roll me your police car!
 
-Wow okay how much have you got it's
+##### [DICE ROLLING]
 
-gonna say okay so I can kill myself with
+#### FRANK
 
-this in fact there's a solid chance I'm
+Three.
 
-killing myself with this so I have seven
+##### [CAR ENGINE STARTS]
 
-hit points I have done myself six hits
+#### JONNY
 
-so there is a bright light as op she's
+That's enough! You do not crash.
 
-macgyvered thermite ignites igniting the
+#### ALEX
 
-ropes igniting him you are and you are
+Which one of you is leaning out the window yelling _[imitates siren]_ nee-naw nee-naw?
 
-very much on fire I'd rather have the
+##### [SIREN STARTS]
 
-goo oh man oh geez but say you very
+#### JONNY
 
-least you afraid I immediately try to
+Uh, no, you've got an actual siren --
 
-run off on the fire away from the Train
+#### ALEX
 
-that's clearly gonna crush me before I
+_[overlapping]_ Wooow. Big budget.
 
-burn to death from the fire I let myself
+#### JONNY
 
-see approaching now it's stuck as you go
+_[continuing]_ -- you've got an actual siren, It's going around, it's one of those domed ones.
 
-up you can see reflected down the tunnel
+#### FRANK
 
-a locomotive of black glass up
+Ooh.
 
-oh good god and a reasonable claim yeah
+#### ALEX
 
-I'll take the bear my burns thanks
+Oh, the, uh, _[questioning]_ cherry, is that what they call it?
 
-glowing green smoke billowing from the
+#### JONNY
 
-stack can we all see it no you're not
+Yeah, I want to say. As you hurtle through the rain, towards the graveyard --
 
-there yeah I am you can get there now if
+#### LOWRI
 
-you'd like yeah I'm still running to get
+When we get closer to the graveyard, I'll say --
 
-it
+#### EMMA
 
-okay so I'll say that you can reach them
+Turn the siren off, _[lowers voice]_ you don't want to let them know we're here.
 
-are you attacking any of the
+#### ALEX
 
-transponders or are you what do you what
+_[laughing]_ Do I hear the distant strains of a honky-tonk as someone twirls their mustache? I'm like _[high-pitched]_ "No, no, let me go!" _[sings bar of dramatic music]_ duh-dah-duh, da-da-da-dun...
 
-do you do I'm saving all of my salt
+#### JONNY
 
-bullets for that train that's coming
+_[overlapping]_ Alex. Alex, you are currently tied to the tracks. The rain beats down, soaking you through. In the distance, you hear the sound of a police car and then it stops.
 
-towards us cuz it's clearly an alien oh
+##### [RAIN BEGINS]
 
-my god
+##### [SIREN STOPS]
 
-I mean I'm gonna say you can see the
+#### ARCHIE
 
-Train if you want to take a shot at the
+_[Alex laughing]_ Aw jeez. Oh no. I'm so on my own. Oh jeez.
 
-train just go for it don't try to shoot
+#### JONNY
 
-the train what's my role - guarantee it
+Angela blows the whistle --
 
-would be flesh not damage no I mean
+##### [LOWRI GASPS]
 
-you've got hate at first
+-- and it resonates.
 
-oh yeah of course sorry ODI of duck 78
+##### [SHRILL WHISTLE]
 
-what if you miss the train okay
+And all trains and the carriages around, all the rusted old hulks, start to vibrate ever so slightly. And distantly, deep within the tunnel you can see just a pinprick of light, starting to approach.
 
-could you roll me well armed I have a
+#### ALEX
 
-decent yep so that's a d6 damage but
+I would like to attempt to use my other special ability so that I've blown it by the time I get run over by a train.
 
-you're using salt on it so that's a d6
+#### JONNY
 
-damage d4 for the ammo oh sorry I'm with
+Mm-hmm.
 
-you three okay grant is assault damage
+#### ALEX
 
-yes clearly a supernatural alien drain
+I would like to use my special abilities MacGyver.
 
-it has green smoke yes it is but it's
+#### JONNY
 
-also no venerable - salts bullet hits
+Okay!
 
-the huge train
+#### ALEX
 
-could you please just call me Adi for
+Once per session, you can improvise a solution to a situation using available tools, devices, and uncommon lore.
 
-three there you go still working so
+#### JONNY
 
-Frank
+Okay.
 
-well I was trying to get to Rocco I will
+#### ALEX
 
-say that you can you can reach her you
+So, I am going to use -- see, this is -- this is playing into an Alex strength, which is bull _[censored]_ on the fly. I happen to have palmed one of the Marlboro Reds that were from earlier and as a result, I've got that sequestered along with the lighter. Now, it just so happens that Archie Murdoch with his engineering knowledge knows that there is an issue in these kind of train lines where a certain amount of aluminium oxide can end up laid into the track as a result of the soldering process to make the rails.
 
-just shouldering your way past the the
+#### JONNY
 
-transporters with you yeah
+Mm-hmm.
 
-the machine gun one is gonna try and hit
+#### ALEX
 
-you so whatever you do this turn if you
+So, his logic is very simple which is "you can't burn through your ropes using the cigarette, it won't -- it'd take too long", but what he's doing is he's slowly accruing as much dust as he can, buying time to then light the cigarette in hopes that the aluminium oxide thermite will go _[imitates burst of flame]_, and then burn through the ropes so that he can *then*, with the big bright light going off from the thermite, both escape and run away as a distracting bright light goes off.
 
-fail you're gonna
+#### JONNY
 
-little bit machine-gunned I'm gonna try
+_[overlapping]_ So, you -- what you're doing, to be *absolutely clear* --
 
-and grab a yeah okay make me Australia
+#### ALEX
 
-check oh I also want to try and rip the
+I'm setting myself on fire, Jonny.
 
-whistle off from around the neck you
+#### JONNY
 
-know always if you wanna go through the
+You're -- you're act- you're trying to burn some thermite underneath you.
 
-whistle that's dexterity if you want to
+#### ALEX
 
-just grab her that strength I am gonna
+Yes! In order to burn my ropes, make a big bright light so they're like "Oh, my eyes!" and then I'll get away.
 
-say however that she is currently
+#### JONNY
 
-supernaturally empowered by the oncoming
+_[overlapping]_ Yep, okay, grand. Uh, so while that's happening the police car pulls up, _[he makes a screeching noise]_ screeches to a stop just outside the train graveyard.
 
-train and so you will be would you seen
+#### EMMA
 
-your strength no no no no shooting the
+I'm coming, kid!
 
-train with a pistol with some salty
+#### FRANK
 
-bullets from a pistol action that was a
+Well, I was gonna suggest stealth.
 
-brain rifle at the tree I was a great
+##### [LAUGHTER]
 
-battery I'm gonna go for the whistle you
+#### JONNY
 
-me but can I use my ripped ability
+Yeah, you hear _[muffled, distant]_ "I'm coming, kid!"
 
-Sarala advanced are you saying that you
+#### ALEX
 
-want to be so muscles that you just
+Yes!
 
-you're assuming okay that Frank's saying
+#### JONNY
 
-that they want to grab by the hand it
+Two of the anoraks look up. Angela gestures --
 
-could be advantage do it grab it with
+#### ANGELA
 
-your packs that was a 16 it's not enough
+Go sort it out.
 
-I mean I mean it's too much hmm she sort
+#### LOWRI
 
-of takes a single step back damn it
+I'm gonna draw my Colt official police revolver --
 
-think of that trouble is like it's your
+#### JONNY
 
-very strong but not super flexible
+Yep.
 
-because of all the muscles like a
+#### LOWRI
 
-sticker stuck between the shoulder
+Which, I have special bullets if that is acceptable to you --
 
-sessions okay so I'm up five presumably
+#### JONNY
 
-because I'm up higher I can see what's
+_[overlapping]_ It is not, no.
 
-going yes you can
+#### LOWRI
 
-okay I want to go for ironic try and
+_[continuing]_ -- which I have treated with salt.
 
-just run proud Angela Bravo also sorry
+#### JONNY
 
-you also got machine guns I forgot I'd
+Okay, here's what I'm going to say.
 
-said that so could you roll a d-10
+#### LOWRI
 
-but you're in disguise yeah you get a
+Mm-hmm.
 
-little bit machine gun or damage what do
+#### JONNY
 
-you say I want to run for Angela groffle
+So your revolver is technically a d6, rather than anything else this -- this refers -- like, this is an ammo die, it determines when you're out of ammo. If you've treated your bullets with salt, it is now a d4 because it's probably going to jam.
 
-and put the cuffs on her and make me
+#### LOWRI
 
-kill a dexterity roll 10 under 12 okay
+Okay!
 
-so you couldn't you get on that and then
+#### JONNY
 
-take in the Western guys see the cuffs
+Okay, good. Alright, good -- good to know.
 
-go round you're holding her the Train is
+##### [LOWRI LAUGHS]
 
-literally 20 feet away I'm barreling
+#### ALEX
 
-towards you I have satin paper on that
+Oh, am I gagged, by the way? Just so I know.
 
-you're on the track she was standing on
+#### JONNY
 
-the track the track train is that'll be
+Uh, _[deliberating]_ no?
 
-your next turn aren't you what are you
+#### ALEX
 
-doing
+Okay, good to know, good to know.
 
-am I still on fire yes I stop drop and
+#### SASHA
 
-roll away from the tracks okay you are
+Mistake on their part.
 
-no longer on fire
+##### [LAUGHTER]
 
-that is your turn vilensky unless you
+#### JONNY
 
-want to try and save Schriever but you
+_[overlapping]_ If you do -- if you do speak though, they will go "Shh!" and return to what they were doing.
 
-would take some fire just just a choice
+#### ALEX
 
-just a choice I'm thrown out what are
+That's fine, I'm -- I'm not gonna -- I'm just gonna choose my moments.
 
-you doing I'm not a rugby tackle sorry
+#### JONNY
 
-but off the okay strength check if you
+So, how are you guys getting in?
 
-fail this you are all getting hit by a
+#### SASHA
 
-train I rolled away from the tracks how
+Well, I have got lock-picking, I can pick any lock by making a Flashlight roll, so...
 
-not you and not not massage but like the
+#### JONNY
 
-two are on the track people you try to
+Make a Flashlight roll. Yeah, there's -- there's one of those big old wire mesh gates --
 
-help them rescue me I have nothing
+#### SASHA
 
-that's gonna help me with this
+Where's my d10? Where's my d10? Oh, there it is, right.
 
-okay so now I thought this would go you
+#### ALEX
 
-leap tackling both of them with one hand
+_[overlapping]_ I think Lowri snagged it.
 
-yank the whistle off a brothel with the
+#### JONNY
 
-other hand throw the cap away I saw
+Oh, I've completely forgotten to get any of you to make any sort of stress roll --
 
-words I thought as you like as you do
+##### [DICE ROLLING]
 
-you can feel something else snap along
+#### SASHA
 
-with the cord not something physical
+Five!
 
-this mean reality and the train sort of
+#### JONNY
 
-starts to shatter with little bits of
+_[continuing]_ -- it's too late, now. Well, actually, no, it's not. Archie, make a stress roll because you're about to be crushed by a spectral train!
 
-glass question for the video are we
+##### [LAUGHTER]
 
-pepper ding glass die hardstyle where
+#### ALEX
 
-it's like oh no a bit a glass we're
+Would you like me to make you, like, three?
 
-peppered in glass like reality star is
+#### JONNY
 
-like oh god we're all in ribbons it's
+Yeah, go on, just knock yourself out. Just keep -- just keep --
 
-glass it's spiel awhile since you've
+#### ALEX
 
-seen die hard isn't it it messes him ah
+Uh, okay, I'm on d8, so...
 
-oh I was thinking more like terminator
+#### JONNY
 
-or something it's yeah like it's a might
+Actually, no. Actually, no, roll with disadvantage, so two d8s and take the lowest.
 
-like you're fine anyway it'll probably
+#### ALEX
 
-do a few points of damage to these guys
+'Kay.
 
-but I don't think enough to kill them
+##### [TWO DICE ROLLING IN QUICK SUCCESSION]
 
-okay that's kind of the rest of the
+Four!
 
-Train supporters start to scatter I
+#### JONNY
 
-shout I knew it right we want to make as
+You're fine, apparently, this is apparently, just not a -- not an issue for you, uh --
 
-many arrests as we can right now come on
+#### ALEX
 
-you for the murder of Jeffrey Mariner so
+And also I wouldn't worry too much, I mean, like, the library wasn't really that stressful for me, so I think -- I think I'm kind of up to scratch --
 
-you can be going around
+#### JONNY
 
-yeah I'm tighten up a few other
+Yeah, fair, fair. Okay. So, the gate swings open -- _[to Sasha]_ what did you roll on your Flashlights?
 
-transponders and yep you sort of cuff
+#### SASHA
 
-her sit her down a couple of minutes
+A five.
 
-later in walks the judge flanked by a
+#### JONNY
 
-few members of the town council oh geez
+Five, yeah, you're fine. The gate swings open. The train graveyard is quiet before you, the rain beating down. In the distance, deep in the distance, you can hear the whistle of a train coming.
 
-no no yeah he gives you a look have you
+#### LOWRI
 
-by made the arrest
+I --
 
-I did your honor detective Schreiber
+#### ALEX
 
-what are the charges
+And Archie's using this opportunity to yell --
 
-murderer Jeffrey marina what is the
+#### ARCHIE
 
-evidence she had been corresponding with
+Shoot them if they're wearing perv jackets!
 
-the deceased right your honor I've just
+##### [TRAIN CULTISTS SHUSH HIM]
 
-I'll lay it out for you I've got it all
+##### [LAUGHTER]
 
-figured out right okay
+#### LOWRI
 
-please explain the crime as though there
+I run towards the sound.
 
-were some audience who
+#### JONNY
 
-fully filled which in many ways there is
+You see Angela give a few of the other trainspotters a nod to send them off after these guys. As you round a corner, you can see a trainspotter, full anorak, with what looks like an old World War Two machine gun.
 
-because it is me the judge yes your
+##### [LAUGHTER]
 
-honor
+#### FRANK
 
-so Angela groffle several years ago her
+_[overlapping]_ Wow.
 
-husband dies and here's what she does
+#### JONNY
 
-she sets her sights on a young heir and
+That, uh, opens up on you. Could you please make a dexterity roll, please?
 
-she secretly marry Cynthia has to be a
+#### LOWRI
 
-secret sir because she knows the she is
+Absolutely, I have eighteen dexterity.
 
-like a kind of middle class this is only
+##### [DICE ROLLING]
 
-ridiculous I was trying to summon a
+Thirteen.
 
-demon train okay it's very simple there
+#### JONNY
 
-was a demon train which ate my husband
+Okay, so you're taking -- could you roll me a d6 -- actually, no, make it a d8, for how much damage you're taking.
 
-years ago he was one of the original
+##### [DICE ROLLING]
 
-train spotters and he was trying to
+#### LOWRI
 
-summon the train from power the power of
+Two.
 
-steam but his hubris costumers life and
+#### JONNY
 
-I discovered a way bring it back but the
+Okay, so it just -- doesn't actually hit you, but you dive to the ground and spread yourself out on top of it.
 
-whistle the whistle died with him so I
+#### ALEX
 
-had to reman efest the whistle so I
+A light grazing from a machine gun!
 
-tricked that fool I didn't love him I
+#### JONNY
 
-didn't marry him he's not an alien and
+You can see other trainspotters approaching with -- the other ones mainly seem to have knives drawn? Like kitchen knives. It's mainly the knives that they found in kitchen drawers and one of them has a machine gun. So, what are you guys doing? Lowri, you've already done yours because if you had succeeded you would have got an attack. So, one of the things The Cthulhu Hack does is rather than having enemy attacks and player attacks, you ro- you choose what you're doing, you make a roll, if you're successful, you damage them. If you're not successful, they damage you.
 
-he was just yes
+#### ALEX
 
-I mean that's got nothing to do with
+Sure.
 
-anything the possession of Mara our
+#### JONNY
 
-affair is completely tangential of this
+And there are a couple of additional ones -- because there are more of them, they will get one or two extra attacks on you. So. Frank. What're you doing?
 
-whole time I knew it anyway point is I
+#### FRANK
 
-try to something - do you train under
+I want to try and find the leader of this little, uh... trainspotters club.
 
-women who are derailing your confession
+#### JONNY
 
-thank you for confessing you want your
+That would be Angela, she is currently standing over Archie, blowing her whistle. That light's getting closer, Archie.
 
-colleagues very irritated yeah yes
+#### ALEX
 
-sergeant I think I do one second guilty
+It's fine, I've got my thermite, this'll solve my problems.
 
-he slams a gavel down on nothing in
+#### FRANK
 
-particular it rings out and the members
+So, I can see that he's tied --
 
-of the town council to sort of walk over
+#### JONNY
 
-pick up Angela Carter away yes what did
+Not at the moment, there are a couple of trainspotters between you and the circle.
 
-you want sergeant you've met my um
+#### FRANK
 
-detectives land of that one your life
+I wanna punch these trains, what does that look like?
 
-yes
+#### JONNY
 
-a transfer that's I don't work for the
+Okay, brilliant. That would be a strength check.
 
-police -
+##### [DICE ROLLING]
 
-put in a word that you understand and I
+#### FRANK
 
-think it would be good quick baby my
+_[drawn out]_ Fiiiive? Is it supposed to be under or --
 
-help that's made assault I will not
+#### JONNY
 
-he turns around and leaves case closed
+Under your strength.
 
-everyone I know as a success cuz
+#### FRANK
 
-everything's the same at the end that
+Oh, okay, yeah, I rolled a five.
 
-was real weird and when I survived there
+#### ALEX
 
-was some energy in this room so that was
+_[laughs]_ Oh, I don't have to lie about what I rolled then!
 
-the setting was dust collar PD from a
+##### [LAUGHTER]
 
-government company and the system was
+#### JONNY
 
-the Cthulhu hack by Paul bald our ski
+_[overlapping]_ What's your -- what's unarmed damage?
 
-you can find more about McGuffin company
+#### FRANK
 
-at MacGuffin and company comm or
+It is a... d8.
 
-patreon.com forward slash MacGuffin and
+#### JONNY
 
-company and they'll be links in the show
+Fantastic, roll a d8.
 
-notes there'll be links in the show
+##### [DICE ROLLING]
 
-notes to all of this you can find more
+#### FRANK
 
-information about the Cthulhu hack at
+One.
 
-through hacker comm as well as I believe
+##### [JONNY LAUGHS]
 
-Paul also has patreon for that I got a
+#### ALEX
 
-couple if we survive the Cthulhu hike
+_[overlapping]_ Roll better.
 
-I've never done anything like this
+#### JONNY
 
-before
+I mean, you like shove him. And he sort of staggers back and he's like --
 
-Yussef I to be fair I was playing it a
+#### TRAINSPOTTER
 
-bit I should have been making you guys
+_[baffled]_ What?
 
-role a lot more stress Anna maybe I
+#### FRANK
 
-should have been hurting you more you
+I just want him out of the way!
 
-did get shot with the machine gun I did
+#### JONNY
 
-set myself stabbed yeah like and none of
+I mean, he's out of the way. Uh, but he still, like, has a knife and is like _[weird voice]_ "I'm gonna stab you".
 
-those did as much damage as how she
+##### [ALEX LAUGHS]
 
-falling out of a window she did more
+#### FRANK
 
-damage than any of like antagonists but
+_[overlapping]_ Well, don't.
 
-he just did it to himself so thank you
+#### JONNY
 
-all for listening there will obviously
+So, Sasha.
 
-be some more Magnus hiatus content
+#### SASHA
 
-you're coming until the start of season
+I'm gonna be trying to, like, hop up onto trains and then run across them to basically, like, avoid the ground --
 
-5 if you want more actual play goodness
+#### ALEX
 
-with mostly completely different people
+_[overlapping]_ Oh, I should've done that.
 
-except Alex's the GM in that one rusty
+#### SASHA
 
-quill gaming so it's people is it's it's
+_[continuing]_ -- and get there real quick.
 
-a different sort of chaos and I believe
+#### JONNY
 
-everyone else here has featured on
+Make me a dexterity roll.
 
-various specials rustical gaming i have
+#### SASHA
 
-on the bermuda special yes also we do a
+Okay.
 
-lot of micro settings another one not
+##### [DICE ROLLING]
 
-far to bermuda where you're all trapped
+That's bad! I got a twenty.
 
-on a cruise ship so please have a look
+#### JONNY
 
-at that feed and have fun and most
+That is bad.
 
-importantly just look after yourselves
+#### SASHA
 
-good bye
+And a twelve -- which is over twelve.
 
-this episode is distributed by rusty
+#### JONNY
 
-quill and licensed under a creative
+So, you climb up onto the top of the train and unfortunately, standing there is just the *biggest* anorak you've seen with what looks like... you know those gardening implements that you sort of dig in and used to pull up weeds.
 
-commons
+#### SASHA
 
-attribution-noncommercial-sharealike 4.0
+Yeah.
 
-international license for more
+#### JONNY
 
-information visit rusty Qualcomm
+Got one of them and he just stabs you.
 
-twitter's at the rusty quill visit us on
+##### [LOWRI GASPS]
 
-Facebook or email us at male at a rusty
+#### SASHA
 
-Qualcomm thanks for listening
+Oh no!
 
-you
+#### JONNY
+
+Roll me a d10 for your damage.
+
+#### SASHA
+
+_[overlapping]_ That's real bad!
+
+##### [DICE ROLLING]
+
+Two.
+
+#### JONNY
+
+Okay, so it -- you -- it stabs you a bit --
+
+#### SASHA
+
+_[overlapping]_ Just a little stabbing.
+
+##### [LAUGHTER]
+
+#### JONNY
+
+_[overlapping]_ Just a little bit of a stabbing.
+
+#### GABRIELLE
+
+Ow!
+
+#### JONNY
+
+So, there are a couple of others who are charging with knives, one will go for Husselback, and one will go for Walensky. So could you both make me strength rolls, please.
+
+#### ALEX
+
+I'd help but I'm here to raise the stakes, sorry guys.
+
+##### [SASHA AND LOWRI LAUGH]
+
+##### [TWO DICE ROLLING]
+
+#### LOWRI
+
+I got seventeen, so my strength is six.
+
+#### FRANK
+
+_[overlapping]_ Fourteen.
+
+#### JONNY
+
+_[to Frank]_ Yeah, so you're fine -- you're fine, you managed to just, like, kick him away. _[to Lowri]_ You get a little bit more stabbed. Just a -- this'll just be a d6, I think.
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+Three.
+
+#### JONNY
+
+So, that's three damage.
+
+#### LOWRI
+
+Down to six.
+
+#### ALEX
+
+You want to be tied to the train tracks, much safer!
+
+#### LOWRI
+
+Apparently so.
+
+#### ALEX
+
+How's my thermite plan going?
+
+#### JONNY
+
+You've got enough if you want to -- if you want to light it.
+
+#### ALEX
+
+Archie yells out -- because Archie knows that thermite burns really brightly --
+
+#### ARCHIE
+
+Uh, aw jeez, uh, _[yells]_ hey! Everybody look over here! Ooh!
+
+#### ALEX
+
+And then lights the thermite. In hopes of maybe getting --
+
+#### JONNY
+
+_[overlapping]_ Okay, so. I'm going to straight -- like, I would -- I would ask you to make a saving throw but you're lighting some thermite under you.
+
+#### ALEX
+
+Not a lot! Little bit.
+
+#### JONNY
+
+So -- mm, okay. So, what I'm gonna say... is please roll me a d10 for how much damage you take. If you roll one or a two, you do not burn through the ropes. If you roll three or above, you burn through the ropes. You are also taking this much damage, to be clear.
+
+#### ALEX
+
+Oh, this is great!
+
+#### LOWRI
+
+Wow.
+
+#### ALEX
+
+Okay.
+
+#### SASHA
+
+How much health have you got?
+
+#### ALEX
+
+Was just gonna say. Okay, so... I can kill myself with this.
+
+#### FRANK
+
+Nice.
+
+#### ALEX
+
+So let's see how we're doing.
+
+##### [DICE ROLLING]
+
+In fact, there's a solid chance I'm killing myself with this.
+
+##### [VARIOUS PEOPLE EXCLAIM]
+
+So I have seven hit points, I have done myself six hit points worth of damage.
+
+#### FRANK
+
+_[overlapping]_ Jesus.
+
+#### JONNY
+
+Okay, you burn through the rope. So, there is a bright light as, uh --
+
+#### EMMA
+
+_[overlapping]_ Kid, no!
+
+#### JONNY
+
+_[continuing]_ -- Archie's MacGyvered thermite ignites, igniting the ropes, igniting him --
+
+##### [ARCHIE YELLS]
+
+#### ARCHIE
+
+_[overlapping]_ Aw jeez! Aw, it's everywhere! Oh god!
+
+#### JONNY
+
+-- you are -- you took six damage! You are -- and you are very much on fire. Just to be clear --
+
+#### ARCHIE
+
+_[overlapping]_ Aw jeez, oh god!
+
+#### EMMA
+
+_[overlapping]_ Drop and roll, kid! Drop and roll!
+
+#### JONNY
+
+_[overlapping]_ -- you are *super* on fire.
+
+#### ARCHIE
+
+_[overlapping]_ _[hysterical]_ Oh jeez, oh god! Oh boy! Oh boy! Oh, I'd rather have the goo! Aw jeez, oh man, oh jeez.
+
+#### JONNY
+
+But at the very least you're freed!
+
+#### ALEX
+
+I immediately try to run off, on fire, away from the train that's clearly gonna crush me before I burn to death from the fire I lit on myself.
+
+#### JONNY
+
+You can see, approaching now -- it's -- like, as you go up, you can see, reflected down the tunnel, a locomotive of black glass approaching.
+
+#### ALEX
+
+Oh, good god.
+
+#### JONNY
+
+At a reasonable clip.
+
+#### ALEX
+
+Yeah, I'll take the thermite burns, thanks.
+
+#### JONNY
+
+Glowing green smoke billowing from the stack.
+
+#### LOWRI
+
+Can we all see it?
+
+#### JONNY
+
+Uh, no you're not there yet.
+
+#### LOWRI
+
+Ahh.
+
+#### ALEX
+
+_[overlapping]_ Yeah, I am -- I am -- _[unintelligible]_.
+
+#### JONNY
+
+But you can -- you can get there, now, if you'd like.
+
+#### LOWRI
+
+Yeah, I'm still running to --
+
+#### EMMA
+
+_[yells]_ Kid!
+
+#### JONNY
+
+Okay, so I'll say that you can reach them. Are you attacking any of the trainspotters or are you -- what do -- what do you?
+
+#### LOWRI
+
+I'm saving all of my salt bullets for that train that's coming towards us, 'cause it's clearly an alien.
+
+#### FRANK
+
+Oh my god.
+
+#### JONNY
+
+I mean, I'm gonna say you can see the train, if you want to take a shot at the train... just go for it, go for it, try to shoot the train.
+
+#### LOWRI
+
+_[overlapping slightly]_ I'm going for it. What do I roll?
+
+#### JONNY
+
+Dexterity would be for a -- for a bullet.
+
+#### LOWRI
+
+Not damage?
+
+#### JONNY
+
+No, not -- I mean, you've got to hit it first.
+
+#### LOWRI
+
+Oh yeah, of course, sorry. Oh dear, I have dexterity eight.
+
+##### [DICE ROLLING]
+
+#### FRANK
+
+What if you miss the train?
+
+#### LOWRI
+
+I hit the train!
+
+#### ALEX
+
+_[overlapping]_ Yes!
+
+#### SASHA
+
+_[overlapping]_ Hooray!
+
+#### LOWRI
+
+I got a six!
+
+#### JONNY
+
+Okay, could you roll me...
+
+#### LOWRI
+
+Well, armed I have a d6.
+
+#### JONNY
+
+You have -- so that's a d6 damage.
+
+#### ALEX
+
+But you're using salt bullets.
+
+#### LOWRI
+
+Oh, yeah.
+
+#### JONNY
+
+So that's a d6 damage. D4 for the ammo.
+
+#### ALEX
+
+Oh, sorry. I'm with you now.
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+Three.
+
+#### JONNY
+
+Okay, grand. It has --
+
+#### ALEX
+
+That is salt damage.
+
+#### JONNY
+
+Yes. Uh --
+
+#### LOWRI
+
+It's clearly a supernatural alien train, it has green smoke.
+
+#### JONNY
+
+Yes it is, but it's also... not vulnerable to salt!
+
+##### [ALEX AND LOWRI LAUGH]
+
+#### LOWRI
+
+No, you're wrong!
+
+#### ALEX
+
+_[overlapping, quieter]_ It's okay, I'm on fire, I didn't notice.
+
+#### JONNY
+
+_[overlapping]_ So, your bullet -- I mean, your bullet hits the huge train and backtracks.
+
+#### LOWRI
+
+Does it shatter?
+
+#### JONNY
+
+No.
+
+#### LOWRI
+
+_[disappointed]_ Oh.
+
+#### JONNY
+
+Could you please roll me a d4?
+
+##### [DICE ROLLING]
+
+#### LOWRI
+
+Three.
+
+#### JONNY
+
+Hey, your gun's still working!
+
+#### LOWRI
+
+Yay!
+
+#### JONNY
+
+So... Frank.
+
+#### FRANK
+
+Well, I was trying to get to Grockle.
+
+#### JONNY
+
+I will say that you can -- you can reach her, are you just shouldering your way past the -- the trainspotters who are trying to stab you?
+
+#### FRANK
+
+Yeah.
+
+#### JONNY
+
+The machine gun one is gonna try and hit you so whatever you do this turn, if you fail, you're gonna get a little bit machine gunned.
+
+#### FRANK
+
+I'm gonna try and grab her.
+
+#### JONNY
+
+Yeah, okay. Make me a strength check.
+
+#### FRANK
+
+Oh, and I also want to try and rip the whistle off from around her neck.
+
+#### ALEX
+
+Grab her by the whistle!
+
+#### JONNY
+
+If you -- if you want to go for the whistle, that's dexterity, if you want to just grab her, that's strength. I am gonna say, however, that she is currently supernaturally empowered by the oncoming train, and so you will be reducing your strength by four.
+
+#### LOWRI
+
+I should've gone for her, she can die.
+
+#### JONNY
+
+No -- _[sarcastic]_ nooo --
+
+#### LOWRI
+
+_[overlapping]_ _[laughing]_ No regrets.
+
+#### JONNY
+
+-- Shooting the train with a pistol -- with some salty bullets from a pistol? That was a great plan. That was a great plan, Lowri.
+
+#### ALEX
+
+_[overlapping]_ No, you should have thrown your pistol at the train.
+
+#### FRANK
+
+I'm gonna go for the whistle, but can I use my ripped ability to roll at advantage?
+
+#### JONNY
+
+Are you saying you want to be so muscled, that you just --
+
+#### ALEX
+
+You're assuming, okay, that Frank saying that they wanna grab by the hand -- it could be, one pec here, one pec there --
+
+#### FRANK
+
+Yeah, do it Terry Crews style.
+
+##### [LAUGHTER]
+
+#### LOWRI
+
+_[overlapping]_ Just hug her.
+
+#### JONNY
+
+Okay, fine, you've still got -- you've still got five for dexterity, so roll with advantage, do it!
+
+#### FRANK
+
+_[overlapping]_ Yeah, I know, it's fine.
+
+#### ALEX
+
+Grab it with your pecs!
+
+#### FRANK
+
+Okay, that was a sixteen.
+
+#### JONNY
+
+It's not enough. I mean, it's --
+
+#### FRANK
+
+_[overlapping]_ Too much.
+
+#### JONNY
+
+_[overlapping]_ -- too much.
+
+[DICE ROLLING]
+
+#### FRANK
+
+That was a fifteen.
+
+##### [VARIOUS SOUNDS OF DISAPPOINTMENT]
+
+#### LOWRI
+
+_[overlapping]_ How'd you fail?
+
+#### JONNY
+
+You flex your -- _[grunting noises like someone flexing]_ -- and she sort of takes a single step back --
+
+#### ALEX
+
+Dammit! I didn't think of that.
+
+#### JONNY
+
+Trouble is, like, it's -- you're very strong, but not super flexible, 'cause of all the muscles?
+
+#### FRANK
+
+_[overlapping]_ Yeah.
+
+##### [GENERAL SOUNDS OF SADNESS]
+
+#### ALEX
+
+It's like a sticker stuck between the shoulder blades.
+
+#### JONNY
+
+_[overlapping]_ Sasha.
+
+#### SASHA
+
+Okay, so I'm up high, presumably because I'm up high I can see what's going on.
+
+#### JONNY
+
+Yes, you can.
+
+#### SASHA
+
+Okay, if I want to go for -- I want to try and just run, grab Angela Grockle, and put the cuffs on her.
+
+#### JONNY
+
+Oh, also -- sorry -- you also got machine gunned, I forgot I'd said that. So could you roll a d10 and take that much damage. But you're in decent health so it's not a problem. Yeah, you get a little bit machine gunned for four damage. What did you say you did?
+
+#### FRANK
+
+_[overlapping]_ Only took some bullets.
+
+#### SASHA
+
+I want to run for Angela Grockle and put the cuffs on her.
+
+#### JONNY
+
+Make me a dexterity roll.
+
+##### [DICE ROLLING]
+
+#### SASHA
+
+Ten.
+
+##### [ALEX "OOH"S]
+
+Under... 12.
+
+#### JONNY
+
+Okay, so yeah, you couldn't -- you can --
+
+#### FRANK
+
+Should've done that and then taken the whistle.
+
+#### ALEX
+
+_[overlapping]_ With your pecs.
+
+#### FRANK
+
+_[overlapping]_ I know.
+
+#### JONNY
+
+_[continuing]_ -- tackle her. So you -- the cuffs go round. You're holding her. The train is literally twenty feet away and barreling towards you. Archie, what do you do?
+
+#### ALEX
+
+Grind her face down like a sandpaper on the train.
+
+##### [FRANK MAKES A DISTURBED NOISE]
+
+#### JONNY
+
+Well, no, no, you're *on* the track. She was standing on the track.
+
+#### ALEX
+
+_[overlapping]_ Get off the track!
+
+#### JONNY
+
+You are currently on the track. The train is --
+
+#### SASHA
+
+I wanna -- I wanna --
+
+#### JONNY
+
+_[overlapping]_ That'll be your next turn. Archie, what are you doing?
+
+#### ALEX
+
+Am I still on fire?
+
+#### JONNY
+
+Yes.
+
+#### ALEX
+
+I stop, drop, and roll away from the tracks.
+
+#### JONNY
+
+Okay, you are no longer on fire. That is your turn. Walensky -- unless you want to try and save Schreiber, _[whispers]_ but you would take some fire damage. _[normal]_ Just -- just a choice, just a choice I'm throwing out there for you, Archie.
+
+#### LOWRI
+
+Oh! I know, I mean...
+
+##### [BEAT OF SILENCE]
+
+Yeah, I'm gonna --
+
+#### JONNY
+
+_[overlapping]_ Eh, too late, Walensky, your go.
+
+#### LOWRI
+
+_[overlapping]_ I'm not --
+
+##### [LOWRI MAKES A FRUSTRATED SOUND]
+
+#### JONNY
+
+What are you doing?
+
+#### LOWRI
+
+I'm going to rugby tackle Schreiber off the...
+
+#### JONNY
+
+Okay, strength check. _[sing-song]_ If you fail this you are all getting hit by a train.
+
+#### ALEX
+
+I rolled away from the tracks, how dare you --
+
+#### JONNY
+
+_[overlapping slightly]_ Not you. And not -- not the Sarge, but like, the two who are on the track with, uh --
+
+#### ALEX
+
+The people who tried to help and rescue me.
+
+#### LOWRI
+
+I have nothing that's gonna help me with this.
+
+##### [DICE ROLLING]
+
+One!
+
+##### [CHEERING FROM OTHERS]
+
+Oh, nailed it!
+
+##### [CLAPPING]
+
+#### JONNY
+
+Okay, uh --
+
+#### SASHA
+
+Life for everyone!
+
+##### [LAUGHTER]
+
+#### ALEX
+
+So not how I thought this would go.
+
+#### JONNY
+
+_[overlapping slightly]_ So you -- you leap, tackling both of them. With one hand, you yank the whistle off Angela Grockle. With the other hand, you throw the cap away.
+
+#### FRANK
+
+Pile of salt will help some.[^1]
+
+[^1]: unsure of this
+
+##### [ALEX LAUGHS]
+
+#### ALEX
+
+Oh, salt and burns.
+
+#### JONNY
+
+As you -- like, as you do, you can feel something else snap along with the cord. Not something physical but something in reality and the train sort of... starts to shatter. You're all peppered with little bits of glass.
+
+#### ALEX
+
+Question for the -- for the DM. Are we peppered in glass Die Hard-style where it's like "oh no, a bit a glass" or are we peppered in glass like reality-style where it's like "oh god, we're all in ribbons, it's glass".
+
+#### FRANK
+
+I assume it's Die Hard style.
+
+#### JONNY
+
+It's been awhile since you've seen Die Hard, isn't it, 'cause that -- it *messes him up*!
+
+#### ALEX
+
+_[overlapping]_ Oh, I suppose, yeah. Bad example.
+
+#### JONNY
+
+_[overlapping]_ It messes him up, massively!
+
+#### SASHA
+
+Gets *all* up in his feet.
+
+#### ALEX
+
+I was thinking more like Terminator or something.
+
+#### JONNY
+
+It's -- yeah, like, it's -- it might, like, *you're* fine, anyway. It'll probably do a few points of damage to these guys but I don't think enough to kill them.
+
+#### ALEX
+
+_[overlapping]_ Okay, that's kind of what I was getting at, good to know.
+
+#### JONNY
+
+The rest of the trainspotters start to scatter.
+
+#### LOWRI
+
+I shout --
+
+#### EMMA
+
+I knew it!
+
+#### CARL
+
+Right, we want to make as many arrests as we can right now. Come on, come on _[snapping fingers]_.
+
+#### GABRIELLE
+
+Angela Grockle, I'm arresting you for the murder of Geoffrey Mariner.
+
+#### JONNY
+
+So, you -- you can be going around, like, tying up a few other trainspotters, and, yep, you sort of cuff her, sit her down, couple of minutes later, in walks the judge. Flanked by a few members of the town council.
+
+#### ARCHIE
+
+Aw jeez. Oh no.
+
+#### JONNY
+
+Yeah, he gives you a look.
+
+#### ARCHIE
+
+_[whispers]_ It's okay, I've planted some Marlboros on her! We've got her bang to rights!
+
+#### EMMA
+
+_[gasps]_ I'm so proud of you, boy!
+
+#### JUDGE
+
+Who made the arrest?
+
+#### GABRIELLE
+
+I did your honor.
+
+#### JUDGE
+
+Detective Schreiber. What are the charges?
+
+#### GABRIELLE
+
+Murder of Geoffrey Mariner.
+
+#### JUDGE
+
+What is the evidence?
+
+#### GABRIELLE
+
+She had been corresponding with the deceased. Right, your honor, I'll just -- I'll lay it out for you, I've got it all figured out, right, okay. Angela Grockle --
+
+#### JUDGE
+
+Yes, please explain the crime as though there were some audience who needed to be fully filled in.
+
+##### [LAUGHTER]
+
+#### GABRIELLE
+
+_[overlapping]_ Right, Angela --
+
+#### JUDGE
+
+_[overlapping slightly]_ Which in many ways there is, because it is me, the judge.
+
+#### GABRIELLE
+
+Yes, your honor. So, Angela Grockle -- several years ago, her husband dies and here's what she does, she sets her sights on a young heir and she secretly marries him, it has to be a secret, sir, because she knows that, she is like a -- a kind of middle class, middle-aged woman --
+
+#### FRANK
+
+_[overlapping]_ Oh my gosh.
+
+#### EMMA
+
+_[overlapping]_ _[loud]_ It was aliens!
+
+##### [ALEX LAUGHS]
+
+#### GABRIELLE
+
+Don't listen to that, sir.
+
+#### ANGELA
+
+It was none of the- don't --
+
+#### GABRIELLE
+
+_[overlapping]_ So, basically --
+
+#### ANGELA
+
+This is all ridiculous. _[louder]_ I was trying to summon a demon train, okay! It's very simple, there was a demon train which ate my husband years ago. He was one of the original trainspotters and he was trying to summon the train for power, the power of steam. But his hubris cost him his life and I discovered a way to bring it back, but the whistle -- the whistle died with him, so I had to re-manifest the whistle, so I tricked that *fool.* I didn't love him, I didn't marry him, he's not an alien, he was just a fool --
+
+#### GABRIELLE
+
+No, well, this is the thing -- she was having an affair with the housekeeper!
+
+##### [LOWRI LAUGHS]
+
+#### ANGELA
+
+What, Nellie?
+
+#### GABRIELLE
+
+Yes.
+
+#### ANGELA
+
+I mean that's got nothing to do with anything.
+
+#### ARCHIE
+
+That, and possession of Marlboros.
+
+#### ANGELA
+
+Our affair is completely tangential of this whole case.
+
+#### GABRIELLE
+
+I knew it.
+
+#### ANGELA
+
+Anyway, point is, I tried to summon a demon train and it went badly for me...
+
+#### ALEX [OVERLAPPING]]
+
+I love how you have a team of cops who are derailing your *confession*! _[quieter]_ Pun intended.
+
+#### CARL
+
+Well, thank you for confessing.
+
+#### ANGELA
+
+Your -- your colleague's very irritating.
+
+##### [LOWRI LAUGHS QUIETLY IN THE BACKGROUND]
+
+#### CARL
+
+Yeah, uh --
+
+#### ANGELA
+
+Very irritating.
+
+#### ALEX
+
+_[whisper-shouting]_ Yeah!
+
+##### [ALEX AND LOWRI HIGH-FIVE]
+
+#### CARL
+
+Your honour, do you have a moment?
+
+#### JUDGE
+
+Yes, Sergeant, I think I do. One second. Guilty!
+
+#### JONNY
+
+He slams a gavel down on nothing in particular. It rings out and the members of the town council just sort of walk over, pick up Angela Grockle, cart her away.
+
+#### JUDGE
+
+Yes, what did you want, Sergeant?
+
+#### CARL
+
+You've met my, um, detectives.
+
+#### ALEX
+
+_[overlapping]_ Give him a wa- oh. Give him a wave.
+
+#### CARL
+
+And... that one.
+
+#### JUDGE
+
+Uh-huh, yes.
+
+#### CARL
+
+I really want a transfer.
+
+#### JUDGE
+
+That's -- I don't work for the police department --
+
+#### CARL
+
+No, but I mean, if you could put in a word that you understand and think it would be good... for my health.
+
+#### EMMA
+
+_[sotto voce]_ Quick, kid! Pass me the salt!
+
+#### JUDGE
+
+I will not.
+
+#### CARL
+
+Fair enough.
+
+#### JONNY
+
+He turns around and leaves.
+
+#### ALEX
+
+Yay!
+
+#### JONNY
+
+Case closed, everyone!
+
+#### ALEX
+
+That's how you know it's a success, 'cause everything's the same at the end of the episode!
+
+##### [LAUGHTER]
+
+##### [RAIN FADES OUT]
+
+#### JONNY
+
+That was... real weird and went... _[trails off, struggling to describe it]_.
+
+#### ALEX
+
+I survived!
+
+#### FRANK
+
+_[overlapping]_ That was impressive!
+
+#### JONNY
+
+_[overlapping]_ There was some energy in this room. So that was -- the setting was Duskhollow PD, from MacGuffin & Company and the system was The Cthulhu Hack by Paul Baldowski. You can find more about MacGuffin & Company at [macguffinandcompany.com](http://macguffinandcompany.com), or [patreon.com/macguffinandcompany](http://patreon.com/macguffinandcompany) --
+
+#### ALEX
+
+And there'll be links in the show notes.
+
+#### JONNY
+
+There'll be links in the show notes to all of this. You can find more information about The Cthulhu Hack at cthulhuhack.com, as well as, I believe, Paul also has a Patreon for that.
+
+#### ALEX
+
+I -- I can't believe we survived a Cthulhu Hack, I've never done anything like this before.
+
+#### FRANK
+
+I can't believe *you* survived.
+
+##### [LAUGHTER]
+
+#### ALEX
+
+[high-pitched] I know!
+
+#### JONNY
+
+To be fair, I was playing it a bit -- I should have been making you guys roll a lot more stress. I don't know, maybe I should have been hurting you more, you did get shot with a machine gun.
+
+#### ALEX
+
+_[overlapping]_ I did set myself on fire, as well.
+
+#### JONNY
+
+_[overlapping]_ Yeah, you did, as well.
+
+#### LOWRI
+
+_[overlapping]_ That didn't really do a lot of damage.
+
+#### FRANK
+
+_[overlapping slightly]_ Sasha got stabbed!
+
+#### JONNY
+
+Yeah, like -- and none of those did as much damage as Archie falling out of a window.
+
+##### [LAUGHTER]
+
+#### ALEX
+
+_[overlapping]_ That really messed me up!
+
+#### FRANK
+
+A ground floor window, into a bush.
+
+#### ALEX
+
+Oh, yeah! Hell of a bush.
+
+#### SASHA
+
+In fact, Archie did more damage than any of our, like, antagonists but he just did it to himself.
+
+#### ALEX
+
+Mega boss!
+
+#### JONNY
+
+So, thank you all for listening. There will obviously be some more Magnus hiatus content --
+
+#### ALEX
+
+_[overlapping]_ Yup!
+
+#### JONNY
+
+-- uh, coming until the start of season five. If you want more actual play goodness with mostly completely different people -- except Alex is the GM in that one -- Rusty Quill Gaming --
+
+#### ALEX
+
+So it's pure chaos!
+
+#### JONNY
+
+_[continuing]_ is -- it's -- it's a different sort of chaos. And I believe everyone else here has featured on various specials for Rusty Quill Gaming.
+
+#### LOWRI
+
+I have, on the Bermuda special, which is another of yours.
+
+#### JONNY
+
+_[overlapping slightly]_ Yes! Yeah, MacGuffin & Company also -- we do a lot of micro settings, another one, Not Far To Bermuda, where you're all trapped on a cruise ship --
+
+#### SASHA
+
+"Trapped" is a horrible word, it's a holiday!
+
+#### JONNY
+
+I'm sorry -- yeah, you're all having a lovely holiday for... three hundred days.
+
+#### ALEX
+
+_[overlapping]_ It won't end! The holiday won't end!
+
+#### JONNY
+
+So, please have a look at that feed and have fun and most importantly -- just, look after yourselves.
+
+#### ALEX
+
+Bye everyone.
+
+#### JONNY
+
+Good bye!
+
+#### ALL
+
+Bye!

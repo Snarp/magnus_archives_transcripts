@@ -136,7 +136,7 @@ You see the scratches on the wall. You see the... nest of discarded clothes. And
 
 #### BRYN
 
-[CHUCKLES APPRECIATIVELY] Zeke will... poke at the... skin with his club.
+_[CHUCKLES APPRECIATIVELY]_ Zeke will... poke at the... skin with his club.
 
 #### ALEX
 
@@ -184,7 +184,7 @@ _(simult.)_ Poking the other--
 
 #### ALEX
 
-_(simult.)_ *Don't* ***poke** it!*
+_(simult.)_ *Don't __poke__ it!*
 
 #### JONNY
 
@@ -192,7 +192,7 @@ _(simult.)_ *Don't* ***poke** it!*
 
 #### BRYN
 
-[SHUDDERS] Is there anything in the nest, if I go and poke around, for...
+_[SHUDDERS]_ Is there anything in the nest, if I go and poke around, for...
 
 #### JONNY
 
@@ -384,11 +384,11 @@ _(simult.)_ I said the things are gonna kill us--
 
 #### ZEKE
 
-We gotta find it and we gotta *kill it*.
+We gotta find it and we gotta *kill it.*
 
 #### NATHANIEL
 
-*Or*... ***or***... we have an *extra horse*. And we flee. We flee! _(nervous tune)_ Doodle-oo-doo! Away we go.
+*Or*... **_or_**... we have an *extra horse.* And we flee. We flee! _(nervous tune)_ Doodle-oo-doo! Away we go.
 
 #### CIGARILLO
 
@@ -826,7 +826,7 @@ Based on your... based on what you'd seen of him before, your suspicions, and th
 
 #### JAMES
 
-[LAUGHS] "Huh!" Did I--how high did I need to roll in order to go like--
+_[LAUGHS]_ "Huh!" Did I--how high did I need to roll in order to go like--
 
 ##### [BRYN CHUCKLES]
 
@@ -980,7 +980,7 @@ You *see?* You see--this--*this* is what I'm getting at.
 
 #### CIGARILLO
 
-[PANTING] What d--what d'y--_[coughs]_--what d'you think it was? I...
+_[PANTING]_ What d--what d'y--_[coughs]_--what d'you think it was? I...
 
 #### NATHANIEL
 
@@ -1056,7 +1056,7 @@ One animal... or a *dozen* angry townsfolk.
 
 #### CIGARILLO
 
-[QUIET HALF-LAUGH] I'm startin' to think I wanna take on the townsfolk.
+_[QUIET HALF-LAUGH]_ I'm startin' to think I wanna take on the townsfolk.
 
 ##### [AN EVEN MORE THREATENING EXHALE FROM THE CAVE UNDER ZEKE'S WORDS]
 
@@ -2148,7 +2148,7 @@ _(whispering)_ Ca-caawww.
 
 #### NATHANIEL
 
-_(whispering)_ ***Ca-caaaaawww***.
+_(whispering)_ __*Ca-caaaaawww.*__
 
 #### JONNY
 
@@ -2178,7 +2178,7 @@ This place is... *3 spooky*.
 
 #### ALEX
 
-*Not **3** spooky!* This is--
+*Not __3__ spooky!* This is--
 
 #### JONNY
 
@@ -2240,7 +2240,7 @@ Oh no.
 
 #### JONNY
 
-You do, however, have **1** point of Grit.
+You do, however, have __1__ point of Grit.
 
 #### ALEX
 
@@ -2304,7 +2304,7 @@ Come on. Come on.
 
 #### ALEX
 
-And a **4**! HE'S GOT A **10**!
+And a __4__! HE'S GOT A __10__!
 
 #### JONNY
 
@@ -2340,7 +2340,7 @@ Die.
 
 #### ALEX
 
-[BURSTS OUT LAUGHING] Yes. Yes, I am.
+_[BURSTS OUT LAUGHING]_ Yes. Yes, I am.
 
 ##### [LAUGHTER]
 
@@ -2394,11 +2394,11 @@ And they explode if you've rolled a 6.
 
 #### ALEX
 
-Oh--! Okay. 6, 7, 8, 9, 10, 11, and then the second roll on the 6 was a further 2, so **13**.
+Oh--! Okay. 6, 7, 8, 9, 10, 11, and then the second roll on the 6 was a further 2, so __13__.
 
 #### JONNY
 
-13\. The bullets sink in its shoulder, which explodes, spraying bits of flesh and ichor and just nastiness all over the walls. It sort of tumbles. It's not dead, and it's not stopping, but it does mean you can just... press yourself against the wall, and let it kind of scramble past you. It's not trying to kill you anymore, 'cause you've hurt it.
+13. The bullets sink in its shoulder, which explodes, spraying bits of flesh and ichor and just nastiness all over the walls. It sort of tumbles. It's not dead, and it's not stopping, but it does mean you can just... press yourself against the wall, and let it kind of scramble past you. It's not trying to kill you anymore, 'cause you've hurt it.
 
 #### ALEX
 
@@ -2414,7 +2414,7 @@ Mm-hm.
 
 #### JONNY
 
-[SNORTS] All right, uh...
+_[SNORTS]_ All right, uh...
 
 ##### [LAUGHTER]
 
@@ -2584,7 +2584,7 @@ Yeah. 7.
 
 #### JONNY
 
-7\. Okay, what's your Toughness?
+7. Okay, what's your Toughness?
 
 #### ALEX
 
@@ -2774,23 +2774,23 @@ Fletcher... wise enough not to pick the fight, moves the lantern to his left han
 
 As you head up towards the entrance, you can start to hear voices. Drifting down.
 
-**VOICE 1:**Abel! Abel, you say you still heard something?
+__VOICE 1:__ Abel! Abel, you say you still heard something?
 
-**VOICE 2:**Yeah. Can't see much, though.
+__VOICE 2:__ Yeah. Can't see much, though.
 
-**VOICE 1:**Gunshots, right, was it?
+__VOICE 1:__ Gunshots, right, was it?
 
-**VOICE 2:**Yeah. Dark, though.
+__VOICE 2:__ Yeah. Dark, though.
 
-**VOICE 1:**Well, you've been down here about 5 minutes. You ain't gone any deeper?
+__VOICE 1:__ Well, you've been down here about 5 minutes. You ain't gone any deeper?
 
-**VOICE 2:**I ain't gone any deeper. Spooky down there. Dunno what sorta critters might be in there.
+__VOICE 2:__ I ain't gone any deeper. Spooky down there. Dunno what sorta critters might be in there.
 
-**VOICE 1:**Well, we ain't after critters. We're after murderers.
+__VOICE 1:__ Well, we ain't after critters. We're after murderers.
 
-**VOICE 2:**All right. Well, the others here?
+__VOICE 2:__ All right. Well, the others here?
 
-**VOICE 1:**Yeah. _(shouting)_ Hey! Anybody down there?
+__VOICE 1:__ Yeah. _(shouting)_ Hey! Anybody down there?
 
 ##### [PAUSE]
 
@@ -2826,11 +2826,11 @@ I do so.
 
 Yeah.
 
-**VOICE 1:**_(shouting)_ Got twenty angry men out here! Gonna comb every inch of this damn cave 'less you come out peaceful-like.
+__VOICE 1:__ _(shouting)_ Got twenty angry men out here! Gonna comb every inch of this damn cave 'less you come out peaceful-like.
 
 ##### [PAUSE]
 
-**VOICE 1:**Last chance.
+__VOICE 1:__ Last chance.
 
 #### CIGARILLO
 
@@ -2902,23 +2902,23 @@ So I'm going down on a knee as well, with my rifle, and, yeah. Shaking slightly.
 
 Let them come into the light first.
 
-**VOICE 1:**What're you thinkin'?
+__VOICE 1:__ What're you thinkin'?
 
-**VOICE 2:**Well, I reckon if, uh, we head down there... they got the advantage. S'a bottleneck.
+__VOICE 2:__ Well, I reckon if, uh, we head down there... they got the advantage. S'a bottleneck.
 
 ##### [PAUSE]
 
-**VOICE 2:**I say we dynamite up the entrance. Leave 'em here.
+__VOICE 2:__ I say we dynamite up the entrance. Leave 'em here.
 
 #### CIGARILLO
 
 _(whispering)_ Zeke, what do we *do?*
 
-**VOICE 1:**Sounds like a decent plan, Abel.
+__VOICE 1:__ Sounds like a decent plan, Abel.
 
 ##### [PAUSE]
 
-**VOICE 1:**Let's do that.
+__VOICE 1:__ Let's do that.
 
 #### CIGARILLO
 

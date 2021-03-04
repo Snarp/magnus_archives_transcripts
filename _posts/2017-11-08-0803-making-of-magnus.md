@@ -218,11 +218,11 @@ So no audio tartare then.
 
 #### MIKE
 
-No, not in this case. I mean, we haven't got the budget for that **yet**, but we're working towards that, Anil, as you know, in the Patreon stretch goals. That's kind of where we're at.
+No, not in this case. I mean, we haven't got the budget for that __yet__, but we're working towards that, Anil, as you know, in the Patreon stretch goals. That's kind of where we're at.
 
 #### ALEX
 
-What an excellent example of the kind of thing that can turn up in raw audio that you need to **remove** _(laughter)_ in order to get a fully-fledged episode out of the end of it.
+What an excellent example of the kind of thing that can turn up in raw audio that you need to __remove__ _(laughter)_ in order to get a fully-fledged episode out of the end of it.
 
 #### MIKE
 
@@ -294,7 +294,7 @@ That's the hardest part about editing the music for *Magnus*. Because getting th
 
 The thing to bear in mind as well is that at the start it was just myself and Mike, and now we have, we've had a dedicated team working on it, we've had someone working on vocals, we've had someone working on music, and it's all been a lot more complex but a lot more streamlined as well. And it gets passed eventually to myself for mastering.
 
-What mastering consists of is... it's always easiest when the director is mastering because the director knows what it should sound like. Ideally before they've heard the episode. You know, you have a clear idea of what it should sound like, what bits should be silent, what bits should have a loud noise to them, what should have soundscaping, what shouldn't. Basically, what we'll do is we'll go through and we'll tweak it, one little tweak here, one little tweak there, but through every single second. And when I'm saying a tweak, I'm talking... sometimes we'll shift a vocal performance 1/10th of a second. I've spent 10, 20 minutes before getting that 10th of a second right because that edit's just not **quite** sitting right.
+What mastering consists of is... it's always easiest when the director is mastering because the director knows what it should sound like. Ideally before they've heard the episode. You know, you have a clear idea of what it should sound like, what bits should be silent, what bits should have a loud noise to them, what should have soundscaping, what shouldn't. Basically, what we'll do is we'll go through and we'll tweak it, one little tweak here, one little tweak there, but through every single second. And when I'm saying a tweak, I'm talking... sometimes we'll shift a vocal performance 1/10th of a second. I've spent 10, 20 minutes before getting that 10th of a second right because that edit's just not __quite__ sitting right.
 
 And then one thing that I've been tending to do as well is I'll do the soundscaping, and that's one that can take a long time as well. So with that, the way that we've been functioning is that we'll take either some foley, rarely, but normally we'll make use of Creative Commons available foley that other people have recorded. We tidy it up, we basically pass it in some ways through all of the stages that you would a normal edit, and then we layer them together until you've built your soundscape. So that sort of falls under mastering at the moment.
 
@@ -384,7 +384,7 @@ Or you could do it yourself like we did! Figure it all out! _(Ben laughs)_
 
 #### ALEX
 
-It took **ages**! But we know how it works now, which is good.
+It took __ages__! But we know how it works now, which is good.
 
 #### ANIL
 
@@ -400,7 +400,7 @@ Oh, yeah.
 
 #### MIKE
 
-But Anil, the audience are saying, "But Anil, how **do** we get in touch with you?"
+But Anil, the audience are saying, "But Anil, how __do__ we get in touch with you?"
 
 ##### [CHUCKLES]
 
@@ -610,7 +610,7 @@ Sure.
 
 #### ANIL
 
-And that gets released every so often on the Patreon feed. I also do the transcripts and we release those for free on the Patreon feed, both in a normal format and in an accessible format. I will say one thing, Alex did mention talking about communities not wishing necessarily everything to be shown. If you are on Tumblr or even on Twitter and you **don't** want us to look at or feedback on stuff that you have produced, we do have a tag for Do Not Archive. So you can use that, and you can be sure that this is not getting back to the creators at all.
+And that gets released every so often on the Patreon feed. I also do the transcripts and we release those for free on the Patreon feed, both in a normal format and in an accessible format. I will say one thing, Alex did mention talking about communities not wishing necessarily everything to be shown. If you are on Tumblr or even on Twitter and you __don't__ want us to look at or feedback on stuff that you have produced, we do have a tag for Do Not Archive. So you can use that, and you can be sure that this is not getting back to the creators at all.
 
 #### ALEX
 
@@ -638,7 +638,7 @@ Yeah.
 
 #### BEN
 
-**Delicious** content.
+__Delicious__ content.
 
 #### MIKE
 

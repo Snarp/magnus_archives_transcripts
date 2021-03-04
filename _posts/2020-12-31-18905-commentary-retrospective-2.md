@@ -400,7 +400,7 @@ Oh, he's great.
 
 #### ALEX
 
-Because he was an early guest, and early guests, it really was like, 'Cool. Yeah. Thank you so much for coming. We're really, really happy to have you here - get under the blanket!'
+Because he was an early guest, and early guests, it really was like, 'Cool. Yeah. Thank you so much for coming. We're really, really happy to have you here -- get under the blanket!'
 
 #### JONNY
 
@@ -1484,7 +1484,7 @@ Yeah.
 
 #### ALEX
 
-And I think at this point we realised that just from writing alone, putting it together, it just wasn't feasible. I know since that someone's done it actually. There's been a couple of podcasts that are doing quite well, that really heavily tie into the ARG element, and have a reactive story based on how far people get. More power to you - that's a very impressive achievement.
+And I think at this point we realised that just from writing alone, putting it together, it just wasn't feasible. I know since that someone's done it actually. There's been a couple of podcasts that are doing quite well, that really heavily tie into the ARG element, and have a reactive story based on how far people get. More power to you -- that's a very impressive achievement.
 
 #### JONNY
 

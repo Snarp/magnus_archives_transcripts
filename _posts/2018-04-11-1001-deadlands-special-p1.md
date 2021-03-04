@@ -2664,7 +2664,7 @@ I immediately stop, to a skidding halt, look *incredibly panicked at Cigarillo*,
 
 #### NATHANIEL
 
-_(urgent whisper)_ *Ca-cawww! Ca-**cawwww**! Ca-caww!*
+_(urgent whisper)_ _Ca-cawww! Ca-**cawwww**! Ca-caww!_
 
 ##### [JAMES LAUGHS]
 
@@ -3048,7 +3048,7 @@ Okay. So, I know that they're aware. Presumably.
 
 #### JONNY
 
-They are currently--there's been a big old "***BOOM**!*" gunshot.
+They are currently--there's been a big old __*"BOOM!"*__ gunshot.
 
 #### ALEX
 
@@ -3264,7 +3264,7 @@ That's another 3, so--
 
 #### JONNY
 
-_(simult.)_ ***BOOOM**!*
+_(simult.)_ __*BOOOM!*__
 
 #### JAMES
 
@@ -3344,7 +3344,7 @@ Sure. So that was Kings. Queens? Jack? 10? Yup. _[flips card]_ Blackjack Bronson
 
 #### JONNY
 
-He doesn't actually hit them, but he gets it into the middle of the street, and there is a ***BOOOOM**!* As various windows shatter and just--there's a lot of smoke and dust and panic. So that was 10s. 9?
+He doesn't actually hit them, but he gets it into the middle of the street, and there is a __*BOOOOM!*__ As various windows shatter and just--there's a lot of smoke and dust and panic. So that was 10s. 9?
 
 ##### [PAUSE]
 
@@ -4726,7 +4726,7 @@ I...
 
 #### ALEX
 
-You ***knew***.
+You __*knew.*__
 
 #### JONNY
 

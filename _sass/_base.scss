@@ -8,10 +8,29 @@
 .center { text-align: center; margin-left: auto; margin-right: auto; }
 
 
+#dark-mode-button, #light-mode-button {
+    margin-top: 3px;
+}
+.dark-mode {
+    @include dark-mode;
+    h1, h4 { color: $dark-highlight-text-color; }
+    h5 { color: $dark-muted-text-color; }
+    // .site-header {
+    //     background: $background-color;
+    // }
+    .post-header, .post-footer, .site-header-linkbar {
+        background: $dark-highlight-bg-color !important;
+        color:      $dark-highlight-text-color;
+        .post-flags {
+            border: 1px dotted $dark-highlight-text-color;
+        }
+    }
+}
+
 
 .spoiler-label-hidden { 
     display: none; 
-    cursor:           pointer; 
+    cursor:  pointer; 
 }
 .spoiler-hidden {
     background-color: $dark-highlight-bg-color; 
@@ -68,7 +87,7 @@ ul, ol, dl, figure,
  * Articles
  */
 article {
-    background:    $background-color;
+    // background:    $background-color;
     margin-bottom: $spacing-unit;
 
     @include media-query($on-palm) { padding: 1em 1em 0.3em; }

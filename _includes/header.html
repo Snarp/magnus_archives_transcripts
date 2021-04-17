@@ -2,7 +2,7 @@
   <div class="wrapper">
     <a class="site-title" href="{{site.baseurl}}/">{{site.title}}</a>
   </div>
-  <div class="site-header-linkbar">
+  <nav class="site-header-linkbar">
   {% for link in site.data.links %}
     {%- if link.local -%}
     <span><a href="{{site.baseurl}}/{{link.path}}">{{link.shortname}}</a></span>
@@ -10,5 +10,9 @@
     <span><a target="_blank" href="{{link.path}}">{{link.shortname}}</a></span>
     {%- endif -%}
   {% endfor %}
-  </div>
+    <span>
+      <a id="dark-mode-button" role="button" title="Dark Mode" aria-label="Activate Dark Mode" href="#" onclick="toDarkMode()" style="display: none">{% include icon-dark-mode.svg %}</a>
+      <a id="light-mode-button" role="button" title="Light Mode" aria-label="Activate Light Mode" href="#" onclick="toLightMode()" style="display: none">{% include icon-light-mode.svg %}</a>
+    </span>
+  </nav>
 </header>

@@ -48,15 +48,16 @@ $spacing-unit:       $base-line-height;
 $small-font-size:    0.8rem;
 $small-line-height:  $small-font-size * 1.618;
 
-$background-color:   $white-color;
-$brand-color:        $grey-color-dark;
-$text-color:         $grey-color-dark;
-$accent-color:       $green;
-$title-color:        $green;
-$warning-text-color: $orange;
-$muted-text-color:   $grey-color-light;
-$em-text-color:      $grey-color-darker;
-$highlight-bg-color: $off-white-color;
+$background-color:     $white-color;
+$brand-color:          $grey-color-dark;
+$text-color:           $grey-color-dark;
+$accent-color:         $green;
+$title-color:          $green;
+$warning-text-color:   $orange;
+$muted-text-color:     $grey-color-light;
+$em-text-color:        $grey-color-darker;
+$highlight-text-color: $grey-color-darker;
+$highlight-bg-color:   $off-white-color;
 
 $dark-background-color:     $black-color;
 $dark-highlight-bg-color:   $off-black-color;

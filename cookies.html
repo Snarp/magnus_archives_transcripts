@@ -1,0 +1,27 @@
+---
+layout: page_default
+title: 'Site Cookie Information'
+---
+
+<p>This site saves a "cookie"* called 'darkMode' on your computer to remember whether you want to use Dark Mode ({% include icon-dark-mode.svg %}) or Light Mode ({% include icon-light-mode.svg %}). If you turn on Dark Mode, it's set to "true"; if not, it's "false".</p>
+
+<p>If you don't want that, you can block Javascript for the site using something like the <a href="https://noscript.net/">NoScript browser extension</a>.</p>
+
+<p><i>(* Technically, the site doesn't use "cookies" - it uses "<a target="_blank" href="https://javascript.info/localstorage">localStorage</a>" values, which are a separate technology that a lot of programmers consider more secure. Legally, though, they're treated the same way, and since most people just call everything a website automatically saves to your computer a "cookie," that's what I'm doing here.)</i></p>
+
+<blockquote>
+  <p><i><b>Q:</b> Why can't I click a button to tell this site to remember not to save any cookies? Other sites can do that.</i></p>
+  <p><b>A:</b> Actually, they can't! To be able to "remember" something about you, a website has to save that information on your computer. Every time you click one of those buttons telling a site "Don't save cookies about me," what you're basically doing is saving the word "no" in a cookie named "areCookiesOkay".</p>
+
+  <p><i><b>Q:</b> Can you, the person running this website, see the cookie that the site saves? Is this website tracking me?</i></p>
+  <p><b>A:</b> No. Only your own web browser can see it. I cannot look at a report somewhere to find out how many people look at this site and turn on Dark Mode. (Or, for that matter, how many people look at it at all - the site does not use any form of tracking.)</p>
+
+  <p><i><b>Q:</b> Can I see what the cookie is doing?</i></p>
+  <p><b>A:</b> Sure - all of the code for the site is publicly-visible in <a target="_blank" href="https://github.com/Snarp/magnus_archives_transcripts/">the GitHub repo</a>. The dark-mode Javascript is in the "js" folder.
+
+  <p><i><b>Q:</b> I would rather turn Dark Mode on by hand every single time I turn the page than use cookies.</i></p>
+  <p>I'm sorry, but most people think that's incredibly annoying.</p>
+
+  <p><i><b>Q:</b> Instead of using localStorage, have you considered parsing URL queries and editing all the local links on the page every time the user switches modes?</i></p>
+  <p>[EXTENDED SOUNDS OF BRUTAL PIPE MURDER]</p>
+</blockquote>

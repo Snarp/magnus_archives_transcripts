@@ -4,12 +4,7 @@ const lightButton = document.querySelector('#light-mode-button');
 // Make the toggle button visible in Javascript-enabled browsers.
 darkButton.style.display = 'inline';
 
-if (!darkModeIsSet()) {
-    document.querySelector('div#cookie-warning').style.display = 'inline';
-    toLightMode();
-} else if (darkModeIsActive()) { 
-    toDarkMode();
-}
+if (darkModeIsActive()) { toDarkMode(); }
 
 // ACTIONS
 // ------

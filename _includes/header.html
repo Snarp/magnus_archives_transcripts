@@ -10,9 +10,9 @@
     <span><a target="_blank" href="{{link.path}}">{{link.shortname}}</a></span>
     {%- endif -%}
   {% endfor %}
-    <span>
-      <a id="dark-mode-button" role="button" title="Dark Mode" aria-label="Activate Dark Mode" href="#" onclick="toDarkMode()" style="display: none">{% include icon-dark-mode.svg %}</a>
-      <a id="light-mode-button" role="button" title="Light Mode" aria-label="Activate Light Mode" href="#" onclick="toLightMode()" style="display: none">{% include icon-light-mode.svg %}</a>
-    </span>
+    <span id="dark-mode-button" role="button" title="Dark Mode" aria-label="Activate Dark Mode" onclick="toDarkMode()" style="display: none">{% include icon-dark-mode.svg %}</span>
+    <span id="light-mode-button" role="button" title="Light Mode" aria-label="Activate Light Mode" onclick="toLightMode()" style="display: none">{% include icon-light-mode.svg %}</span>
   </nav>
 </header>
+
+{% include cookie_warning.html %}

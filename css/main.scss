@@ -75,10 +75,6 @@ $on-laptop:          800px;
 @mixin dark-mode {
   background-color: $dark-background-color;
   color:            $dark-text-color;
-  a { 
-      color:           $grey-color-light; 
-      &:hover { color: $off-white-color; }
-  }
 }
 
 

@@ -5,25 +5,32 @@ title: Transcript Sources
 
 <p>Any transcripts on this site not listed below were sourced from <a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">the Rusty Quill's official transcript archive</a>. (Unless I let this page get out-of-date; please <a href="mailto:{{site.email}}">let me know</a> if something looks wrong!)</p>
 
-<div class="table-of-contents source-index">
 {% for source in site.data.sources %}
-  <h3 class="ep-transcriber">
+<h3>
   {%- if source.url -%}
-    <a target="_blank" href="{{source.url}}" name="{{source.name}}">{{source.name}}</a>:
+    <a target="_blank" href="{{source.url}}" name="{{source.name}}">{{source.name}}</a>
   {%- else -%}
-    <a name="{{source.name}}">{{source.name}}</a>:
-  {%- endif -%}
-  </h3>
-
-  <ul>
+    {{source.name}}
+  {%- endif -%}:
+</h3>
+<table class="toc-table sources-table">
+<tbody>
   {%- for episode in source.episodes %}
-    <li>
-      <div class="ep-left"><a class="ep-title" href="{%if episode.path%}{{episode.path | prepend: site.baseurl}}{%else%}episode/{{episode.number}}.html{%endif%}">{{episode.number}} {{episode.title}}</a></div>
-    {%- if episode.url %}
-      <div class="ep-right"><a class="ep-source" target="_blank" href="{{episode.url}}">Source</a></div>
-    {%- endif %}
-    </li>
+    {%- capture ep_path -%}{{site.baseurl}}
+      {%- if episode.path -%}
+        {{episode.path}}
+      {%- else -%}
+        /episode/{{episode.number}}.html
+      {%- endif -%}
+    {%- endcapture -%}
+  <tr>
+    <td class="ep-number"><a href="{{ep_path}}">{{episode.number}}</a></td>
+    <td class="ep-title"><a href="{{ep_path}}">{{episode.title}}</a></td>
+    <td class="ep-source">{% if episode.url -%}
+      <a target="_blank" href="{{episode.url}}">Source</a>
+    {%- endif %}</td>
+  </tr>
   {%- endfor %}
-  </ul>
-{%- endfor %}
-</div>
+</tbody>
+</table>
+{% endfor %}

@@ -387,87 +387,18 @@ table.toc-table {
             padding-right: 0.6rem;
             a { color: $grey-color-light; }
         }
-    }
-}
 
-.table-of-contents {
-    margin: $spacing-unit 0;
-    > .wrapper { padding: 0; }
-
-    ul {
-        list-style: none; 
-        margin:     0;
-        li {
-            display:         flex;
-            justify-content: space-between;
-            flex-wrap:       wrap; 
-            font-family:     $font-family-monospace;
-            padding:         0.4rem 0.6rem;
-            div { display:   inline-block; }
+        td.ep-source { // Used in '/sources.html'
+            text-align:  right;
+            font-weight: bold;
         }
-        li:nth-child(odd){ background: $highlight-bg-color; }
     }
-
-    li.ep-sort { 
-        text-align:    center; 
-        align-content: space-between; 
-        color:         $grey-color-light; 
-        a { color:     $grey-color-light; }
-    }
-    .ep-left {
-        flex-grow: 2;
-    }
-    .ep-right, .ep-center {
-        text-align: right;
-    }
-    .ep-number {
-        color:        $brand-color; 
-    }
-    .ep-title {
-        color:        $accent-color;
-        font-weight:  bold;
-        margin-right: 0.4rem;
-        &:hover       { color: darken($accent-color, 10%); }
-    }
-
-    .ep-status {
-        margin-right: 0.4rem;
-    }
-    .ep-status-incomplete {
-        color:        $warning-text-color; 
-    }
-    .ep-status-unofficial {
-        color:        $grey-color-dark; 
-    }
-    .ep-status-trailer {
-        color:        $yellow; 
-    }
-    .ep-date {
-        color:        $grey-color-light; 
-    }
-}
-
-/**
- * EPISODE SOURCE INDEX
- */
-.source-index {
-    margin: $spacing-unit 0;
-    .ep-transcriber { margin:      $spacing-unit 0 $spacing-unit/2; }
-    .ep-source      { font-weight: bold; }
-    .ep-title { 
-        color: $grey-color-light; 
-        &:hover { color: $grey-color; }
-    }
-    li:nth-child(odd){ .ep-title { 
-        color: $grey-color-dark; 
-        &:hover { color: $grey-color; } 
-    } }
 }
 
 
 
 /**
- * Error pages
+ * ERROR PAGES
  */
 
 h1.error { color: $red; }

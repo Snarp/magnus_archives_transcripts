@@ -714,11 +714,11 @@
   - number: '189.1'
     title: 'MAG Cast Q&A - Retrospective #1'
     path: '/special/18901-magcastq-a-retrospective-1.html'
-    source: https://drive.google.com/file/d/1A4EcMVjXMMHp68Wgshs3LVsmukMeZ_aS/view
+    url: https://drive.google.com/file/d/1A4EcMVjXMMHp68Wgshs3LVsmukMeZ_aS/view
   - number: '189.5'
     title: 'MAG Commentary - Retrospective #2'
-    path: //special/18905-commentary-retrospective-2.html
-    source: https://drive.google.com/file/d/1D5D_nxbToqTIK5sxyco1a7FQfyRDSqCY/view
+    path: '/special/18905-commentary-retrospective-2.html'
+    url: https://drive.google.com/file/d/1D5D_nxbToqTIK5sxyco1a7FQfyRDSqCY/view
 
   - number: '190'
     title: Scavengers

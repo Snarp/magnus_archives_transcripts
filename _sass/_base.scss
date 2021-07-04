@@ -24,13 +24,9 @@ div#cookie-warning {
     @include dark-mode;
     h1, h4 { color: $dark-highlight-text-color; }
     h5 { color: $dark-muted-text-color; }
-    // .site-header {
-    //     background: $background-color;
-    // }
-    // a { 
-    //     color:           $dark-highlight-text-color; 
-    //     &:hover { color: $off-white-color; }
-    // }
+    blockquote {
+        background-color: $dark-highlight-bg-color;
+    }
     .post-header, .post-footer, .site-header-linkbar {
         background: $dark-highlight-bg-color !important;
         color:      $dark-highlight-text-color;
@@ -38,18 +34,12 @@ div#cookie-warning {
             border: 1px dotted $dark-highlight-text-color;
         }
     }
-
-  table.toc-table {
-    tbody tr:nth-child(odd){ background: $dark-highlight-bg-color; }
-  }
-
-  blockquote {
-    background-color: $dark-highlight-bg-color;
-    // a { 
-    //   color:           $off-white-color; 
-    //   &:hover { color: $dark-highlight-text-color; }
-    // }
-  }
+    table.toc-table {
+        tbody tr:nth-child(odd){ background: $dark-highlight-bg-color; }
+    }
+    ul#search-results {
+        li:nth-child(odd){ background: $dark-highlight-bg-color; }
+    }
 }
 
 

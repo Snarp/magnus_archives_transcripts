@@ -1,0 +1,17 @@
+---
+layout: page_default
+title: 'Site News'
+---
+
+<div class="table-of-contents">
+  <div class="wrapper">
+
+    <ul>
+  {% assign news_posts = site.news | reverse %}
+  {% for post in news_posts %}<li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} - <strong>{{ post.title | escape }}</strong></a>
+      </li>{% endfor %}
+    </ul>
+
+  </div>
+</div>

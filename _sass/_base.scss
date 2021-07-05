@@ -7,52 +7,6 @@
 .small { @include small-text; }
 .center { text-align: center; margin-left: auto; margin-right: auto; }
 
-div#cookie-warning {
-    .wrapper {
-        margin-top: $spacing-unit / 2;
-        margin-bottom: $spacing-unit / 2;
-        padding-top: $spacing-unit / 2;
-        padding-bottom: $spacing-unit / 2;
-        border: 1px dotted;
-    }
-}
-#dark-mode-button, #light-mode-button {
-    margin-top: 3px;
-    cursor: pointer;
-}
-.dark-mode {
-    @include dark-mode;
-    h1, h4 { color: $dark-highlight-text-color; }
-    h5 { color: $dark-muted-text-color; }
-    blockquote {
-        background-color: $dark-highlight-bg-color;
-    }
-    .post-header, .post-footer, .site-header-linkbar {
-        background: $dark-highlight-bg-color !important;
-        color:      $dark-highlight-text-color;
-        .post-flags {
-            border: 1px dotted $dark-highlight-text-color;
-        }
-    }
-    table.toc-table {
-        tbody tr:nth-child(odd){ background: $dark-highlight-bg-color; }
-    }
-    ul#search-results {
-        li:nth-child(odd){ background: $dark-highlight-bg-color; }
-    }
-}
-
-
-.spoiler-label-hidden { 
-    display: none; 
-    cursor:  pointer; 
-}
-.spoiler-hidden {
-    background-color: $dark-highlight-bg-color; 
-    color:            $dark-highlight-bg-color; 
-    cursor:           pointer; 
-}
-
 
 
 /**
@@ -102,42 +56,11 @@ ul, ol, dl, figure,
  * Articles
  */
 article {
-    // background:    $background-color;
-    margin-bottom: $spacing-unit;
-
-    @include media-query($on-palm) { padding: 1em 1em 0.3em; }
-
-    > .entry-content {
-        @include media-query($on-palm) { font-size: $small-font-size; }
+    @include media-query($on-palm) { 
+        padding: 1em 1em 0.3em;
+        font-size: $small-font-size;
     }
 }
-
-
-
-a.footnote {
-    font-family: $font-family-monospace;
-    font-weight: bold; 
-    color:       $orange;
-}
-div.footnotes {
-    font-family: $font-family-monospace;
-
-    margin-top:  $spacing-unit * 2; 
-    border-top:  $grey-color-light solid 1px; 
-    padding-top: $spacing-unit; 
-
-    ol li p {
-        margin-left: 1em; 
-        color:       $muted-text-color;
-    }
-    li::marker { color: $orange; }
-
-    a.reversefootnote {
-        color:       $orange;
-        font-weight: bold; 
-    }
-}
-
 
 
 
@@ -149,22 +72,6 @@ hr {
     width:  66%;
     border: 1px solid $grey-color-light;
 }
-// hr {
-//     margin:    2.4rem auto;
-//     height:    18px;
-//     width:     80px;
-//     max-width: 60%;
-//     color:     $grey-color-light;
-//     border:    0;
-//     background-repeat:   no-repeat;
-//     background-image:    url('../assets/icon-eye.svg'),
-//                          url('../assets/icon-eye.svg'),
-//                          url('../assets/icon-eye.svg');
-//     background-position: 0    top,
-//                          50%  top,
-//                          100% top;
-//     background-size:     16px;
-// }
 
 
 
@@ -210,9 +117,7 @@ ul, ol {
 }
 
 li {
-    > ul, > ol {
-         margin-bottom: 0;
-    }
+    > ul, > ol { margin-bottom: 0; }
 }
 
 
@@ -248,9 +153,6 @@ blockquote {
     background-color: $highlight-bg-color;
     border-left:      4px solid $grey-color-light;
     padding:          $spacing-unit / 2;
-    font-size:        1rem;
-
-    @include media-query($on-palm) { font-size: $small-font-size; }
 
     > :last-child { margin-bottom: 0; }
 }
@@ -329,6 +231,5 @@ pre {
         height:         16px;
         vertical-align: middle;
         margin-right:   0.2em;
-        // path { fill: currentColor; }
     }
 }

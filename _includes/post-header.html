@@ -22,7 +22,13 @@
 {%- endif %}
     
 {% if page.content_flags and page.content_flags.size > 0 -%}
-  {% include post-content-flags.html %}
+<div class="post-flags post-header-section post-links post-meta">
+  <div class="label" onclick="document.querySelector('.spoiler-hidden').classList.remove('spoiler-hidden');"><p>Warning</p></div>
+  <div class="content" title="Click to view.">
+    <p class="spoiler-label spoiler-label-hidden">(Click to view.)</p>
+    <p class="spoiler">{{ page.content_flags | join: ", " }}</p>
+  </div>
+</div><!--/.post-flags-->
 {%- endif %}
 
 <div class="post-meta post-links">

@@ -72,8 +72,6 @@ ul#search-results {
         }
     }
 }
-
-
 .latest-news-bar {
     margin:          $spacing-unit auto;
     text-align:      center;
@@ -81,7 +79,6 @@ ul#search-results {
     color:           $muted-text-color;
     font-style:      italic;
 }
-
 
 
 /**
@@ -275,9 +272,7 @@ ul#search-results {
         margin:     $spacing-unit 0 0 0;
     }
 }
-.news-post { 
-    margin-top: $spacing-unit; margin-bottom: $spacing-unit;
-}
+
 .post-nav {
     margin:          0;
     display:         flex;
@@ -328,9 +323,18 @@ ul#search-results {
 
 
 /**
- * EPISODE TABLE OF CONTENTS
+ * NEWS
  */
 
+.news-post { 
+    margin-top: $spacing-unit; margin-bottom: $spacing-unit;
+    time { font-style: italic; }
+}
+
+
+/**
+ * EPISODE TABLE OF CONTENTS
+ */
 
 table.toc-table {
     width: 100%;

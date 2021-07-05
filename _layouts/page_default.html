@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<div class="page-content">
+<section class="page-content">
 	<div class="wrapper">
-    {% if page.title %}<h1 class="page-title center"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>{% endif %}
+		<article itemscope><div itemprop="articleBody">
+    {% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}"><h1 itemprop="name" class="page-title center">{{ page.title }}</h1></a>{% endif %}
 
 		{{ content }}
-	</div><!-- /div.wrapper -->
-</div><!-- /div.page-content -->
+		</div></article>
+	</div><!--/.wrapper-->
+</section>

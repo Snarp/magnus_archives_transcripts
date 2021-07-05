@@ -1,6 +1,5 @@
 <header class="post-header">
-  <div class="wrapper">
-
+<div class="wrapper">
 {% include post-nav.html %}
 
 <div class="post-subtitle">
@@ -26,12 +25,21 @@
   {% include post-content-flags.html %}
 {%- endif %}
 
-{% include post-links.html %}
+<div class="post-meta post-links">
+  <a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a target="_blank" href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
+
+{%- if page.official -%}
+  <br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
+{%- elsif page.unofficial_name -%}
+  <br/>Source: <a class="source-link source-homepage" target="_blank" {% if page.unofficial %} href="{{ page.unofficial }}"{% endif %}>{{page.unofficial_name}}</a> <span class="unofficial-label">[UNOFFICIAL]</span>
+{%- endif -%}
+
+  <br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a>
+  {%- if page.formats %}{%- for link in page.formats %} | <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}{% endif %}
+</div>
 
 {% if page.unfinished -%}
-<div class='warning'>
-  <em>This transcript is incomplete.</em>
-</div>
+<div class='warning'><em>This transcript is incomplete.</em></div>
 {%- endif %}
-  </div><!-- /div.wrapper -->
-</header><!-- /header.post-header -->
+</div><!--/.wrapper-->
+</header>

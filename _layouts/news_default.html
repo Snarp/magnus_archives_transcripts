@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="page-content">
+<section class="page-content">
 	<div class="wrapper">
-    <div class="news-post">
+    <article class="news-post" itemscope itemtype="http://schema.org/BlogPosting"><div itemprop="articleBody">
 
-    <h1 class="page-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-    <p class="muted"><i><a href="{{ page.url | prepend: site.baseurl }}">{{ page.date | date: "%Y-%m-%d" }}</a></i></p>
+    <a href="{{ page.url | prepend: site.baseurl }}"><h1 class="page-title" itemprop="name">{{ page.title }}</h1></a>
+    <p><a href="{{ page.url | prepend: site.baseurl }}"><time itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time></a></p>
 
-		{{ content }}
+		<div>{{ content }}</div>
 
-    </div><!-- /div.news-post -->
+    </div></article>
 
     {% include news-post-nav.html %}
 	</div><!-- /div.wrapper -->
-</div><!-- /div.page-content -->
+</section>

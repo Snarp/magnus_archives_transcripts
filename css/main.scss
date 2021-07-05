@@ -49,25 +49,24 @@ $small-font-size:    0.8rem;
 $small-line-height:  $small-font-size * 1.618;
 
 $background-color:     $white-color;
-$brand-color:          $grey-color-dark;
 $text-color:           $grey-color-dark;
-$accent-color:         $green;
-$title-color:          $green;
-$warning-text-color:   $orange;
-$muted-text-color:     $grey-color-light;
-$em-text-color:        $grey-color-darker;
-$highlight-text-color: $grey-color-darker;
 $highlight-bg-color:   $off-white-color;
+$highlight-text-color: $grey-color-darker;
+$muted-text-color:     $grey-color-light;
 
 $dark-background-color:     $black-color;
+$dark-text-color:           $grey-color;
 $dark-highlight-bg-color:   $off-black-color;
 $dark-highlight-text-color: $grey-color-light;
 $dark-muted-text-color:     $grey-color-darker;
-$dark-text-color:           $grey-color;
+
+$brand-color:          $grey-color-dark;
+$accent-color:         $green;
+$title-color:          $green;
+$warning-text-color:   $orange;
 
 // Width of the content area
 $content-width:      calc(620px + (#{$spacing-unit}*2));
-
 $on-palm:            600px;
 $on-laptop:          800px;
 

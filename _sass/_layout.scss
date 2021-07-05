@@ -3,6 +3,9 @@
  */
 .dark-mode {
     @include dark-mode;
+    color: $dark-text-color;
+    .muted { color: $dark-muted-text-color; }
+
     h1, h4 { color: $dark-highlight-text-color; }
     h5 { color: $dark-muted-text-color; }
     blockquote {
@@ -17,6 +20,13 @@
     }
     table.toc-table {
         tbody tr:nth-child(odd){ background: $dark-highlight-bg-color; }
+        td a, th a { color: $dark-text-color; }
+        // td.ep-status a { 
+        //     color: $dark-muted-text-color;
+        // }
+        td.ep-number a, td.ep-date a { 
+            color: $dark-muted-text-color;
+        }
     }
     ul#search-results {
         li:nth-child(odd){ background: $dark-highlight-bg-color; }
@@ -210,7 +220,7 @@ div#cookie-warning {
                 margin-top:  $spacing-unit; 
                 text-align:  center; 
                 font-weight: bold; 
-                color:       $em-text-color; 
+                color:       $highlight-text-color; 
                 @include media-query($on-palm) { font-size: $small-font-size; }
             }
             h5 { // CAPTION LABEL
@@ -262,7 +272,7 @@ div#cookie-warning {
                 font-weight: bold; 
                 font-size:   80%; 
                 line-height: 1; 
-                color:       $em-text-color;
+                color:       $highlight-text-color;
             }
         }
         .post-header-section {
@@ -426,6 +436,7 @@ table.toc-table {
         margin: 0;
 
         td, th {
+            font-family:   $font-family-monospace;
             margin:        0;
             padding:       0.4rem;
             font-size:     0.8em;
@@ -433,38 +444,32 @@ table.toc-table {
                 padding:   0.2rem; 
                 font-size: 0.6em; 
             }
-            font-family:   $font-family-monospace;
-            a { color:     $grey-color-light; }
+            a { color: $text-color; }
         }
         td.ep-number {
             padding-left: 0.6rem;
+            a { color: $muted-text-color; }
         }
         td.ep-title {
-            font-size:   1.0em;
-            @include media-query($on-palm) { font-size: 0.6em; }
             font-weight: bold;
-            a { 
-                color: $brand-color;
-                &:hover { color: $accent-color; }
-            }
+            a:hover { color: $accent-color; }
         }
         td.ep-status { 
-            text-align:  right; 
+            text-align: right; 
             font-weight: bold;
-            line-height: 1.2;
             a.incomplete { color: $warning-text-color; }
-            a.trailer    { color: $brand-color; }
-            a.unofficial { color: $grey-color-light; }
-            a.official   { color: $accent-color; }
+            // a.trailer, a.unofficial, a.official { color: $muted-text-color; }
+            @include media-query($on-palm) { padding-right: 0.6rem; }
         }
         td.ep-date {
-            @include media-query($on-palm) { display: none; }
+            text-align: right; 
             padding-right: 0.6rem;
-            a { color: $grey-color-light; }
+            a { color: $muted-text-color; }
+            @include media-query($on-palm) { display: none; }
         }
 
         td.ep-source { // Used in '/sources.html'
-            text-align:  right;
+            text-align: right;
             font-weight: bold;
         }
     }

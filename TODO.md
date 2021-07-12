@@ -6,8 +6,6 @@ layout: page_default
 
 * Fix Markdown links on special episodes - currently (2021-03-04) they lead to nonexistent Github URLs like <https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/2018-04-19-100.2.md>
 
-* Turn top menu "Search" and "Ebook" links into icons on mobile / narrow displays.
-
 * Make next/prev links on News posts smaller (or yyyy-mm-dd strings non-breaking) on mobile.
 
 * Page with short explanation of how to submit corrections via Github or email.
@@ -21,6 +19,8 @@ layout: page_default
 * Add sources to eBook.
 
 * Clean up and upload eBook generation script.
+
+* <del>Turn top menu "Search" and "Ebook" links into icons on mobile / narrow displays.</del> DONE
 
 * <del>Become official</del> DONE
 

@@ -8,6 +8,20 @@ layout: page_default
 
 * Turn top menu "Search" and "Ebook" links into icons on mobile / narrow displays.
 
+* Make next/prev links on News posts smaller (or yyyy-mm-dd strings non-breaking) on mobile.
+
+* Page with short explanation of how to submit corrections via Github or email.
+
+* Add "Suggest a correction" link at bottom of transcript pages.
+
+* Make trailer/special/incomplete permalinks saner.
+
+* Add specials to end of eBook.
+
+* Add sources to eBook.
+
+* Clean up and upload eBook generation script.
+
 * <del>Become official</del> DONE
 
 * <del>Add Dark Mode and localStorage ("cookie") warning for Dark Mode</del> DONE

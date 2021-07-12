@@ -1,0 +1,39 @@
+---
+- name:      Unofficial Transcript Source Index
+  shortname: Sources
+  path:      sources.html
+  local:     true
+- name:      Special Episodes - Q&A, Contest Winners, Etc.
+  shortname: Specials
+  path:      specials.html
+  local:     true
+- name:      List of Incomplete Transcripts
+  shortname: Incomplete
+  path:      incomplete.html
+  local:     true
+- name:      Site News
+  shortname: News
+  path:      news.html
+  local:     true
+# - name:      Community-Maintained Episode Content Warnings
+#   shortname: Content Warnings
+#   path:      https://docs.google.com/document/d/1KLuJa1AaT8m5rzBOvvtzeEWT9piQ715bss4hkbLBXmA/edit
+# - name:      Official Transcript Archive
+#   shortname: Official Transcripts
+#   path:      "https://drive.google.com/open?id=0BzWtYJgwf5A9NU1Vd0pMTG9HcmM"
+# - name:      "Snarp/magnus_archives_transcripts"
+#   shortname: GitHub
+#   path:      https://github.com/Snarp/magnus_archives_transcripts
+# - name:      RSS Feed
+#   shortname: RSS
+#   path:      feed.xml
+#   local:     true
+
+- name:      Ebook Download
+  shortname: Ebook
+  path:      "assets/epub/the_magnus_archives.epub"
+  local:     true
+- name:      "Search (WARNING: Slow! Data-Intensive!)"
+  shortname: "Search"
+  path:      search.html
+  local:     true

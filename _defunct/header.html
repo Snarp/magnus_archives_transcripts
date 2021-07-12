@@ -3,11 +3,14 @@
     <a class="site-title" href="{{site.baseurl}}/">{{site.title}}</a>
   </div>
   <nav class="site-header-linkbar">
-    <span><a href="{{site.baseurl}}/sources.html">Sources</a></span>
-    <span><a href="{{site.baseurl}}/specials.html">Specials</a></span>
-    <span><a href="{{site.baseurl}}/incomplete.html">Incomplete</a></span>
-    <span><a href="{{site.baseurl}}/news.html">News</a></span>
-
+    <span title="Download Ebook" aria-label="Download Ebook"><a href="{{site.baseurl}}/assets/epub/the_magnus_archives.epub"><b class="icon icon--download">{% include icon-download.svg %}</b><b class="collapsible-text"> Ebook</b></a></span>
+  {% for link in site.data.links %}
+    {%- if link.local -%}
+    <span><a href="{{site.baseurl}}/{{link.path}}">{{link.shortname}}</a></span>
+    {%- else -%}
+    <span><a target="_blank" href="{{link.path}}">{{link.shortname}}</a></span>
+    {%- endif -%}
+  {% endfor %}
     <span title="Download Ebook" aria-label="Download Ebook"><a href="{{site.baseurl}}/assets/epub/the_magnus_archives.epub"><b class="icon icon--download">{% include icon-download.svg %}</b><b class="collapsible-text"> Ebook</b></a></span>
     <span title="Search" aria-label="Search"><a href="{{site.baseurl}}/search.html"><b class="icon icon--search">{% include icon-search.svg %}</b><b class="collapsible-text"> Search</b></a></span>
     <span id="dark-mode-button" role="button" title="Dark Mode" aria-label="Activate Dark Mode" onclick="toDarkMode()" style="display: none">{% include icon-dark-mode.svg %}</span>

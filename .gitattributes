@@ -1,0 +1,2 @@
+# to change language of repo from Javascript to Ruby
+*.js linguist-language=Ruby

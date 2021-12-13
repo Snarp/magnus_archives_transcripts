@@ -40,12 +40,12 @@
   <br/>Source: <a class="source-link source-homepage" target="_blank" {% if page.unofficial %} href="{{ page.unofficial }}"{% endif %}>{{page.unofficial_name}}</a> <span class="unofficial-label">[UNOFFICIAL]</span>
 {%- endif -%}
 
-  <br/>Formats: <a class="markdown-link" target="_blank" href='https://github.com/Snarp/magnus_archives_transcripts/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{page.episode_number}}.md'>Markdown</a>
+  <br/>Formats: <a class="markdown-link" target="_blank" href="https://github.com/Snarp/magnus_archives_transcripts/blob/master/{{ page.path }}">Markdown</a>
   {%- if page.formats %}{%- for link in page.formats %} | <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}{% endif %}
 </div>
 
 {% if page.unfinished -%}
-<div class='warning'><em>This transcript is incomplete.</em></div>
+<div class="warning"><em>This transcript is incomplete.</em></div>
 {%- endif %}
 </div><!--/.wrapper-->
 </header>

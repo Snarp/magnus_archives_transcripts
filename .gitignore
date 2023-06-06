@@ -3,3 +3,7 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.zip
+
+README.html
+TODO.html
+BUILD_EPUB.md
